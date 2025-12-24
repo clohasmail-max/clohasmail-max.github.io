@@ -3549,285 +3549,64 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/2008,National Popular Vote,NPV,McCain,republican,45.6527142383,,,,20210915
 11/4/2008,National Popular Vote,NPV,Nader,independent,0.5627998637,,,,20210915
 11/4/2008,National Popular Vote,NPV,Barr,libertarian,0.3988270237,,,,20210915
-11/6/2012,Alabama,AL,Romney,republican,60.545822329822800,,,,20171015
-11/6/2012,Alabama,AL,Obama,democrat,38.359033098752500,,,,20171015
-11/6/2012,Alaska,AK,Romney,republican,54.801577397294500,,,,20171015
-11/6/2012,Alaska,AK,Obama,democrat,40.812659112464400,,,,20171015
-11/6/2012,Alaska,AK,Johnson,libertarian,2.4599410971896400,,,,20171015
-11/6/2012,Alaska,AK,Stein,green,0.97073162615018600,,,,20171015
-11/6/2012,Arizona,AZ,Romney,republican,53.654533165974700,,,,20171015
-11/6/2012,Arizona,AZ,Obama,democrat,44.589766941799400,,,,20171015
-11/6/2012,Arizona,AZ,Johnson,libertarian,1.3961049975339800,,,,20171015
-11/6/2012,Arizona,AZ,Stein,green,0.33993634457089100,,,,20171015
-11/6/2012,Arkansas,AR,Romney,republican,60.566936084109100,,,,20171015
-11/6/2012,Arkansas,AR,Obama,democrat,36.878990301720100,,,,20171015
-11/6/2012,Arkansas,AR,Johnson,libertarian,1.521878167462700,,,,20171015
-11/6/2012,Arkansas,AR,Stein,green,0.87005875818631300,,,,20171015
-11/6/2012,Arkansas,AR,La Riva,socialism and liberation party,0.1621366885217700,,,,20171015
-11/6/2012,California,CA,Obama,democrat,60.238959141689600,,,,20171015
-11/6/2012,California,CA,Romney,republican,37.120378520704800,,,,20171015
-11/6/2012,California,CA,Johnson,libertarian,1.0984429476689400,,,,20171015
-11/6/2012,California,CA,Stein,green,0.65680631438457100,,,,20171015
-11/6/2012,California,CA,Barr,peace & freedom,0.41280673375645300,,,,20171015
-11/6/2012,California,CA,Hoefling,american independent party,0.29429659608543800,,,,20171015
-11/6/2012,Colorado,CO,Obama,democrat,51.492226551615200,,,,20171015
-11/6/2012,Colorado,CO,Romney,republican,46.12709163904800,,,,20171015
-11/6/2012,Colorado,CO,Johnson,libertarian,1.3833344489779400,,,,20171015
-11/6/2012,Colorado,CO,Stein,green,0.29219510600439900,,,,20171015
-11/6/2012,Colorado,CO,Goode,american constitution party,0.24261378407451100,,,,20171015
-11/6/2012,Colorado,CO,Barr,peace & freedom,0.19680749215027300,,,,20171015
-11/6/2012,Colorado,CO,Reed,no party affiliation,0.1007193572641700,,,,20171015
-11/6/2012,Colorado,CO,Anderson,justice,0.049114307908571100,,,,20171015
-11/6/2012,Colorado,CO,Tittle,we the people,0.03078400757185400,,,,20171015
-11/6/2012,Colorado,CO,Hoefling,america's party,0.026425210039556100,,,,20171015
-11/6/2012,Colorado,CO,La Riva,socialism and liberation party,0.012336953729807500,,,,20171015
-11/6/2012,Colorado,CO,Alexander,socialist,0.011986693213819300,,,,20171015
-11/6/2012,Colorado,CO,Miller,american third position,0.010391061974317300,,,,20171015
-11/6/2012,Colorado,CO,Stevens,objectivist party,0.0091456912508036500,,,,20171015
-11/6/2012,Colorado,CO,Harkin,socialist workers,0.0074722243410821300,,,,20171015
-11/6/2012,Colorado,CO,White,socialist equality party,0.0073554708357527300,,,,20171015
-11/6/2012,Connecticut,CT,Obama,democrat,58.085013258854400,,,,20171015
-11/6/2012,Connecticut,CT,Romney,republican,40.74511424691500,,,,20171015
-11/6/2012,Connecticut,CT,Johnson,libertarian,0.7919373843219500,,,,20171015
-11/6/2012,Delaware,DE,Obama,democrat,58.610741984585300,,,,20171015
-11/6/2012,Delaware,DE,Romney,republican,39.982604073546100,,,,20171015
-11/6/2012,Delaware,DE,Johnson,libertarian,0.93793036797216700,,,,20171015
-11/6/2012,Delaware,DE,Stein,green,0.46872357389644600,,,,20171015
-11/6/2012,District of Columbia,DC,Obama,democrat,90.913113928187300,,,,20171015
-11/6/2012,District of Columbia,DC,Romney,republican,7.2782914176005200,,,,20171015
-11/6/2012,District of Columbia,DC,Stein,d.c. statehood green,0.83672607943791600,,,,20171015
-11/6/2012,District of Columbia,DC,Johnson,libertarian,0.7090725888808700,,,,20171015
-11/6/2012,Florida,FL,Obama,democrat,50.007865068698700,,,,20171015
-11/6/2012,Florida,FL,Romney,republican,49.130977761975500,,,,20171015
-11/6/2012,Florida,FL,Johnson,libertarian,0.52779154181189700,,,,20171015
-11/6/2012,Florida,FL,Stein,green,0.10557954935811500,,,,20171015
-11/6/2012,Florida,FL,Barr,peace & freedom,0.096221710681353300,,,,20171015
-11/6/2012,Florida,FL,Stevens,objectivist party,0.045502933086497200,,,,20171015
-11/6/2012,Florida,FL,Goode,constitution party,0.030764042156768200,,,,20171015
-11/6/2012,Florida,FL,Anderson,justice,0.020698170288826800,,,,20171015
-11/6/2012,Florida,FL,Hoefling,american independent,0.011163323314270300,,,,20171015
-11/6/2012,Florida,FL,Barnett,reform party,0.0096764536127924600,,,,20171015
-11/6/2012,Florida,FL,Alexander,socialist,0.0094286419958794800,,,,20171015
-11/6/2012,Florida,FL,Lindsay,socialism and liberation party,0.0037997781259989900,,,,20171015
-11/6/2012,Georgia,GA,Romney,republican,53.329242177524500,,,,20171015
-11/6/2012,Georgia,GA,Obama,democrat,45.507959666882100,,,,20171015
-11/6/2012,Georgia,GA,Johnson,libertarian,1.1627981555933900,,,,20171015
-11/6/2012,Hawaii,HI,Obama,democrat,70.5452303558571,,,,20171015
-11/6/2012,Hawaii,HI,Romney,republican,27.8389314856095,,,,20171015
-11/6/2012,Hawaii,HI,Johnson,libertarian,0.883373936328063,,,,20171015
-11/6/2012,Hawaii,HI,Stein,green,0.732464222205352,,,,20171015
-11/6/2012,Idaho,ID,Romney,republican,64.529783495892800,,,,20171015
-11/6/2012,Idaho,ID,Obama,democrat,32.622333559209800,,,,20171015
-11/6/2012,Idaho,ID,Johnson,libertarian,1.449237590337800,,,,20171015
-11/6/2012,Idaho,ID,Goode,constitution party,0.3406543875733200,,,,20171015
-11/6/2012,Illinois,IL,Obama,democrat,57.602135362477100,,,,20171015
-11/6/2012,Illinois,IL,Romney,republican,40.732741270816900,,,,20171015
-11/6/2012,Illinois,IL,Johnson,libertarian,1.0726602408921500,,,,20171015
-11/6/2012,Illinois,IL,Stein,green,0.57653413363642300,,,,20171015
-11/6/2012,Indiana,IN,Romney,republican,54.125532380224500,,,,20171015
-11/6/2012,Indiana,IN,Obama,democrat,43.927302904058400,,,,20171015
-11/6/2012,Indiana,IN,Johnson,libertarian,1.909329427624100,,,,20171015
-11/6/2012,Iowa,IA,Obama,democrat,51.988016534149100,,,,20171015
-11/6/2012,Iowa,IA,Romney,republican,46.177868510536100,,,,20171015
-11/6/2012,Iowa,IA,Johnson,libertarian,0.81697404846477600,,,,20171015
-11/6/2012,Iowa,IA,Stein,green,0.23821562654059600,,,,20171015
-11/6/2012,Iowa,IA,Goode,constitution party,0.19201355092340900,,,,20171015
-11/6/2012,Iowa,IA,Harkin,socialist workers,0.02812575054671400,,,,20171015
-11/6/2012,Iowa,IA,La Riva,socialism and liberation party,0.023511863378376700,,,,20171015
-11/6/2012,Kansas,KS,Romney,republican,59.711320369216100,,,,20171015
-11/6/2012,Kansas,KS,Obama,democrat,37.99457055391900,,,,20171015
-11/6/2012,Kansas,KS,Johnson,libertarian,1.7634923631711500,,,,20171015
-11/6/2012,Kansas,KS,Baldwin,reform party,0.43251081277031900,,,,20171015
-11/6/2012,Kentucky,KY,Romney,republican,60.493141599321600,,,,20171015
-11/6/2012,Kentucky,KY,Obama,democrat,37.801327834445800,,,,20171015
-11/6/2012,Kentucky,KY,Johnson,libertarian,0.94941498276218900,,,,20171015
-11/6/2012,Kentucky,KY,Terry,independent,0.38237002646321100,,,,20171015
-11/6/2012,Kentucky,KY,Stein,green,0.35260169640532100,,,,20171015
-11/6/2012,Louisiana,LA,Romney,republican,57.784575728474200,,,,20171015
-11/6/2012,Louisiana,LA,Obama,democrat,40.577463623302100,,,,20171015
-11/6/2012,Louisiana,LA,Johnson,libertarian,0.91055206324768800,,,,20171015
-11/6/2012,Louisiana,LA,Stein,green,0.34993844232760700,,,,20171015
-11/6/2012,Louisiana,LA,Goode,constitution party,0.12577323206615600,,,,20171015
-11/6/2012,Louisiana,LA,Tittle,we the people,0.08861295895570100,,,,20171015
-11/6/2012,Louisiana,LA,Anderson,justice,0.068603581126994400,,,,20171015
-11/6/2012,Louisiana,LA,Lindsay,socialism and liberation party,0.031192563933472600,,,,20171015
-11/6/2012,Louisiana,LA,Fellure,prohibition,0.025977087005689400,,,,20171015
-11/6/2012,Louisiana,LA,Harkin,socialist workers,0.019507889662573700,,,,20171015
-11/6/2012,Louisiana,LA,White,socialist equality party,0.017802829897721500,,,,20171015
-11/6/2012,Maine,ME,Obama,democrat,55.371034193482500,,,,20171015
-11/6/2012,Maine,ME,Romney,republican,40.327392039825700,,,,20171015
-11/6/2012,Maine,ME,Johnson,libertarian,1.2903617483353100,,,,20171015
-11/6/2012,Maine,ME,Stein,green,1.1202359960152200,,,,20171015
-11/6/2012,Maine 1st CD,ME-1,Romney,republican,38.18,,,,JJCooley
-11/6/2012,Maine 1st CD,ME-1,Obama,democrat,59.57,,,,JJCooley
-11/6/2012,Maine 2nd CD,ME-2,Romney,republican,44.38,,,,JJCooley
-11/6/2012,Maine 2nd CD,ME-2,Obama,democrat,52.94,,,,JJCooley
-11/6/2012,Maryland,MD,Obama,democrat,61.974190779318500,,,,20171015
-11/6/2012,Maryland,MD,Romney,republican,35.897732338945400,,,,20171015
-11/6/2012,Maryland,MD,Johnson,libertarian,1.1153067213528300,,,,20171015
-11/6/2012,Maryland,MD,Stein,green,0.63198867369918700,,,,20171015
-11/6/2012,Massachusetts,MA,Obama,democrat,60.6512410792839,,,,20171015
-11/6/2012,Massachusetts,MA,Romney,republican,37.5126705973009,,,,20171015
-11/6/2012,Massachusetts,MA,Johnson,libertarian,0.976081889861218,,,,20171015
-11/6/2012,Massachusetts,MA,Stein,green-rainbow,0.653173039557518,,,,20171015
-11/6/2012,Michigan,MI,Obama,democrat,54.208204210518800,,,,20171015
-11/6/2012,Michigan,MI,Romney,republican,44.710916027420200,,,,20171015
-11/6/2012,Michigan,MI,Stein,green,0.46284465249237900,,,,20171015
-11/6/2012,Michigan,MI,Goode,u.s. taxpayers party,0.34071301792595600,,,,20171015
-11/6/2012,Michigan,MI,Anderson,natural law,0.10879396384793700,,,,20171015
-11/6/2012,Minnesota,MN,Obama,democrat,52.652303153246300,,,,20171015
-11/6/2012,Minnesota,MN,Romney,republican,44.958201106668700,,,,20171015
-11/6/2012,Minnesota,MN,Johnson,libertarian,1.1952075914649800,,,,20171015
-11/6/2012,Minnesota,MN,Stein,green,0.44347793217985300,,,,20171015
-11/6/2012,Minnesota,MN,Goode,constitution party,0.12674689883847100,,,,20171015
-11/6/2012,Minnesota,MN,Carlson,grassroots,0.10723427846382200,,,,20171015
-11/6/2012,Minnesota,MN,Anderson,justice,0.067970663643629400,,,,20171015
-11/6/2012,Minnesota,MN,Morstad,constitutional government,0.037186355059540700,,,,20171015
-11/6/2012,Minnesota,MN,Harkin,socialist workers,0.03579016407287300,,,,20171015
-11/6/2012,Minnesota,MN,Lindsay,socialism and liberation party,0.013519215163587600,,,,20171015
-11/6/2012,Mississippi,MS,Romney,republican,55.285846743581100,,,,20171015
-11/6/2012,Mississippi,MS,Obama,democrat,43.789359543989300,,,,20171015
-11/6/2012,Mississippi,MS,Johnson,libertarian,0.51929706654718800,,,,20171015
-11/6/2012,Mississippi,MS,Goode,constitution party,0.20294278709131400,,,,20171015
-11/6/2012,Mississippi,MS,Stein,green,0.12352362817209900,,,,20171015
-11/6/2012,Mississippi,MS,Washer,reform party,0.079030230618924900,,,,20171015
-11/6/2012,Missouri,MO,Romney,republican,53.763741135877100,,,,20171015
-11/6/2012,Missouri,MO,Obama,democrat,44.383483545453300,,,,20171015
-11/6/2012,Missouri,MO,Johnson,libertarian,1.5649599267115200,,,,20171015
-11/6/2012,Missouri,MO,Goode,constitution party,0.28781539195806900,,,,20171015
-11/6/2012,Montana,MT,Romney,republican,55.351535384920500,,,,20171015
-11/6/2012,Montana,MT,Obama,democrat,41.698137374805800,,,,20171015
-11/6/2012,Montana,MT,Johnson,libertarian,2.9263626747760600,,,,20171015
-11/6/2012,Nebraska,NE,Romney,republican,59.80319217904800,,,,20171015
-11/6/2012,Nebraska,NE,Obama,democrat,38.02731441792900,,,,20171015
-11/6/2012,Nebraska,NE,Johnson,libertarian,1.3984508653929700,,,,20171015
-11/6/2012,Nebraska 1st CD,NE-1,Romney,republican,57.43,,,,JJCooley
-11/6/2012,Nebraska 1st CD,NE-1,Obama,democrat,40.83,,,,JJCooley
-11/6/2012,Nebraska 2nd CD,NE-2,Romney,republican,52.85,,,,JJCooley
-11/6/2012,Nebraska 2nd CD,NE-2,Obama,democrat,45.7,,,,JJCooley
-11/6/2012,Nebraska 3rd CD,NE-3,Romney,republican,70.24,,,,JJCooley
-11/6/2012,Nebraska 3rd CD,NE-3,Obama,democrat,27.82,,,,JJCooley
-11/6/2012,Nevada,NV,Obama,democrat,52.356249470400600,,,,20171015
-11/6/2012,Nevada,NV,Romney,republican,45.675315641263600,,,,20171015
-11/6/2012,Nevada,NV,Johnson,libertarian,1.0806784390463100,,,,20171015
-11/6/2012,Nevada,NV,Goode,independent american,0.31923761328501400,,,,20171015
-11/6/2012,New Hampshire,NH,Obama,democrat,51.97968415071200,,,,20171015
-11/6/2012,New Hampshire,NH,Romney,republican,46.403796492688900,,,,20171015
-11/6/2012,New Hampshire,NH,Johnson,libertarian,1.1550384543976400,,,,20171015
-11/6/2012,New Hampshire,NH,Goode,constitution party,0.099581980724979300,,,,20171015
-11/6/2012,New Jersey,NJ,Obama,democrat,58.342354910637600,,,,20171015
-11/6/2012,New Jersey,NJ,Romney,republican,40.623564827144400,,,,20171015
-11/6/2012,New Jersey,NJ,Johnson,libertarian,0.57812301171444600,,,,20171015
-11/6/2012,New Jersey,NJ,Stein,green,0.27170544776843400,,,,20171015
-11/6/2012,New Jersey,NJ,Goode,constitution party,0.056699204809455800,,,,20171015
-11/6/2012,New Jersey,NJ,Anderson,justice,0.047354692140907600,,,,20171015
-11/6/2012,New Jersey,NJ,Boss,nsa did 911,0.02814347344880400,,,,20171015
-11/6/2012,New Jersey,NJ,Harkin,socialist workers,0.01948605730000200,,,,20171015
-11/6/2012,New Jersey,NJ,Miller,american third position,0.018249283564458900,,,,20171015
-11/6/2012,New Jersey,NJ,Lindsay,socialism and liberation party,0.014319091471510600,,,,20171015
-11/6/2012,New Mexico,NM,Obama,democrat,52.992760520466800,,,,20171015
-11/6/2012,New Mexico,NM,Romney,republican,42.843326639090100,,,,20171015
-11/6/2012,New Mexico,NM,Johnson,libertarian,3.5454821513783600,,,,20171015
-11/6/2012,New Mexico,NM,Stein,green,0.34334577765075400,,,,20171015
-11/6/2012,New Mexico,NM,Goode,constitution party,0.12529377690562600,,,,20171015
-11/6/2012,New York,NY,Obama,democrat,61.3113210262498,,,,20171015
-11/6/2012,New York,NY,Romney,republican,31.5245651329672,,,,20171015
-11/6/2012,New York,NY,Romney,conservative,3.71527865901459,,,,20171015
-11/6/2012,New York,NY,Obama,working families,2.09336495908139,,,,20171015
-11/6/2012,New York,NY,Johnson,libertarian,0.667696691702693,,,,20171015
-11/6/2012,New York,NY,Stein,green,0.565100640119395,,,,20171015
-11/6/2012,New York,NY,Goode,constitution party,0.0888995637682809,,,,20171015
-11/6/2012,New York,NY,Lindsay,socialism and liberation party,0.0289100814232097,,,,20171015
-11/6/2012,North Carolina,NC,Romney,republican,50.39306410214300,,,,20171015
-11/6/2012,North Carolina,NC,Obama,democrat,48.350968577067600,,,,20171015
-11/6/2012,North Carolina,NC,Johnson,libertarian,0.98804271878104600,,,,20171015
-11/6/2012,North Dakota,ND,Romney,republican,58.315682558557200,,,,20171015
-11/6/2012,North Dakota,ND,Obama,democrat,38.697310888979700,,,,20171015
-11/6/2012,North Dakota,ND,Johnson,libertarian,1.6220133031102500,,,,20171015
-11/6/2012,North Dakota,ND,Stein,green,0.4217606183345100,,,,20171015
-11/6/2012,North Dakota,ND,Goode,constitution party,0.36725998042931600,,,,20171015
-11/6/2012,Ohio,OH,Obama,democrat,50.666747658319900,,,,20171015
-11/6/2012,Ohio,OH,Romney,republican,47.688440878422600,,,,20171015
-11/6/2012,Ohio,OH,Johnson,libertarian,0.88684068404260200,,,,20171015
-11/6/2012,Ohio,OH,Stein,green,0.33281835543222800,,,,20171015
-11/6/2012,Ohio,OH,Duncan,independent,0.22401717883136200,,,,20171015
-11/6/2012,Ohio,OH,Goode,constitution party,0.14605375337181500,,,,20171015
-11/6/2012,Ohio,OH,Alexander,socialist,0.053164211293605100,,,,20171015
-11/6/2012,Oklahoma,OK,Romney,republican,66.772319743016600,,,,20171015
-11/6/2012,Oklahoma,OK,Obama,democrat,33.227680256983400,,,,20171015
-11/6/2012,Oregon,OR,Obama,democrat,54.23932665276900,,,,20171015
-11/6/2012,Oregon,OR,Romney,republican,42.149871176513300,,,,20171015
-11/6/2012,Oregon,OR,Johnson,libertarian,1.3463032409865500,,,,20171015
-11/6/2012,Oregon,OR,Stein,pacific green,1.085750054491500,,,,20171015
-11/6/2012,Oregon,OR,Christensen,constitution party,0.24769878218491300,,,,20171015
-11/6/2012,Oregon,OR,Anderson,progressive,0.18912740950219900,,,,20171015
-11/6/2012,Pennsylvania,PA,Obama,democrat,52.076857702140700,,,,20171015
-11/6/2012,Pennsylvania,PA,Romney,republican,46.680866033674400,,,,20171015
-11/6/2012,Pennsylvania,PA,Johnson,libertarian,0.87061392815097100,,,,20171015
-11/6/2012,Pennsylvania,PA,Stein,green,0.37166233603388300,,,,20171015
-11/6/2012,Rhode Island,RI,Obama,democrat,62.700958863263900,,,,20171015
-11/6/2012,Rhode Island,RI,Romney,republican,35.24366157081400,,,,20171015
-11/6/2012,Rhode Island,RI,Johnson,libertarian,0.98374842225854100,,,,20171015
-11/6/2012,Rhode Island,RI,Stein,green,0.542765480922500,,,,20171015
-11/6/2012,Rhode Island,RI,Goode,constitution party,0.096401964806557100,,,,20171015
-11/6/2012,Rhode Island,RI,Anderson,justice,0.093263296184948300,,,,20171015
-11/6/2012,Rhode Island,RI,Lindsay,socialism and liberation party,0.029593161289454700,,,,20171015
-11/6/2012,South Carolina,SC,Romney,republican,54.561131255861400,,,,20171015
-11/6/2012,South Carolina,SC,Obama,democrat,44.088033407361500,,,,20171015
-11/6/2012,South Carolina,SC,Johnson,libertarian,0.83095822145105300,,,,20171015
-11/6/2012,South Carolina,SC,Stein,green,0.27727458329896700,,,,20171015
-11/6/2012,South Carolina,SC,Goode,constitution party,0.24260253202709800,,,,20171015
-11/6/2012,South Dakota,SD,Romney,republican,57.889311875541100,,,,20171015
-11/6/2012,South Dakota,SD,Obama,democrat,39.866140758352500,,,,20171015
-11/6/2012,South Dakota,SD,Johnson,libertarian,1.5928425161139600,,,,20171015
-11/6/2012,South Dakota,SD,Goode,constitution party,0.65170484999244100,,,,20171015
-11/6/2012,Tennessee,TN,Romney,republican,59.478714719937600,,,,20171015
-11/6/2012,Tennessee,TN,Obama,democrat,39.075814993795200,,,,20171015
-11/6/2012,Tennessee,TN,Stein,green,0.2649906836352900,,,,20171015
-11/6/2012,Tennessee,TN,Goode,constitution party,0.24493843389895900,,,,20171015
-11/6/2012,Texas,TX,Romney,republican,57.166977468056400,,,,20171015
-11/6/2012,Texas,TX,Obama,democrat,41.383358283760900,,,,20171015
-11/6/2012,Texas,TX,Johnson,libertarian,1.1081017146804500,,,,20171015
-11/6/2012,Texas,TX,Stein,green,0.30844958206001100,,,,20171015
-11/6/2012,Utah,UT,Romney,republican,72.790533102689100,,,,20171015
-11/6/2012,Utah,UT,Obama,democrat,24.749665827960400,,,,20171015
-11/6/2012,Utah,UT,Johnson,libertarian,1.2356502594747600,,,,20171015
-11/6/2012,Utah,UT,Anderson,justice,0.52435524453530400,,,,20171015
-11/6/2012,Utah,UT,Stein,green,0.37515725743041400,,,,20171015
-11/6/2012,Utah,UT,Goode,constitution party,0.2821788016983800,,,,20171015
-11/6/2012,Vermont,VT,Obama,democrat,66.570550302382300,,,,20171015
-11/6/2012,Vermont,VT,Romney,republican,30.972635236726900,,,,20171015
-11/6/2012,Vermont,VT,Johnson,libertarian,1.1650907146914400,,,,20171015
-11/6/2012,Vermont,VT,Anderson,justice,0.37689197768051100,,,,20171015
-11/6/2012,Vermont,VT,Lindsay,socialism and liberation party,0.23221624511343500,,,,20171015
-11/6/2012,Virginia,VA,Obama,democrat,51.156456796218600,,,,20171015
-11/6/2012,Virginia,VA,Romney,republican,47.283102896389100,,,,20171015
-11/6/2012,Virginia,VA,Johnson,libertarian,0.80986091801014300,,,,20171015
-11/6/2012,Virginia,VA,Goode,constitution party,0.33877382968274100,,,,20171015
-11/6/2012,Virginia,VA,Stein,green,0.22381695731911500,,,,20171015
-11/6/2012,Washington,WA,Obama,democrat,56.163398299672800,,,,20171015
-11/6/2012,Washington,WA,Romney,republican,41.294621432109100,,,,20171015
-11/6/2012,Washington,WA,Johnson,libertarian,1.3502410481981200,,,,20171015
-11/6/2012,Washington,WA,Stein,green,0.66958543805246900,,,,20171015
-11/6/2012,Washington,WA,Goode,constitution party,0.28318524045309600,,,,20171015
-11/6/2012,Washington,WA,Anderson,justice,0.15824587044187300,,,,20171015
-11/6/2012,Washington,WA,Lindsay,socialism and liberation party,0.042169037048602500,,,,20171015
-11/6/2012,Washington,WA,Harkin,socialist workers,0.0385536340239500,,,,20171015
-11/6/2012,West Virginia,WV,Romney,republican,62.295842419433300,,,,20171015
-11/6/2012,West Virginia,WV,Obama,democrat,35.539304156387300,,,,20171015
-11/6/2012,West Virginia,WV,Johnson,libertarian,0.93998251889063600,,,,20171015
-11/6/2012,West Virginia,WV,Stein,mountain party,0.65718231961792100,,,,20171015
-11/6/2012,Wisconsin,WI,Obama,democrat,52.8277616530126,,,,20171015
-11/6/2012,Wisconsin,WI,Romney,republican,45.8854907747731,,,,20171015
-11/6/2012,Wisconsin,WI,Goode,constitution party,0.160668275739351,,,,20171015
-11/6/2012,Wyoming,WY,Romney,republican,68.6426216870566,,,,20171015
-11/6/2012,Wyoming,WY,Obama,democrat,27.8188877423603,,,,20171015
-11/6/2012,Wyoming,WY,Johnson,libertarian,2.13843195040572,,,,20171015
-11/6/2012,Wyoming,WY,Goode,constitution party,0.582989709348312,,,,20171015
-11/6/2012,National Popular Vote,NPV,Obama,democrat,51.06370658,,,,20210915
-11/6/2012,National Popular Vote,NPV,Romney,republican,47.2040209657,,,,20210915
-11/6/2012,National Popular Vote,NPV,Johnson,libertarian,0.9884703469,,,,20210915
-11/6/2012,National Popular Vote,NPV,Stein,green,0.3638110612,,,,20210915
+11/6/2012,Alabama,AL,Bold,republican,15,,,,FALSE
+11/6/2012,Alaska,AK,Davies,democrat,5,,,,FALSE
+11/6/2012,Arizona,AZ,Bold,republican,5,,,,TRUE
+11/6/2012,Arkansas,AR,Bold,republican,15,,,,TRUE
+11/6/2012,California,CA,Davies,democrat,15,,,,FALSE
+11/6/2012,Colorado,CO,Davies,democrat,1,,,,FALSE
+11/6/2012,Connecticut,CT,Davies,democrat,5,,,,FALSE
+11/6/2012,Delaware,DE,Davies,democrat,5,,,,FALSE
+11/6/2012,District of Columbia,DC,Davies,democrat,15,,,,FALSE
+11/6/2012,Florida,FL,Bold,republican,1,,,,TRUE
+11/6/2012,Georgia,GA,Bold,republican,5,,,,TRUE
+11/6/2012,Hawaii,HI,Davies,democrat,15,,,,FALSE
+11/6/2012,Idaho,ID,Bold,republican,15,,,,FALSE
+11/6/2012,Illinois,IL,Davies,democrat,5,,,,FALSE
+11/6/2012,Indiana,IN,Bold,republican,15,,,,TRUE
+11/6/2012,Iowa,IA,Bold,republican,5,,,,TRUE
+11/6/2012,Kansas,JSSKS,Bold,republican,5,,,,TRUE
+11/6/2012,Kentucky,KY,Bold,republican,15,,,,FALSE
+11/6/2012,Louisiana,LA,Bold,republican,15,,,,TRUE
+11/6/2012,Maine 1st CD,ME-1,Davies,democrat,15,,,,FALSE
+11/6/2012,Maine 2nd CD,ME-2,Davies,democrat,5,,,,FALSE
+11/6/2012,Maine,ME,Davies,democrat,5,,,,FALSE
+11/6/2012,Maryland,MD,Davies,democrat,15,,,,FALSE
+11/6/2012,Massachusetts,MA,Davies,democrat,15,,,,FALSE
+11/6/2012,Michigan,MI,Bold,republican,1,,,,TRUE
+11/6/2012,Minnesota,MN,Bold,republican,0.1,,,,TRUE
+11/6/2012,Mississippi,MS,Bold,republican,15,,,,FALSE
+11/6/2012,Missouri,MO,Bold,republican,15,,,,TRUE
+11/6/2012,Montana,MT,Bold,republican,15,,,,TRUE
+11/6/2012,Nebraska 1st CD,NE-1,Bold,republican,15,,,,TRUE
+11/6/2012,Nebraska 2nd CD.NE-2,Davies,democrat,5,,,,FALSE
+11/6/2012,Nebraska 3rd CD,NE-3,Bold,republican,15,,,,FALSE
+11/6/2012,Nebraska,NE,Bold,republican,15,,,,TRUE
+11/6/2012,Nevada,NV,Bold,republican,1,,,,TRUE
+11/6/2012,New Hampshire,NH,Davies,democrat,5,,,,FALSE
+11/6/2012,New Jersey,NJ,Davies,democrat,5,,,,FALSE
+11/6/2012,New Mexico,NM,Davies,democrat,5,,,,FALSE
+11/6/2012,New York,NY,Davies,democrat,15,,,,FALSE
+11/6/2012,North Carolina,NC,Davies,democrat,0.1,,,,FALSE
+11/6/2012,North Dakota,ND,Bold,republican,15,,,,FALSE
+11/6/2012,Ohio,FALSE,OH,republican,5,,,,TRUE
+11/6/2012,Oklahoma,OK,Bold,republican,15,,,,FALSE
+11/6/2012,Oregon,OR,Davies,democrat,15,,,,FALSE
+11/6/2012,Pennsylvania,PA,Bold,republican,0.1,,,,TRUE
+11/6/2012,Rhode Island,RI,Davies,democrat,15,,,,FALSE
+11/6/2012,South Carolina,SC,Bold,republican,5,,,,TRUE
+11/6/2012,South Dakota,SD,Bold,republican,15,,,,FALSE
+11/6/2012,Tennessee,TN,Bold,republican,15,,,,TRUE
+11/6/2012,Texas,TX,Bold,republican,15,,,,TRUE
+11/6/2012,Utah,UT,Bold,republican,15,,,,FALSE
+11/6/2012,Vermont,VT,Davies,democrat,15,,,,FALSE
+11/6/2012,Virginia,VA,Davies,democrat,5,,,,FALSE
+11/6/2012,Washington,WA,Davies,democrat,15,,,,FALSE
+11/6/2012,West Virginia,WV,Bold,republican,15,,,,FALSE
+11/6/2012,Wisconsin,WI,Bold,republican,1,,,,TRUE
+11/6/2012,Wyoming,WY,Bold,republican,15,,,,FALSE
+11/6/2012,National Popular Vote,NPV,Bold,republican,50.78,,,,TRUE
+11/6/2012,National Popular Vote,NPV,Davies,democrat,49.22,,,,TRUE
 11/8/2016,Alabama,AL,Bold,republican,72.65,,,,20171015
 11/8/2016,Alabama,AL,Baskin,democrat,27.35,,,,20171015
 11/8/2016,Alaska,AK,Baskin,democrat,53.57,,,,20171015
