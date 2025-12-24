@@ -515,168 +515,69 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/1968,National Popular Vote,NPV,Nixon,republican,43.4204691724,,,,20210915
 11/5/1968,National Popular Vote,NPV,Humphrey,democrat,42.7210921137,,,,20210915
 11/5/1968,National Popular Vote,NPV,Wallace,independent,13.5261176711,,,,20210915
-11/7/1972,Alabama,AL,Nixon,republican,72.42879137,,,,JJCooley
-11/7/1972,Alabama,AL,McGovern,democrat,25.53670486,,,,JJCooley
-11/7/1972,Alabama,AL,Other,independent,2.034503769,,,,JJCooley
-11/7/1972,Alaska,AK,Nixon,republican,58.12810468,,,,JJCooley
-11/7/1972,Alaska,AK,McGovern,democrat,34.62229177,,,,JJCooley
-11/7/1972,Alaska,AK,Other,independent,7.249603546,,,,JJCooley
-11/7/1972,Arizona,AZ,Nixon,republican,61.63870208,,,,JJCooley
-11/7/1972,Arizona,AZ,McGovern,democrat,30.3807928,,,,JJCooley
-11/7/1972,Arizona,AZ,Other,independent,7.980505122,,,,JJCooley
-11/7/1972,Arkansas,AR,Nixon,republican,68.82420877,,,,JJCooley
-11/7/1972,Arkansas,AR,McGovern,democrat,30.7101191,,,,JJCooley
-11/7/1972,Arkansas,AR,Other,independent,0.4656721211,,,,JJCooley
-11/7/1972,California,CA,Nixon,republican,54.99727409,,,,JJCooley
-11/7/1972,California,CA,McGovern,democrat,41.53805357,,,,JJCooley
-11/7/1972,California,CA,Other,independent,3.464672338,,,,JJCooley
-11/7/1972,Colorado,CO,Nixon,republican,62.60604015,,,,JJCooley
-11/7/1972,Colorado,CO,McGovern,democrat,34.59330485,,,,JJCooley
-11/7/1972,Colorado,CO,Other,independent,2.800655006,,,,JJCooley
-11/7/1972,Connecticut,CT,Nixon,republican,58.56941927,,,,JJCooley
-11/7/1972,Connecticut,CT,McGovern,democrat,40.12910711,,,,JJCooley
-11/7/1972,Connecticut,CT,Other,independent,1.301473621,,,,JJCooley
-11/7/1972,Delaware,DE,Nixon,republican,59.59552642,,,,JJCooley
-11/7/1972,Delaware,DE,McGovern,democrat,39.18332512,,,,JJCooley
-11/7/1972,Delaware,DE,Other,independent,1.221148457,,,,JJCooley
-11/7/1972,District of Columbia,DC,Nixon,republican,21.55536926,,,,JJCooley
-11/7/1972,District of Columbia,DC,McGovern,democrat,78.09706219,,,,JJCooley
-11/7/1972,District of Columbia,DC,Other,independent,0.3475685499,,,,JJCooley
-11/7/1972,Florida,FL,Nixon,republican,71.91465279,,,,JJCooley
-11/7/1972,Florida,FL,McGovern,democrat,27.79861904,,,,JJCooley
-11/7/1972,Florida,FL,Other,independent,0.2867281672,,,,JJCooley
-11/7/1972,Georgia,GA,Nixon,republican,75.03549625,,,,JJCooley
-11/7/1972,Georgia,GA,McGovern,democrat,24.64554824,,,,JJCooley
-11/7/1972,Georgia,GA,Other,independent,0.318955508,,,,JJCooley
-11/7/1972,Hawaii,HI,Nixon,republican,62.47918779,,,,JJCooley
-11/7/1972,Hawaii,HI,McGovern,democrat,37.52081221,,,,JJCooley
-11/7/1972,Hawaii,HI,Other,independent,0,,,,JJCooley
-11/7/1972,Idaho,ID,Nixon,republican,64.23888214,,,,JJCooley
-11/7/1972,Idaho,ID,McGovern,democrat,26.04106592,,,,JJCooley
-11/7/1972,Idaho,ID,Other,independent,9.720051937,,,,JJCooley
-11/7/1972,Illinois,IL,Nixon,republican,59.03111765,,,,JJCooley
-11/7/1972,Illinois,IL,McGovern,democrat,40.51188634,,,,JJCooley
-11/7/1972,Illinois,IL,Other,independent,0.4569960087,,,,JJCooley
-11/7/1972,Indiana,IN,Nixon,republican,66.10843701,,,,JJCooley
-11/7/1972,Indiana,IN,McGovern,democrat,33.33607775,,,,JJCooley
-11/7/1972,Indiana,IN,Other,independent,0.5554852463,,,,JJCooley
-11/7/1972,Iowa,IA,Nixon,republican,57.60515978,,,,JJCooley
-11/7/1972,Iowa,IA,McGovern,democrat,40.47542139,,,,JJCooley
-11/7/1972,Iowa,IA,Other,independent,1.919418832,,,,JJCooley
-11/7/1972,Kansas,KS,Nixon,republican,67.65804856,,,,JJCooley
-11/7/1972,Kansas,KS,McGovern,democrat,29.50425447,,,,JJCooley
-11/7/1972,Kansas,KS,Other,independent,2.837696964,,,,JJCooley
-11/7/1972,Kentucky,KY,Nixon,republican,63.36736615,,,,JJCooley
-11/7/1972,Kentucky,KY,McGovern,democrat,34.76902554,,,,JJCooley
-11/7/1972,Kentucky,KY,Other,independent,1.863608303,,,,JJCooley
-11/7/1972,Louisiana,LA,Nixon,republican,65.32171935,,,,JJCooley
-11/7/1972,Louisiana,LA,McGovern,democrat,28.35421321,,,,JJCooley
-11/7/1972,Louisiana,LA,Other,independent,6.324067443,,,,JJCooley
-11/7/1972,Maine,ME,Nixon,republican,61.46077729,,,,JJCooley
-11/7/1972,Maine,ME,McGovern,democrat,38.48434231,,,,JJCooley
-11/7/1972,Maine,ME,Other,independent,0.05488040147,,,,JJCooley
-11/7/1972,Maine 1st CD,ME-1,Nixon,republican,61.42,,,,JJCooley
-11/7/1972,Maine 1st CD,ME-1,McGovern,democrat,38.58,,,,JJCooley
-11/7/1972,Maine 1st CD,ME-1,Other,independent,0,,,,JJCooley
-11/7/1972,Maine 2nd CD,ME-2,Nixon,republican,61.58,,,,JJCooley
-11/7/1972,Maine 2nd CD,ME-2,McGovern,democrat,38.42,,,,JJCooley
-11/7/1972,Maine 2nd CD,ME-2,Other,independent,0,,,,JJCooley
-11/7/1972,Maryland,MD,Nixon,republican,61.2570283,,,,JJCooley
-11/7/1972,Maryland,MD,McGovern,democrat,37.35976635,,,,JJCooley
-11/7/1972,Maryland,MD,Other,independent,1.383205349,,,,JJCooley
-11/7/1972,Massachusetts,MA,Nixon,republican,45.22929481,,,,JJCooley
-11/7/1972,Massachusetts,MA,McGovern,democrat,54.19569896,,,,JJCooley
-11/7/1972,Massachusetts,MA,Other,independent,0.5750062227,,,,JJCooley
-11/7/1972,Michigan,MI,Nixon,republican,56.20453683,,,,JJCooley
-11/7/1972,Michigan,MI,McGovern,democrat,41.81372795,,,,JJCooley
-11/7/1972,Michigan,MI,Other,independent,1.981735225,,,,JJCooley
-11/7/1972,Minnesota,MN,Nixon,republican,51.57568791,,,,JJCooley
-11/7/1972,Minnesota,MN,McGovern,democrat,46.06810086,,,,JJCooley
-11/7/1972,Minnesota,MN,Other,independent,2.356211229,,,,JJCooley
-11/7/1972,Mississippi,MS,Nixon,republican,78.19720325,,,,JJCooley
-11/7/1972,Mississippi,MS,McGovern,democrat,19.62682073,,,,JJCooley
-11/7/1972,Mississippi,MS,Other,independent,2.175976023,,,,JJCooley
-11/7/1972,Missouri,MO,Nixon,republican,62.29433512,,,,JJCooley
-11/7/1972,Missouri,MO,McGovern,democrat,37.70566488,,,,JJCooley
-11/7/1972,Missouri,MO,Other,independent,0,,,,JJCooley
-11/7/1972,Montana,MT,Nixon,republican,57.92640498,,,,JJCooley
-11/7/1972,Montana,MT,McGovern,democrat,37.84504554,,,,JJCooley
-11/7/1972,Montana,MT,Other,independent,4.228549478,,,,JJCooley
-11/7/1972,Nebraska,NE,Nixon,republican,70.50247359,,,,JJCooley
-11/7/1972,Nebraska,NE,McGovern,democrat,29.49752641,,,,JJCooley
-11/7/1972,Nebraska,NE,Other,independent,0,,,,JJCooley
-11/7/1972,Nevada,NV,Nixon,republican,63.68077638,,,,JJCooley
-11/7/1972,Nevada,NV,McGovern,democrat,36.31922362,,,,JJCooley
-11/7/1972,Nevada,NV,Other,independent,0,,,,JJCooley
-11/7/1972,New Hampshire,NH,Nixon,republican,63.97792007,,,,JJCooley
-11/7/1972,New Hampshire,NH,McGovern,democrat,34.85462149,,,,JJCooley
-11/7/1972,New Hampshire,NH,Other,independent,1.167458443,,,,JJCooley
-11/7/1972,New Jersey,NJ,Nixon,republican,61.57360682,,,,JJCooley
-11/7/1972,New Jersey,NJ,McGovern,democrat,36.77433389,,,,JJCooley
-11/7/1972,New Jersey,NJ,Other,independent,1.652059285,,,,JJCooley
-11/7/1972,New Mexico,NM,Nixon,republican,61.04873669,,,,JJCooley
-11/7/1972,New Mexico,NM,McGovern,democrat,36.55679383,,,,JJCooley
-11/7/1972,New Mexico,NM,Other,independent,2.394469478,,,,JJCooley
-11/7/1972,New York,NY,Nixon,republican,58.54338905,,,,JJCooley
-11/7/1972,New York,NY,McGovern,democrat,41.20572535,,,,JJCooley
-11/7/1972,New York,NY,Other,independent,0.2508855977,,,,JJCooley
-11/7/1972,North Carolina,NC,Nixon,republican,69.46402373,,,,JJCooley
-11/7/1972,North Carolina,NC,McGovern,democrat,28.88855086,,,,JJCooley
-11/7/1972,North Carolina,NC,Other,independent,1.647425412,,,,JJCooley
-11/7/1972,North Dakota,ND,Nixon,republican,62.06784688,,,,JJCooley
-11/7/1972,North Dakota,ND,McGovern,democrat,35.78573618,,,,JJCooley
-11/7/1972,North Dakota,ND,Other,independent,2.146416935,,,,JJCooley
-11/7/1972,Ohio,OH,Nixon,republican,59.63257674,,,,JJCooley
-11/7/1972,Ohio,OH,McGovern,democrat,38.07008765,,,,JJCooley
-11/7/1972,Ohio,OH,Other,independent,2.297335612,,,,JJCooley
-11/7/1972,Oklahoma,OK,Nixon,republican,73.69890281,,,,JJCooley
-11/7/1972,Oklahoma,OK,McGovern,democrat,23.99718419,,,,JJCooley
-11/7/1972,Oklahoma,OK,Other,independent,2.303913001,,,,JJCooley
-11/7/1972,Oregon,OR,Nixon,republican,52.44766398,,,,JJCooley
-11/7/1972,Oregon,OR,McGovern,democrat,42.32573878,,,,JJCooley
-11/7/1972,Oregon,OR,Other,independent,5.226597237,,,,JJCooley
-11/7/1972,Pennsylvania,PA,Nixon,republican,59.11278161,,,,JJCooley
-11/7/1972,Pennsylvania,PA,McGovern,democrat,39.13131342,,,,JJCooley
-11/7/1972,Pennsylvania,PA,Other,independent,1.755904972,,,,JJCooley
-11/7/1972,Rhode Island,RI,Nixon,republican,53.00114476,,,,JJCooley
-11/7/1972,Rhode Island,RI,McGovern,democrat,46.81126866,,,,JJCooley
-11/7/1972,Rhode Island,RI,Other,independent,0.1875865784,,,,JJCooley
-11/7/1972,South Carolina,SC,Nixon,republican,70.57694577,,,,JJCooley
-11/7/1972,South Carolina,SC,McGovern,democrat,27.92087095,,,,JJCooley
-11/7/1972,South Carolina,SC,Other,independent,1.502183277,,,,JJCooley
-11/7/1972,South Dakota,SD,Nixon,republican,54.15350585,,,,JJCooley
-11/7/1972,South Dakota,SD,McGovern,democrat,45.52315274,,,,JJCooley
-11/7/1972,South Dakota,SD,Other,independent,0.3233414114,,,,JJCooley
-11/7/1972,Tennessee,TN,Nixon,republican,67.69556986,,,,JJCooley
-11/7/1972,Tennessee,TN,McGovern,democrat,29.74511773,,,,JJCooley
-11/7/1972,Tennessee,TN,Other,independent,2.559312411,,,,JJCooley
-11/7/1972,Texas,TX,Nixon,republican,66.19882893,,,,JJCooley
-11/7/1972,Texas,TX,McGovern,democrat,33.23887311,,,,JJCooley
-11/7/1972,Texas,TX,Other,independent,0.5622979606,,,,JJCooley
-11/7/1972,Utah,UT,Nixon,republican,67.64038322,,,,JJCooley
-11/7/1972,Utah,UT,McGovern,democrat,26.39296433,,,,JJCooley
-11/7/1972,Utah,UT,Other,independent,5.966652455,,,,JJCooley
-11/7/1972,Vermont,VT,Nixon,republican,62.66461973,,,,JJCooley
-11/7/1972,Vermont,VT,McGovern,democrat,36.46721513,,,,JJCooley
-11/7/1972,Vermont,VT,Other,independent,0.8681651386,,,,JJCooley
-11/7/1972,Virginia,VA,Nixon,republican,67.8435216,,,11,JJCooley
-11/7/1972,Virginia,VA,McGovern,democrat,30.12225647,,,,JJCooley
-11/7/1972,Virginia,VA,Other,independent,2.034221928,,,,JJCooley
-11/7/1972,Virginia,VA,Hospers,libertarian,0.0,,,1,JJCooley
-11/7/1972,Washington,WA,Nixon,republican,56.91516521,,,,JJCooley
-11/7/1972,Washington,WA,McGovern,democrat,38.63991292,,,,JJCooley
-11/7/1972,Washington,WA,Other,independent,4.444921872,,,,JJCooley
-11/7/1972,West Virginia,WV,Nixon,republican,63.61026182,,,,JJCooley
-11/7/1972,West Virginia,WV,McGovern,democrat,36.38973818,,,,JJCooley
-11/7/1972,West Virginia,WV,Other,independent,0,,,,JJCooley
-11/7/1972,Wisconsin,WI,Nixon,republican,53.39928436,,,,JJCooley
-11/7/1972,Wisconsin,WI,McGovern,democrat,43.72488383,,,,JJCooley
-11/7/1972,Wisconsin,WI,Other,independent,2.875831809,,,,JJCooley
-11/7/1972,Wyoming,WY,Nixon,republican,69.01421996,,,,JJCooley
-11/7/1972,Wyoming,WY,McGovern,democrat,30.4719379,,,,JJCooley
-11/7/1972,Wyoming,WY,Other,independent,0.5138421378,,,,JJCooley
-11/7/1972,National Popular Vote,NPV,Nixon,republican,60.671809784,,,,20210915
-11/7/1972,National Popular Vote,NPV,McGovern,democrat,37.5247102575,,,,20210915
+11/07/1972,Alabama,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Alaska,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Arizona,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Arkansas,FALSE,Duchey,republican,1,null,TRUE
+11/07/1972,California,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,Colorado,FALSE,Duchey,republican,5,null,FALSE
+11/07/1972,Connecticut,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,Delaware,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,District of Columbia,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,District of Columbia,FALSE,Independent,INDGEN,0,null,FALSE
+11/07/1972,District of Columbia,FALSE,Duchey,republican,0,null,FALSE
+11/07/1972,Florida,FALSE,Duchey,republican,1,null,TRUE
+11/07/1972,Georgia,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Hawaii,FALSE,Duchey,republican,1,null,TRUE
+11/07/1972,Idaho,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Illinois,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,Indiana,FALSE,Duchey,republican,5,null,FALSE
+11/07/1972,Iowa,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Iowa,FALSE,Donnelly,democrat,0,null,TRUE
+11/07/1972,Kansas,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Kentucky,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Louisiana,FALSE,Duchey,republican,5,null,TRUE
+11/07/1972,Maine 1st CD,ME-1,Donnelly,democrat,15,null,FALSE
+11/07/1972,Maine 2nd CD,ME-2,Duchey,republican,5,null,FALSE
+11/07/1972,Maine,FALSE,Donnelly,democrat,5,null,FALSE
+11/07/1972,Maryland,FALSE,Donnelly,democrat,5,null,FALSE
+11/07/1972,Massachusetts,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,Michigan,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Minnesota,FALSE,Donnelly,democrat,5,null,FALSE
+11/07/1972,Mississippi,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Missouri,FALSE,Duchey,republican,5,null,TRUE
+11/07/1972,Montana,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/07/1972,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/07/1972,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/07/1972,Nebraska,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Nevada,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,New Hampshire,FALSE,Duchey,republican,1,null,TRUE
+11/07/1972,New Hampshire,FALSE,Donnelly,democrat,0,null,TRUE
+11/07/1972,New Jersey,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,New Mexico,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,New York,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,North Carolina,FALSE,Duchey,republican,5,null,FALSE
+11/07/1972,North Dakota,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Ohio,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Oklahoma,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Oregon,FALSE,Donnelly,democrat,5,null,FALSE
+11/07/1972,Pennsylvania,FALSE,Donnelly,democrat,1,null,FALSE
+11/07/1972,Rhode Island,FALSE,Donnelly,democrat,51,null,FALSE
+11/07/1972,South Carolina,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,South Dakota,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Tennessee,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Texas,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Utah,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Vermont,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,Virginia,FALSE,Duchey,republican,1,null,TRUE
+11/07/1972,Washington,FALSE,Donnelly,democrat,15,null,FALSE
+11/07/1972,West Virginia,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,Wisconsin,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Wyoming,FALSE,Duchey,republican,15,null,FALSE
+11/07/1972,National Popular Vote,FALSE,Donnelly,democrat,48,null,FALSE
+11/07/1972,National Popular Vote,FALSE,Duchey,republican,47,null,FALSE
+11/07/1972,National Popular Vote,FALSE,Starker,CUSTOM1,5,null,FALSE
 11/2/1976,Alabama,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,Alaska,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
