@@ -3245,25 +3245,25 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/2008,Idaho,FALSE,Independent,INDGEN,0,,,,FALSE
 11/4/2008,Idaho,FALSE,Long,democrat,0,,,,FALSE
 11/4/2008,Illinois,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,Indiana,FALSE,Long,democrat,4,,,,FALSE
+11/4/2008,Indiana,FALSE,Long,democrat,5,,,,FALSE
 11/4/2008,Iowa,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,Kansas,FALSE,Long,democrat,4,,,,TRUE
-11/4/2008,Kentucky,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Kansas,FALSE,Long,democrat,5,,,,TRUE
+11/4/2008,Kentucky,FALSE,DaSantos,republican,5,,,,FALSE
 11/4/2008,Louisiana,FALSE,Long,democrat,1,,,,TRUE
-11/4/2008,ME-1,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,ME-2,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Maine 1st CD,ME-1,Long,democrat,15,,,,FALSE
+11/4/2008,Maine 2nd CD,ME-2,Long,democrat,15,,,,FALSE
 11/4/2008,Maine,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Maryland,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Maryland,FALSE,Independent,INDGEN,0,,,,FALSE
 11/4/2008,Massachusetts,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Michigan,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Minnesota,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,Mississippi,FALSE,DaSantos,republican,4,,,,FALSE
-11/4/2008,Missouri,FALSE,Long,democrat,4,,,,TRUE
-11/4/2008,Montana,FALSE,Long,democrat,4,,,,TRUE
-11/4/2008,NE-1,FALSE,Long,democrat,4,,,,TRUE
-11/4/2008,NE-2,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,NE-3,FALSE,DaSantos,republican,15,,,,FALSE
+11/4/2008,Mississippi,FALSE,DaSantos,republican,5,,,,FALSE
+11/4/2008,Missouri,FALSE,Long,democrat,5,,,,TRUE
+11/4/2008,Montana,FALSE,Long,democrat,5,,,,TRUE
+11/4/2008,Nebraska 1st CD,NE-1,Long,democrat,5,,,,TRUE
+11/4/2008,Nebraska 2nd CD,NE-2,Long,democrat,15,,,,FALSE
+11/4/2008,NNebraska 3rd CD,NE-3,DaSantos,republican,15,,,,FALSE
 11/4/2008,Nebraska,FALSE,Long,democrat,1,,,,TRUE
 11/4/2008,Nevada,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,New Hampshire,FALSE,Long,democrat,15,,,,FALSE
@@ -3271,18 +3271,18 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/2008,New Mexico,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,New York,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,North Carolina,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,North Dakota,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,North Dakota,FALSE,DaSantos,republican,5,,,,FALSE
 11/4/2008,Ohio,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Ohio,FALSE,DaSantos,republican,0,undefined,FALSE
-11/4/2008,Oklahoma,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Oklahoma,FALSE,DaSantos,republican,5,,,,FALSE
 11/4/2008,Oregon,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Pennsylvania,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Rhode Island,FALSE,Long,democrat,15,,,,FALSE
-11/4/2008,South Carolina,FALSE,Long,democrat,4,,,,FALSE
-11/4/2008,South Dakota,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,South Carolina,FALSE,Long,democrat,5,,,,FALSE
+11/4/2008,South Dakota,FALSE,DaSantos,republican,5,,,,FALSE
 11/4/2008,Tennessee,FALSE,Long,democrat,1,,,,TRUE
-11/4/2008,Texas,FALSE,Long,democrat,4,,,,FALSE
-11/4/2008,Utah,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Texas,FALSE,Long,democrat,5,,,,FALSE
+11/4/2008,Utah,FALSE,DaSantos,republican,5,,,,FALSE
 11/4/2008,Vermont,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Virginia,FALSE,Long,democrat,15,,,,FALSE
 11/4/2008,Washington,FALSE,Long,democrat,15,,,,FALSE
