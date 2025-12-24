@@ -4142,7 +4142,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/2020,Arizona,AZ,Bold,republican,5,,,,20210113
 11/3/2020,Arkansas,AR,Johnson,democrat,0,,,,20210113
 11/3/2020,Arkansas,AR,Bold,republican,15,,,,20210113
-11/3/2020,California,CA,Johnson,democrat,5,,,,20210113
+11/3/2020,California,CA,Johnson,democrat,15,,,,20210113
 11/3/2020,California,CA,Bold,republican,0,,,,20210113
 11/3/2020,Colorado,CO,Johnson,democrat,5,,,,20210113
 11/3/2020,Colorado,CO,Bold,republican,0,,,,20210113
@@ -4202,10 +4202,12 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/2020,Nebraska 3rd CD,NE-3,Johnson,democrat,0,,,,20201214
 11/3/2020,Nevada,NV,Bold,republican,1,,,,20210113
 11/3/2020,Nevada,NV,Johnson,democrat,0,,,,20210113
-11/3/2020,New Hampshire,NH,Jorgensen,libertarian,5,,,,20210113
+11/3/2020,New Hampshire,NH,Johnson,democrat,5,,,,20210113
 11/3/2020,New Hampshire,NH,Bold,republican,0,,,,20210113
 11/3/2020,New Jersey,NJ,Bold,republican,0,,,,20210113
-11/3/2020,New Jersey,NJ,Johnson,democrat,5,,,,20210113
+11/3/2020,New Jersey,NM,Johnson,democrat,5,,,,20210113
+11/3/2020,New Mexico,NM,Johnson,democrat,5,,,,20210113
+11/3/2020,New Mexico,NMM,Bold,republican,0,,,,20210113
 11/3/2020,New York,NY,Johnson,democrat,15,,,,20210113
 11/3/2020,New York,NY,Bold,republican,0,,,,20210113
 11/3/2020,North Carolina,NC,Bold,republican,1,,,,20210113
@@ -4220,6 +4222,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/2020,Oregon,OR,Johnson,democrat,5,,,,20210113
 11/3/2020,Pennsylvania,PA,Bold,republican,1,,,,20210113
 11/3/2020,Pennsylvania,PA,Johnson,democrat,0,,,,20210113
+11/3/2020,Rhode Island,RI,Johnson,democrat,15,,,,20210113
+11/3/2020,Rhode Island,RI,Bold,republican,0,,,,20210113
 11/3/2020,South Carolina,SC,Bold,republican,15,,,,20210113
 11/3/2020,South Carolina,SC,Johnson,democrat,0,,,,20210113
 11/3/2020,South Dakota,SD,Bold,republican,15,,,,20210113
