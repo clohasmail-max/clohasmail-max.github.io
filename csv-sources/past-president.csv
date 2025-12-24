@@ -1340,316 +1340,69 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1980,National Popular Vote,NPV,Reagan,republican,50.7495011136,,,,20210915
 11/4/1980,National Popular Vote,NPV,Carter,democrat,41.0128852867,,,,20210915
 11/4/1980,National Popular Vote,NPV,Anderson,independent,6.611803595,,,,20210915
-11/6/1984,Alabama,AL,Reagan,republican,60.542493547606200,,,,20171015
-11/6/1984,Alabama,AL,Mondale,democrat,38.280781265064500,,,,20171015
-11/6/1984,Alabama,AL,Bergland,libertarian,0.65921580786189800,,,,20171015
-11/6/1984,Alabama,AL,Hall,communist party use,0.32398958738667100,,,,20171015
-11/6/1984,Alabama,AL,Richards,populist,0.097176067636207800,,,,20171015
-11/6/1984,Alabama,AL,Mason,socialist workers,0.050634210831143200,,,,20171015
-11/6/1984,Alabama,AL,Serrette,alliance,0.045709513613319700,,,,20171015
-11/6/1984,Alaska,AK,Reagan,republican,66.653982322198400,,,,20171015
-11/6/1984,Alaska,AK,Mondale,democrat,29.867777751017600,,,,20171015
-11/6/1984,Alaska,AK,Bergland,libertarian,3.072180342477300,,,,20171015
-11/6/1984,Arizona,AZ,Reagan,republican,66.421482858415600,,,,20171015
-11/6/1984,Arizona,AZ,Mondale,democrat,32.542643169830900,,,,20171015
-11/6/1984,Arizona,AZ,Bergland,libertarian,1.0317799935081200,,,,20171015
-11/6/1984,Arkansas,AR,Reagan,republican,60.467025325472700,,,,20171015
-11/6/1984,Arkansas,AR,Mondale,democrat,38.290785001458600,,,,20171015
-11/6/1984,Arkansas,AR,Bergland,libertarian,0.25112900636133200,,,,20171015
-11/6/1984,Arkansas,AR,Larouche,independent,0.21370275642634700,,,,20171015
-11/6/1984,Arkansas,AR,Hall,communist party use,0.16949229200163700,,,,20171015
-11/6/1984,Arkansas,AR,Richards,populist,0.16519562282481100,,,,20171015
-11/6/1984,Arkansas,AR,Serrette,alliance,0.1459736817705900,,,,20171015
-11/6/1984,Arkansas,AR,Johnson,citizens,0.10854743183560500,,,,20171015
-11/6/1984,Arkansas,AR,Dodge,prohibition,0.095205143339145100,,,,20171015
-11/6/1984,Arkansas,AR,Lowery,united sovereign citizens,0.092943738509236700,,,,20171015
-11/6/1984,California,CA,Reagan,republican,57.516942851693100,,,,20171015
-11/6/1984,California,CA,Mondale,democrat,41.267775699231600,,,,20171015
-11/6/1984,California,CA,Bergland,libertarian,0.5255211418867100,,,,20171015
-11/6/1984,California,CA,Richards,populist,0.41309658737926500,,,,20171015
-11/6/1984,California,CA,Johnson,citizens,0.2766637198093100,,,,20171015
-11/6/1984,Colorado,CO,Reagan,republican,63.442155969676900,,,,20171015
-11/6/1984,Colorado,CO,Mondale,democrat,35.122898300112700,,,,20171015
-11/6/1984,Colorado,CO,Bergland,libertarian,0.8690114097793700,,,,20171015
-11/6/1984,Colorado,CO,Larouche,independent,0.35989439392301900,,,,20171015
-11/6/1984,Colorado,CO,Serrette,alliance,0.075499081350646100,,,,20171015
-11/6/1984,Colorado,CO,Dodge,prohibition,0.066235390387376700,,,,20171015
-11/6/1984,Colorado,CO,Mason,socialist workers,0.062529914002068900,,,,20171015
-11/6/1984,Connecticut,CT,Reagan,republican,60.731951734951300,,,,20171015
-11/6/1984,Connecticut,CT,Mondale,democrat,38.829981593837300,,,,20171015
-11/6/1984,Connecticut,CT,Hall,communist party use,0.32899311473174700,,,,20171015
-11/6/1984,Connecticut,CT,Serrette,alliance,0.093666916626900300,,,,20171015
-11/6/1984,Delaware,DE,Reagan,republican,59.782694090473400,,,,20171015
-11/6/1984,Delaware,DE,Mondale,democrat,39.932121364486300,,,,20171015
-11/6/1984,Delaware,DE,Dennis,american,0.10566755181245400,,,,20171015
-11/6/1984,Delaware,DE,Bergland,libertarian,0.10527473563471200,,,,20171015
-11/6/1984,Delaware,DE,Johnson,citizens,0.047530757506717200,,,,20171015
-11/6/1984,Delaware,DE,Serrette,alliance,0.026711500086419600,,,,20171015
-11/6/1984,District of Columbia,DC,Mondale,democrat,85.384877513157400,,,,20171015
-11/6/1984,District of Columbia,DC,Reagan,republican,13.729601302487600,,,,20171015
-11/6/1984,District of Columbia,DC,Bergland,libertarian,0.13204725303850700,,,,20171015
-11/6/1984,District of Columbia,DC,Hall,communist party use,0.12163492484192200,,,,20171015
-11/6/1984,District of Columbia,DC,Serrette,alliance,0.078092461474385700,,,,20171015
-11/6/1984,District of Columbia,DC,Larouche,independent,0.06010753095301200,,,,20171015
-11/6/1984,District of Columbia,DC,Mason,socialist workers,0.06010753095301200,,,,20171015
-11/6/1984,District of Columbia,DC,Holmes,workers world,0.050641778047025900,,,,20171015
-11/6/1984,Florida,FL,Reagan,republican,65.318581041236100,,,,20171015
-11/6/1984,Florida,FL,Mondale,democrat,34.660246968278600,,,,20171015
-11/6/1984,Georgia,GA,Reagan,republican,60.172298566017800,,,,20171015
-11/6/1984,Georgia,GA,Mondale,democrat,39.785305244121500,,,,20171015
-11/6/1984,Hawaii,HI,Reagan,republican,55.099658772175300,,,,20171015
-11/6/1984,Hawaii,HI,Mondale,democrat,43.815915627996200,,,,20171015
-11/6/1984,Hawaii,HI,Bergland,libertarian,0.64523620945314200,,,,20171015
-11/6/1984,Hawaii,HI,Hall,communist party use,0.24445728101570400,,,,20171015
-11/6/1984,Hawaii,HI,Larouche,independent,0.19473210935964700,,,,20171015
-11/6/1984,Idaho,ID,Reagan,republican,72.364670285836600,,,,20171015
-11/6/1984,Idaho,ID,Mondale,democrat,26.392212947288500,,,,20171015
-11/6/1984,Idaho,ID,Bergland,libertarian,0.68662074601599400,,,,20171015
-11/6/1984,Idaho,ID,Richards,populist,0.55649602085887200,,,,20171015
-11/6/1984,Illinois,IL,Reagan,republican,56.174591540972100,,,,20171015
-11/6/1984,Illinois,IL,Mondale,democrat,43.296553206747800,,,,20171015
-11/6/1984,Illinois,IL,Bergland,libertarian,0.20929271264604400,,,,20171015
-11/6/1984,Illinois,IL,Hall,communist party use,0.096947804231838100,,,,20171015
-11/6/1984,Illinois,IL,Johnson,citizens,0.056359211535460700,,,,20171015
-11/6/1984,Illinois,IL,Winn,workers league,0.054616143137456700,,,,20171015
-11/6/1984,Illinois,IL,Serrette,alliance,0.049511442829016600,,,,20171015
-11/6/1984,Illinois,IL,Mason,socialist workers,0.044240736006480900,,,,20171015
-11/6/1984,Indiana,IN,Reagan,republican,61.674314586786200,,,,20171015
-11/6/1984,Indiana,IN,Mondale,democrat,37.68271378985600,,,,20171015
-11/6/1984,Indiana,IN,Dennis,american,0.3411000734863100,,,,20171015
-11/6/1984,Indiana,IN,Bergland,libertarian,0.301871549871500,,,,20171015
-11/6/1984,Iowa,IA,Reagan,republican,53.272112168085400,,,,20171015
-11/6/1984,Iowa,IA,Mondale,democrat,45.887081803751300,,,,20171015
-11/6/1984,Iowa,IA,Larouche,independent,0.47340326790700100,,,,20171015
-11/6/1984,Iowa,IA,Bergland,libertarian,0.13971760979841700,,,,20171015
-11/6/1984,Iowa,IA,Baker,big deal party,0.067585741833073800,,,,20171015
-11/6/1984,Iowa,IA,Serrette,alliance,0.035080939987346600,,,,20171015
-11/6/1984,Iowa,IA,Mason,socialist workers,0.023715624656672800,,,,20171015
-11/6/1984,Iowa,IA,Hall,communist party use,0.021669867897151500,,,,20171015
-11/6/1984,Kansas,KS,Reagan,republican,66.27220787658600,,,,20171015
-11/6/1984,Kansas,KS,Mondale,democrat,32.598036577621500,,,,20171015
-11/6/1984,Kansas,KS,Richards,populist,0.34873105536154400,,,,20171015
-11/6/1984,Kansas,KS,Bergland,libertarian,0.32573672370891700,,,,20171015
-11/6/1984,Kansas,KS,Serrette,alliance,0.24892587116716300,,,,20171015
-11/6/1984,Kansas,KS,Dodge,prohibition,0.20636189555485300,,,,20171015
-11/6/1984,Kentucky,KY,Reagan,republican,60.006937623462300,,,,20171015
-11/6/1984,Kentucky,KY,Mondale,democrat,39.401246581394800,,,,20171015
-11/6/1984,Kentucky,KY,Mason,socialist workers,0.22850340856394800,,,,20171015
-11/6/1984,Kentucky,KY,Larouche,independent,0.12969704493754300,,,,20171015
-11/6/1984,Kentucky,KY,Anderson,national unity,0.10800784316589300,,,,20171015
-11/6/1984,Kentucky,KY,Johnson,citizens,0.043743541620263700,,,,20171015
-11/6/1984,Kentucky,KY,Dennis,american,0.031255819388101600,,,,20171015
-11/6/1984,Kentucky,KY,Serrette,alliance,0.026655079618357700,,,,20171015
-11/6/1984,Kentucky,KY,Hall,communist party use,0.023953057848825500,,,,20171015
-11/6/1984,Louisiana,LA,Reagan,republican,60.773706924330700,,,,20171015
-11/6/1984,Louisiana,LA,Mondale,democrat,38.175392630280100,,,,20171015
-11/6/1984,Louisiana,LA,Johnson,citizens,0.55670714345139700,,,,20171015
-11/6/1984,Louisiana,LA,Larouche,independent,0.20810605909696500,,,,20171015
-11/6/1984,Louisiana,LA,Bergland,libertarian,0.10991187130233800,,,,20171015
-11/6/1984,Louisiana,LA,Richards,populist,0.076750826975513600,,,,20171015
-11/6/1984,Louisiana,LA,Mason,socialist workers,0.068196918014883800,,,,20171015
-11/6/1984,Louisiana,LA,Serrette,alliance,0.031227626548052500,,,,20171015
-11/6/1984,Maine,ME,Reagan,republican,60.834068524651800,,,,20171015
-11/6/1984,Maine,ME,Mondale,democrat,38.781040741651400,,,,20171015
-11/6/1984,Maine,ME,Hall,communist party use,0.23357389757459200,,,,20171015
-11/6/1984,Maine,ME,Serrette,alliance,0.13649248658577200,,,,20171015
-11/6/1984,Maine 1st CD,ME-1,Reagan,republican,59.69,,,,JJCooley
-11/6/1984,Maine 1st CD,ME-1,Mondale,democrat,39.95,,,,JJCooley
-11/6/1984,Maine 2nd CD,ME-2,Reagan,republican,62.16,,,,JJCooley
-11/6/1984,Maine 2nd CD,ME-2,Mondale,democrat,37.47,,,,JJCooley
-11/6/1984,Maryland,MD,Reagan,republican,52.505052590500600,,,,20171015
-11/6/1984,Maryland,MD,Mondale,democrat,47.016390860166600,,,,20171015
-11/6/1984,Maryland,MD,Bergland,libertarian,0.3413743165502400,,,,20171015
-11/6/1984,Maryland,MD,Hall,communist party use,0.053584012631028700,,,,20171015
-11/6/1984,Maryland,MD,Holmes,workers world,0.04445444255024100,,,,20171015
-11/6/1984,Maryland,MD,Serrette,alliance,0.03914377760128600,,,,20171015
-11/6/1984,Massachusetts,MA,Reagan,republican,51.220782508909400,,,,20171015
-11/6/1984,Massachusetts,MA,Mondale,democrat,48.433782673402100,,,,20171015
-11/6/1984,Massachusetts,MA,Serrette,alliance,0.3124971917059700,,,,20171015
-11/6/1984,Michigan,MI,Reagan,republican,59.226027170250500,,,,20171015
-11/6/1984,Michigan,MI,Mondale,democrat,40.236075943706700,,,,20171015
-11/6/1984,Michigan,MI,Bergland,libertarian,0.26448986205492400,,,,20171015
-11/6/1984,Michigan,MI,Larouche,independent,0.10158725482407900,,,,20171015
-11/6/1984,Michigan,MI,Holmes,workers world,0.0372469064813300,,,,20171015
-11/6/1984,Michigan,MI,Johnson,citizens,0.031328436171796600,,,,20171015
-11/6/1984,Michigan,MI,Mason,socialist workers,0.027593223798668900,,,,20171015
-11/6/1984,Michigan,MI,Hall,communist party use,0.027566919486182100,,,,20171015
-11/6/1984,Michigan,MI,Serrette,alliance,0.01749236780373200,,,,20171015
-11/6/1984,Michigan,MI,Winn,workers league,0.014756719305103200,,,,20171015
-11/6/1984,Minnesota,MN,Mondale,democrat,49.718846563288400,,,,20171015
-11/6/1984,Minnesota,MN,Reagan,republican,49.538415187898600,,,,20171015
-11/6/1984,Minnesota,MN,Larouche,independent,0.18542070350485900,,,,20171015
-11/6/1984,Minnesota,MN,Mason,socialist workers,0.15255830197812500,,,,20171015
-11/6/1984,Minnesota,MN,Bergland,libertarian,0.14373102915926500,,,,20171015
-11/6/1984,Minnesota,MN,Richards,populist,0.11403493201320800,,,,20171015
-11/6/1984,Minnesota,MN,Johnson,citizens,0.058480682424947800,,,,20171015
-11/6/1984,Minnesota,MN,Hall,communist party use,0.03022381454283600,,,,20171015
-11/6/1984,Minnesota,MN,Winn,workers league,0.012473320287519600,,,,20171015
-11/6/1984,Minnesota,MN,Serrette,alliance,0.011130039641171400,,,,20171015
-11/6/1984,Mississippi,MS,Reagan,republican,61.882321188731500,,,,20171015
-11/6/1984,Mississippi,MS,Mondale,democrat,37.423281592682600,,,,20171015
-11/6/1984,Mississippi,MS,Bergland,libertarian,0.24821911287169100,,,,20171015
-11/6/1984,Mississippi,MS,Holmes,workers world,0.12421581461772600,,,,20171015
-11/6/1984,Mississippi,MS,Mason,socialist workers,0.10965844370016500,,,,20171015
-11/6/1984,Mississippi,MS,Larouche,independent,0.10636444006188500,,,,20171015
-11/6/1984,Mississippi,MS,Richards,populist,0.068111494585083100,,,,20171015
-11/6/1984,Mississippi,MS,Serrette,alliance,0.037827912749281700,,,,20171015
-11/6/1984,Missouri,MO,Reagan,republican,60.02475066787700,,,,20171015
-11/6/1984,Missouri,MO,Mondale,democrat,39.97524933212300,,,,20171015
-11/6/1984,Montana,MT,Reagan,republican,60.474482083995700,,,,20171015
-11/6/1984,Montana,MT,Mondale,democrat,38.176581845427800,,,,20171015
-11/6/1984,Montana,MT,Bergland,libertarian,1.3489360705765400,,,,20171015
-11/6/1984,Nebraska,NE,Reagan,republican,70.550690855556700,,,,20171015
-11/6/1984,Nebraska,NE,Mondale,democrat,28.809826864389900,,,,20171015
-11/6/1984,Nebraska,NE,Bergland,libertarian,0.31882102163811700,,,,20171015
-11/6/1984,Nebraska,NE,Mason,socialist workers,0.16347436703522500,,,,20171015
-11/6/1984,Nebraska,NE,Serrette,alliance,0.15718689138002400,,,,20171015
-11/6/1984,Nevada,NV,Reagan,republican,66.769950162176300,,,,20171015
-11/6/1984,Nevada,NV,Mondale,democrat,32.419345140193200,,,,20171015
-11/6/1984,Nevada,NV,Bergland,libertarian,0.81070469763049300,,,,20171015
-11/6/1984,New Hampshire,NH,Reagan,republican,68.667331783679300,,,,20171015
-11/6/1984,New Hampshire,NH,Mondale,democrat,30.945168987719300,,,,20171015
-11/6/1984,New Hampshire,NH,Bergland,libertarian,0.18899265628535600,,,,20171015
-11/6/1984,New Hampshire,NH,Larouche,independent,0.12008104827926700,,,,20171015
-11/6/1984,New Hampshire,NH,Serrette,alliance,0.078425524036780300,,,,20171015
-11/6/1984,New Jersey,NJ,Reagan,republican,60.090519730181100,,,,20171015
-11/6/1984,New Jersey,NJ,Mondale,democrat,39.197547937108600,,,,20171015
-11/6/1984,New Jersey,NJ,Holmes,workers world,0.2611671973502900,,,,20171015
-11/6/1984,New Jersey,NJ,Bergland,libertarian,0.19938704643020700,,,,20171015
-11/6/1984,New Jersey,NJ,Serrette,alliance,0.071258493993838100,,,,20171015
-11/6/1984,New Jersey,NJ,Winn,workers league,0.053482716163713700,,,,20171015
-11/6/1984,New Jersey,NJ,Hall,communist party use,0.048603700220829900,,,,20171015
-11/6/1984,New Jersey,NJ,Mason,socialist workers,0.039280739820414900,,,,20171015
-11/6/1984,New Jersey,NJ,Johnson,citizens,0.038752438731058100,,,,20171015
-11/6/1984,New Mexico,NM,Reagan,republican,59.704298462196500,,,,20171015
-11/6/1984,New Mexico,NM,Mondale,democrat,39.226432334700700,,,,20171015
-11/6/1984,New Mexico,NM,Bergland,libertarian,0.86688570484281700,,,,20171015
-11/6/1984,New Mexico,NM,Johnson,citizens,0.08845772498396100,,,,20171015
-11/6/1984,New Mexico,NM,Mason,socialist workers,0.043548418453642300,,,,20171015
-11/6/1984,New Mexico,NM,Dodge,prohibition,0.040048991970760300,,,,20171015
-11/6/1984,New Mexico,NM,Serrette,alliance,0.030133950269261400,,,,20171015
-11/6/1984,New York,NY,Reagan,republican,49.60501321470700,,,,20171015
-11/6/1984,New York,NY,Mondale,democrat,44.092386889012600,,,,20171015
-11/6/1984,New York,NY,Reagan,conservative,4.2346414840431900,,,,20171015
-11/6/1984,New York,NY,Mondale,liberal party,1.7383179492302600,,,,20171015
-11/6/1984,New York,NY,Bergland,libertarian,0.17554478529590200,,,,20171015
-11/6/1984,New York,NY,Hall,communist party use,0.062084882639591800,,,,20171015
-11/6/1984,New York,NY,Serrette,alliance,0.047011742651844300,,,,20171015
-11/6/1984,New York,NY,Holmes,workers world,0.032702543482189200,,,,20171015
-11/6/1984,North Carolina,NC,Reagan,republican,61.896898951484400,,,,20171015
-11/6/1984,North Carolina,NC,Mondale,democrat,37.891963678672200,,,,20171015
-11/6/1984,North Carolina,NC,Bergland,libertarian,0.1744078339181400,,,,20171015
-11/6/1984,North Carolina,NC,Mason,socialist workers,0.036729535925301600,,,,20171015
-11/6/1984,North Dakota,ND,Reagan,republican,64.839742241181200,,,,20171015
-11/6/1984,North Dakota,ND,Mondale,democrat,33.798964951403200,,,,20171015
-11/6/1984,North Dakota,ND,Larouche,independent,0.41363105275252400,,,,20171015
-11/6/1984,North Dakota,ND,Richards,populist,0.34857640361069500,,,,20171015
-11/6/1984,North Dakota,ND,Bergland,libertarian,0.22752944451097400,,,,20171015
-11/6/1984,North Dakota,ND,Johnson,citizens,0.11910502927459200,,,,20171015
-11/6/1984,North Dakota,ND,Mason,socialist workers,0.077353538034313900,,,,20171015
-11/6/1984,North Dakota,ND,Dodge,prohibition,0.071204093588071400,,,,20171015
-11/6/1984,North Dakota,ND,Hall,communist party use,0.05469769007447300,,,,20171015
-11/6/1984,North Dakota,ND,Serrette,alliance,0.049195555569940200,,,,20171015
-11/6/1984,Ohio,OH,Reagan,republican,58.698686348610100,,,,20171015
-11/6/1984,Ohio,OH,Mondale,democrat,40.003199484576200,,,,20171015
-11/6/1984,Ohio,OH,Serrette,alliance,0.52988724008296700,,,,20171015
-11/6/1984,Ohio,OH,Larouche,independent,0.23432937378855100,,,,20171015
-11/6/1984,Ohio,OH,Winn,workers league,0.15624880156292600,,,,20171015
-11/6/1984,Ohio,OH,Bergland,libertarian,0.12898743983161100,,,,20171015
-11/6/1984,Ohio,OH,Hall,communist party use,0.09725556540480600,,,,20171015
-11/6/1984,Ohio,OH,Mason,socialist workers,0.09519562328041400,,,,20171015
-11/6/1984,Ohio,OH,Holmes,workers world,0.056210122862399200,,,,20171015
-11/6/1984,Oklahoma,OK,Reagan,republican,68.61085184394700,,,,20171015
-11/6/1984,Oklahoma,OK,Mondale,democrat,30.667146620625100,,,,20171015
-11/6/1984,Oklahoma,OK,Bergland,libertarian,0.72200153542792900,,,,20171015
-11/6/1984,Oregon,OR,Reagan,republican,55.905821885698400,,,,20171015
-11/6/1984,Oregon,OR,Mondale,democrat,43.739681230009600,,,,20171015
-11/6/1984,Pennsylvania,PA,Reagan,republican,53.341067922309300,,,,20171015
-11/6/1984,Pennsylvania,PA,Mondale,democrat,45.989176666694900,,,,20171015
-11/6/1984,Pennsylvania,PA,Johnson,citizens,0.44640728617270600,,,,20171015
-11/6/1984,Pennsylvania,PA,Bergland,libertarian,0.1441102123200400,,,,20171015
-11/6/1984,Pennsylvania,PA,Winn,workers league,0.042498270863214400,,,,20171015
-11/6/1984,Pennsylvania,PA,Hall,communist party use,0.036739641639884200,,,,20171015
-11/6/1984,Rhode Island,RI,Reagan,republican,51.665209055541100,,,,20171015
-11/6/1984,Rhode Island,RI,Mondale,democrat,48.017364655325700,,,,20171015
-11/6/1984,Rhode Island,RI,Richards,populist,0.12424206251568300,,,,20171015
-11/6/1984,Rhode Island,RI,Bergland,libertarian,0.067480492778125600,,,,20171015
-11/6/1984,Rhode Island,RI,Johnson,citizens,0.058466852948556500,,,,20171015
-11/6/1984,Rhode Island,RI,Holmes,workers world,0.022168681742994300,,,,20171015
-11/6/1984,Rhode Island,RI,Hall,communist party use,0.018270891546423900,,,,20171015
-11/6/1984,Rhode Island,RI,Mason,socialist workers,0.014860325124424800,,,,20171015
-11/6/1984,Rhode Island,RI,Serrette,alliance,0.011936982476996900,,,,20171015
-11/6/1984,South Carolina,SC,Reagan,republican,63.554008191804300,,,,20171015
-11/6/1984,South Carolina,SC,Mondale,democrat,35.565171512675400,,,,20171015
-11/6/1984,South Carolina,SC,Bergland,libertarian,0.45006396297890900,,,,20171015
-11/6/1984,South Carolina,SC,Dennis,american,0.36034026859288700,,,,20171015
-11/6/1984,South Carolina,SC,Serrette,alliance,0.07041606394852400,,,,20171015
-11/6/1984,South Dakota,SD,Reagan,republican,63.003394501473900,,,,20171015
-11/6/1984,South Dakota,SD,Mondale,democrat,36.528799781040500,,,,20171015
-11/6/1984,South Dakota,SD,Serrette,alliance,0.36178653336143700,,,,20171015
-11/6/1984,South Dakota,SD,Mason,socialist workers,0.10601918412417800,,,,20171015
-11/6/1984,Tennessee,TN,Reagan,republican,57.839722475500800,,,,20171015
-11/6/1984,Tennessee,TN,Mondale,democrat,41.572249419244100,,,,20171015
-11/6/1984,Tennessee,TN,Bergland,libertarian,0.1794399860279800,,,,20171015
-11/6/1984,Tennessee,TN,Larouche,independent,0.10817801241009700,,,,20171015
-11/6/1984,Tennessee,TN,Richards,populist,0.10297939302321900,,,,20171015
-11/6/1984,Tennessee,TN,Hall,communist party use,0.060514266121415200,,,,20171015
-11/6/1984,Tennessee,TN,Johnson,citizens,0.057126401801876500,,,,20171015
-11/6/1984,Tennessee,TN,Mason,socialist workers,0.041764189456382100,,,,20171015
-11/6/1984,Tennessee,TN,Serrette,alliance,0.030607601783418500,,,,20171015
-11/6/1984,Texas,TX,Reagan,republican,63.610612996105100,,,,20171015
-11/6/1984,Texas,TX,Mondale,democrat,36.113948292667200,,,,20171015
-11/6/1984,Texas,TX,Larouche,independent,0.2707328907762400,,,,20171015
-11/6/1984,Utah,UT,Reagan,republican,74.501791454381400,,,,20171015
-11/6/1984,Utah,UT,Mondale,democrat,24.675219484925100,,,,20171015
-11/6/1984,Utah,UT,Bergland,libertarian,0.38862489994536700,,,,20171015
-11/6/1984,Utah,UT,Dennis,american,0.21360870062383300,,,,20171015
-11/6/1984,Utah,UT,Johnson,citizens,0.13404144485242700,,,,20171015
-11/6/1984,Utah,UT,Serrette,alliance,0.03493971311319200,,,,20171015
-11/6/1984,Utah,UT,Hall,communist party use,0.029222305512851500,,,,20171015
-11/6/1984,Utah,UT,Mason,socialist workers,0.022551996645787500,,,,20171015
-11/6/1984,Vermont,VT,Reagan,republican,57.923098895383300,,,,20171015
-11/6/1984,Vermont,VT,Mondale,democrat,40.812411270415800,,,,20171015
-11/6/1984,Vermont,VT,Bergland,libertarian,0.42718098916699700,,,,20171015
-11/6/1984,Vermont,VT,Larouche,independent,0.18033688464834300,,,,20171015
-11/6/1984,Vermont,VT,Serrette,alliance,0.13770405139814400,,,,20171015
-11/6/1984,Vermont,VT,Johnson,citizens,0.11255067978052600,,,,20171015
-11/6/1984,Vermont,VT,Mason,socialist workers,0.054143698227753100,,,,20171015
-11/6/1984,Vermont,VT,Hall,communist party use,0.049027758237729200,,,,20171015
-11/6/1984,Virginia,VA,Reagan,republican,62.287161068369800,,,,20171015
-11/6/1984,Virginia,VA,Mondale,democrat,37.092938482788200,,,,20171015
-11/6/1984,Virginia,VA,Larouche,independent,0.61990044884202500,,,,20171015
-11/6/1984,Washington,WA,Reagan,republican,56.091759071102100,,,,20171015
-11/6/1984,Washington,WA,Mondale,democrat,42.580817212559500,,,,20171015
-11/6/1984,Washington,WA,Bergland,libertarian,0.47170264172680300,,,,20171015
-11/6/1984,Washington,WA,Richards,populist,0.30529465414339900,,,,20171015
-11/6/1984,Washington,WA,Larouche,independent,0.25131872996570500,,,,20171015
-11/6/1984,Washington,WA,Johnson,citizens,0.10085817452571100,,,,20171015
-11/6/1984,Washington,WA,Serrette,alliance,0.088217567776586600,,,,20171015
-11/6/1984,Washington,WA,Hall,communist party use,0.043415417273362500,,,,20171015
-11/6/1984,Washington,WA,Holmes,workers world,0.034188307705436500,,,,20171015
-11/6/1984,Washington,WA,Mason,socialist workers,0.032428223221381300,,,,20171015
-11/6/1984,West Virginia,WV,Reagan,republican,55.112118106618900,,,,20171015
-11/6/1984,West Virginia,WV,Mondale,democrat,44.597834567008500,,,,20171015
-11/6/1984,West Virginia,WV,Richards,populist,0.13537354126854300,,,,20171015
-11/6/1984,West Virginia,WV,Mason,socialist workers,0.087666600520291100,,,,20171015
-11/6/1984,West Virginia,WV,Serrette,alliance,0.067007184583726400,,,,20171015
-11/6/1984,Wisconsin,WI,Reagan,republican,54.193152834779200,,,,20171015
-11/6/1984,Wisconsin,WI,Mondale,democrat,45.021700609805400,,,,20171015
-11/6/1984,Wisconsin,WI,Bergland,libertarian,0.22078149323887800,,,,20171015
-11/6/1984,Wisconsin,WI,Richards,populist,0.17470810769506900,,,,20171015
-11/6/1984,Wisconsin,WI,Larouche,independent,0.17140746280331500,,,,20171015
-11/6/1984,Wisconsin,WI,Johnson,citizens,0.065832040580750700,,,,20171015
-11/6/1984,Wisconsin,WI,Serrette,alliance,0.045485599467194500,,,,20171015
-11/6/1984,Wisconsin,WI,Holmes,workers world,0.027987660109536200,,,,20171015
-11/6/1984,Wisconsin,WI,Hall,communist party use,0.026947730897065500,,,,20171015
-11/6/1984,Wisconsin,WI,Mason,socialist workers,0.020075155232042100,,,,20171015
-11/6/1984,Wyoming,WY,Reagan,republican,70.509821768765100,,,,20171015
-11/6/1984,Wyoming,WY,Mondale,democrat,28.242877100884800,,,,20171015
-11/6/1984,Wyoming,WY,Bergland,libertarian,1.2473011303501100,,,,20171015
-11/6/1984,National Popular Vote,NPV,Reagan,republican,58.7734180846,,,,20210915
-11/6/1984,National Popular Vote,NPV,Mondale,democrat,40.5569787295,,,,20210915
-11/6/1984,National Popular Vote,NPV,Bergland,libertarian,0.2461986405,,,,20210915
+11/6/1984,Alabama,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Alaska,FALSE,Independent,INDGEN,0,undefined,FALSE
+11/6/1984,Alaska,FALSE,Kingston,democrat,0,undefined,FALSE
+11/6/1984,Alaska,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Alaska,FALSE,Thatcher,CUSTOM2,0,undefined,FALSE
+11/6/1984,Arizona,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Arkansas,FALSE,Dolan,republican,5,undefined,FALSE
+11/6/1984,California,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Colorado,FALSE,Dolan,republicanm,5,undefined,TRUE
+11/6/1984,Connecticut,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Delaware,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,District of Columbia,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Florida,FALSE,Kingston,democrat,1,undefined,FALSE
+11/6/1984,Georgia,FALSE,Dolan,republicanm,5,undefined,FALSE
+11/6/1984,Hawaii,FALSE,Kingston,democrat,5,undefined,FALSE
+11/6/1984,Idaho,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Illinois,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Indiana,FALSE,Dolan,republicanm,5,undefined,FALSE
+11/6/1984,Iowa,FALSE,Kingston,democrat,1,undefined,FALSE
+11/6/1984,Kansas,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Kentucky,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Louisiana,FALSE,Dolan,republicanm,5,undefined,FALSE
+11/6/1984,Maine 1st CD,ME-1,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Maine 2nd CD,Dolan,republicanm,5,undefined,FALSE
+11/6/1984,Maine,FALSE,Kingston,democrat,5,undefined,FALSE
+11/6/1984,Maryland,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Massachusetts,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Michigan,FALSE,Kingston,democrat,1,undefined,FALSE
+11/6/1984,Minnesota,FALSE,Kingston,democrat,5,undefined,FALSE
+11/6/1984,Mississippi,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Missouri,FALSE,Dolan,republicanm,5,undefined,FALSE
+11/6/1984,Montana,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1984,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1984,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1984,Nebraska,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Nevada,FALSE,Dolan,republicanm,5,undefined,TRUE
+11/6/1984,New Hampshire,FALSE,Kingston,democrat,0.1,undefined,FALSE
+11/6/1984,New Jersey,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,New Mexico,FALSE,Kingston,democrat,1,undefined,TRUE
+11/6/1984,New York,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,North Carolina,FALSE,Dolan,republicanm,1,undefined,TRUE
+11/6/1984,North Carolina,FALSE,Kingston,democrat,0,undefined,TRUE
+11/6/1984,North Dakota,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Ohio,FALSE,Kingston,democrat,0.1,undefined,FALSE
+11/6/1984,Oklahoma,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Oregon,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Pennsylvania,FALSE,Kingston,democrat,5,undefined,FALSE
+11/6/1984,Rhode Island,FALSE,Kingston,democrat,51,undefined,FALSE
+11/6/1984,South Carolina,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,South Dakota,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Tennessee,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Texas,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Utah,FALSE,Dolan,republicanm,15,undefined,TRUE
+11/6/1984,Vermont,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,Virginia,FALSE,Kingston,democrat,1,undefined,FALSE
+11/6/1984,Washington,FALSE,Kingston,democrat,15,undefined,FALSE
+11/6/1984,West Virginia,FALSE,Dolan,republicanm,15,undefined,FALSE
+11/6/1984,Wisconsin,FALSE,Kingston,democrat,1,undefined,FALSE
+11/6/1984,Wyoming,FALSE,Thatcher,CUSTOM2,1,undefined,FALSE
+11/6/1984,National Popular Vote,FALSE,Thatcher,CUSTOM2,9,undefined,FALSE
+11/6/1984,National Popular Vote,FALSE,Kingston,democrat,47,undefined,FALSE
+11/6/1984,National Popular Vote,FALSE,Dolan,republicanm,44,undefined,FALSE
 11/8/1988,Alabama,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Alaska,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Arizona,FALSE,Tester,republican,5,undefined,FALSE
