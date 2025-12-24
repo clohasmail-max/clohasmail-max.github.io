@@ -1686,8 +1686,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Missouri,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Montana,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Nebraska 1st CD,NE-1,Tester,republican,15,undefined,FALSE
-11/8/1988,Nebraska 2nd CD,Pritzker,democrat,1,null,TRUE
-11/8/1988,Nebraska 3rd CD,Tester,republican,15,undefined,FALSE
+11/8/1988,Nebraska 2nd CD,NE-2,Pritzker,democrat,1,null,TRUE
+11/8/1988,Nebraska 3rd CD,NE-3,Tester,republican,15,undefined,FALSE
 11/8/1988,Nebraska,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Nevada,FALSE,Tester,republican,5,undefined,FALSE
 11/8/1988,New Hampshire,FALSE,Tester,republican,1,null,TRUE
