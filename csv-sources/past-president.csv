@@ -677,317 +677,68 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/7/1972,Wyoming,WY,Other,independent,0.5138421378,,,,JJCooley
 11/7/1972,National Popular Vote,NPV,Nixon,republican,60.671809784,,,,20210915
 11/7/1972,National Popular Vote,NPV,McGovern,democrat,37.5247102575,,,,20210915
-11/2/1976,Alabama,AL,Carter,democrat,55.727268884473900,,,,20171015
-11/2/1976,Alabama,AL,Ford,republican,42.614870862746800,,,,20171015
-11/2/1976,Alabama,AL,Maddox,american independent party,0.77761339138521400,,,,20171015
-11/2/1976,Alabama,AL,Bubar,prohibition,0.56380775246227300,,,,20171015
-11/2/1976,Alabama,AL,Hall,communist party use,0.165194234264700,,,,20171015
-11/2/1976,Alabama,AL,Macbride,libertarian,0.12520607008496400,,,,20171015
-11/2/1976,Alaska,AK,Ford,republican,57.904575396118900,,,,20171015
-11/2/1976,Alaska,AK,Carter,democrat,35.653130917506900,,,,20171015
-11/2/1976,Alaska,AK,Macbride,libertarian,5.4906371890527100,,,,20171015
-11/2/1976,Arizona,AZ,Ford,republican,56.366135779480500,,,,20171015
-11/2/1976,Arizona,AZ,Carter,democrat,39.799978188251500,,,,20171015
-11/2/1976,Arizona,AZ,McCarthy,independent,2.5890006853197500,,,,20171015
-11/2/1976,Arizona,AZ,Macbride,libertarian,1.0295953112819200,,,,20171015
-11/2/1976,Arizona,AZ,Camejo,socialist workers,0.12494631213150600,,,,20171015
-11/2/1976,Arizona,AZ,Anderson,american,0.075937198321303200,,,,20171015
-11/2/1976,Arizona,AZ,Maddox,american independent party,0.011444435917217700,,,,20171015
-11/2/1976,Arkansas,AR,Carter,democrat,64.961728129661800,,,,20171015
-11/2/1976,Arkansas,AR,Ford,republican,34.904336610056900,,,,20171015
-11/2/1976,Arkansas,AR,Maddox,american independent party,0.050681727869087400,,,,20171015
-11/2/1976,California,CA,Ford,republican,49.748313955946900,,,,20171015
-11/2/1976,California,CA,Carter,democrat,47.954821836112500,,,,20171015
-11/2/1976,California,CA,Macbride,independent,0.7225738329038400,,,,20171015
-11/2/1976,California,CA,Maddox,american independent party,0.65478608416188600,,,,20171015
-11/2/1976,California,CA,Wright,peace & freedom,0.53475435590746500,,,,20171015
-11/2/1976,California,CA,Camejo,independent,0.22116233564033800,,,,20171015
-11/2/1976,California,CA,Hall,independent,0.16358759932699200,,,,20171015
-11/2/1976,Colorado,CO,Ford,republican,54.027777777777800,,,,20171015
-11/2/1976,Colorado,CO,Carter,democrat,42.609945997928700,,,,20171015
-11/2/1976,Colorado,CO,McCarthy,independent,2.4085478621097800,,,,20171015
-11/2/1976,Colorado,CO,Macbride,libertarian,0.4936011244266900,,,,20171015
-11/2/1976,Colorado,CO,Bubar,prohibition,0.26686640035508200,,,,20171015
-11/2/1976,Colorado,CO,Camejo,socialist workers,0.10375055481580100,,,,20171015
-11/2/1976,Colorado,CO,Larouche,u.s. labor,0.052245154608669900,,,,20171015
-11/2/1976,Colorado,CO,Hall,communist party use,0.037265127977511500,,,,20171015
-11/2/1976,Connecticut,CT,Ford,republican,52.0627914349784,,,,20171015
-11/2/1976,Connecticut,CT,Carter,democrat,46.8970544166378,,,,20171015
-11/2/1976,Connecticut,CT,Maddox,american independent party,0.51399684117418,,,,20171015
-11/2/1976,Connecticut,CT,Larouche,u.s. labor,0.12949448653156,,,,20171015
-11/2/1976,Delaware,DE,Carter,democrat,51.969088702353600,,,,20171015
-11/2/1976,Delaware,DE,Ford,republican,46.587620203529100,,,,20171015
-11/2/1976,Delaware,DE,Anderson,american,0.27372030452975300,,,,20171015
-11/2/1976,Delaware,DE,Larouche,u.s. labor,0.05729029629692500,,,,20171015
-11/2/1976,Delaware,DE,Bubar,prohibition,0.04371037421172800,,,,20171015
-11/2/1976,District of Columbia,DC,Carter,democrat,81.631226677723200,,,,20171015
-11/2/1976,District of Columbia,DC,Ford,republican,16.509506604276500,,,,20171015
-11/2/1976,Florida,FL,Carter,democrat,51.926106230783600,,,,20171015
-11/2/1976,Florida,FL,Ford,republican,46.64243448375900,,,,20171015
-11/2/1976,Florida,FL,McCarthy,independent,0.75042110612128200,,,,20171015
-11/2/1976,Florida,FL,Anderson,american,0.67684854240309300,,,,20171015
-11/2/1976,Georgia,GA,Carter,democrat,66.938294859317400,,,,20171015
-11/2/1976,Georgia,GA,Ford,republican,33.061705140682600,,,,20171015
-11/2/1976,Hawaii,HI,Carter,democrat,50.591999340887900,,,,20171015
-11/2/1976,Hawaii,HI,Ford,republican,48.061283689379700,,,,20171015
-11/2/1976,Hawaii,HI,Macbride,libertarian,1.3467169697323400,,,,20171015
-11/2/1976,Idaho,ID,Ford,republican,59.88026937923100,,,,20171015
-11/2/1976,Idaho,ID,Carter,democrat,37.118545633733400,,,,20171015
-11/2/1976,Idaho,ID,Maddox,american,1.7408163504745800,,,,20171015
-11/2/1976,Idaho,ID,Macbride,libertarian,1.0436098694167800,,,,20171015
-11/2/1976,Idaho,ID,Larouche,u.s. labor,0.21675876714418100,,,,20171015
-11/2/1976,Illinois,IL,Ford,republican,50.07684353529400,,,,20171015
-11/2/1976,Illinois,IL,Carter,democrat,48.107590268914200,,,,20171015
-11/2/1976,Illinois,IL,McCarthy,independent,1.1848264941598500,,,,20171015
-11/2/1976,Illinois,IL,Hall,communist party use,0.19592136203683700,,,,20171015
-11/2/1976,Illinois,IL,Macbride,libertarian,0.17065280150603200,,,,20171015
-11/2/1976,Illinois,IL,Camejo,socialist workers,0.076568186352774500,,,,20171015
-11/2/1976,Illinois,IL,Levin,socialist labor,0.051299625821969500,,,,20171015
-11/2/1976,Illinois,IL,Larouche,u.s. labor,0.04274262795571200,,,,20171015
-11/2/1976,Indiana,IN,Ford,republican,53.322746471070900,,,,20171015
-11/2/1976,Indiana,IN,Carter,democrat,45.700385792947300,,,,20171015
-11/2/1976,Indiana,IN,Anderson,american,0.63268962448465600,,,,20171015
-11/2/1976,Indiana,IN,Camejo,socialist workers,0.25648970753417700,,,,20171015
-11/2/1976,Indiana,IN,Larouche,u.s. labor,0.087688403962957400,,,,20171015
-11/2/1976,Iowa,IA,Ford,republican,49.469437654722900,,,,20171015
-11/2/1976,Iowa,IA,Carter,democrat,48.458496540694400,,,,20171015
-11/2/1976,Iowa,IA,McCarthy,independent,1.5678068448209700,,,,20171015
-11/2/1976,Iowa,IA,Anderson,american party of iowa,0.23770756419706700,,,,20171015
-11/2/1976,Iowa,IA,Macbride,libertarian,0.113655639047200,,,,20171015
-11/2/1976,Iowa,IA,Hall,communist party use,0.043070328139619800,,,,20171015
-11/2/1976,Iowa,IA,Camejo,socialist workers,0.020479901946606900,,,,20171015
-11/2/1976,Iowa,IA,Larouche,u.s. labor,0.01883838308829100,,,,20171015
-11/2/1976,Iowa,IA,Zeidler,socialist u.s.a.,0.018213042570837400,,,,20171015
-11/2/1976,Iowa,IA,Levin,socialist labor,0.012506810349072900,,,,20171015
-11/2/1976,Kansas,KS,Ford,republican,52.487824230433900,,,,20171015
-11/2/1976,Kansas,KS,Carter,democrat,44.936393675385900,,,,20171015
-11/2/1976,Kansas,KS,McCarthy,independent,1.3765275175002200,,,,20171015
-11/2/1976,Kansas,KS,Anderson,american,0.49319044313015200,,,,20171015
-11/2/1976,Kansas,KS,Macbride,independent,0.33846812375697500,,,,20171015
-11/2/1976,Kansas,KS,Maddox,conservative,0.22112137141186700,,,,20171015
-11/2/1976,Kansas,KS,Bubar,prohibition,0.14647463838094900,,,,20171015
-11/2/1976,Kentucky,KY,Carter,democrat,52.754249268726500,,,,20171015
-11/2/1976,Kentucky,KY,Ford,republican,45.568748275702500,,,,20171015
-11/2/1976,Kentucky,KY,Anderson,american,0.71182426816959700,,,,20171015
-11/2/1976,Kentucky,KY,McCarthy,independent,0.58578990388487400,,,,20171015
-11/2/1976,Kentucky,KY,Maddox,american independent party,0.19946159079186600,,,,20171015
-11/2/1976,Kentucky,KY,Macbride,libertarian,0.069743013275162700,,,,20171015
-11/2/1976,Kentucky,KY,Larouche,u.s. labor,0.043696482518836600,,,,20171015
-11/2/1976,Kentucky,KY,Hall,communist party use,0.036499414809851800,,,,20171015
-11/2/1976,Kentucky,KY,Camejo,socialist workers,0.029987782120770200,,,,20171015
-11/2/1976,Louisiana,LA,Carter,democrat,51.77499622274600,,,,20171015
-11/2/1976,Louisiana,LA,Ford,republican,45.988243150253300,,,,20171015
-11/2/1976,Louisiana,LA,Maddox,american independent party,0.78739109570113300,,,,20171015
-11/2/1976,Louisiana,LA,Hall,communist party use,0.58064026216099600,,,,20171015
-11/2/1976,Louisiana,LA,McCarthy,independent,0.50807001502290200,,,,20171015
-11/2/1976,Louisiana,LA,Macbride,libertarian,0.24534536626837800,,,,20171015
-11/2/1976,Louisiana,LA,Camejo,socialist workers,0.11531388784726300,,,,20171015
-11/2/1976,Maine,ME,Ford,republican,48.930778022560500,,,,20171015
-11/2/1976,Maine,ME,Carter,democrat,48.094076626194700,,,,20171015
-11/2/1976,Maine,ME,McCarthy,independent,2.2514949230590800,,,,20171015
-11/2/1976,Maine,ME,Bubar,prohibition,0.72365042818571800,,,,20171015
-11/2/1976,Maine 1st CD,ME-1,Ford,republican,49.22,,,,JJCooley
-11/2/1976,Maine 1st CD,ME-1,Carter,democrat,47.9,,,,JJCooley
-11/2/1976,Maine 2nd CD,ME-2,Ford,republican,48.54,,,,JJCooley
-11/2/1976,Maine 2nd CD,ME-2,Carter,democrat,48.27,,,,JJCooley
-11/2/1976,Maryland,MD,Carter,democrat,53.035419923436400,,,,20171015
-11/2/1976,Maryland,MD,Ford,republican,46.964580076563600,,,,20171015
-11/2/1976,Massachusetts,MA,Carter,democrat,56.111578225108100,,,,20171015
-11/2/1976,Massachusetts,MA,Ford,republican,40.441709276098900,,,,20171015
-11/2/1976,Massachusetts,MA,McCarthy,independent,2.5764673463764100,,,,20171015
-11/2/1976,Massachusetts,MA,Camejo,socialist workers,0.3194431687129400,,,,20171015
-11/2/1976,Massachusetts,MA,Anderson,american,0.29655850818705600,,,,20171015
-11/2/1976,Massachusetts,MA,Larouche,u.s. labor,0.1932046296885100,,,,20171015
-11/2/1976,Massachusetts,MA,Macbride,libertarian,0.0052991924030777700,,,,20171015
-11/2/1976,Massachusetts,MA,Levin,socialist labor,0.00074581226413687100,,,,20171015
-11/2/1976,Michigan,MI,Ford,republican,51.860751070081800,,,,20171015
-11/2/1976,Michigan,MI,Carter,democrat,46.465074118397700,,,,20171015
-11/2/1976,Michigan,MI,McCarthy,independent,1.3118942707149500,,,,20171015
-11/2/1976,Michigan,MI,Macbride,libertarian,0.14807248349349200,,,,20171015
-11/2/1976,Michigan,MI,Wright,human rights,0.09595819903110700,,,,20171015
-11/2/1976,Michigan,MI,Camejo,socialist workers,0.049403136715786800,,,,20171015
-11/2/1976,Michigan,MI,Larouche,u.s. labor,0.037408361836898400,,,,20171015
-11/2/1976,Michigan,MI,Levin,socialist labor,0.03143835972822800,,,,20171015
-11/2/1976,Minnesota,MN,Carter,democrat,54.896301458872100,,,,20171015
-11/2/1976,Minnesota,MN,Ford,republican,42.021743333482100,,,,20171015
-11/2/1976,Minnesota,MN,McCarthy,mccarthy '76,1.8200644022788500,,,,20171015
-11/2/1976,Minnesota,MN,Anderson,american,0.69705030588261800,,,,20171015
-11/2/1976,Minnesota,MN,Camejo,socialist workers,0.21277675979303900,,,,20171015
-11/2/1976,Minnesota,MN,Macbride,libertarian,0.18098076290904700,,,,20171015
-11/2/1976,Minnesota,MN,Hall,communist party use,0.0560019816085800,,,,20171015
-11/2/1976,Minnesota,MN,Wright,people's,0.032565254873121200,,,,20171015
-11/2/1976,Minnesota,MN,Larouche,international development bank,0.027847139206464200,,,,20171015
-11/2/1976,Minnesota,MN,Levin,industrial government party,0.018975030398511500,,,,20171015
-11/2/1976,Minnesota,MN,Zeidler,socialist,0.018154488543440800,,,,20171015
-11/2/1976,Mississippi,MS,Carter,democrat,49.627012324470600,,,,20171015
-11/2/1976,Mississippi,MS,Ford,republican,47.742162183266300,,,,20171015
-11/2/1976,Mississippi,MS,Anderson,american,0.86908991527739800,,,,20171015
-11/2/1976,Mississippi,MS,McCarthy,independent,0.53019950806231200,,,,20171015
-11/2/1976,Mississippi,MS,Maddox,american independent party,0.52694595192545500,,,,20171015
-11/2/1976,Mississippi,MS,Camejo,socialist workers,0.36504899855542100,,,,20171015
-11/2/1976,Mississippi,MS,Macbride,libertarian,0.33954111844245800,,,,20171015
-11/2/1976,Missouri,MO,Carter,democrat,51.104985667485700,,,,20171015
-11/2/1976,Missouri,MO,Ford,republican,47.47353603603600,,,,20171015
-11/2/1976,Missouri,MO,McCarthy,independent,1.2299856674856700,,,,20171015
-11/2/1976,Montana,MT,Ford,republican,52.839986128602500,,,,20171015
-11/2/1976,Montana,MT,Carter,democrat,45.404186971837400,,,,20171015
-11/2/1976,Montana,MT,Anderson,american,1.7558268995601300,,,,20171015
-11/2/1976,Nebraska,NE,Ford,republican,59.203888263515900,,,,20171015
-11/2/1976,Nebraska,NE,Carter,democrat,38.449671940126800,,,,20171015
-11/2/1976,Nebraska,NE,McCarthy,independent,1.5464384778549300,,,,20171015
-11/2/1976,Nebraska,NE,Maddox,american independent party,0.5567376295634600,,,,20171015
-11/2/1976,Nebraska,NE,Macbride,libertarian,0.24326368893891900,,,,20171015
-11/2/1976,Nevada,NV,Ford,republican,50.165943450434900,,,,20171015
-11/2/1976,Nevada,NV,Carter,democrat,45.809804038122400,,,,20171015
-11/2/1976,Nevada,NV,Macbride,libertarian,0.75244209316610200,,,,20171015
-11/2/1976,Nevada,NV,Maddox,american independent party,0.7415443143315700,,,,20171015
-11/2/1976,New Hampshire,NH,Ford,republican,54.746825193521100,,,,20171015
-11/2/1976,New Hampshire,NH,Carter,democrat,43.472692100451400,,,,20171015
-11/2/1976,New Hampshire,NH,McCarthy,independent,1.2057345264069100,,,,20171015
-11/2/1976,New Hampshire,NH,Macbride,libertarian,0.27559646317872300,,,,20171015
-11/2/1976,New Hampshire,NH,Larouche,u.s. labor,0.054765963836797400,,,,20171015
-11/2/1976,New Hampshire,NH,Camejo,socialist workers,0.047404947192066600,,,,20171015
-11/2/1976,New Hampshire,NH,Levin,socialist labor,0.019433083942089400,,,,20171015
-11/2/1976,New Jersey,NJ,Ford,republican,50.081340944616500,,,,20171015
-11/2/1976,New Jersey,NJ,Carter,democrat,47.923915033876600,,,,20171015
-11/2/1976,New Jersey,NJ,McCarthy,independent,1.0853310297790100,,,,20171015
-11/2/1976,New Jersey,NJ,Macbride,libertarian,0.31345456186025300,,,,20171015
-11/2/1976,New Jersey,NJ,Maddox,american independent party,0.25596522376057900,,,,20171015
-11/2/1976,New Jersey,NJ,Levin,socialist labor,0.12227680336722300,,,,20171015
-11/2/1976,New Jersey,NJ,Hall,communist party use,0.055134033422768600,,,,20171015
-11/2/1976,New Jersey,NJ,Larouche,u.s. labor,0.054735953759066300,,,,20171015
-11/2/1976,New Jersey,NJ,Camejo,socialist workers,0.039277193485293600,,,,20171015
-11/2/1976,New Jersey,NJ,Wright,peace & freedom,0.034632930742100100,,,,20171015
-11/2/1976,New Jersey,NJ,Bubar,prohibition,0.018378011140922900,,,,20171015
-11/2/1976,New Jersey,NJ,Zeidler,socialist,0.015558280189698200,,,,20171015
-11/2/1976,New Mexico,NM,Ford,republican,50.749897981228500,,,,20171015
-11/2/1976,New Mexico,NM,Carter,democrat,48.284404330396800,,,,20171015
-11/2/1976,New Mexico,NM,Camejo,socialist workers,0.59098874192851500,,,,20171015
-11/2/1976,New Mexico,NM,Macbride,libertarian,0.26644902662089800,,,,20171015
-11/2/1976,New Mexico,NM,Zeidler,socialist,0.057610600350464500,,,,20171015
-11/2/1976,New Mexico,NM,Bubar,prohibition,0.050649319474783400,,,,20171015
-11/2/1976,New York,NY,Carter,democrat,49.7172894421265,,,,20171015
-11/2/1976,New York,NY,Ford,republican,43.3075181315587,,,,20171015
-11/2/1976,New York,NY,Ford,conservative,4.21254439502086,,,,20171015
-11/2/1976,New York,NY,Carter,liberal party,2.22816837733565,,,,20171015
-11/2/1976,New York,NY,Macbride,free libertarian,0.186920757521771,,,,20171015
-11/2/1976,New York,NY,Hall,communist party use,0.157389208801229,,,,20171015
-11/2/1976,New York,NY,Camejo,socialist workers,0.107214693746193,,,,20171015
-11/2/1976,New York,NY,Larouche,labor,0.0829549938890996,,,,20171015
-11/2/1976,North Carolina,NC,Carter,democrat,55.269186712485700,,,,20171015
-11/2/1976,North Carolina,NC,Ford,republican,44.219402040400400,,,,20171015
-11/2/1976,North Carolina,NC,Anderson,american,0.33416651469152600,,,,20171015
-11/2/1976,North Carolina,NC,Macbride,libertarian,0.13224817123247700,,,,20171015
-11/2/1976,North Carolina,NC,Larouche,u.s. labor,0.044996561189959400,,,,20171015
-11/2/1976,North Dakota,ND,Ford,republican,51.691848184374500,,,,20171015
-11/2/1976,North Dakota,ND,Carter,democrat,45.770043187536200,,,,20171015
-11/2/1976,North Dakota,ND,Anderson,american,1.2438279494665500,,,,20171015
-11/2/1976,North Dakota,ND,McCarthy,independent,0.99290970979590200,,,,20171015
-11/2/1976,North Dakota,ND,Maddox,american independent party,0.090478560953623900,,,,20171015
-11/2/1976,North Dakota,ND,Macbride,libertarian,0.086105991093411500,,,,20171015
-11/2/1976,North Dakota,ND,Larouche,u.s. labor,0.047761916934626700,,,,20171015
-11/2/1976,North Dakota,ND,Hall,communist party use,0.028589879855234300,,,,20171015
-11/2/1976,North Dakota,ND,Bubar,prohibition,0.021190146245644200,,,,20171015
-11/2/1976,North Dakota,ND,Camejo,socialist workers,0.014463115691471500,,,,20171015
-11/2/1976,North Dakota,ND,Zeidler,socialist,0.012781358052928300,,,,20171015
-11/2/1976,Ohio,OH,Carter,democrat,48.898686666394200,,,,20171015
-11/2/1976,Ohio,OH,Ford,republican,48.671631565938200,,,,20171015
-11/2/1976,Ohio,OH,McCarthy,independent,1.417531290932200,,,,20171015
-11/2/1976,Ohio,OH,Maddox,american independent party,0.37728174197704600,,,,20171015
-11/2/1976,Ohio,OH,Macbride,libertarian,0.21778605585365700,,,,20171015
-11/2/1976,Ohio,OH,Hall,communist party use,0.19017354765505300,,,,20171015
-11/2/1976,Ohio,OH,Camejo,socialist workers,0.11757819570383400,,,,20171015
-11/2/1976,Ohio,OH,Larouche,u.s. labor,0.10616826940855200,,,,20171015
-11/2/1976,Ohio,OH,Levin,socialist labor,0.0016543176718106200,,,,20171015
-11/2/1976,Ohio,OH,Bubar,prohibition,0.0015083484654743900,,,,20171015
-11/2/1976,Oklahoma,OK,Ford,republican,49.961776185144300,,,,20171015
-11/2/1976,Oklahoma,OK,Carter,democrat,48.74722019023100,,,,20171015
-11/2/1976,Oklahoma,OK,McCarthy,independent,1.2910036246247400,,,,20171015
-11/2/1976,Oregon,OR,Ford,republican,47.784393460960300,,,,20171015
-11/2/1976,Oregon,OR,Carter,democrat,47.618062757069800,,,,20171015
-11/2/1976,Oregon,OR,McCarthy,independent,3.9040622366187800,,,,20171015
-11/2/1976,Oregon,OR,Anderson,american,0.10049753562564800,,,,20171015
-11/2/1976,Pennsylvania,PA,Carter,democrat,50.395679350725300,,,,20171015
-11/2/1976,Pennsylvania,PA,Ford,republican,47.732215313105800,,,,20171015
-11/2/1976,Pennsylvania,PA,McCarthy,mccarthy '76,1.0947052958727600,,,,20171015
-11/2/1976,Pennsylvania,PA,Maddox,constitution party,0.54847799736278700,,,,20171015
-11/2/1976,Pennsylvania,PA,Camejo,socialist workers,0.06511877738575700,,,,20171015
-11/2/1976,Pennsylvania,PA,Larouche,u.s. labor,0.059383823578104800,,,,20171015
-11/2/1976,Pennsylvania,PA,Hall,communist party use,0.040923764718001500,,,,20171015
-11/2/1976,Rhode Island,RI,Carter,democrat,55.442004559359400,,,,20171015
-11/2/1976,Rhode Island,RI,Ford,republican,44.144194610603400,,,,20171015
-11/2/1976,Rhode Island,RI,Macbride,libertarian,0.17414219745533200,,,,20171015
-11/2/1976,Rhode Island,RI,Camejo,socialist workers,0.11252265066344500,,,,20171015
-11/2/1976,Rhode Island,RI,Hall,communist party use,0.081347543986127100,,,,20171015
-11/2/1976,Rhode Island,RI,Levin,socialist labor,0.04578843793231100,,,,20171015
-11/2/1976,South Carolina,SC,Carter,democrat,56.169517669823600,,,,20171015
-11/2/1976,South Carolina,SC,Ford,republican,43.129371043244100,,,,20171015
-11/2/1976,South Carolina,SC,Anderson,american,0.37329472465776100,,,,20171015
-11/2/1976,South Carolina,SC,Maddox,american independent party,0.24296552506095900,,,,20171015
-11/2/1976,South Dakota,SD,Ford,republican,50.387790260677500,,,,20171015
-11/2/1976,South Dakota,SD,Carter,democrat,48.91212526357100,,,,20171015
-11/2/1976,South Dakota,SD,Macbride,libertarian,0.53844977018604600,,,,20171015
-11/2/1976,South Dakota,SD,Hall,communist party use,0.10576098018478200,,,,20171015
-11/2/1976,South Dakota,SD,Camejo,socialist workers,0.055873725380639800,,,,20171015
-11/2/1976,Tennessee,TN,Carter,democrat,55.940748306968700,,,,20171015
-11/2/1976,Tennessee,TN,Ford,republican,42.941762974262100,,,,20171015
-11/2/1976,Tennessee,TN,Anderson,independent,0.39076205713294900,,,,20171015
-11/2/1976,Tennessee,TN,McCarthy,independent,0.33894493567226100,,,,20171015
-11/2/1976,Tennessee,TN,Maddox,independent,0.15599324277642200,,,,20171015
-11/2/1976,Tennessee,TN,Macbride,independent,0.093135349030647300,,,,20171015
-11/2/1976,Tennessee,TN,Hall,independent,0.037050935214373900,,,,20171015
-11/2/1976,Tennessee,TN,Larouche,independent,0.034680217239048300,,,,20171015
-11/2/1976,Tennessee,TN,Bubar,independent,0.029938781288397200,,,,20171015
-11/2/1976,Texas,TX,Carter,democrat,51.138956807217500,,,,20171015
-11/2/1976,Texas,TX,Ford,republican,47.970423518941100,,,,20171015
-11/2/1976,Texas,TX,McCarthy,independent,0.49407104917527100,,,,20171015
-11/2/1976,Texas,TX,Anderson,american,0.28100014636959200,,,,20171015
-11/2/1976,Texas,TX,Camejo,socialist workers,0.042314564953225600,,,,20171015
-11/2/1976,Utah,UT,Ford,republican,62.434730552198900,,,,20171015
-11/2/1976,Utah,UT,Carter,democrat,33.648178737588200,,,,20171015
-11/2/1976,Utah,UT,Anderson,american,2.4581591890883200,,,,20171015
-11/2/1976,Utah,UT,McCarthy,independent,0.72189025494347900,,,,20171015
-11/2/1976,Utah,UT,Macbride,liberal party,0.45046543167448200,,,,20171015
-11/2/1976,Utah,UT,Maddox,concerned citizens,0.21470091534280100,,,,20171015
-11/2/1976,Utah,UT,Camejo,independent,0.049517939166842200,,,,20171015
-11/2/1976,Utah,UT,Hall,independent,0.022356979996969800,,,,20171015
-11/2/1976,Vermont,VT,Ford,republican,54.587225805048300,,,,20171015
-11/2/1976,Vermont,VT,Carter,democrat,42.304053245750500,,,,20171015
-11/2/1976,Vermont,VT,McCarthy,independent,2.1756152733521100,,,,20171015
-11/2/1976,Vermont,VT,Camejo,socialist workers,0.23382018683864200,,,,20171015
-11/2/1976,Vermont,VT,Larouche,u.s. labor,0.10657850376831100,,,,20171015
-11/2/1976,Virginia,VA,Ford,republican,49.293321407064100,,,,20171015
-11/2/1976,Virginia,VA,Carter,democrat,47.958215632133500,,,,20171015
-11/2/1976,Virginia,VA,Camejo,socialist workers,1.0489695915488500,,,,20171015
-11/2/1976,Virginia,VA,Anderson,american,0.98321012271565400,,,,20171015
-11/2/1976,Virginia,VA,Larouche,u.s. labor,0.44240330824338500,,,,20171015
-11/2/1976,Virginia,VA,Macbride,libertarian,0.2738799382945200,,,,20171015
-11/2/1976,Washington,WA,Ford,republican,49.99774996882100,,,8,20171015
-11/2/1976,Washington,WA,Carter,democrat,46.114260440466100,,,,20171015
-11/2/1976,Washington,WA,McCarthy,independent,2.3777043767606500,,,,20171015
-11/2/1976,Washington,WA,Maddox,american independent party,0.55190050490699700,,,,20171015
-11/2/1976,Washington,WA,Macbride,libertarian,0.3241330629867300,,,,20171015
-11/2/1976,Washington,WA,Anderson,constitution party,0.067243788949646900,,,,20171015
-11/2/1976,Washington,WA,Camejo,socialist workers,0.058179377628518600,,,,20171015
-11/2/1976,Washington,WA,Larouche,u.s. labor,0.058050804418289800,,,,20171015
-11/2/1976,Washington,WA,Hall,communist party use,0.052522156378452700,,,,20171015
-11/2/1976,Washington,WA,Levin,socialist labor,0.045836349446556600,,,,20171015
-11/2/1976,Washington,WA,Reagan,independent,0,,,1,JJCooley
-11/2/1976,West Virginia,WV,Carter,democrat,58.069518645332300,,,,20171015
-11/2/1976,West Virginia,WV,Ford,republican,41.930481354667700,,,,20171015
-11/2/1976,Wisconsin,WI,Carter,democrat,49.503363574411700,,,,20171015
-11/2/1976,Wisconsin,WI,Ford,republican,47.82609730190700,,,,20171015
-11/2/1976,Wisconsin,WI,McCarthy,independent,1.662894463331900,,,,20171015
-11/2/1976,Wisconsin,WI,Maddox,american independent party,0.40697917896043300,,,,20171015
-11/2/1976,Wisconsin,WI,Zeidler,socialist,0.20453654246631700,,,,20171015
-11/2/1976,Wisconsin,WI,Macbride,libertarian,0.18150357677211100,,,,20171015
-11/2/1976,Wisconsin,WI,Camejo,socialist workers,0.080472613613434500,,,,20171015
-11/2/1976,Wisconsin,WI,Levin,socialist labor,0.018512032345136600,,,,20171015
-11/2/1976,Wyoming,WY,Ford,republican,59.303582507691400,,,,20171015
-11/2/1976,Wyoming,WY,Carter,democrat,39.809265525159400,,,,20171015
-11/2/1976,National Popular Vote,NPV,Carter,democrat,50.0810593843,,,,20210915
-11/2/1976,National Popular Vote,NPV,Ford,republican,48.0165257184,,,,20210915
-11/2/1976,National Popular Vote,NPV,McCarthy,independent,0.9081879238,,,,20210915
+11/2/1976,Alabama,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Alaska,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
+11/2/1976,Alaska,FALSE,Kingston,democrat,0,null,FALSE
+11/2/1976,Arizona,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Arkansas,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,California,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Colorado,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,Connecticut,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Delaware,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,District of Columbia,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Florida,FALSE,Kingston,democrat,1,null,TRUE
+11/2/1976,Georgia,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,Hawaii,FALSE,Kingston,democrat,5,null,TRUE
+11/2/1976,Hawaii,FALSE,Duchey,republican,0,null,TRUE
+11/2/1976,Idaho,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Illinois,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Indiana,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,Iowa,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,Kansas,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Kentucky,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Louisiana,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,Maine 1st CD,ME-1,Kingston,democrat,15,null,FALSE
+11/2/1976,Maine 2nd CD,ME-2,Duchey,republican,5,null,FALSE
+11/2/1976,Maine,FALSE,Kingston,democrat,5,null,FALSE
+11/2/1976,Maryland,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Massachusetts,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Michigan,FALSE,Kingston,democrat,1,null,TRUE
+11/2/1976,Minnesota,FALSE,Kingston,democrat,5,null,FALSE
+11/2/1976,Mississippi,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Missouri,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,Montana,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/2/1976,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/2/1976,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/2/1976,Nebraska,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Nevada,FALSE,Duchey,republican,5,null,FALSE
+11/2/1976,New Hampshire,FALSE,Kingston,democrat,1,null,TRUE
+11/2/1976,New Jersey,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,New Mexico,FALSE,Kingston,democrat,1,null,TRUE
+11/2/1976,New York,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,North Carolina,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,North Dakota,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Ohio,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,Oklahoma,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Oregon,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Pennsylvania,FALSE,Kingston,democrat,5,null,FALSE
+11/2/1976,Rhode Island,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Rhode Island,FALSE,Duchey,republican,0,null,FALSE
+11/2/1976,South Carolina,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,South Dakota,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Tennessee,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Texas,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Utah,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Vermont,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,Virginia,FALSE,Kingston,democrat,1,null,TRUE
+11/2/1976,Washington,FALSE,Kingston,democrat,15,null,FALSE
+11/2/1976,West Virginia,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,Wisconsin,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,Wyoming,FALSE,Duchey,republican,15,null,FALSE
+11/2/1976,National Popular Vote,FALSE,Kingston,democrat,52,undefined,FALSE
+11/2/1976,National Popular Vote,FALSE,Duchey,republican,48,undefined,FALSE
 11/4/1980,Alabama,FALSE,Dolan,republican,15,null,FALSE
 11/4/1980,Alaska,FALSE,Dolan,republican,15,null,FALSE
 11/4/1980,Arizona,FALSE,Thatcher,CUSTOM2,1,null,TRUE
