@@ -3878,8 +3878,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/2016,Massachusetts,MA,Bold,republican,37.95,,,,20171015
 11/5/2016,Michigan,MI,Bold,republican,50.53,,,,20171015
 11/5/2016,Michigan,MI,Baskin,democrat,49.47,,,,20171015
-11/5/2016,Minnesota,MN,Baskin,democrat,50.58,TRUE
-11/5/2016,Minnesota,MN,Bold,republican,49.42,TRUE
+11/5/2016,Minnesota,MN,Baskin,democrat,50.58,20171015
+11/5/2016,Minnesota,MN,Bold,republican,49.42,20171015
 11/5/2016,Mississippi,MS,Bold,republican,66.51,,,,20171015
 11/5/2016,Mississippi,MS,Baskin,democrat,34.49,,,,20171015
 11/5/2016,Missouri,MO,Bold,republican,59.6,,,,20171015
