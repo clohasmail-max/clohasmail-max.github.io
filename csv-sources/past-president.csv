@@ -988,358 +988,82 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/2/1976,National Popular Vote,NPV,Carter,democrat,50.0810593843,,,,20210915
 11/2/1976,National Popular Vote,NPV,Ford,republican,48.0165257184,,,,20210915
 11/2/1976,National Popular Vote,NPV,McCarthy,independent,0.9081879238,,,,20210915
-11/4/1980,Alabama,AL,Reagan,republican,48.750120162840200,,,,20171015
-11/4/1980,Alabama,AL,Carter,democrat,47.448859067804600,,,,20171015
-11/4/1980,Alabama,AL,Anderson,independent,1.2281573764334800,,,,20171015
-11/4/1980,Alabama,AL,Rarick,conservative,1.1185390583257400,,,,20171015
-11/4/1980,Alabama,AL,Clark,libertarian,0.99245191064504900,,,,20171015
-11/4/1980,Alabama,AL,Bubar,statesman,0.12988764681290900,,,,20171015
-11/4/1980,Alabama,AL,Hall,communist party use,0.12139241345853600,,,,20171015
-11/4/1980,Alabama,AL,Deberry,socialist workers,0.097099026848663400,,,,20171015
-11/4/1980,Alabama,AL,McReynolds,socialist,0.074966708372797700,,,,20171015
-11/4/1980,Alabama,AL,Commoner,citizens,0.038526628457988500,,,,20171015
-11/4/1980,Alaska,AK,Reagan,republican,54.348196535075300,,,,20171015
-11/4/1980,Alaska,AK,Carter,democrat,26.407901795575800,,,,20171015
-11/4/1980,Alaska,AK,Clark,libertarian,11.662722080217100,,,,20171015
-11/4/1980,Alaska,AK,Anderson,independent,7.0402978951686700,,,,20171015
-11/4/1980,Arizona,AZ,Reagan,republican,60.608848382907400,,,,20171015
-11/4/1980,Arizona,AZ,Carter,democrat,28.244683589928400,,,,20171015
-11/4/1980,Arizona,AZ,Anderson,independent,8.8051307576563700,,,,20171015
-11/4/1980,Arizona,AZ,Clark,libertarian,2.1493343402616900,,,,20171015
-11/4/1980,Arizona,AZ,Deberry,socialist workers,0.12586604420186600,,,,20171015
-11/4/1980,Arizona,AZ,Commoner,citizens,0.063047445777480300,,,,20171015
-11/4/1980,Arizona,AZ,Hall,communist party use,0.0028605919136787800,,,,20171015
-11/4/1980,Arizona,AZ,Griswold,workers world,0.00022884735309430200,,,,20171015
-11/4/1980,Arkansas,AR,Reagan,republican,48.134272226480500,,,,20171015
-11/4/1980,Arkansas,AR,Carter,democrat,47.522630620046800,,,,20171015
-11/4/1980,Arkansas,AR,Anderson,independent,2.6824836254838300,,,,20171015
-11/4/1980,Arkansas,AR,Clark,libertarian,1.0709399199123200,,,,20171015
-11/4/1980,Arkansas,AR,Commoner,citizens,0.27997258775857200,,,,20171015
-11/4/1980,Arkansas,AR,Bubar,statesman,0.16117824881623500,,,,20171015
-11/4/1980,Arkansas,AR,Hall,communist party use,0.14852277150177500,,,,20171015
-11/4/1980,California,CA,Reagan,republican,52.697502883045400,,,,20171015
-11/4/1980,California,CA,Carter,democrat,35.919436910764100,,,,20171015
-11/4/1980,California,CA,Anderson,independent,8.617305635902300,,,,20171015
-11/4/1980,California,CA,Clark,libertarian,1.7288951638704600,,,,20171015
-11/4/1980,California,CA,Commoner,citizens,0.71124829283399200,,,,20171015
-11/4/1980,California,CA,Smith,peace & freedom,0.21095340546558800,,,,20171015
-11/4/1980,California,CA,Rarick,american independent party,0.11465770811812900,,,,20171015
-11/4/1980,Colorado,CO,Reagan,republican,55.068934948710400,,,,20171015
-11/4/1980,Colorado,CO,Carter,democrat,31.07003250453800,,,,20171015
-11/4/1980,Colorado,CO,Anderson,national unity campaign,11.0290008020600,,,,20171015
-11/4/1980,Colorado,CO,Clark,libertarian,2.1734982481320400,,,,20171015
-11/4/1980,Colorado,CO,Commoner,citizens,0.47397526278019300,,,,20171015
-11/4/1980,Colorado,CO,Bubar,statesman,0.099624298197475600,,,,20171015
-11/4/1980,Colorado,CO,Pulley,socialist workers,0.043817805732618500,,,,20171015
-11/4/1980,Colorado,CO,Hall,communist party use,0.041116129849297100,,,,20171015
-11/4/1980,Connecticut,CT,Reagan,republican,48.155957007292300,,,,20171015
-11/4/1980,Connecticut,CT,Carter,democrat,38.522205669547800,,,,20171015
-11/4/1980,Connecticut,CT,Anderson,anderson coalition,12.217082597055400,,,,20171015
-11/4/1980,Connecticut,CT,Clark,libertarian,0.60940705475774800,,,,20171015
-11/4/1980,Connecticut,CT,Commoner,citizens,0.43590026203792300,,,,20171015
-11/4/1980,Delaware,DE,Reagan,republican,47.207087937267700,,,,20171015
-11/4/1980,Delaware,DE,Carter,democrat,44.87414498362100,,,,20171015
-11/4/1980,Delaware,DE,Anderson,independent,6.9114177571838300,,,,20171015
-11/4/1980,Delaware,DE,Clark,libertarian,0.83761902337186200,,,,20171015
-11/4/1980,Delaware,DE,Greaves,american,0.16973029855559500,,,,20171015
-11/4/1980,District of Columbia,DC,Carter,democrat,74.893178981994300,,,,20171015
-11/4/1980,District of Columbia,DC,Reagan,republican,13.406828494039300,,,,20171015
-11/4/1980,District of Columbia,DC,Anderson,independent,9.2766074909856300,,,,20171015
-11/4/1980,District of Columbia,DC,Commoner,citizens,1.0500951756580300,,,,20171015
-11/4/1980,District of Columbia,DC,Clark,libertarian,0.6348877732346500,,,,20171015
-11/4/1980,District of Columbia,DC,Hall,communist party use,0.21220433724962500,,,,20171015
-11/4/1980,District of Columbia,DC,Deberry,socialist workers,0.099488754320284800,,,,20171015
-11/4/1980,District of Columbia,DC,Griswold,workers world,0.029904134246559600,,,,20171015
-11/4/1980,Florida,FL,Reagan,republican,55.519162706503300,,,,20171015
-11/4/1980,Florida,FL,Carter,democrat,38.500219830769600,,,,20171015
-11/4/1980,Florida,FL,Anderson,independent,5.1449893095252500,,,,20171015
-11/4/1980,Florida,FL,Clark,libertarian,0.8278981384768400,,,,20171015
-11/4/1980,Georgia,GA,Carter,democrat,55.796105347866500,,,,20171015
-11/4/1980,Georgia,GA,Reagan,republican,40.967306590347600,,,,20171015
-11/4/1980,Georgia,GA,Anderson,independent,2.2579463365908800,,,,20171015
-11/4/1980,Georgia,GA,Clark,libertarian,0.97864172519499900,,,,20171015
-11/4/1980,Hawaii,HI,Carter,democrat,44.802118125735700,,,,20171015
-11/4/1980,Hawaii,HI,Reagan,republican,42.900618885741900,,,,20171015
-11/4/1980,Hawaii,HI,Anderson,independent,10.5579863297800,,,,20171015
-11/4/1980,Hawaii,HI,Clark,libertarian,1.0778569473798700,,,,20171015
-11/4/1980,Hawaii,HI,Commoner,citizens,0.51040763369349800,,,,20171015
-11/4/1980,Hawaii,HI,Hall,communist party use,0.15101207766900700,,,,20171015
-11/4/1980,Idaho,ID,Reagan,republican,66.455966769616200,,,,20171015
-11/4/1980,Idaho,ID,Carter,democrat,25.190715792890800,,,,20171015
-11/4/1980,Idaho,ID,Anderson,independent,6.1856612814363900,,,,20171015
-11/4/1980,Idaho,ID,Clark,libertarian,1.9260180462747300,,,,20171015
-11/4/1980,Idaho,ID,Rarick,american independent party,0.24163810978188600,,,,20171015
-11/4/1980,Illinois,IL,Reagan,republican,49.646052894475300,,,,20171015
-11/4/1980,Illinois,IL,Carter,democrat,41.716408184817600,,,,20171015
-11/4/1980,Illinois,IL,Anderson,independent,7.3005130196068400,,,,20171015
-11/4/1980,Illinois,IL,Clark,libertarian,0.81981657448932300,,,,20171015
-11/4/1980,Illinois,IL,Commoner,citizens,0.22510795897274800,,,,20171015
-11/4/1980,Illinois,IL,Hall,communist party use,0.20445411425218400,,,,20171015
-11/4/1980,Illinois,IL,Griswold,workers world,0.047518580565047900,,,,20171015
-11/4/1980,Illinois,IL,Deberry,socialist workers,0.02741213641811800,,,,20171015
-11/4/1980,Indiana,IN,Reagan,republican,56.005241671286700,,,,20171015
-11/4/1980,Indiana,IN,Carter,democrat,37.653192437399400,,,,20171015
-11/4/1980,Indiana,IN,Anderson,independent,4.9793647105105100,,,,20171015
-11/4/1980,Indiana,IN,Clark,libertarian,0.87541084364057100,,,,20171015
-11/4/1980,Indiana,IN,Commoner,citizens,0.21641073079655800,,,,20171015
-11/4/1980,Indiana,IN,Greaves,american,0.21186128839316800,,,,20171015
-11/4/1980,Indiana,IN,Hall,communist party use,0.031310868305685100,,,,20171015
-11/4/1980,Indiana,IN,Deberry,socialist workers,0.027207449667333200,,,,20171015
-11/4/1980,Iowa,IA,Reagan,republican,51.305001817614700,,,,20171015
-11/4/1980,Iowa,IA,Carter,democrat,38.604162982739900,,,,20171015
-11/4/1980,Iowa,IA,Anderson,nominated by petition,8.7756259007438200,,,,20171015
-11/4/1980,Iowa,IA,Clark,libertarian,0.99593142697552700,,,,20171015
-11/4/1980,Iowa,IA,Commoner,citizens,0.17250263914618400,,,,20171015
-11/4/1980,Iowa,IA,McReynolds,socialist,0.040526356930955700,,,,20171015
-11/4/1980,Iowa,IA,Hall,communist party use,0.022615832144990300,,,,20171015
-11/4/1980,Iowa,IA,Deberry,socialist workers,0.01851766121938800,,,,20171015
-11/4/1980,Iowa,IA,Greaves,american,0.014343598239607900,,,,20171015
-11/4/1980,Iowa,IA,Bubar,statesman,0.011383808126672900,,,,20171015
-11/4/1980,Kansas,KS,Reagan,republican,57.850060471833400,,,,20171015
-11/4/1980,Kansas,KS,Carter,democrat,33.28757546221400,,,,20171015
-11/4/1980,Kansas,KS,Anderson,independent,6.9638036528049200,,,,20171015
-11/4/1980,Kansas,KS,Clark,libertarian,1.4768395429656200,,,,20171015
-11/4/1980,Kansas,KS,Shelton,american,0.1587066682316200,,,,20171015
-11/4/1980,Kansas,KS,Hall,communist party use,0.098694114585193800,,,,20171015
-11/4/1980,Kansas,KS,Bubar,statesman,0.083793038339652700,,,,20171015
-11/4/1980,Kansas,KS,Rarick,american independent party,0.080527049025561500,,,,20171015
-11/4/1980,Kentucky,KY,Reagan,republican,49.032167437078700,,,,20171015
-11/4/1980,Kentucky,KY,Carter,democrat,47.653915826082700,,,,20171015
-11/4/1980,Kentucky,KY,Anderson,independent,2.4024661418757100,,,,20171015
-11/4/1980,Kentucky,KY,Clark,libertarian,0.42689755616392700,,,,20171015
-11/4/1980,Kentucky,KY,McCormack,respect for life,0.32671440159860800,,,,20171015
-11/4/1980,Kentucky,KY,Commoner,citizens,0.10064625081138300,,,,20171015
-11/4/1980,Kentucky,KY,Pulley,socialist workers,0.030332804117234400,,,,20171015
-11/4/1980,Kentucky,KY,Hall,communist party use,0.026859582271749500,,,,20171015
-11/4/1980,Louisiana,LA,Reagan,republican,51.1983474009600,,,,20171015
-11/4/1980,Louisiana,LA,Carter,democrat,45.748231779727500,,,,20171015
-11/4/1980,Louisiana,LA,Anderson,independent,1.7012238867460800,,,,20171015
-11/4/1980,Louisiana,LA,Rarick,american independent party,0.66725171462316400,,,,20171015
-11/4/1980,Louisiana,LA,Clark,libertarian,0.53209659619615500,,,,20171015
-11/4/1980,Louisiana,LA,Commoner,citizens,0.10228653014256200,,,,20171015
-11/4/1980,Louisiana,LA,Deberry,socialist workers,0.050562091604561800,,,,20171015
-11/4/1980,Maine,ME,Reagan,republican,45.605541757247900,,,,20171015
-11/4/1980,Maine,ME,Carter,democrat,42.250354199051300,,,,20171015
-11/4/1980,Maine,ME,Anderson,independent,10.196152662181100,,,,20171015
-11/4/1980,Maine,ME,Clark,libertarian,0.97875570494693200,,,,20171015
-11/4/1980,Maine,ME,Commoner,citizens,0.84013529352155100,,,,20171015
-11/4/1980,Maine,ME,Hall,communist party use,0.11299953538262100,,,,20171015
-11/4/1980,Maine 1st CD,ME-1,Reagan,republican,45.02,,,,JJCooley
-11/4/1980,Maine 1st CD,ME-1,Carter,democrat,41.93,,,,JJCooley
-11/4/1980,Maine 2nd CD,ME-2,Reagan,republican,46.29,,,,JJCooley
-11/4/1980,Maine 2nd CD,ME-2,Carter,democrat,42.62,,,,JJCooley
-11/4/1980,Maryland,MD,Carter,democrat,47.138129537499600,,,,20171015
-11/4/1980,Maryland,MD,Reagan,republican,44.180965091762700,,,,20171015
-11/4/1980,Maryland,MD,Anderson,independent,7.7596436472408900,,,,20171015
-11/4/1980,Maryland,MD,Clark,libertarian,0.92126172349684800,,,,20171015
-11/4/1980,Massachusetts,MA,Reagan,republican,41.901477364119300,,,,20171015
-11/4/1980,Massachusetts,MA,Carter,democrat,41.749779128319500,,,,20171015
-11/4/1980,Massachusetts,MA,Anderson,independent,15.155521395829800,,,,20171015
-11/4/1980,Massachusetts,MA,Clark,libertarian,0.87310674342040100,,,,20171015
-11/4/1980,Massachusetts,MA,Deberry,socialist workers,0.14797412136651200,,,,20171015
-11/4/1980,Massachusetts,MA,Commoner,citizens,0.081455098669223400,,,,20171015
-11/4/1980,Michigan,MI,Reagan,republican,48.986181892588400,,,,20171015
-11/4/1980,Michigan,MI,Carter,democrat,42.497413500949600,,,,20171015
-11/4/1980,Michigan,MI,Anderson,independent,7.0394465083861400,,,,20171015
-11/4/1980,Michigan,MI,Clark,libertarian,1.063936721892200,,,,20171015
-11/4/1980,Michigan,MI,Commoner,citizens,0.30513655052465300,,,,20171015
-11/4/1980,Michigan,MI,Hall,communist party use,0.08343297802275100,,,,20171015
-11/4/1980,Minnesota,MN,Carter,democrat,46.501562442127300,,,,20171015
-11/4/1980,Minnesota,MN,Reagan,republican,42.55866224543300,,,,20171015
-11/4/1980,Minnesota,MN,Anderson,independent,8.5284680269562700,,,,20171015
-11/4/1980,Minnesota,MN,Clark,libertarian,1.5396829109963600,,,,20171015
-11/4/1980,Minnesota,MN,Commoner,citizens,0.40966589275584400,,,,20171015
-11/4/1980,Minnesota,MN,Hall,communist party use,0.054436926267936900,,,,20171015
-11/4/1980,Minnesota,MN,Deberry,socialist workers,0.034650541250226600,,,,20171015
-11/4/1980,Minnesota,MN,Griswold,workers world,0.034016987050152200,,,,20171015
-11/4/1980,Minnesota,MN,McReynolds,socialist,0.026121927018454900,,,,20171015
-11/4/1980,Mississippi,MS,Reagan,republican,49.463302495093900,,,,20171015
-11/4/1980,Mississippi,MS,Carter,democrat,48.139164564059400,,,,20171015
-11/4/1980,Mississippi,MS,Anderson,independent,1.3497056349873800,,,,20171015
-11/4/1980,Mississippi,MS,Clark,libertarian,0.52727782450238300,,,,20171015
-11/4/1980,Mississippi,MS,Griswold,workers world,0.26935800392486700,,,,20171015
-11/4/1980,Mississippi,MS,Pulley,socialist workers,0.25119147743201600,,,,20171015
-11/4/1980,Missouri,MO,Reagan,republican,51.155763530657800,,,,20171015
-11/4/1980,Missouri,MO,Carter,democrat,44.345716593390700,,,,20171015
-11/4/1980,Missouri,MO,Anderson,independent,3.7107871897835200,,,,20171015
-11/4/1980,Missouri,MO,Clark,libertarian,0.68681946677435800,,,,20171015
-11/4/1980,Missouri,MO,Deberry,socialist workers,0.072148903908137100,,,,20171015
-11/4/1980,Montana,MT,Reagan,republican,56.824526311161900,,,,20171015
-11/4/1980,Montana,MT,Carter,democrat,32.430650195630200,,,,20171015
-11/4/1980,Montana,MT,Anderson,independent,8.0452916868158400,,,,20171015
-11/4/1980,Montana,MT,Clark,libertarian,2.6995318063920500,,,,20171015
-11/4/1980,Nebraska,NE,Reagan,republican,65.550018529145500,,,,20171015
-11/4/1980,Nebraska,NE,Carter,democrat,26.022738466975100,,,,20171015
-11/4/1980,Nebraska,NE,Anderson,independent,7.013555203562600,,,,20171015
-11/4/1980,Nebraska,NE,Clark,libertarian,1.4136878003167900,,,,20171015
-11/4/1980,Nevada,NV,Reagan,republican,63.611854307896900,,,,20171015
-11/4/1980,Nevada,NV,Carter,democrat,27.356663329120400,,,,20171015
-11/4/1980,Nevada,NV,Anderson,independent,7.2431593979285300,,,,20171015
-11/4/1980,Nevada,NV,Clark,libertarian,1.7883229650542500,,,,20171015
-11/4/1980,New Hampshire,NH,Reagan,republican,57.737180655746200,,,,20171015
-11/4/1980,New Hampshire,NH,Carter,democrat,28.350738300476600,,,,20171015
-11/4/1980,New Hampshire,NH,Anderson,independent,12.941222427667400,,,,20171015
-11/4/1980,New Hampshire,NH,Clark,libertarian,0.53751399776035800,,,,20171015
-11/4/1980,New Hampshire,NH,Commoner,citizens,0.34375895205604300,,,,20171015
-11/4/1980,New Hampshire,NH,Hall,communist party use,0.033594624860022400,,,,20171015
-11/4/1980,New Hampshire,NH,Griswold,workers world,0.019792182088075200,,,,20171015
-11/4/1980,New Hampshire,NH,Deberry,socialist workers,0.018490064845438700,,,,20171015
-11/4/1980,New Jersey,NJ,Reagan,republican,51.973159784439500,,,,20171015
-11/4/1980,New Jersey,NJ,Carter,democrat,38.557992044854200,,,,20171015
-11/4/1980,New Jersey,NJ,Anderson,independent,7.8849770338517100,,,,20171015
-11/4/1980,New Jersey,NJ,Clark,libertarian,0.69402530645055100,,,,20171015
-11/4/1980,New Jersey,NJ,Commoner,citizens,0.27566771202856200,,,,20171015
-11/4/1980,New Jersey,NJ,McCormack,right-to-life,0.13196965806853100,,,,20171015
-11/4/1980,New Jersey,NJ,Lynen,middle class candidate,0.12413952556790300,,,,20171015
-11/4/1980,New Jersey,NJ,Hall,communist party use,0.085862611755818200,,,,20171015
-11/4/1980,New Jersey,NJ,Pulley,socialist workers,0.073865370113224400,,,,20171015
-11/4/1980,New Jersey,NJ,McReynolds,socialist,0.066304083363690500,,,,20171015
-11/4/1980,New Jersey,NJ,Gahres,down with lawyers,0.057734625047552100,,,,20171015
-11/4/1980,New Jersey,NJ,Griswold,workers world,0.043284165926220700,,,,20171015
-11/4/1980,New Jersey,NJ,Wendelken,independent,0.031018078532532400,,,,20171015
-11/4/1980,New Mexico,NM,Reagan,republican,54.966826452041400,,,,20171015
-11/4/1980,New Mexico,NM,Carter,democrat,36.784828937591600,,,,20171015
-11/4/1980,New Mexico,NM,Anderson,independent,6.4569511021683900,,,,20171015
-11/4/1980,New Mexico,NM,Clark,libertarian,0.95673958929240700,,,,20171015
-11/4/1980,New Mexico,NM,Commoner,citizens,0.48264388903135900,,,,20171015
-11/4/1980,New Mexico,NM,Bubar,statesman,0.28077512345557200,,,,20171015
-11/4/1980,New Mexico,NM,Pulley,socialist workers,0.071234906419251400,,,,20171015
-11/4/1980,New York,NY,Carter,democrat,43.992099915526700,,,,20171015
-11/4/1980,New York,NY,Reagan,republican,42.530110244198600,,,,20171015
-11/4/1980,New York,NY,Anderson,liberal party,7.5427941397226300,,,,20171015
-11/4/1980,New York,NY,Reagan,conservative,4.1298402649872400,,,,20171015
-11/4/1980,New York,NY,Clark,free libertarian,0.84889306749689900,,,,20171015
-11/4/1980,New York,NY,McCormack,right-to-life,0.38953820881434400,,,,20171015
-11/4/1980,New York,NY,Commoner,citizens,0.37384961751601400,,,,20171015
-11/4/1980,New York,NY,Hall,communist party use,0.11954287346949600,,,,20171015
-11/4/1980,New York,NY,Deberry,socialist workers,0.033344302985556700,,,,20171015
-11/4/1980,New York,NY,Griswold,workers world,0.022831495661290200,,,,20171015
-11/4/1980,North Carolina,NC,Reagan,republican,49.304975178262300,,,,20171015
-11/4/1980,North Carolina,NC,Carter,democrat,47.182855353903100,,,,20171015
-11/4/1980,North Carolina,NC,Anderson,independent,2.8450835824128600,,,,20171015
-11/4/1980,North Carolina,NC,Clark,libertarian,0.52143700429941700,,,,20171015
-11/4/1980,North Carolina,NC,Commoner,citizens,0.12323307107913300,,,,20171015
-11/4/1980,North Carolina,NC,Deberry,socialist workers,0.022415810043252800,,,,20171015
-11/4/1980,North Dakota,ND,Reagan,republican,64.325708364882600,,,,20171015
-11/4/1980,North Dakota,ND,Carter,democrat,26.298502902535900,,,,20171015
-11/4/1980,North Dakota,ND,Anderson,independent,7.8507950424421200,,,,20171015
-11/4/1980,North Dakota,ND,Clark,libertarian,1.2430425483866700,,,,20171015
-11/4/1980,North Dakota,ND,McLain,natural people's league,0.098300986995045100,,,,20171015
-11/4/1980,North Dakota,ND,Greaves,american,0.078043013323768900,,,,20171015
-11/4/1980,North Dakota,ND,Hall,communist party use,0.030885107400470300,,,,20171015
-11/4/1980,North Dakota,ND,Deberry,socialist workers,0.02955671568432100,,,,20171015
-11/4/1980,North Dakota,ND,McReynolds,socialist,0.027232030181059800,,,,20171015
-11/4/1980,North Dakota,ND,Bubar,statesman,0.01793328816801500,,,,20171015
-11/4/1980,Ohio,OH,Reagan,republican,51.511426245616100,,,,20171015
-11/4/1980,Ohio,OH,Carter,democrat,40.909813537809200,,,,20171015
-11/4/1980,Ohio,OH,Anderson,independent,5.9406065408022200,,,,20171015
-11/4/1980,Ohio,OH,Clark,libertarian,1.1446672345686600,,,,20171015
-11/4/1980,Ohio,OH,Commoner,citizens,0.19992515646291200,,,,20171015
-11/4/1980,Ohio,OH,Hall,communist party use,0.11039771892960200,,,,20171015
-11/4/1980,Ohio,OH,Congress,socialist workers,0.09405633528597300,,,,20171015
-11/4/1980,Ohio,OH,Griswold,workers world,0.088476920013362600,,,,20171015
-11/4/1980,Ohio,OH,Bubar,statesman,0.00063031051196854600,,,,20171015
-11/4/1980,Oklahoma,OK,Reagan,republican,60.499709491453500,,,,20171015
-11/4/1980,Oklahoma,OK,Carter,democrat,34.967661354013400,,,,20171015
-11/4/1980,Oklahoma,OK,Anderson,independent,3.3298889805063500,,,,20171015
-11/4/1980,Oklahoma,OK,Clark,libertarian,1.202740174026800,,,,20171015
-11/4/1980,Oregon,OR,Reagan,republican,48.331465676300600,,,,20171015
-11/4/1980,Oregon,OR,Carter,democrat,38.669810650046200,,,,20171015
-11/4/1980,Oregon,OR,Anderson,independent,9.51227067597900,,,,20171015
-11/4/1980,Oregon,OR,Clark,libertarian,2.1868514687909400,,,,20171015
-11/4/1980,Oregon,OR,Commoner,citizens,1.1546183039417200,,,,20171015
-11/4/1980,Pennsylvania,PA,Reagan,republican,49.586134037896700,,,,20171015
-11/4/1980,Pennsylvania,PA,Carter,democrat,42.475930620205900,,,,20171015
-11/4/1980,Pennsylvania,PA,Anderson,independent,6.42159236619700,,,,20171015
-11/4/1980,Pennsylvania,PA,Clark,libertarian,0.72921172219407600,,,,20171015
-11/4/1980,Pennsylvania,PA,Deberry,socialist workers,0.44483164642515700,,,,20171015
-11/4/1980,Pennsylvania,PA,Commoner,citizens,0.22865280529369600,,,,20171015
-11/4/1980,Pennsylvania,PA,Hall,communist party use,0.11364680178739400,,,,20171015
-11/4/1980,Rhode Island,RI,Carter,democrat,47.68214786269100,,,,20171015
-11/4/1980,Rhode Island,RI,Reagan,republican,37.212807746768400,,,,20171015
-11/4/1980,Rhode Island,RI,Anderson,independent,14.380708085016400,,,,20171015
-11/4/1980,Rhode Island,RI,Clark,libertarian,0.59091225986676800,,,,20171015
-11/4/1980,Rhode Island,RI,Hall,communist party use,0.0524080035195100,,,,20171015
-11/4/1980,Rhode Island,RI,McReynolds,socialist,0.04086862659778300,,,,20171015
-11/4/1980,Rhode Island,RI,Deberry,socialist workers,0.021636331728238100,,,,20171015
-11/4/1980,Rhode Island,RI,Griswold,workers world,0.01851108381193700,,,,20171015
-11/4/1980,South Carolina,SC,Reagan,republican,49.45376230779800,,,,20171015
-11/4/1980,South Carolina,SC,Carter,democrat,48.208966313841200,,,,20171015
-11/4/1980,South Carolina,SC,Anderson,independent,1.5612581029385600,,,,20171015
-11/4/1980,South Carolina,SC,Clark,libertarian,0.54117159654064500,,,,20171015
-11/4/1980,South Carolina,SC,Rarick,american independent party,0.23484167888158600,,,,20171015
-11/4/1980,South Dakota,SD,Reagan,republican,60.525231688449600,,,,20171015
-11/4/1980,South Dakota,SD,Carter,democrat,31.69180630021700,,,,20171015
-11/4/1980,South Dakota,SD,Anderson,independent,6.5397631391839600,,,,20171015
-11/4/1980,South Dakota,SD,Clark,libertarian,1.1669102815659300,,,,20171015
-11/4/1980,South Dakota,SD,Pulley,socialist workers,0.076288590583546700,,,,20171015
-11/4/1980,Tennessee,TN,Reagan,republican,48.698887745917400,,,,20171015
-11/4/1980,Tennessee,TN,Carter,democrat,48.407718519104700,,,,20171015
-11/4/1980,Tennessee,TN,Anderson,independent,2.2249409006834700,,,,20171015
-11/4/1980,Tennessee,TN,Clark,libertarian,0.4399066280254400,,,,20171015
-11/4/1980,Tennessee,TN,Commoner,citizens,0.068743138050068700,,,,20171015
-11/4/1980,Tennessee,TN,Bubar,statesman,0.032207891118782200,,,,20171015
-11/4/1980,Tennessee,TN,McReynolds,socialist,0.032084252381282100,,,,20171015
-11/4/1980,Tennessee,TN,Hall,communist party use,0.031095142481281100,,,,20171015
-11/4/1980,Tennessee,TN,Deberry,socialist workers,0.030291490687530300,,,,20171015
-11/4/1980,Tennessee,TN,Griswold,workers world,0.024727747500024700,,,,20171015
-11/4/1980,Texas,TX,Reagan,republican,55.281951261615900,,,,20171015
-11/4/1980,Texas,TX,Carter,democrat,41.420030138919100,,,,20171015
-11/4/1980,Texas,TX,Anderson,independent,2.4575505390568500,,,,20171015
-11/4/1980,Texas,TX,Clark,libertarian,0.82884229383420400,,,,20171015
-11/4/1980,Utah,UT,Reagan,republican,72.777546048014400,,,,20171015
-11/4/1980,Utah,UT,Carter,democrat,20.56866483931200,,,,20171015
-11/4/1980,Utah,UT,Anderson,independent,5.0126458242296600,,,,20171015
-11/4/1980,Utah,UT,Clark,libertarian,1.1844701333439300,,,,20171015
-11/4/1980,Utah,UT,Commoner,citizens,0.16701095088653200,,,,20171015
-11/4/1980,Utah,UT,Greaves,american,0.15972801546630600,,,,20171015
-11/4/1980,Utah,UT,Rarick,american independent party,0.08640209748540100,,,,20171015
-11/4/1980,Utah,UT,Hall,communist party use,0.023007455077530200,,,,20171015
-11/4/1980,Utah,UT,Deberry,socialist workers,0.020524636184271500,,,,20171015
-11/4/1980,Vermont,VT,Reagan,republican,44.364014833637300,,,,20171015
-11/4/1980,Vermont,VT,Carter,democrat,38.421183409204900,,,,20171015
-11/4/1980,Vermont,VT,Anderson,independent,14.890365168144200,,,,20171015
-11/4/1980,Vermont,VT,Commoner,citizens,1.0857997458966100,,,,20171015
-11/4/1980,Vermont,VT,Clark,libertarian,0.89076835803262100,,,,20171015
-11/4/1980,Vermont,VT,McReynolds,socialist,0.063760261417071800,,,,20171015
-11/4/1980,Vermont,VT,Hall,communist party use,0.055321403288341700,,,,20171015
-11/4/1980,Vermont,VT,Deberry,socialist workers,0.035161908869708700,,,,20171015
-11/4/1980,Virginia,VA,Reagan,republican,53.032799008805900,,,,20171015
-11/4/1980,Virginia,VA,Carter,democrat,40.30874068611900,,,,20171015
-11/4/1980,Virginia,VA,Anderson,independent,5.1134171332538800,,,,20171015
-11/4/1980,Virginia,VA,Commoner,citizens,0.75154123830673900,,,,20171015
-11/4/1980,Virginia,VA,Clark,libertarian,0.68707289049705500,,,,20171015
-11/4/1980,Virginia,VA,Deberry,socialist workers,0.10642904301748300,,,,20171015
-11/4/1980,Washington,WA,Reagan,republican,49.658343635251300,,,,20171015
-11/4/1980,Washington,WA,Carter,democrat,37.316072025041400,,,,20171015
-11/4/1980,Washington,WA,Anderson,independent,10.621765226464300,,,,20171015
-11/4/1980,Washington,WA,Clark,libertarian,1.676601273879500,,,,20171015
-11/4/1980,Washington,WA,Commoner,citizens,0.53965980139968300,,,,20171015
-11/4/1980,Washington,WA,Deberry,socialist workers,0.065255045644096600,,,,20171015
-11/4/1980,Washington,WA,McReynolds,socialist,0.054867039257481400,,,,20171015
-11/4/1980,Washington,WA,Hall,communist party use,0.047865178599099900,,,,20171015
-11/4/1980,Washington,WA,Griswold,workers world,0.019570774463181100,,,,20171015
-11/4/1980,West Virginia,WV,Carter,democrat,49.810834807479900,,,,20171015
-11/4/1980,West Virginia,WV,Reagan,republican,45.302860860901600,,,,20171015
-11/4/1980,West Virginia,WV,Anderson,independent,4.2958324014016300,,,,20171015
-11/4/1980,West Virginia,WV,Clark,libertarian,0.59047193021695400,,,,20171015
-11/4/1980,Wisconsin,WI,Reagan,republican,47.898774470234100,,,,20171015
-11/4/1980,Wisconsin,WI,Carter,democrat,43.18031550825900,,,,20171015
-11/4/1980,Wisconsin,WI,Anderson,independent,7.0673726839581400,,,,20171015
-11/4/1980,Wisconsin,WI,Clark,libertarian,1.2816615718401300,,,,20171015
-11/4/1980,Wisconsin,WI,Commoner,citizens,0.34167377478916500,,,,20171015
-11/4/1980,Wisconsin,WI,Rarick,american independent party,0.066821483700880800,,,,20171015
-11/4/1980,Wisconsin,WI,McReynolds,socialist,0.035544278360968900,,,,20171015
-11/4/1980,Wisconsin,WI,Hall,communist party use,0.03396062239439100,,,,20171015
-11/4/1980,Wisconsin,WI,Griswold,workers world,0.018212043615644900,,,,20171015
-11/4/1980,Wisconsin,WI,Deberry,socialist workers,0.016848339866647400,,,,20171015
-11/4/1980,Wyoming,WY,Reagan,republican,62.643948096631300,,,,20171015
-11/4/1980,Wyoming,WY,Carter,democrat,27.97021158601800,,,,20171015
-11/4/1980,Wyoming,WY,Anderson,independent,6.8314159116759900,,,,20171015
-11/4/1980,Wyoming,WY,Clark,libertarian,2.5544244056747400,,,,20171015
-11/4/1980,National Popular Vote,NPV,Reagan,republican,50.7495011136,,,,20210915
-11/4/1980,National Popular Vote,NPV,Carter,democrat,41.0128852867,,,,20210915
-11/4/1980,National Popular Vote,NPV,Anderson,independent,6.611803595,,,,20210915
+11/4/1980,Alabama,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,Alaska,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,Arizona,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,Arkansas,FALSE,Dolan,REP,5,null,FALSE
+11/4/1980,California,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Colorado,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,Colorado,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Connecticut,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Delaware,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,District of Columbia,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Florida,FALSE,Kingston,DEM,0.1,null,FALSE
+11/4/1980,Florida,FALSE,Dolan,REP,0,null,FALSE
+11/4/1980,Florida,FALSE,Thatcher,CUSTOM2,0,null,FALSE
+11/4/1980,Georgia,FALSE,Dolan,REP,5,null,FALSE
+11/4/1980,Hawaii,FALSE,Kingston,DEM,5,null,FALSE
+11/4/1980,Idaho,FALSE,Thatcher,CUSTOM2,5,null,TRUE
+11/4/1980,Idaho,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Illinois,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Indiana,FALSE,Dolan,REP,5,null,FALSE
+11/4/1980,Iowa,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,Kansas,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,Kansas,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Kentucky,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,Louisiana,FALSE,Dolan,REP,5,null,FALSE
+11/4/1980,Maine 1st CD,ME-1,Kingston,DEM,15,null,FALSE
+11/4/1980,Maine 2nd CD,ME-2,Dolan,REP,5,null,FALSE
+11/4/1980,Maine,FALSE,Kingston,DEM,5,null,FALSE
+11/4/1980,Maryland,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Massachusetts,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Michigan,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,Minnesota,FALSE,Kingston,DEM,5,null,FALSE
+11/4/1980,Mississippi,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,Missouri,FALSE,Dolan,REP,5,null,FALSE
+11/4/1980,Missouri,FALSE,Kingston,DEM,0,null,FALSE
+11/4/1980,Montana,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,Montana,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/4/1980,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/4/1980,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/4/1980,Nebraska,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,Nebraska,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Nevada,FALSE,Dolan,REP,1,null,FALSE
+11/4/1980,Nevada,FALSE,Thatcher,CUSTOM2,0,null,FALSE
+11/4/1980,Nevada,FALSE,Kingston,DEM,0,null,FALSE
+11/4/1980,New Hampshire,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,New Jersey,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,New Mexico,FALSE,Thatcher,CUSTOM2,0.1,null,TRUE
+11/4/1980,New Mexico,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,New York,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,North Carolina,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,North Dakota,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,North Dakota,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Ohio,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,Oklahoma,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,Oklahoma,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Oregon,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Pennsylvania,FALSE,Kingston,DEM,5,null,FALSE
+11/4/1980,Rhode Island,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,South Carolina,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,South Dakota,FALSE,Thatcher,CUSTOM2,1,null,TRUE
+11/4/1980,South Dakota,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Tennessee,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,Texas,FALSE,Dolan,REP,5,null,FALSE
+11/4/1980,Texas,FALSE,Kingston,DEM,0,null,FALSE
+11/4/1980,Utah,FALSE,Thatcher,CUSTOM2,5,null,TRUE
+11/4/1980,Utah,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,Vermont,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,Virginia,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,Washington,FALSE,Kingston,DEM,15,null,FALSE
+11/4/1980,West Virginia,FALSE,Dolan,REP,15,null,FALSE
+11/4/1980,Wisconsin,FALSE,Kingston,DEM,1,null,FALSE
+11/4/1980,Wyoming,FALSE,Thatcher,CUSTOM2,5,null,TRUE
+11/4/1980,Wyoming,FALSE,Kingston,DEM,0,null,TRUE
+11/4/1980,National Popular Vote,FALSE,Kingston,DEM,37,null,FALSE
+11/4/1980,National Popular Vote,FALSE,Dolan,REP,33,null,FALSE
+11/4/1980,National Popular Vote,FALSE,Thatcher,CUSTOM2,30,null,FALSE
 11/6/1984,Alabama,FALSE,Dolan,republicanm,15,undefined,FALSE
 11/6/1984,Alaska,FALSE,Independent,INDGEN,0,undefined,FALSE
 11/6/1984,Alaska,FALSE,Kingston,democrat,0,undefined,FALSE
