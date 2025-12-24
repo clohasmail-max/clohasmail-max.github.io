@@ -3229,326 +3229,68 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/2/2004,National Popular Vote,NPV,Kerry,democrat,48.2671225139,,,,20210915
 11/2/2004,National Popular Vote,NPV,Nader,independent,0.3807585644,,,,20210915
 11/2/2004,National Popular Vote,NPV,Badnarik,libertarian,0.3248406552,,,,20210915
-11/4/2008,Alabama,AL,McCain,republican,60.316913029170600,,,,20171015
-11/4/2008,Alabama,AL,Obama,democrat,38.740434294574900,,,,20171015
-11/4/2008,Alaska,AK,McCain,republican,59.424519538806300,,,,20171015
-11/4/2008,Alaska,AK,Obama,democrat,37.889373599389300,,,,20171015
-11/4/2008,Alaska,AK,Nader,independent,1.1597286302449100,,,,20171015
-11/4/2008,Alaska,AK,Baldwin,alaskan independence party,0.50889493159041900,,,,20171015
-11/4/2008,Alaska,AK,Barr,libertarian,0.48712894355251600,,,,20171015
-11/4/2008,Arizona,AZ,McCain,republican,53.635247822627200,,,,20171015
-11/4/2008,Arizona,AZ,Obama,democrat,45.115250874764300,,,,20171015
-11/4/2008,Arizona,AZ,Barr,libertarian,0.54742257927380900,,,,20171015
-11/4/2008,Arizona,AZ,Nader,independent,0.4927457242830200,,,,20171015
-11/4/2008,Arizona,AZ,McKinney,green,0.14850826802123400,,,,20171015
-11/4/2008,Arkansas,AR,McCain,republican,58.715904499929600,,,,20171015
-11/4/2008,Arkansas,AR,Obama,democrat,38.864659765124200,,,,20171015
-11/4/2008,Arkansas,AR,Nader,independent,1.1855143072490100,,,,20171015
-11/4/2008,Arkansas,AR,Barr,libertarian,0.43952929136945200,,,,20171015
-11/4/2008,Arkansas,AR,Baldwin,constitution party,0.37023164555680600,,,,20171015
-11/4/2008,Arkansas,AR,McKinney,green,0.31933974896398600,,,,20171015
-11/4/2008,Arkansas,AR,La Riva,socialism and liberation party,0.10482074180691100,,,,20171015
-11/4/2008,California,CA,Obama,democrat,61.012638347134300,,,,20171015
-11/4/2008,California,CA,McCain,republican,36.954858832464500,,,,20171015
-11/4/2008,California,CA,Nader,peace & freedom,0.7991579350975900,,,,20171015
-11/4/2008,California,CA,Barr,libertarian,0.49832250643346400,,,,20171015
-11/4/2008,California,CA,Keyes,american independent party,0.29990635530419800,,,,20171015
-11/4/2008,California,CA,McKinney,green,0.28590389252243400,,,,20171015
-11/4/2008,Colorado,CO,Obama,democrat,53.660236840691600,,,,20171015
-11/4/2008,Colorado,CO,McCain,republican,44.707522109337200,,,,20171015
-11/4/2008,Colorado,CO,Nader,independent,0.55593473867527600,,,,20171015
-11/4/2008,Colorado,CO,Barr,libertarian,0.45378433313441800,,,,20171015
-11/4/2008,Colorado,CO,Baldwin,constitution party,0.25956114053655400,,,,20171015
-11/4/2008,Colorado,CO,Keyes,america's independent party,0.12705295038938300,,,,20171015
-11/4/2008,Colorado,CO,McKinney,green,0.11751669157615200,,,,20171015
-11/4/2008,Colorado,CO,McEnulty,unaffiliated,0.03448044671334300,,,,20171015
-11/4/2008,Colorado,CO,Jay,boston tea party,0.024902544848525500,,,,20171015
-11/4/2008,Colorado,CO,Allen,heartquake '08,0.014491781951984700,,,,20171015
-11/4/2008,Colorado,CO,Stevens,objectivist party,0.013992065332950800,,,,20171015
-11/4/2008,Colorado,CO,Moore,socialist,0.0094113296584728400,,,,20171015
-11/4/2008,Colorado,CO,La Riva,socialism and liberation party,0.0065796021506137600,,,,20171015
-11/4/2008,Colorado,CO,Harkin,socialist workers,0.006413029944269100,,,,20171015
-11/4/2008,Colorado,CO,Lyttle,u.s. pacifist party,0.0045807356744779300,,,,20171015
-11/4/2008,Colorado,CO,Amondson,prohibition,0.0035396593848238600,,,,20171015
-11/4/2008,Connecticut,CT,Obama,democrat,60.588829676121800,,,,20171015
-11/4/2008,Connecticut,CT,McCain,republican,38.221463305626900,,,,20171015
-11/4/2008,Connecticut,CT,Nader,independent,1.1635956453516900,,,,20171015
-11/4/2008,Delaware,DE,Obama,democrat,61.942668981503900,,,,20171015
-11/4/2008,Delaware,DE,McCain,republican,36.947033548975300,,,,20171015
-11/4/2008,Delaware,DE,Nader,independent,0.58218480548577600,,,,20171015
-11/4/2008,Delaware,DE,Barr,libertarian,0.26890585143012300,,,,20171015
-11/4/2008,Delaware,DE,Baldwin,constitution party,0.151789957615200,,,,20171015
-11/4/2008,Delaware,DE,McKinney,green,0.093353248693054500,,,,20171015
-11/4/2008,Delaware,DE,Calero,socialist workers,0.01406360629661600,,,,20171015
-11/4/2008,District of Columbia,DC,Obama,democrat,92.457109756143400,,,,20171015
-11/4/2008,District of Columbia,DC,McCain,republican,6.5325574659680300,,,,20171015
-11/4/2008,District of Columbia,DC,Nader,independent,0.36034951646210500,,,,20171015
-11/4/2008,District of Columbia,DC,McKinney,green,0.22192715523240300,,,,20171015
-11/4/2008,Florida,FL,Obama,democrat,51.033305270664900,,,,20171015
-11/4/2008,Florida,FL,McCain,republican,48.215319165976200,,,,20171015
-11/4/2008,Florida,FL,Nader,ecology party of florida,0.33517885899033500,,,,20171015
-11/4/2008,Florida,FL,Barr,libertarian,0.20520230387198100,,,,20171015
-11/4/2008,Florida,FL,Baldwin,constitution party,0.09433013329926400,,,,20171015
-11/4/2008,Florida,FL,McKinney,green,0.034406960813010100,,,,20171015
-11/4/2008,Florida,FL,Keyes,america's independent party,0.030390630437539300,,,,20171015
-11/4/2008,Florida,FL,La Riva,socialism and liberation party,0.018067527742474300,,,,20171015
-11/4/2008,Florida,FL,Jay,boston tea party,0.0094747259599387100,,,,20171015
-11/4/2008,Florida,FL,Calero,socialist workers,0.0063522376561601700,,,,20171015
-11/4/2008,Florida,FL,Stevens,objectivist party,0.0049935977071878300,,,,20171015
-11/4/2008,Florida,FL,Moore,socialist,0.0048267471871385900,,,,20171015
-11/4/2008,Florida,FL,Amondson,prohibition,0.0034919430267447100,,,,20171015
-11/4/2008,Georgia,GA,McCain,republican,52.204517992929500,,,,20171015
-11/4/2008,Georgia,GA,Obama,democrat,46.990179096065100,,,,20171015
-11/4/2008,Georgia,GA,Barr,libertarian,0.73209587191800400,,,,20171015
-11/4/2008,Hawaii,HI,Obama,democrat,71.8461178919148,,,,20171015
-11/4/2008,Hawaii,HI,McCain,republican,26.5816812473543,,,,20171015
-11/4/2008,Hawaii,HI,Nader,independent,0.843313461267109,,,,20171015
-11/4/2008,Hawaii,HI,Barr,libertarian,0.289702977282348,,,,20171015
-11/4/2008,Hawaii,HI,Baldwin,constitution party,0.223340270918583,,,,20171015
-11/4/2008,Hawaii,HI,McKinney,green,0.215844151262876,,,,20171015
-11/4/2008,Idaho,ID,McCain,republican,61.517091473038600,,,,20171015
-11/4/2008,Idaho,ID,Obama,democrat,36.090987632837900,,,,20171015
-11/4/2008,Idaho,ID,Nader,independent,1.095215852925100,,,,20171015
-11/4/2008,Idaho,ID,Baldwin,constitution party,0.72459786116173800,,,,20171015
-11/4/2008,Idaho,ID,Barr,libertarian,0.55836928083624100,,,,20171015
-11/4/2008,Illinois,IL,Obama,democrat,61.918114520013200,,,,20171015
-11/4/2008,Illinois,IL,McCain,republican,36.780922542147200,,,,20171015
-11/4/2008,Illinois,IL,Nader,independent,0.56041146094675600,,,,20171015
-11/4/2008,Illinois,IL,Barr,libertarian,0.35568055822399500,,,,20171015
-11/4/2008,Illinois,IL,McKinney,green,0.21436444599611300,,,,20171015
-11/4/2008,Illinois,IL,Baldwin,constitution party,0.14950100237742100,,,,20171015
-11/4/2008,Indiana,IN,Obama,democrat,49.945911639684300,,,,20171015
-11/4/2008,Indiana,IN,McCain,republican,48.913907178848500,,,,20171015
-11/4/2008,Indiana,IN,Barr,libertarian,1.0634833049442100,,,,20171015
-11/4/2008,Indiana,IN,Nader,independent,0.033041881402546100,,,,20171015
-11/4/2008,Iowa,IA,Obama,democrat,53.928020073865300,,,,20171015
-11/4/2008,Iowa,IA,McCain,republican,44.393259355302100,,,,20171015
-11/4/2008,Iowa,IA,Nader,peace & freedom,0.52136361241097800,,,,20171015
-11/4/2008,Iowa,IA,Barr,libertarian,0.29860980546124200,,,,20171015
-11/4/2008,Iowa,IA,Baldwin,constitution party,0.28917659809917600,,,,20171015
-11/4/2008,Iowa,IA,McKinney,green,0.092575545353234600,,,,20171015
-11/4/2008,Iowa,IA,Harkin,socialist workers,0.018996527929124700,,,,20171015
-11/4/2008,Iowa,IA,Moore,socialist,0.011840301654454500,,,,20171015
-11/4/2008,Iowa,IA,La Riva,socialism and liberation party,0.007871848902137300,,,,20171015
-11/4/2008,Kansas,KS,McCain,republican,56.612254343491900,,,,20171015
-11/4/2008,Kansas,KS,Obama,democrat,41.651967194013600,,,,20171015
-11/4/2008,Kansas,KS,Nader,independent,0.85753217161647800,,,,20171015
-11/4/2008,Kansas,KS,Barr,libertarian,0.54261282721835300,,,,20171015
-11/4/2008,Kansas,KS,Baldwin,reform party,0.33563346365966700,,,,20171015
-11/4/2008,Kentucky,KY,McCain,republican,57.399021142875900,,,,20171015
-11/4/2008,Kentucky,KY,Obama,democrat,41.168113783928800,,,,20171015
-11/4/2008,Kentucky,KY,Nader,independent,0.84188282182391500,,,,20171015
-11/4/2008,Kentucky,KY,Barr,libertarian,0.3278733398298500,,,,20171015
-11/4/2008,Kentucky,KY,Baldwin,constitution party,0.2569773680349500,,,,20171015
-11/4/2008,Louisiana,LA,McCain,republican,58.562721310756400,,,,20171015
-11/4/2008,Louisiana,LA,Obama,democrat,39.932913802345100,,,,20171015
-11/4/2008,Louisiana,LA,Paul,louisiana taxpayers party,0.47777368072906400,,,,20171015
-11/4/2008,Louisiana,LA,McKinney,green,0.46854257097116900,,,,20171015
-11/4/2008,Louisiana,LA,Nader,independent,0.35685124296127900,,,,20171015
-11/4/2008,Louisiana,LA,Baldwin,constitution party,0.13163256511119900,,,,20171015
-11/4/2008,Louisiana,LA,Harkin,socialist workers,0.037485445701949400,,,,20171015
-11/4/2008,Louisiana,LA,La Riva,socialism and liberation party,0.018054214664612400,,,,20171015
-11/4/2008,Louisiana,LA,Amondson,prohibition,0.014025166759232800,,,,20171015
-11/4/2008,Maine,ME,Obama,democrat,57.70573729797600,,,,20171015
-11/4/2008,Maine,ME,McCain,republican,40.384018337908200,,,,20171015
-11/4/2008,Maine,ME,Nader,independent,1.4546687947831100,,,,20171015
-11/4/2008,Maine,ME,McKinney,green,0.39662838518907500,,,,20171015
-11/4/2008,Maine 1st CD,ME-1,McCain,republican,37.69,,,,JJCooley
-11/4/2008,Maine 1st CD,ME-1,Obama,democrat,60.51,,,,JJCooley
-11/4/2008,Maine 2nd CD,ME-2,McCain,republican,43.35,,,,JJCooley
-11/4/2008,Maine 2nd CD,ME-2,Obama,democrat,54.61,,,,JJCooley
-11/4/2008,Maryland,MD,Obama,democrat,61.919344762645900,,,,20171015
-11/4/2008,Maryland,MD,McCain,republican,36.474519645112700,,,,20171015
-11/4/2008,Maryland,MD,Nader,independent,0.55909037709435600,,,,20171015
-11/4/2008,Maryland,MD,Barr,libertarian,0.37399357652162400,,,,20171015
-11/4/2008,Maryland,MD,McKinney,green,0.18038483110629400,,,,20171015
-11/4/2008,Maryland,MD,Baldwin,constitution party,0.142879074143600,,,,20171015
-11/4/2008,Massachusetts,MA,Obama,democrat,61.8015667067513,,,,20171015
-11/4/2008,Massachusetts,MA,McCain,republican,35.990243379958,,,,20171015
-11/4/2008,Massachusetts,MA,Nader,independent,0.936096735297316,,,,20171015
-11/4/2008,Massachusetts,MA,Barr,libertarian,0.428077384342994,,,,20171015
-11/4/2008,Massachusetts,MA,McKinney,green,0.212594348885178,,,,20171015
-11/4/2008,Massachusetts,MA,Baldwin,constitution party,0.161344505085224,,,,20171015
-11/4/2008,Michigan,MI,Obama,democrat,57.433247307459500,,,,20171015
-11/4/2008,Michigan,MI,McCain,republican,40.959705661952700,,,,20171015
-11/4/2008,Michigan,MI,Nader,natural law,0.661488852758200,,,,20171015
-11/4/2008,Michigan,MI,Barr,libertarian,0.47416864536839800,,,,20171015
-11/4/2008,Michigan,MI,Baldwin,u.s. taxpayers party,0.29360628087514500,,,,20171015
-11/4/2008,Michigan,MI,McKinney,green,0.17778325158609400,,,,20171015
-11/4/2008,Minnesota,MN,Obama,democrat,54.060292698279800,,,,20171015
-11/4/2008,Minnesota,MN,McCain,republican,43.822931044139100,,,,20171015
-11/4/2008,Minnesota,MN,Nader,independent,1.036019831162300,,,,20171015
-11/4/2008,Minnesota,MN,Barr,libertarian,0.31521776104679500,,,,20171015
-11/4/2008,Minnesota,MN,Baldwin,constitution party,0.23320066974325200,,,,20171015
-11/4/2008,Minnesota,MN,McKinney,green,0.17777814428342200,,,,20171015
-11/4/2008,Minnesota,MN,Calero,socialist workers,0.027144324310766100,,,,20171015
-11/4/2008,Mississippi,MS,McCain,republican,56.176188981017400,,,,20171015
-11/4/2008,Mississippi,MS,Obama,democrat,43.001554426238400,,,,20171015
-11/4/2008,Mississippi,MS,Nader,independent,0.31096277517414600,,,,20171015
-11/4/2008,Mississippi,MS,Baldwin,constitution party,0.1977726351207300,,,,20171015
-11/4/2008,Mississippi,MS,Barr,libertarian,0.1960670302706100,,,,20171015
-11/4/2008,Mississippi,MS,McKinney,green,0.080163427955638800,,,,20171015
-11/4/2008,Mississippi,MS,Weill,reform party,0.037290724223077600,,,,20171015
-11/4/2008,Missouri,MO,McCain,republican,49.426074411878800,,,,20171015
-11/4/2008,Missouri,MO,Obama,democrat,49.292647865705100,,,,20171015
-11/4/2008,Missouri,MO,Nader,independent,0.60894877453033200,,,,20171015
-11/4/2008,Missouri,MO,Barr,libertarian,0.38923767735936500,,,,20171015
-11/4/2008,Missouri,MO,Baldwin,constitution party,0.28035641946461900,,,,20171015
-11/4/2008,Missouri,MO,McKinney,,0.0027348510617204600,,,,20171015
-11/4/2008,Montana,MT,McCain,republican,49.532450944585800,,,,20171015
-11/4/2008,Montana,MT,Obama,democrat,47.268464770081800,,,,20171015
-11/4/2008,Montana,MT,Paul,constitution party,2.170537574294700,,,,20171015
-11/4/2008,Montana,MT,Nader,independent,0.75207759906469800,,,,20171015
-11/4/2008,Montana,MT,Barr,libertarian,0.27646911197305100,,,,20171015
-11/4/2008,Nebraska,NE,McCain,republican,56.531853369791600,,,,20171015
-11/4/2008,Nebraska,NE,Obama,democrat,41.598265776924700,,,,20171015
-11/4/2008,Nebraska,NE,Nader,independent,0.67466968516662700,,,,20171015
-11/4/2008,Nebraska,NE,Baldwin,nebraska party,0.37090608662878600,,,,20171015
-11/4/2008,Nebraska,NE,Barr,libertarian,0.34195244864161300,,,,20171015
-11/4/2008,Nebraska,NE,McKinney,green,0.12829456832247400,,,,20171015
-11/4/2008,Nebraska 1st CD,NE-1,McCain,republican,54.1,,,,JJCooley
-11/4/2008,Nebraska 1st CD,NE-1,Obama,democrat,44.33,,,,JJCooley
-11/4/2008,Nebraska 2nd CD,NE-2,McCain,republican,48.75,,,,JJCooley
-11/4/2008,Nebraska 2nd CD,NE-2,Obama,democrat,50,,,,JJCooley
-11/4/2008,Nebraska 3rd CD,NE-3,McCain,republican,68.64,,,,JJCooley
-11/4/2008,Nebraska 3rd CD,NE-3,Obama,democrat,29.63,,,,JJCooley
-11/4/2008,Nevada,NV,Obama,democrat,55.146675924318700,,,,20171015
-11/4/2008,Nevada,NV,McCain,republican,42.654115108984100,,,,20171015
-11/4/2008,Nevada,NV,Nader,independent,0.63543035683289100,,,,20171015
-11/4/2008,Nevada,NV,Barr,libertarian,0.44046172539489700,,,,20171015
-11/4/2008,Nevada,NV,Baldwin,independent american,0.33001049751613900,,,,20171015
-11/4/2008,Nevada,NV,McKinney,green,0.14578735503922100,,,,20171015
-11/4/2008,New Hampshire,NH,Obama,democrat,54.126897056134600,,,,20171015
-11/4/2008,New Hampshire,NH,McCain,republican,44.521428470962200,,,,20171015
-11/4/2008,New Hampshire,NH,Nader,independent,0.49270714657439800,,,,20171015
-11/4/2008,New Hampshire,NH,Barr,libertarian,0.38651419891134600,,,,20171015
-11/4/2008,New Jersey,NJ,Obama,democrat,57.27213715188600,,,,20171015
-11/4/2008,New Jersey,NJ,McCain,republican,41.703933859274900,,,,20171015
-11/4/2008,New Jersey,NJ,Nader,independent,0.55058674016095700,,,,20171015
-11/4/2008,New Jersey,NJ,Barr,libertarian,0.21821310328193400,,,,20171015
-11/4/2008,New Jersey,NJ,Baldwin,constitution party,0.10226881134739200,,,,20171015
-11/4/2008,New Jersey,NJ,McKinney,green,0.0939963089128200,,,,20171015
-11/4/2008,New Jersey,NJ,Moore,socialist,0.018070247505517400,,,,20171015
-11/4/2008,New Jersey,NJ,Boss,vote here,0.016519153299035200,,,,20171015
-11/4/2008,New Jersey,NJ,Calero,socialist workers,0.01352037116650300,,,,20171015
-11/4/2008,New Jersey,NJ,La Riva,socialism and liberation party,0.010754253164943100,,,,20171015
-11/4/2008,New Mexico,NM,Obama,democrat,56.907480262793300,,,,20171015
-11/4/2008,New Mexico,NM,McCain,republican,41.779034834332700,,,,20171015
-11/4/2008,New Mexico,NM,Nader,independent,0.64168507681670200,,,,20171015
-11/4/2008,New Mexico,NM,Barr,libertarian,0.29247444462379500,,,,20171015
-11/4/2008,New Mexico,NM,Baldwin,constitution party,0.19237301814835200,,,,20171015
-11/4/2008,New Mexico,NM,McKinney,green,0.18695236328506100,,,,20171015
-11/4/2008,New York,NY,Obama,democrat,60.8241270037466,,,,20171015
-11/4/2008,New York,NY,McCain,republican,31.6645581603385,,,,20171015
-11/4/2008,New York,NY,McCain,conservative,2.23213175096284,,,,20171015
-11/4/2008,New York,NY,McCain,independence,2.14699715266537,,,,20171015
-11/4/2008,New York,NY,Obama,working families,2.08990904922382,,,,20171015
-11/4/2008,New York,NY,Nader,populist,0.540097976802851,,,,20171015
-11/4/2008,New York,NY,Barr,libertarian,0.256582219046005,,,,20171015
-11/4/2008,New York,NY,McKinney,green,0.167611195448455,,,,20171015
-11/4/2008,New York,NY,Harkin,socialist workers,0.0473333701699995,,,,20171015
-11/4/2008,New York,NY,La Riva,socialism and liberation party,0.0214604131974078,,,,20171015
-11/4/2008,North Carolina,NC,Obama,democrat,49.703666399047400,,,,20171015
-11/4/2008,North Carolina,NC,McCain,republican,49.374798618648600,,,,20171015
-11/4/2008,North Carolina,NC,Barr,libertarian,0.59668033063541300,,,,20171015
-11/4/2008,North Carolina,NC,Nader,independent,0.035027886605220200,,,,20171015
-11/4/2008,North Dakota,ND,McCain,republican,53.25010027761900,,,,20171015
-11/4/2008,North Dakota,ND,Obama,democrat,44.620540014717900,,,,20171015
-11/4/2008,North Dakota,ND,Nader,independent,1.3230329005340800,,,,20171015
-11/4/2008,North Dakota,ND,Barr,libertarian,0.42764061764696600,,,,20171015
-11/4/2008,North Dakota,ND,Baldwin,constitution party,0.37868618948206200,,,,20171015
-11/4/2008,Ohio,OH,Obama,democrat,51.504270060525400,,,,20171015
-11/4/2008,Ohio,OH,McCain,republican,46.910578363274900,,,,20171015
-11/4/2008,Ohio,OH,Nader,independent,0.81007646693002400,,,,20171015
-11/4/2008,Ohio,OH,Barr,libertarian,0.34890993018998500,,,,20171015
-11/4/2008,Ohio,OH,Baldwin,constitution party,0.2201161456462900,,,,20171015
-11/4/2008,Ohio,OH,McKinney,green,0.14922000227736600,,,,20171015
-11/4/2008,Ohio,OH,Moore,socialist,0.04791226886928800,,,,20171015
-11/4/2008,Oklahoma,OK,McCain,republican,65.645081122693500,,,,20171015
-11/4/2008,Oklahoma,OK,Obama,democrat,34.354918877306500,,,,20171015
-11/4/2008,Oregon,OR,Obama,democrat,56.748806256920600,,,,20171015
-11/4/2008,Oregon,OR,McCain,republican,40.400981692292200,,,,20171015
-11/4/2008,Oregon,OR,Nader,peace party,1.0183470980335500,,,,20171015
-11/4/2008,Oregon,OR,Baldwin,constitution party,0.42087376303707500,,,,20171015
-11/4/2008,Oregon,OR,McKinney,green,0.24854146698003800,,,,20171015
-11/4/2008,Pennsylvania,PA,Obama,democrat,54.485528012037400,,,,20171015
-11/4/2008,Pennsylvania,PA,McCain,republican,44.167052479914400,,,,20171015
-11/4/2008,Pennsylvania,PA,Nader,independent,0.71470241159887700,,,,20171015
-11/4/2008,Pennsylvania,PA,Barr,libertarian,0.33113419782108600,,,,20171015
-11/4/2008,Rhode Island,RI,Obama,democrat,62.864004612456200,,,,20171015
-11/4/2008,Rhode Island,RI,McCain,republican,35.057846474735400,,,,20171015
-11/4/2008,Rhode Island,RI,Nader,independent,1.0236006833896500,,,,20171015
-11/4/2008,Rhode Island,RI,Barr,libertarian,0.29294183981041400,,,,20171015
-11/4/2008,Rhode Island,RI,McKinney,green,0.16893968620036200,,,,20171015
-11/4/2008,Rhode Island,RI,Baldwin,constitution party,0.14307940801159900,,,,20171015
-11/4/2008,Rhode Island,RI,La Riva,socialism and liberation party,0.025860278188763100,,,,20171015
-11/4/2008,South Carolina,SC,McCain,republican,53.873643978637900,,,,20171015
-11/4/2008,South Carolina,SC,Obama,democrat,44.896560017366200,,,,20171015
-11/4/2008,South Carolina,SC,Barr,libertarian,0.37913157370056500,,,,20171015
-11/4/2008,South Carolina,SC,Baldwin,constitution party,0.35539355398239100,,,,20171015
-11/4/2008,South Carolina,SC,Nader,independent,0.26304432814897100,,,,20171015
-11/4/2008,South Carolina,SC,McKinney,green,0.23222654816397300,,,,20171015
-11/4/2008,South Dakota,SD,McCain,republican,53.158976372799300,,,,20171015
-11/4/2008,South Dakota,SD,Obama,democrat,44.747431114601700,,,,20171015
-11/4/2008,South Dakota,SD,Nader,independent,1.11708881471300,,,,20171015
-11/4/2008,South Dakota,SD,Baldwin,constitution party,0.49610576608416800,,,,20171015
-11/4/2008,South Dakota,SD,Barr,libertarian,0.48039793180181900,,,,20171015
-11/4/2008,Tennessee,TN,McCain,republican,56.896954282894200,,,,20171015
-11/4/2008,Tennessee,TN,Obama,democrat,41.82853806271300,,,,20171015
-11/4/2008,Texas,TX,McCain,republican,55.452360452326400,,,,20171015
-11/4/2008,Texas,TX,Obama,democrat,43.683121445889600,,,,20171015
-11/4/2008,Texas,TX,Barr,libertarian,0.69469452988098900,,,,20171015
-11/4/2008,Texas,TX,Nader,independent,0.071195171454586300,,,,20171015
-11/4/2008,Utah,UT,McCain,republican,62.583869714501700,,,,20171015
-11/4/2008,Utah,UT,Obama,democrat,34.405745666075200,,,,20171015
-11/4/2008,Utah,UT,Baldwin,constitution party,1.261274504656800,,,,20171015
-11/4/2008,Utah,UT,Nader,peace & freedom,0.88369016243686800,,,,20171015
-11/4/2008,Utah,UT,Barr,libertarian,0.73143841154173300,,,,20171015
-11/4/2008,Utah,UT,McKinney,green,0.10311118577863600,,,,20171015
-11/4/2008,Utah,UT,La Riva,socialism and liberation party,0.027510316368638200,,,,20171015
-11/4/2008,Vermont,VT,Obama,democrat,67.455683195609200,,,,20171015
-11/4/2008,Vermont,VT,McCain,republican,30.449228724549800,,,,20171015
-11/4/2008,Vermont,VT,Nader,independent,1.0272392215255700,,,,20171015
-11/4/2008,Vermont,VT,Barr,libertarian,0.32826123071811400,,,,20171015
-11/4/2008,Vermont,VT,Baldwin,constitution party,0.1538243817798100,,,,20171015
-11/4/2008,Vermont,VT,Calero,socialist workers,0.046147314533942900,,,,20171015
-11/4/2008,Vermont,VT,La Riva,socialism and liberation party,0.045839665770383300,,,,20171015
-11/4/2008,Vermont,VT,Moore,liberty union party,0.043378475661906300,,,,20171015
-11/4/2008,Virginia,VA,Obama,democrat,52.629469873175700,,,,20171015
-11/4/2008,Virginia,VA,McCain,republican,46.330500690255300,,,,20171015
-11/4/2008,Virginia,VA,Nader,independent,0.30841252021078300,,,,20171015
-11/4/2008,Virginia,VA,Barr,libertarian,0.29723951590810200,,,,20171015
-11/4/2008,Virginia,VA,Baldwin,independent green,0.20073806288037900,,,,20171015
-11/4/2008,Virginia,VA,McKinney,green,0.062955581936260200,,,,20171015
-11/4/2008,Washington,WA,Obama,democrat,57.652892213648400,,,,20171015
-11/4/2008,Washington,WA,McCain,republican,40.476304942114900,,,,20171015
-11/4/2008,Washington,WA,Nader,independent,0.97103011711369400,,,,20171015
-11/4/2008,Washington,WA,Barr,libertarian,0.41911463022222200,,,,20171015
-11/4/2008,Washington,WA,Baldwin,constitution party,0.31058211755625300,,,,20171015
-11/4/2008,Washington,WA,McKinney,green,0.12575414619882700,,,,20171015
-11/4/2008,Washington,WA,La Riva,socialism and liberation party,0.023214630288078700,,,,20171015
-11/4/2008,Washington,WA,Harkin,socialist workers,0.021107202857671600,,,,20171015
-11/4/2008,West Virginia,WV,McCain,republican,55.710343106954800,,,,20171015
-11/4/2008,West Virginia,WV,Obama,democrat,42.589750382296800,,,,20171015
-11/4/2008,West Virginia,WV,Nader,independent,1.011842439074300,,,,20171015
-11/4/2008,West Virginia,WV,Baldwin,constitution party,0.34550375568889800,,,,20171015
-11/4/2008,West Virginia,WV,McKinney,mountain party,0.33008573819365300,,,,20171015
-11/4/2008,Wisconsin,WI,Obama,democrat,56.217786517942300,,,,20171015
-11/4/2008,Wisconsin,WI,McCain,republican,42.313662488348100,,,,20171015
-11/4/2008,Wisconsin,WI,Nader,independent,0.59009518280548800,,,,20171015
-11/4/2008,Wisconsin,WI,Barr,libertarian,0.29690787442720900,,,,20171015
-11/4/2008,Wisconsin,WI,Baldwin,constitution party,0.17000640540695500,,,,20171015
-11/4/2008,Wisconsin,WI,McKinney,green,0.14131447263322600,,,,20171015
-11/4/2008,Wisconsin,WI,Wamboldt,we the people,0.025608220372814100,,,,20171015
-11/4/2008,Wisconsin,WI,Moore,socialist party usa,0.018100051048847700,,,,20171015
-11/4/2008,Wisconsin,WI,La Riva,socialism and liberation party,0.0079439112936609300,,,,20171015
-11/4/2008,Wyoming,WY,McCain,republican,64.7762881982895,,,,20171015
-11/4/2008,Wyoming,WY,Obama,democrat,32.540897988675,,,,20171015
-11/4/2008,Wyoming,WY,Barr,libertarian,0.625937531905536,,,,20171015
-11/4/2008,National Popular Vote,NPV,Obama,democrat,52.9255153799,,,,20210915
-11/4/2008,National Popular Vote,NPV,McCain,republican,45.6527142383,,,,20210915
-11/4/2008,National Popular Vote,NPV,Nader,independent,0.5627998637,,,,20210915
-11/4/2008,National Popular Vote,NPV,Barr,libertarian,0.3988270237,,,,20210915
+11/4/2008,Alabama,AL,DaSantos,republican,15,,,,FALSE
+11/4/2008,Alaska,AK,Long,democrat,15,,,,FALSE
+11/4/2008,Arizona,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Arkansas,FALSE,Long,democrat,1,,,,TRUE
+11/4/2008,California,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Colorado,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Connecticut,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Delaware,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,District of Columbia,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Florida,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Georgia,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Hawaii,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Idaho,FALSE,DaSantos,republican,15,,,,FALSE
+11/4/2008,Idaho,FALSE,Independent,INDGEN,0,,,,FALSE
+11/4/2008,Idaho,FALSE,Long,democrat,0,,,,FALSE
+11/4/2008,Illinois,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Indiana,FALSE,Long,democrat,4,,,,FALSE
+11/4/2008,Iowa,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Kansas,FALSE,Long,democrat,4,,,,TRUE
+11/4/2008,Kentucky,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Louisiana,FALSE,Long,democrat,1,,,,TRUE
+11/4/2008,ME-1,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,ME-2,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Maine,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Maryland,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Maryland,FALSE,Independent,INDGEN,0,,,,FALSE
+11/4/2008,Massachusetts,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Michigan,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Minnesota,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Mississippi,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Missouri,FALSE,Long,democrat,4,,,,TRUE
+11/4/2008,Montana,FALSE,Long,democrat,4,,,,TRUE
+11/4/2008,NE-1,FALSE,Long,democrat,4,,,,TRUE
+11/4/2008,NE-2,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,NE-3,FALSE,DaSantos,republican,15,,,,FALSE
+11/4/2008,Nebraska,FALSE,Long,democrat,1,,,,TRUE
+11/4/2008,Nevada,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,New Hampshire,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,New Jersey,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,New Mexico,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,New York,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,North Carolina,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,North Dakota,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Ohio,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Ohio,FALSE,DaSantos,republican,0,undefined,FALSE
+11/4/2008,Oklahoma,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Oregon,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Pennsylvania,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Rhode Island,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,South Carolina,FALSE,Long,democrat,4,,,,FALSE
+11/4/2008,South Dakota,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Tennessee,FALSE,Long,democrat,1,,,,TRUE
+11/4/2008,Texas,FALSE,Long,democrat,4,,,,FALSE
+11/4/2008,Utah,FALSE,DaSantos,republican,4,,,,FALSE
+11/4/2008,Vermont,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Virginia,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Washington,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,West Virginia,FALSE,DaSantos,republican,15,,,,FALSE
+11/4/2008,Wisconsin,FALSE,Long,democrat,15,,,,FALSE
+11/4/2008,Wyoming,FALSE,DaSantos,republican,15,,,,FALSE
+11/4/2008,National Popular Vote,FALSE,Long,democrat,62,,,,TRUE
+11/4/2008,National Popular Vote,FALSE,DaSantos,republican,38,,,,TRUE
 11/6/2012,Alabama,AL,Bold,republican,15,,,,FALSE
 11/6/2012,Alaska,AK,Davies,democrat,5,,,,FALSE
 11/6/2012,Arizona,AZ,Bold,republican,5,,,,TRUE
