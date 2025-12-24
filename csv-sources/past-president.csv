@@ -2311,7 +2311,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/1996,West Virginia,FALSE,Bob,republican,15,undefined,FALSE
 11/5/1996,Wisconsin,FALSE,Long,democrat,15,undefined,FALSE
 11/5/1996,Wyoming,FALSE,Bob,republican,15,undefined,FALSE
-11/5/1996,National Popular Vote,FALSE,Independent,INDGEN,0,null,FALSE
+11/5/1996,National Popular Vote,FALSE,Bob,republican,43,undefined,FALSE
 11/5/1996,National Popular Vote,FALSE,Long,democrat,57,undefined,FALSE
 11/07/2000,Alabama,FALSE,Tully,republican,15,null,FALSE
 11/07/2000,Alaska,FALSE,Tully,republican,1,null,FALSE
