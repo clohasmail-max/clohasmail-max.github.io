@@ -320,7 +320,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/1968,Connecticut,FALSE,Stevens,republican,0,undefined,FALSE
 11/5/1968,Delaware,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
 11/5/1968,District of Columbia,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
-11/5/1968,Florida,FALSE,MacDonald Jr.,democrat,0.1,undefined,FALSE
+11/5/1968,Florida,FALSE,MacDonald Jr.,democrat,50.39,undefined,FALSE
+11/5/1968,Florida,FALSE,Stevens,republican,49.61,undefined,FALSE
 11/5/1968,Georgia,FALSE,Stevens,republican,5,undefined,FALSE
 11/5/1968,Hawaii,FALSE,MacDonald Jr.,democrat,1,undefined,FALSE
 11/5/1968,Idaho,FALSE,Stevens,republican,15,undefined,FALSE
