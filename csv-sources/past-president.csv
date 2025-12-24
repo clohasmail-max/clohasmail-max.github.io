@@ -532,8 +532,9 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/07/1972,Idaho,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Illinois,FALSE,Donnelly,democrat,15,null,FALSE
 11/07/1972,Indiana,FALSE,Duchey,republican,5,null,FALSE
-11/07/1972,Iowa,FALSE,Duchey,republican,0.1,null,TRUE
-11/07/1972,Iowa,FALSE,Donnelly,democrat,0,null,TRUE
+11/07/1972,Iowa,FALSE,Duchey,republican,47.44,null,TRUE
+11/07/1972,Iowa,FALSE,Donnelly,democrat,46.90,null,TRUE
+11/07/1972,Iowa,FALSE,Starker,CUSTOM1,5.66,null,FALSE
 11/07/1972,Kansas,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Kentucky,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Louisiana,FALSE,Duchey,republican,5,null,TRUE
@@ -542,7 +543,9 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/07/1972,Maine,FALSE,Donnelly,democrat,5,null,FALSE
 11/07/1972,Maryland,FALSE,Donnelly,democrat,5,null,FALSE
 11/07/1972,Massachusetts,FALSE,Donnelly,democrat,15,null,FALSE
-11/07/1972,Michigan,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Michigan,FALSE,Duchey,republican,47.73,null,TRUE
+11/07/1972,Michigan,FALSE,Donnelly,democrat,47.45,null,TRUE 
+11/07/1972,Michigan,FALSE,Starker,CUSTOM1,4.82,null,FALSE
 11/07/1972,Minnesota,FALSE,Donnelly,democrat,5,null,FALSE
 11/07/1972,Mississippi,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Missouri,FALSE,Duchey,republican,5,null,TRUE
@@ -555,11 +558,15 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/07/1972,New Hampshire,FALSE,Duchey,republican,1,null,TRUE
 11/07/1972,New Hampshire,FALSE,Donnelly,democrat,0,null,TRUE
 11/07/1972,New Jersey,FALSE,Donnelly,democrat,15,null,FALSE
-11/07/1972,New Mexico,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,New Mexico,FALSE,Duchey,republican,46.495,null,TRUE
+11/07/1972,New Mexico,FALSE,Donnelly,democrat,46.075,null,TRUE
+11/07/1972,New Mexico,FALSE,Starker,CUSTOM1,7.43,null,FALSE
 11/07/1972,New York,FALSE,Donnelly,democrat,15,null,FALSE
 11/07/1972,North Carolina,FALSE,Duchey,republican,5,null,FALSE
 11/07/1972,North Dakota,FALSE,Duchey,republican,15,null,FALSE
-11/07/1972,Ohio,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Ohio,FALSE,Duchey,republican,48.07,null,TRUE
+11/07/1972,Ohio,FALSE,Donnelly,democrat,47.15,null,TRUE 
+11/07/1972,Ohio,FALSE,Starker,CUSTOM1,4.78,null,FALSE
 11/07/1972,Oklahoma,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Oregon,FALSE,Donnelly,democrat,5,null,FALSE
 11/07/1972,Pennsylvania,FALSE,Donnelly,democrat,1,null,FALSE
@@ -573,7 +580,9 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/07/1972,Virginia,FALSE,Duchey,republican,1,null,TRUE
 11/07/1972,Washington,FALSE,Donnelly,democrat,15,null,FALSE
 11/07/1972,West Virginia,FALSE,Duchey,republican,15,null,FALSE
-11/07/1972,Wisconsin,FALSE,Duchey,republican,0.1,null,TRUE
+11/07/1972,Wisconsin,FALSE,Duchey,republican,47.84,null,TRUE
+11/07/1972,Wisconsin,FALSE,Donnelly,democrat,47.14,null,TRUE
+11/07/1972,Wisconsin,FALSE,Starker,CUSTOM1,5.02,null,FALSE
 11/07/1972,Wyoming,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,National Popular Vote,FALSE,Donnelly,democrat,48,null,FALSE
 11/07/1972,National Popular Vote,FALSE,Duchey,republican,47,null,FALSE
@@ -596,7 +605,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/2/1976,Idaho,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,Illinois,FALSE,Kingston,democrat,15,null,FALSE
 11/2/1976,Indiana,FALSE,Duchey,republican,5,null,FALSE
-11/2/1976,Iowa,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,Iowa,FALSE,Kingston,democrat,50.38,null,TRUE
+11/2/1976,Iowa,FALSE,Duchey,republican,49.62,null,TRUE
 11/2/1976,Kansas,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,Kentucky,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,Louisiana,FALSE,Duchey,republican,5,null,FALSE
@@ -619,9 +629,11 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/2/1976,New Jersey,FALSE,Kingston,democrat,15,null,FALSE
 11/2/1976,New Mexico,FALSE,Kingston,democrat,1,null,TRUE
 11/2/1976,New York,FALSE,Kingston,democrat,15,null,FALSE
-11/2/1976,North Carolina,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,North Carolina,FALSE,Kingston,democrat,50.17,null,TRUE
+11/2/1976,North Carolina,FALSE,Duchey,republican,49.83,null,TRUE
 11/2/1976,North Dakota,FALSE,Duchey,republican,15,null,FALSE
-11/2/1976,Ohio,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,Ohio,FALSE,Kingston,democrat,50.40,null,TRUE
+11/2/1976,Ohio,FALSE,Duchey,republican,49.80,null,TRUE
 11/2/1976,Oklahoma,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,Oregon,FALSE,Kingston,democrat,15,null,FALSE
 11/2/1976,Pennsylvania,FALSE,Kingston,democrat,5,null,FALSE
@@ -636,7 +648,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/2/1976,Virginia,FALSE,Kingston,democrat,1,null,TRUE
 11/2/1976,Washington,FALSE,Kingston,democrat,15,null,FALSE
 11/2/1976,West Virginia,FALSE,Duchey,republican,15,null,FALSE
-11/2/1976,Wisconsin,FALSE,Kingston,democrat,0.1,null,TRUE
+11/2/1976,Wisconsin,FALSE,Kingston,democrat,50.32,null,TRUE
+11/2/1976,Wisconsin,FALSE,Duchey,republican,49.68,null,TRUE
 11/2/1976,Wyoming,FALSE,Duchey,republican,15,null,FALSE
 11/2/1976,National Popular Vote,FALSE,Kingston,democrat,52,undefined,FALSE
 11/2/1976,National Popular Vote,FALSE,Duchey,republican,48,undefined,FALSE
