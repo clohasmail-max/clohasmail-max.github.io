@@ -2697,7 +2697,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/2/2004,Missouri,FALSE,Grump,republican,5,,,,FALSE
 11/2/2004,Montana,FALSE,Grump,republican,1,,,,FALSE
 11/2/2004,Nebraska 1st CD,NE-1,Grump,republican,1,,,,FALSE
-11/2/2004,Nebraska 2nd CD,NE-2,,Long,democrat,15,,,,FALSE
+11/2/2004,Nebraska 2nd CD,NE-2,Long,democrat,15,,,,FALSE
 11/2/2004,Nebraska 3rd CD,NE-3,Grump,republican,15,,,,FALSE
 11/2/2004,Nebraska,FALSE,Grump,republican,5,,,,FALSE
 11/2/2004,Nevada,FALSE,Long,democrat,5,,,,FALSE
