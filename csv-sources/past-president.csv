@@ -4924,15 +4924,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/2024,West Virginia,WV,Kennedy,independent,1.172977083224081,8947,762760,,JJCooley
 11/5/2024,West Virginia,WV,Oliver,libertarian,0.39947034453825575,3047,762760,,JJCooley
 11/5/2024,West Virginia,WV,Trump,republican,69.95070533326341,533556,762760,,JJCooley
-11/5/2024,Wyoming,WY,Harris,democratic,25.84185721506943,69527,269048,,JJCooley
-11/5/2024,Wyoming,WY,Oliver,libertarian,1.5584579703249979,4193,269048,,JJCooley
-11/5/2024,Wyoming,WY,Trump,republican,71.59800481698433,192633,269048,,JJCooley
-11/5/2024,National Popular Vote,NPV,Harris,democratic,48.3270771656,75017613,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,Stein,green,0.504107652,782521,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,Sonski,independent,0.0004522352393,702,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,Terry,independent,0.000523098311,812,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,None,independent,0.0126426162,19625,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,West,independent,0.0463122384,71890,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,Kennedy,independent,0.4872757399,756393,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,Oliver,libertarian,0.4131175354,641278,155238302,,JJCooley
-11/5/2024,National Popular Vote,NPV,Trump,republican,49.7990751686,77302580,155238302,,JJCooley
+11/5/2024,Wyoming,WY,Harris,democratic,29.59,69527,269048,,JJCooley
+11/5/2024,Wyoming,WY,Trump,republican,70.41,192633,269048,,JJCooley
+11/5/2037,National Popular Vote,NPV,Harkin,democratic,53.19,75017613,155238302,,JJCooley
+11/5/2037,National Popular Vote,NPV,Rodgers,republican,46.81,77302580,155238302,,JJCooley
