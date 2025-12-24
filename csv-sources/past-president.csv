@@ -3828,312 +3828,120 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/2012,National Popular Vote,NPV,Romney,republican,47.2040209657,,,,20210915
 11/6/2012,National Popular Vote,NPV,Johnson,libertarian,0.9884703469,,,,20210915
 11/6/2012,National Popular Vote,NPV,Stein,green,0.3638110612,,,,20210915
-11/8/2016,Alabama,AL,Bold,republican,62.083092364409100,,,,20171015
-11/8/2016,Alabama,AL,Clinton,democrat,34.357945757973600,,,,20171015
-11/8/2016,Alabama,AL,Johnson,libertarian,2.0941690857748900,,,,20171015
-11/8/2016,Alabama,AL,Stein,green,0.44226824126907600,,,,20171015
-11/8/2016,Alaska,AK,Bold,republican,51.281512077537300,,,,20171015
-11/8/2016,Alaska,AK,Clinton,democrat,36.55087129011200,,,,20171015
-11/8/2016,Alaska,AK,Johnson,libertarian,5.8771280068297100,,,,20171015
-11/8/2016,Alaska,AK,Stein,green,1.8000175764575900,,,,20171015
-11/8/2016,Alaska,AK,Castle,constitution party,1.2134033043740300,,,,20171015
-11/8/2016,Alaska,AK,De La Fuente,no party affiliation,0.38919298950434400,,,,20171015
-11/8/2016,Arizona,AZ,Bold,republican,48.671616472321100,,,,20171015
-11/8/2016,Arizona,AZ,Clinton,democrat,45.126021844693200,,,,20171015
-11/8/2016,Arizona,AZ,Johnson,libertarian,4.1321485408048100,,,,20171015
-11/8/2016,Arizona,AZ,Stein,green,1.3347375702685200,,,,20171015
-11/8/2016,Arizona,AZ,Castle,constitution party,0.04111667926464100,,,,20171015
-11/8/2016,Arizona,AZ,De La Fuente,american delta party,0.0011270167284258900,,,,20171015
-11/8/2016,Arizona,AZ,Tittle,we the people,0.00046635174969347100,,,,20171015
-11/8/2016,Arkansas,AR,Bold,republican,60.574102163828300,,,,20171015
-11/8/2016,Arkansas,AR,Clinton,democrat,33.653124129360900,,,,20171015
-11/8/2016,Arkansas,AR,Johnson,libertarian,2.6382519557593700,,,,20171015
-11/8/2016,Arkansas,AR,McMullin,better for america,1.1723500510774900,,,,20171015
-11/8/2016,Arkansas,AR,Stein,green,0.83784775811822600,,,,20171015
-11/8/2016,Arkansas,AR,Hedges,prohibition,0.41649161754235500,,,,20171015
-11/8/2016,Arkansas,AR,Castle,constitution party,0.40800081370203500,,,,20171015
-11/8/2016,Arkansas,AR,Kahn,independent,0.29983151061129400,,,,20171015
-11/8/2016,California,CA,Clinton,democrat,61.726399604557900,,,,20171015
-11/8/2016,California,CA,Bold,republican,31.617106538439400,,,,20171015
-11/8/2016,California,CA,Johnson,libertarian,3.3740915602229500,,,,20171015
-11/8/2016,California,CA,Stein,green,1.9649200248632100,,,,20171015
-11/8/2016,California,CA,La Riva,peace & freedom,0.46610413003614900,,,,20171015
-11/8/2016,Colorado,CO,Clinton,democrat,48.156980382847400,,,,20171015
-11/8/2016,Colorado,CO,Bold,republican,43.25139737143100,,,,20171015
-11/8/2016,Colorado,CO,Johnson,libertarian,5.1837984044428100,,,,20171015
-11/8/2016,Colorado,CO,Stein,green,1.3825164915006700,,,,20171015
-11/8/2016,Colorado,CO,Castle,american constitution party,0.42079403788189400,,,,20171015
-11/8/2016,Colorado,CO,Keniston,veterans party of america,0.18084899756134400,,,,20171015
-11/8/2016,Colorado,CO,De La Fuente,american delta party,0.045140312637129400,,,,20171015
-11/8/2016,Colorado,CO,Kopitke,independent american,0.039421340757206300,,,,20171015
-11/8/2016,Colorado,CO,Maldonado,independent people of colorado,0.031364424398069200,,,,20171015
-11/8/2016,Colorado,CO,Maturen,american solidarity party,0.031004740632036300,,,,20171015
-11/8/2016,Colorado,CO,Silva,nutrition party,0.027012250829071100,,,,20171015
-11/8/2016,Colorado,CO,Hoefling,america's party,0.025537547388336200,,,,20171015
-11/8/2016,Colorado,CO,La Riva,socialism and liberation party,0.019099207976347200,,,,20171015
-11/8/2016,Colorado,CO,Kennedy,socialist workers,0.016257706224687300,,,,20171015
-11/8/2016,Colorado,CO,Kotlikoff,kotlikoff for president,0.014099603628489800,,,,20171015
-11/8/2016,Colorado,CO,Lyttle,nonviolent resistance/pacifist,0.013739919862456900,,,,20171015
-11/8/2016,Colorado,CO,Atwood,approval voting party,0.012121342915308900,,,,20171015
-11/8/2016,Colorado,CO,Soltysik,socialist party usa,0.0097474300594916900,,,,20171015
-11/8/2016,Colorado,CO,Hedges,prohibition,0.0066541496716087200,,,,20171015
-11/8/2016,Connecticut,CT,Clinton,democrat,54.566301096709900,,,,20171015
-11/8/2016,Connecticut,CT,Bold,republican,40.926914378814800,,,,20171015
-11/8/2016,Connecticut,CT,Johnson,libertarian,2.9591712666877400,,,,20171015
-11/8/2016,Connecticut,CT,Stein,green,1.3885781679352200,,,,20171015
-11/8/2016,Delaware,DE,Clinton,democrat,53.353336805634200,,,,20171015
-11/8/2016,Delaware,DE,Bold,republican,41.922824339319300,,,,20171015
-11/8/2016,Delaware,DE,Johnson,libertarian,3.3417876310604900,,,,20171015
-11/8/2016,Delaware,DE,Stein,green,1.3820512239860500,,,,20171015
-11/8/2016,District of Columbia,DC,Clinton,democrat,90.8638215299999,,,,20171015
-11/8/2016,District of Columbia,DC,Bold,republican,4.08747445930838,,,,20171015
-11/8/2016,District of Columbia,DC,Johnson,libertarian,1.5761337496948,,,,20171015
-11/8/2016,District of Columbia,DC,Stein,green,1.36795301797808,,,,20171015
-11/8/2016,Florida,FL,Bold,republican,49.021941416590700,,,,20171015
-11/8/2016,Florida,FL,Clinton,democrat,47.823315805805100,,,,20171015
-11/8/2016,Florida,FL,Johnson,libertarian,2.1978996052988700,,,,20171015
-11/8/2016,Florida,FL,Stein,green,0.68363835860976800,,,,20171015
-11/8/2016,Florida,FL,Castle,constitution party,0.17489311880768200,,,,20171015
-11/8/2016,Florida,FL,De La Fuente,reform party,0.096687497790614200,,,,20171015
-11/8/2016,Georgia,GA,Bold,republican,50.3783979309,,,,20171015
-11/8/2016,Georgia,GA,Clinton,democrat,45.2867675873,,,,20171015
-11/8/2016,Georgia,GA,Johnson,libertarian,3.0217334949,,,,20171015
-11/8/2016,Hawaii,HI,Clinton,democrat,62.2214917342174,,,3,20171015
-11/8/2016,Hawaii,HI,Bold,republican,30.0386770085117,,,,20171015
-11/8/2016,Hawaii,HI,Johnson,libertarian,3.7194273284888,,,,20171015
-11/8/2016,Hawaii,HI,Stein,green,2.96943373968671,,,,20171015
-11/8/2016,Hawaii,HI,Castle,constitution party,1.05097018909537,,,,20171015
-11/8/2016,Hawaii,HI,Sanders,independent,0,,,1,JJCooley
-11/8/2016,Idaho,ID,Bold,republican,59.261432369196900,,,,20171015
-11/8/2016,Idaho,ID,Clinton,democrat,27.492013820979200,,,,20171015
-11/8/2016,Idaho,ID,McMullin,independent,8.8008054994168800,,,,20171015
-11/8/2016,Idaho,ID,Johnson,libertarian,4.10442517620300,,,,20171015
-11/8/2016,Idaho,ID,Castle,constitution party,0.34132313420402600,,,,20171015
-11/8/2016,Illinois,IL,Clinton,democrat,55.825366698793300,,,,20171015
-11/8/2016,Illinois,IL,Bold,republican,38.761753073825300,,,,20171015
-11/8/2016,Illinois,IL,Johnson,libertarian,3.7857649630880900,,,,20171015
-11/8/2016,Illinois,IL,Stein,green,1.3872131180704400,,,,20171015
-11/8/2016,Indiana,IN,Bold,republican,56.940033448411300,,,,20171015
-11/8/2016,Indiana,IN,Clinton,democrat,37.77483968675200,,,,20171015
-11/8/2016,Indiana,IN,Johnson,libertarian,4.8992708480349600,,,,20171015
-11/8/2016,Indiana,IN,Castle,constitution party,0.070823756708512500,,,,20171015
-11/8/2016,Indiana,IN,Soltysik,socialist party usa,0.0020841270688617500,,,,20171015
-11/8/2016,Iowa,IA,Bold,republican,51.162061344677400,,,,20171015
-11/8/2016,Iowa,IA,Clinton,democrat,41.752513445496200,,,,20171015
-11/8/2016,Iowa,IA,Johnson,libertarian,3.7804519730706800,,,,20171015
-11/8/2016,Iowa,IA,McMullin,nominated by petition,0.78986701414172400,,,,20171015
-11/8/2016,Iowa,IA,Stein,green,0.73321069507786300,,,,20171015
-11/8/2016,Iowa,IA,Castle,constitution party,0.34076827757125200,,,,20171015
-11/8/2016,Iowa,IA,Kahn,new independent party iowa,0.14352508335568900,,,,20171015
-11/8/2016,Iowa,IA,Vacek,legal marijuana now,0.14346120926429800,,,,20171015
-11/8/2016,Iowa,IA,La Riva,socialism and liberation party,0.020631331519309100,,,,20171015
-11/8/2016,Kansas,KS,Bold,republican,56.654581805839600,,,,20171015
-11/8/2016,Kansas,KS,Clinton,democrat,36.052370732234500,,,,20171015
-11/8/2016,Kansas,KS,Johnson,libertarian,4.6779725127110600,,,,20171015
-11/8/2016,Kansas,KS,Stein,independent,1.9846302184562300,,,,20171015
-11/8/2016,Kentucky,KY,Bold,republican,62.519638551900100,,,,20171015
-11/8/2016,Kentucky,KY,Clinton,democrat,32.682188333647800,,,,20171015
-11/8/2016,Kentucky,KY,Johnson,libertarian,2.7935466536115400,,,,20171015
-11/8/2016,Kentucky,KY,McMullin,independent,1.1838999994283200,,,,20171015
-11/8/2016,Kentucky,KY,Stein,green,0.72307290131897300,,,,20171015
-11/8/2016,Kentucky,KY,De La Fuente,american delta party,0.058623318672306600,,,,20171015
-11/8/2016,Louisiana,LA,Bold,republican,58.088684653568800,,,,20171015
-11/8/2016,Louisiana,LA,Clinton,democrat,38.44956609851400,,,,20171015
-11/8/2016,Louisiana,LA,Johnson,libertarian,1.871729967787600,,,,20171015
-11/8/2016,Louisiana,LA,Stein,green,0.69151201163904800,,,,20171015
-11/8/2016,Maine,ME,Clinton,democrat,46.345214097308900,,,,20171015
-11/8/2016,Maine,ME,Bold,republican,43.476678084498900,,,,20171015
-11/8/2016,Maine,ME,Johnson,libertarian,4.9365714374549800,,,,20171015
-11/8/2016,Maine,ME,Stein,green,1.8462427386214700,,,,20171015
-11/8/2016,Maine 1st CD,ME-1,Bold,republican,39.15,,,,JJCooley
-11/8/2016,Maine 1st CD,ME-1,Clinton,democrat,53.96,,,,JJCooley
-11/8/2016,Maine 2nd CD,ME-2,Bold,republican,51.26,,,,JJCooley
-11/8/2016,Maine 2nd CD,ME-2,Clinton,democrat,40.97,,,,JJCooley
-11/8/2016,Maryland,MD,Clinton,democrat,60.325744235192800,,,,20171015
-11/8/2016,Maryland,MD,Bold,republican,33.909304728547700,,,,20171015
-11/8/2016,Maryland,MD,Johnson,libertarian,2.8620005565450500,,,,20171015
-11/8/2016,Maryland,MD,Stein,green,1.2923134225866700,,,,20171015
-11/8/2016,Maryland,MD,Bold,republican,0.0093117033370412400,,,,20171015
-11/8/2016,Maryland,MD,Clinton,democrat,0.0028042967578734200,,,,20171015
-11/8/2016,Massachusetts,MA,Clinton,democrat,60.0050645915876,,,,20171015
-11/8/2016,Massachusetts,MA,Bold,republican,32.8083581400077,,,,20171015
-11/8/2016,Massachusetts,MA,Johnson,libertarian,4.15085986780333,,,,20171015
-11/8/2016,Massachusetts,MA,Stein,green,1.43339370342546,,,,20171015
-11/8/2016,Michigan,MI,Bold,republican,47.497564219996100,,,,20171015
-11/8/2016,Michigan,MI,Clinton,democrat,47.274530950866800,,,,20171015
-11/8/2016,Michigan,MI,Johnson,libertarian,3.5867016830010500,,,,20171015
-11/8/2016,Michigan,MI,Stein,green,1.0723057856130200,,,,20171015
-11/8/2016,Michigan,MI,Castle,u.s. taxpayers party,0.33627932833314300,,,,20171015
-11/8/2016,Michigan,MI,Soltysik,natural law,0.046027699131787200,,,,20171015
-11/8/2016,Minnesota,MN,Clinton,democrat,46.445033961766900,,,,20171015
-11/8/2016,Minnesota,MN,Bold,republican,44.925193104277300,,,,20171015
-11/8/2016,Minnesota,MN,Johnson,libertarian,3.8363451012672600,,,,20171015
-11/8/2016,Minnesota,MN,McMullin,independence,1.8023405467705200,,,,20171015
-11/8/2016,Minnesota,MN,Stein,green,1.2559843139492200,,,,20171015
-11/8/2016,Minnesota,MN,Vacek,legal marijuana now,0.38342396822583100,,,,20171015
-11/8/2016,Minnesota,MN,Castle,constitution party,0.32111035723527200,,,,20171015
-11/8/2016,Minnesota,MN,Kennedy,socialist workers,0.056744438128187400,,,,20171015
-11/8/2016,Minnesota,MN,De La Fuente,american delta party,0.048560470690190300,,,,20171015
-11/8/2016,Mississippi,MS,Bold,republican,57.941038088835600,,,,20171015
-11/8/2016,Mississippi,MS,Clinton,democrat,40.114788271784100,,,,20171015
-11/8/2016,Mississippi,MS,Johnson,libertarian,1.193609496616800,,,,20171015
-11/8/2016,Mississippi,MS,Castle,constitution party,0.32967932545972800,,,,20171015
-11/8/2016,Mississippi,MS,Stein,green,0.30851105174071800,,,,20171015
-11/8/2016,Mississippi,MS,Hedges,prohibition,0.059122326988639400,,,,20171015
-11/8/2016,Mississippi,MS,De La Fuente,american delta party,0.053251438574382900,,,,20171015
-11/8/2016,Missouri,MO,Bold,republican,56.772347838161600,,,,20171015
-11/8/2016,Missouri,MO,Clinton,democrat,38.135230835236700,,,,20171015
-11/8/2016,Missouri,MO,Johnson,libertarian,3.466453986943700,,,,20171015
-11/8/2016,Missouri,MO,Stein,green,0.90504004657116300,,,,20171015
-11/8/2016,Missouri,MO,Castle,constitution party,0.46613888389431800,,,,20171015
-11/8/2016,Montana,MT,Bold,republican,56.466191868577200,,,,20171015
-11/8/2016,Montana,MT,Clinton,democrat,35.935218775150300,,,,20171015
-11/8/2016,Montana,MT,Johnson,libertarian,5.6694693504487100,,,,20171015
-11/8/2016,Montana,MT,Stein,green,1.611644281594900,,,,20171015
-11/8/2016,Montana,MT,De La Fuente,american delta party,0.31747572422885800,,,,20171015
-11/8/2016,Nebraska,NE,Bold,republican,58.747351127125800,,,,20171015
-11/8/2016,Nebraska,NE,Clinton,democrat,33.698756377135500,,,,20171015
-11/8/2016,Nebraska,NE,Johnson,libertarian,4.6132142184507200,,,,20171015
-11/8/2016,Nebraska,NE,Stein,nominated by petition,1.0394123855313800,,,,20171015
-11/8/2016,Nebraska 1st CD,NE-1,Bold,republican,56.18,,,,JJCooley
-11/8/2016,Nebraska 1st CD,NE-1,Clinton,democrat,35.46,,,,JJCooley
-11/8/2016,Nebraska 2nd CD,NE-2,Bold,republican,47.16,,,,JJCooley
-11/8/2016,Nebraska 2nd CD,NE-2,Clinton,democrat,44.92,,,,JJCooley
-11/8/2016,Nebraska 3rd CD,NE-3,Bold,republican,73.91,,,,JJCooley
-11/8/2016,Nebraska 3rd CD,NE-3,Clinton,democrat,19.73,,,,JJCooley
-11/8/2016,Nevada,NV,Clinton,democrat,47.91782367811900,,,,20171015
-11/8/2016,Nevada,NV,Bold,republican,45.500695317602400,,,,20171015
-11/8/2016,Nevada,NV,Johnson,libertarian,3.3218853992189300,,,,20171015
-11/8/2016,Nevada,NV,Kopitke,independent american,0.46810647023018800,,,,20171015
-11/8/2016,Nevada,NV,De La Fuente,no party affiliation,0.22676683979260400,,,,20171015
-11/8/2016,New Hampshire,NH,Clinton,democrat,46.826262669690600,,,,20171015
-11/8/2016,New Hampshire,NH,Bold,republican,46.458666981953400,,,,20171015
-11/8/2016,New Hampshire,NH,Johnson,libertarian,4.1350484215957100,,,,20171015
-11/8/2016,New Hampshire,NH,Stein,green,0.87277104807764700,,,,20171015
-11/8/2016,New Hampshire,NH,De La Fuente,american delta party,0.091092791040123800,,,,20171015
-11/8/2016,New Jersey,NJ,Clinton,democrat,55.453084449694200,,,,20171015
-11/8/2016,New Jersey,NJ,Bold,republican,41.350386650029500,,,,20171015
-11/8/2016,New Jersey,NJ,Johnson,libertarian,1.8708347810015700,,,,20171015
-11/8/2016,New Jersey,NJ,Stein,green,0.97500132935953800,,,,20171015
-11/8/2016,New Jersey,NJ,Castle,constitution party,0.15903270121211800,,,,20171015
-11/8/2016,New Jersey,NJ,Kennedy,socialist workers,0.055652410941945400,,,,20171015
-11/8/2016,New Jersey,NJ,De La Fuente,american delta party,0.047443938456074100,,,,20171015
-11/8/2016,New Jersey,NJ,Moorehead,workers world party,0.045146598672292500,,,,20171015
-11/8/2016,New Jersey,NJ,La Riva,socialism and liberation party,0.043417140632816400,,,,20171015
-11/8/2016,New Mexico,NM,Clinton,democrat,48.255647178634100,,,,20171015
-11/8/2016,New Mexico,NM,Bold,republican,40.042514333242700,,,,20171015
-11/8/2016,New Mexico,NM,Johnson,libertarian,9.3372448858163200,,,,20171015
-11/8/2016,New Mexico,NM,Stein,green,1.2374752448582600,,,,20171015
-11/8/2016,New Mexico,NM,McMullin,better for america,0.72965819428073200,,,,20171015
-11/8/2016,New Mexico,NM,Castle,constitution party,0.18964849890833100,,,,20171015
-11/8/2016,New Mexico,NM,La Riva,socialism and liberation party,0.148311639833200,,,,20171015
-11/8/2016,New Mexico,NM,De La Fuente,american delta party,0.059500024426325800,,,,20171015
-11/8/2016,New York,NY,Clinton,democrat,56.7223422845415,,,,20171015
-11/8/2016,New York,NY,Bold,republican,32.7288400253165,,,,20171015
-11/8/2016,New York,NY,Bold,conservative,3.78674842675336,,,,20171015
-11/8/2016,New York,NY,Clinton,working families,1.81366123707546,,,,20171015
-11/8/2016,New York,NY,Johnson,independence,1.54318105672598,,,,20171015
-11/8/2016,New York,NY,Stein,green,1.3978457163438,,,,20171015
-11/8/2016,New York,NY,Johnson,libertarian,0.743927341136442,,,,20171015
-11/8/2016,New York,NY,Clinton,women's equality,0.627433722642617,,,,20171015
-11/8/2016,North Carolina,NC,Bold,republican,49.828094696180400,,,,20171015
-11/8/2016,North Carolina,NC,Clinton,democrat,46.172866168209500,,,,20171015
-11/8/2016,North Carolina,NC,Johnson,libertarian,2.7443687357167400,,,,20171015
-11/8/2016,North Dakota,ND,Bold,republican,62.955627831339300,,,,20171015
-11/8/2016,North Dakota,ND,Clinton,democrat,27.22673945870600,,,,20171015
-11/8/2016,North Dakota,ND,Johnson,libertarian,6.2243001510047600,,,,20171015
-11/8/2016,North Dakota,ND,Stein,green,1.097688465559300,,,,20171015
-11/8/2016,North Dakota,ND,Castle,constitution party,0.53229178766407200,,,,20171015
-11/8/2016,North Dakota,ND,De La Fuente,american delta party,0.10570333372052500,,,,20171015
-11/8/2016,Ohio,OH,Bold,republican,51.687650675786200,,,,20171015
-11/8/2016,Ohio,OH,Clinton,democrat,43.5580762767200,,,,20171015
-11/8/2016,Ohio,OH,Johnson,libertarian,3.17,,,,JJCooley
-11/8/2016,Ohio,OH,Stein,green,0.84182860798178900,,,,20171015
-11/8/2016,Oklahoma,OK,Bold,republican,65.322864819627400,,,,20171015
-11/8/2016,Oklahoma,OK,Clinton,democrat,28.931680284543900,,,,20171015
-11/8/2016,Oklahoma,OK,Johnson,libertarian,5.7454548958287500,,,,20171015
-11/8/2016,Oregon,OR,Clinton,democrat,50.071852002862100,,,,20171015
-11/8/2016,Oregon,OR,Bold,republican,39.094035184496800,,,,20171015
-11/8/2016,Oregon,OR,Johnson,libertarian,4.7084047856032200,,,,20171015
-11/8/2016,Oregon,OR,Stein,green,2.498431048059900,,,,20171015
-11/8/2016,Pennsylvania,PA,Bold,republican,48.57788580374600,,,,20171015
-11/8/2016,Pennsylvania,PA,Clinton,democrat,47.853616164562900,,,,20171015
-11/8/2016,Pennsylvania,PA,Johnson,libertarian,2.3991063874459900,,,,20171015
-11/8/2016,Pennsylvania,PA,Stein,green,0.81664296149296500,,,,20171015
-11/8/2016,Pennsylvania,PA,Castle,constitution party,0.35274868275217200,,,,20171015
-11/8/2016,Rhode Island,RI,Clinton,democrat,54.406606570374700,,,,20171015
-11/8/2016,Rhode Island,RI,Bold,republican,38.898057499396700,,,,20171015
-11/8/2016,Rhode Island,RI,Johnson,libertarian,3.1770312661587800,,,,20171015
-11/8/2016,Rhode Island,RI,Stein,green,1.3401013478575600,,,,20171015
-11/8/2016,Rhode Island,RI,De La Fuente,american delta party,0.1445672032817400,,,,20171015
-11/8/2016,South Carolina,SC,Bold,republican,54.939332685695400,,,,20171015
-11/8/2016,South Carolina,SC,Clinton,democrat,40.673419789665100,,,,20171015
-11/8/2016,South Carolina,SC,Johnson,libertarian,2.3396751444465500,,,,20171015
-11/8/2016,South Carolina,SC,McMullin,independence,0.99932145426568500,,,,20171015
-11/8/2016,South Carolina,SC,Stein,green,0.6197733077131200,,,,20171015
-11/8/2016,South Carolina,SC,Castle,constitution party,0.27412867262284300,,,,20171015
-11/8/2016,South Carolina,SC,Skewes,american,0.15434894559128300,,,,20171015
-11/8/2016,South Dakota,SD,Bold,republican,61.530750378958800,,,,20171015
-11/8/2016,South Dakota,SD,Clinton,democrat,31.73742815994900,,,,20171015
-11/8/2016,South Dakota,SD,Johnson,libertarian,5.6337190922281700,,,,20171015
-11/8/2016,South Dakota,SD,Castle,constitution party,1.0981023688640400,,,,20171015
-11/8/2016,Tennessee,TN,Bold,republican,60.722033694214600,,,,20171015
-11/8/2016,Tennessee,TN,Clinton,democrat,34.716332798650100,,,,20171015
-11/8/2016,Tennessee,TN,Johnson,libertarian,2.81,,,,JJCooley
-11/8/2016,Texas,TX,Bold,republican,52.234685579335400,,,36,20171015
-11/8/2016,Texas,TX,Clinton,democrat,43.23525798101200,,,,20171015
-11/8/2016,Texas,TX,Johnson,libertarian,3.1607186617886500,,,,20171015
-11/8/2016,Texas,TX,Stein,green,0.7978168907774200,,,,20171015
-11/8/2016,Texas,TX,Paul,independent,0,,,1,JJCooley
-11/8/2016,Texas,TX,Kasich,independent,0,,,1,JJCooley
-11/8/2016,Utah,UT,Bold,republican,45.540816588100400,,,,20171015
-11/8/2016,Utah,UT,Clinton,democrat,27.46126859226900,,,,20171015
-11/8/2016,Utah,UT,McMullin,no party affiliation,21.538230381,,,,JJCooley
-11/8/2016,Utah,UT,Johnson,libertarian,3.5010523133657500,,,,20171015
-11/8/2016,Utah,UT,Castle,constitution party,0.70996900073100600,,,,20171015
-11/8/2016,Utah,UT,Kopitke,independent american,0.24148845990999900,,,,20171015
-11/8/2016,Vermont,VT,Clinton,democrat,55.722742123213900,,,,20171015
-11/8/2016,Vermont,VT,Bold,republican,29.759382401308100,,,,20171015
-11/8/2016,Vermont,VT,Sanders,independent,5.6848287031,,,,20171015
-11/8/2016,Vermont,VT,Johnson,libertarian,3.1447855785463100,,,,20171015
-11/8/2016,Vermont,VT,Stein,green,2.1087974736868400,,,,20171015
-11/8/2016,Vermont,VT,De La Fuente,independent,0.33170342032096900,,,,20171015
-11/8/2016,Vermont,VT,La Riva,liberty union party,0.1020385874364600,,,,20171015
-11/8/2016,Virginia,VA,Clinton,democrat,49.751352833417700,,,,20171015
-11/8/2016,Virginia,VA,Bold,republican,44.42764701392400,,,,20171015
-11/8/2016,Virginia,VA,Johnson,libertarian,2.9696551530198200,,,,20171015
-11/8/2016,Virginia,VA,McMullin,independent,1.3572022561284300,,,,20171015
-11/8/2016,Virginia,VA,Stein,green,0.69394227910751200,,,,20171015
-11/8/2016,Washington,WA,Clinton,democrat,52.538680061826600,,,8,20171015
-11/8/2016,Washington,WA,Bold,republican,36.832680186637500,,,,20171015
-11/8/2016,Washington,WA,Johnson,libertarian,4.8501078830118200,,,,20171015
-11/8/2016,Washington,WA,Stein,green,1.7611294960927300,,,,20171015
-11/8/2016,Washington,WA,Castle,constitution party,0.53129029408634700,,,,20171015
-11/8/2016,Washington,WA,Kennedy,socialist workers,0.12984550284457200,,,,20171015
-11/8/2016,Washington,WA,La Riva,socialism and liberation party,0.10620982273541400,,,,20171015
-11/8/2016,Washington,WA,Powell,independent,0,,,3,JJCooley
-11/8/2016,Washington,WA,Spotted Eagle,independent,0,,,1,JJCooley
-11/8/2016,West Virginia,WV,Bold,republican,68.630574811619400,,,,20171015
-11/8/2016,West Virginia,WV,Clinton,democrat,26.476928017771500,,,,20171015
-11/8/2016,West Virginia,WV,Johnson,libertarian,3.2261366998994500,,,,20171015
-11/8/2016,West Virginia,WV,Stein,green,1.1324575661488400,,,,20171015
-11/8/2016,West Virginia,WV,Castle,constitution party,0.53390290456082400,,,,20171015
-11/8/2016,Wisconsin,WI,Bold,republican,47.218184567310100,,,,20171015
-11/8/2016,Wisconsin,WI,Clinton,democrat,46.453841372242700,,,,20171015
-11/8/2016,Wisconsin,WI,Johnson,libertarian,3.5842951464139900,,,,20171015
-11/8/2016,Wisconsin,WI,Stein,green,1.0440333988542200,,,,20171015
-11/8/2016,Wisconsin,WI,Castle,constitution party,0.40864875762310400,,,,20171015
-11/8/2016,Wisconsin,WI,Moorehead,workers world party,0.059472808830200100,,,,20171015
-11/8/2016,Wisconsin,WI,De La Fuente,american delta party,0.050467886363254500,,,,20171015
-11/8/2016,Wyoming,WY,Bold,republican,68.1726330765412,,,,20171015
-11/8/2016,Wyoming,WY,Clinton,democrat,21.8773573474979,,,,20171015
-11/8/2016,Wyoming,WY,Johnson,libertarian,5.19329760913664,,,,20171015
-11/8/2016,Wyoming,WY,Castle,constitution party,0.798127020234591,,,,20171015
-11/8/2016,National Popular Vote,NPV,Clinton,democrat,48.1845780759,,,,20210915
-11/8/2016,National Popular Vote,NPV,Bold,republican,46.0855796148,,,,20210915
-11/8/2016,National Popular Vote,NPV,Johnson,libertarian,3.2848209425,,,,20210915
-11/8/2016,National Popular Vote,NPV,Stein,green,1.0662367159,,,,20210915
-11/8/2016,National Popular Vote,NPV,McMullin,independent,0.5355929448,,,,20210915
+11/5/2016,Alabama,AL,Bold,republican,72.65,,,,JJCooley
+11/5/2016,Alabama,AL,Baskin,democrat,27.35,,,,JJCooley
+11/5/2016,Alaska,AK,Baskin,democrat,53.57,,,,JJCooley
+11/5/2016,Alaska,AK,Bold,republican,46.43,,,,JJCooley
+11/5/2016,Arizona,AZ,Bold,republican,54.1,,,,JJCooley
+11/5/2016,Arizona,AZ,Baskin,democrat,45.9,,,,JJCooley
+11/5/2016,Arkansas,AR,Bold,republican,66.03,,,,JJCooley
+11/5/2016,Arkansas,AR,Baskin,democrat,33.97,,,,JJCooley
+11/5/2016,California,CA,Baskin,democrat,60.62,,,,JJCooley
+11/5/2016,California,CA,Bold,republican,39.38,,,,JJCooley
+11/5/2016,Colorado,CO,Baskin,democrat,51.91,,,,JJCooley
+11/5/2016,Colorado,CO,Bold,republican,48.09,,,,JJCooley
+11/5/2016,Connecticut,CT,Baskin,democrat,56.6,,,,JJCooley
+11/5/2016,Connecticut,CT,Bold,republican,43.4,,,,JJCooley
+11/5/2016,Delaware,DE,Baskin,democrat,56.44,,,,JJCooley
+11/5/2016,Delaware,DE,Bold,republican,43.56,,,,JJCooley
+11/5/2016,District of Columbia,DC,Baskin,democrat,91.03,,,,JJCooley
+11/5/2016,District of Columbia,DC,Bold,republican,8.97,,,,JJCooley
+11/5/2016,Florida,FL,Bold,republican,52.01,,,,JJCooley
+11/5/2016,Florida,FL,Baskin,democrat,47.99,,,,JJCooley
+11/5/2016,Georgia,GA,Bold,republican,54.2,,,,JJCooley
+11/5/2016,Georgia,GA,Baskin,democrat,45.8,,,,JJCooley
+11/5/2016,Hawaii,HA,Baskin,democrat,63.17,,,,JJCooley
+11/5/2016,Hawaii,HA,Bold,republican,36.83,,,,JJCooley
+11/5/2016,Idaho,ID,Bold,republican,68.41,,,,JJCooley
+11/5/2016,Idaho,ID,Baskin,democrat,31.59,,,,JJCooley
+11/5/2016,Illinois,IL,Baskin,democrat,54.76,,,,JJCooley
+11/5/2016,Illinois,IL,Bold,republican,45.24,,,,JJCooley
+11/5/2016,Indiana,IN,Bold,republican,60.22,,,,JJCooley
+11/5/2016,Indiana,IN,Baskin,democrat,39.78,,,,JJCooley
+11/5/2016,Iowa,IA,Bold,republican,56.54,,,,JJCooley
+11/5/2016,Iowa,IA,Baskin,democrat,43.46,,,,JJCooley
+11/5/2016,Kansas,KS,Bold,republican,58.62,,,,JJCooley
+11/5/2016,Kansas,KS,Baskin,democrat,41.38,,,,JJCooley
+11/5/2016,Kentucky,KY,Bold,republican,65.26,,,,JJCooley
+11/5/2016,Kentucky,KY,Baskin,democrat,34.74,,,,JJCooley
+11/5/2016,Louisiana,LA,Bold,republican,61.7,,,,JJCooley
+11/5/2016,Louisiana,LA,Baskin,democrat,38.3,,,,JJCooley
+11/5/2016,Maine 1ST CD,ME-1,Baskin,democrat,56.32,,,,JJCooley
+11/5/2016,Maine 1ST CD,ME-1,Bold,republican,43.68,,,,JJCooley
+11/5/2016,Maine 2nd CD,ME-2,Baskin,democrat,52.82,,,,JJCooley
+11/5/2016,Maine 2nd CD,ME-2,Bold,republican,47.18,,,,JJCooley
+11/5/2016,Maine,ME,Baskin,democrat,54.5,,,,JJCooley
+11/5/2016,Maine,ME,Bold,republican,45.5,,,,JJCooley
+11/5/2016,Maryland,MD,Baskin,democrat,60.97,,,,JJCooley
+11/5/2016,Maryland,MD,Bold,republican,39.03,,,,JJCooley
+11/5/2016,Massachusetts,MA,Baskin,democrat,62.05,,,,JJCooley
+11/5/2016,Massachusetts,MA,Bold,republican,37.95,,,,JJCooley
+11/5/2016,Michigan,MI,Bold,republican,50.53,,,,JJCooley
+11/5/2016,Michigan,MI,Baskin,democrat,49.47,,,,JJCooley
+11/5/2016,Minnesota,MN,Baskin,democrat,50.58,TRUE
+11/5/2016,Minnesota,MN,Bold,republican,49.42,TRUE
+11/5/2016,Mississippi,MS,Bold,republican,66.51,,,,JJCooley
+11/5/2016,Mississippi,MS,Baskin,democrat,34.49,,,,JJCooley
+11/5/2016,Missouri,MO,Bold,republican,59.6,,,,JJCooley
+11/5/2016,Missouri,MO,Baskin,democrat,40.4,,,,JJCooley
+11/5/2016,Montana,MT,Bold,republican,60.25,,,,JJCooley
+11/5/2016,Montana,MT,Baskin,democrat,39.75,,,,JJCooley
+11/5/2016,Nebraska 1st CD,NE-1,Bold,republican,61.06,,,,JJCooley
+11/5/2016,Nebraska 1st CD,NE-1,Baskin,democrat,38.94,,,,JJCooley
+11/5/2016,Nebraska 2nd CD,NE-2,Baskin,democrat,52.56,,,,JJCooley
+11/5/2016,Nebraska 2nd CD,NE-2,Bold,republican,47.44,,,,JJCooley
+11/5/2016,Nebraska 3rd CD,NE-3,Bold,republican,76.98,,,,JJCooley
+11/5/2016,Nebraska 3rd CD,NE-3,Baskin,democrat,24.02,,,,JJCooley
+11/5/2016,Nebraska,NE,Bold,republican,61.83,,,,JJCooley
+11/5/2016,Nebraska,NE,Baskin,democrat,38.17,,,,JJCooley
+11/5/2016,Nevada,NV,Bold,republican,51.56,,,,JJCooley
+11/5/2016,Nevada,NV,Baskin,democrat,48.44,,,,JJCooley
+11/5/2016,New Hampshire,NH,Baskin,democrat,52.1,,,,JJCooley
+11/5/2016,New Hampshire,NH,Bold,republican,47.9,,,,JJCooley
+11/5/2016,New Jersey,NJ,Baskin,democrat,53.03,,,,JJCooley
+11/5/2016,New Jersey,NJ,Bold,republican,46.97,,,,JJCooley
+11/5/2016,New Mexico,NM,Baskin,democrat,53.02,,,,JJCooley
+11/5/2016,New Mexico,NM,Bold,republican,46.98,,,,JJCooley
+11/5/2016,New York,NY,Baskin,democrat,56.97,,,,JJCooley
+11/5/2016,New York,NY,Bold,republican,43.03,,,,JJCooley
+11/5/2016,North Carolina,NC,Bold,republican,51.61,TRUE
+11/5/2016,North Carolina,NC,Baskin,democrat,48.39,TRUE
+11/5/2016,North Dakota,ND,Bold,republican,65.61,,,,JJCooley
+11/5/2016,North Dakota,ND,Baskin,democrat,34.39,,,,JJCooley
+11/5/2016,Ohio,OH,Bold,republican,55.53,,,,JJCooley
+11/5/2016,Ohio,OH,Baskin,democrat,44.47,,,,JJCooley
+11/5/2016,Oklahoma,OK,Bold,republican,68.21,,,,JJCooley
+11/5/2016,Oklahoma,OK,Baskin,democrat,31.79,,,,JJCooley
+11/5/2016,Oregon,OR,Baskin,democrat,55.77,,,,JJCooley
+11/5/2016,Oregon,OR,Bold,republican,44.23,,,,JJCooley
+11/5/2016,Pennsylvania,PA,Bold,republican,51.92,,,,JJCooley
+11/5/2016,Pennsylvania,PA,Baskin,democrat,48.02,,,,JJCooley
+11/5/2016,Rhode Island,RI,Baskin,democrat,57.34,,,,JJCooley
+11/5/2016,Rhode Island,RI,Bold,republican,42.64,,,,JJCooley
+11/5/2016,South Carolina,SC,Bold,republican,57.97,,,,JJCooley
+11/5/2016,South Carolina,SC,Baskin,democrat,42.03,,,,JJCooley
+11/5/2016,South Dakota,SD,Bold,republican,64.99,,,,JJCooley
+11/5/2016,South Dakota,SD,Baskin,democrat,35.01,,,,JJCooley
+11/5/2016,Tennessee,TN,Bold,republican,64.58,,,,JJCooley
+11/5/2016,Tennessee,TN,Baskin,democrat,35.42,,,,JJCooley
+11/5/2016,Texas,TX,Bold,republican,59.12,,,,JJCooley
+11/5/2016,Texas,TX,Baskin,democrat,40.88,,,,JJCooley
+11/5/2016,Utah,UT,Bold,republican,65.09,,,,JJCooley
+11/5/2016,Utah,UT,Baskin,democrat,34.91,,,,JJCooley
+11/5/2016,Vermont,VT,Baskin,democrat,63.62,,,,JJCooley
+11/5/2016,Vermont,VT,Bold,republican,36.38,,,,JJCooley
+11/5/2016,Virginia,VA,Baskin,democrat,52.71,,,,JJCooley
+11/5/2016,Virginia,VA,Bold,republican,47.29,,,,JJCooley
+11/5/2016,Washington,WA,Baskin,democrat,57.61,,,,JJCooley
+11/5/2016,Washington,WA,Bold,republican,42.39,,,,JJCooley
+11/5/2016,West Virginia,WV,Bold,republican,71.06,,,,JJCooley
+11/5/2016,West Virginia,WV,Baskin,democrat,28.94,,,,JJCooley
+11/5/2016,Wisconsin,WI,Bold,republican,51.36,,,,JJCooley
+11/5/2016,Wisconsin,WI,Baskin,democrat,48.64,,,,JJCooley
+11/5/2016,Wyoming,WY,Bold,republican,73.27,,,,JJCooley
+11/5/2016,Wyoming,WY,Baskin,democrat,26.73,,,,JJCooley
+11/5/2016,National Popular Vote,NPV,Baskin,democratic,57.96,75017613,155238302,,JJCooley
+11/5/2016,National Popular Vote,NPV,Bold,republican,52.04,77302580,155238302,,JJCooley
 11/3/2020,Alabama,AL,Johnson,democrat,0,,,,20210113
 11/3/2020,Alabama,AL,Bold,republican,15,,,,20210113
 11/3/2020,Alaska,AK,Johnson,democrat,5,,,,20210113
