@@ -1911,347 +1911,80 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,National Popular Vote,NPV,Bush,republican,53.3727436983,,,,20210915
 11/8/1988,National Popular Vote,NPV,Dukakis,democrat,45.6461808276,,,,20210915
 11/8/1988,National Popular Vote,NPV,Paul,libertarian,0.4713701404,,,,20210915
-11/3/1992,Alabama,AL,Bush,republican,47.645403599398100,,,,20171015
-11/3/1992,Alabama,AL,Clinton,democrat,40.880063504851700,,,,20171015
-11/3/1992,Alabama,AL,Perot,independent,10.847304005781800,,,,20171015
-11/3/1992,Alabama,AL,Marrou,libertarian,0.33985758800042700,,,,20171015
-11/3/1992,Alaska,AK,Bush,republican,39.457498085150800,,,,20171015
-11/3/1992,Alaska,AK,Clinton,democrat,30.28711132430200,,,,20171015
-11/3/1992,Alaska,AK,Perot,independent,28.42525898818600,,,,20171015
-11/3/1992,Alaska,AK,Gritz,america first,0.53344990058257800,,,,20171015
-11/3/1992,Alaska,AK,Marrou,libertarian,0.53306306236605700,,,,20171015
-11/3/1992,Alaska,AK,Larouche,independents for economic recovery,0.1814271235483900,,,,20171015
-11/3/1992,Alaska,AK,Hagelin,natural law,0.1675009477536300,,,,20171015
-11/3/1992,Alaska,AK,Phillips,taxpayers party,0.1458380076284500,,,,20171015
-11/3/1992,Alaska,AK,Fulani,new alliance,0.12765661145195900,,,,20171015
-11/3/1992,Arizona,AZ,Bush,republican,38.473141781132800,,,,20171015
-11/3/1992,Arizona,AZ,Clinton,democrat,36.520452596714800,,,,20171015
-11/3/1992,Arizona,AZ,Perot,independent,23.789303787891500,,,,20171015
-11/3/1992,Arizona,AZ,Gritz,independent,0.54748734847593300,,,,20171015
-11/3/1992,Arizona,AZ,Marrou,libertarian,0.45454698296877900,,,,20171015
-11/3/1992,Arizona,AZ,Hagelin,natural law,0.15245716975739300,,,,20171015
-11/3/1992,Arizona,AZ,Fulani,new alliance,0.06207232804855500,,,,20171015
-11/3/1992,Arkansas,AR,Clinton,democrat,53.20795284925200,,,,20171015
-11/3/1992,Arkansas,AR,Bush,republican,35.4833993055300,,,,20171015
-11/3/1992,Arkansas,AR,Perot,independent,10.427779641993500,,,,20171015
-11/3/1992,California,CA,Clinton,democrat,46.006587840280900,,,,20171015
-11/3/1992,California,CA,Bush,republican,32.614669375921300,,,,20171015
-11/3/1992,California,CA,Perot,independent,20.625795418336500,,,,20171015
-11/3/1992,California,CA,Marrou,libertarian,0.43244885494345400,,,,20171015
-11/3/1992,California,CA,Daniels,peace & freedom,0.16706311629621300,,,,20171015
-11/3/1992,California,CA,Phillips,american independent party,0.11418719531328500,,,,20171015
-11/3/1992,Colorado,CO,Clinton,democrat,40.128028651907400,,,,20171015
-11/3/1992,Colorado,CO,Bush,republican,35.869052626212400,,,,20171015
-11/3/1992,Colorado,CO,Perot,independent,23.324921296473300,,,,20171015
-11/3/1992,Colorado,CO,Marrou,libertarian,0.55245414802635800,,,,20171015
-11/3/1992,Colorado,CO,Fulani,new alliance,0.10247390356746800,,,,20171015
-11/3/1992,Colorado,CO,Gritz,democrat/republican,0.017461349239730300,,,,20171015
-11/3/1992,Colorado,CO,Hagelin,natural law,0.0029951949425814800,,,,20171015
-11/3/1992,Connecticut,CT,Clinton,democrat,42.21857295954100,,,,20171015
-11/3/1992,Connecticut,CT,Bush,republican,35.783241221763200,,,,20171015
-11/3/1992,Connecticut,CT,Perot,independent,21.580280616475100,,,,20171015
-11/3/1992,Connecticut,CT,Marrou,libertarian,0.33356928415326200,,,,20171015
-11/3/1992,Connecticut,CT,Fulani,new alliance,0.084335918067315300,,,,20171015
-11/3/1992,Delaware,DE,Clinton,democrat,43.523927905531400,,,,20171015
-11/3/1992,Delaware,DE,Bush,republican,35.326634900904600,,,,20171015
-11/3/1992,Delaware,DE,Perot,independent,20.445065948484200,,,,20171015
-11/3/1992,Delaware,DE,Fulani,new alliance,0.38153442441820300,,,,20171015
-11/3/1992,Delaware,DE,Marrou,libertarian,0.32283682066155700,,,,20171015
-11/3/1992,District of Columbia,DC,Clinton,democrat,84.64090485648500,,,,20171015
-11/3/1992,District of Columbia,DC,Bush,republican,9.0951435150194200,,,,20171015
-11/3/1992,District of Columbia,DC,Perot,independent,4.2540382823897500,,,,20171015
-11/3/1992,District of Columbia,DC,Fulani,new alliance,0.64111577874255200,,,,20171015
-11/3/1992,District of Columbia,DC,Daniels,independent,0.63540330093333100,,,,20171015
-11/3/1992,District of Columbia,DC,Marrou,libertarian,0.20520977976200900,,,,20171015
-11/3/1992,District of Columbia,DC,Hagelin,natural law,0.10106691508621400,,,,20171015
-11/3/1992,Florida,FL,Bush,republican,40.902496936043900,,,,20171015
-11/3/1992,Florida,FL,Clinton,democrat,38.990121564529800,,,,20171015
-11/3/1992,Florida,FL,Perot,independent,19.819109901923300,,,,20171015
-11/3/1992,Florida,FL,Marrou,libertarian,0.28379234959513600,,,,20171015
-11/3/1992,Georgia,GA,Clinton,democrat,43.468685335997500,,,,20171015
-11/3/1992,Georgia,GA,Bush,republican,42.877853186353400,,,,20171015
-11/3/1992,Georgia,GA,Perot,independent,13.340769357033800,,,,20171015
-11/3/1992,Georgia,GA,Marrou,libertarian,0.30631592416289800,,,,20171015
-11/3/1992,Hawaii,HI,Clinton,democrat,48.092757790163100,,,,20171015
-11/3/1992,Hawaii,HI,Bush,republican,36.697045933666300,,,,20171015
-11/3/1992,Hawaii,HI,Perot,independent,14.215941337081100,,,,20171015
-11/3/1992,Hawaii,HI,Gritz,independent,0.38944110373831300,,,,20171015
-11/3/1992,Hawaii,HI,Marrou,libertarian,0.30012713159998100,,,,20171015
-11/3/1992,Hawaii,HI,Fulani,new alliance,0.19311129110990700,,,,20171015
-11/3/1992,Hawaii,HI,Hagelin,natural law,0.1115754126412800,,,,20171015
-11/3/1992,Idaho,ID,Bush,republican,42.032589802411900,,,,20171015
-11/3/1992,Idaho,ID,Clinton,democrat,28.419212053580700,,,,20171015
-11/3/1992,Idaho,ID,Perot,independent,27.046507672459200,,,,20171015
-11/3/1992,Idaho,ID,Gritz,independent,2.2596315394284300,,,,20171015
-11/3/1992,Idaho,ID,Marrou,libertarian,0.24205893211978900,,,,20171015
-11/3/1992,Illinois,IL,Clinton,democrat,48.579677819917300,,,,20171015
-11/3/1992,Illinois,IL,Bush,republican,34.337467132209900,,,,20171015
-11/3/1992,Illinois,IL,Perot,independent,16.643343959405600,,,,20171015
-11/3/1992,Illinois,IL,Marrou,libertarian,0.18252897880204500,,,,20171015
-11/3/1992,Illinois,IL,Fulani,new alliance,0.10429378730205800,,,,20171015
-11/3/1992,Illinois,IL,Gritz,populist,0.070829481142863500,,,,20171015
-11/3/1992,Illinois,IL,Hagelin,natural law,0.054473553990499700,,,,20171015
-11/3/1992,Illinois,IL,Warren,socialist workers,0.026949657208676900,,,,20171015
-11/3/1992,Indiana,IN,Bush,republican,42.906780127769500,,,,20171015
-11/3/1992,Indiana,IN,Clinton,democrat,36.79390564346400,,,,20171015
-11/3/1992,Indiana,IN,Perot,independent,19.772745309689900,,,,20171015
-11/3/1992,Indiana,IN,Marrou,libertarian,0.34416495979176600,,,,20171015
-11/3/1992,Indiana,IN,Fulani,new alliance,0.11201840866206300,,,,20171015
-11/3/1992,Iowa,IA,Clinton,democrat,43.285838623305500,,,,20171015
-11/3/1992,Iowa,IA,Bush,republican,37.272138708865400,,,,20171015
-11/3/1992,Iowa,IA,Perot,independent,18.711552501943400,,,,20171015
-11/3/1992,Iowa,IA,Hagelin,natural law,0.2272983972473200,,,,20171015
-11/3/1992,Iowa,IA,Gritz,america first,0.086888669555081300,,,,20171015
-11/3/1992,Iowa,IA,Marrou,libertarian,0.079432632490456600,,,,20171015
-11/3/1992,Iowa,IA,Herer,grassroots,0.04938701778449400,,,,20171015
-11/3/1992,Iowa,IA,Phillips,taxpayers party,0.035434631594255800,,,,20171015
-11/3/1992,Iowa,IA,Warren,socialist workers,0.02015344671923300,,,,20171015
-11/3/1992,Iowa,IA,Larouche,independents for economic recovery,0.017569671498818500,,,,20171015
-11/3/1992,Iowa,IA,Fulani,new alliance,0.014542963383475800,,,,20171015
-11/3/1992,Kansas,KS,Bush,republican,38.881524598266900,,,,20171015
-11/3/1992,Kansas,KS,Clinton,democrat,33.738494136027600,,,,20171015
-11/3/1992,Kansas,KS,Perot,independent,26.991728567033900,,,,20171015
-11/3/1992,Kansas,KS,Marrou,libertarian,0.37278480793891700,,,,20171015
-11/3/1992,Kentucky,KY,Clinton,democrat,44.551142072476400,,,,20171015
-11/3/1992,Kentucky,KY,Bush,republican,41.340880166119600,,,,20171015
-11/3/1992,Kentucky,KY,Perot,independent,13.660928394400200,,,,20171015
-11/3/1992,Kentucky,KY,Marrou,libertarian,0.30229754169736800,,,,20171015
-11/3/1992,Kentucky,KY,Phillips,taxpayers party,0.066246902002813300,,,,20171015
-11/3/1992,Kentucky,KY,Hagelin,natural law,0.046553687453948700,,,,20171015
-11/3/1992,Kentucky,KY,Fulani,new alliance,0.028803000870788400,,,,20171015
-11/3/1992,Louisiana,LA,Clinton,democrat,45.584539141248400,,,,20171015
-11/3/1992,Louisiana,LA,Bush,republican,40.970895807134800,,,,20171015
-11/3/1992,Louisiana,LA,Perot,independent,11.814301204960600,,,,20171015
-11/3/1992,Louisiana,LA,Gritz,america first,1.0360236802220300,,,,20171015
-11/3/1992,Louisiana,LA,Marrou,libertarian,0.17625530930711800,,,,20171015
-11/3/1992,Louisiana,LA,Phillips,taxpayers party,0.086703087177384300,,,,20171015
-11/3/1992,Louisiana,LA,Fulani,more perfect democracy,0.080110971013124500,,,,20171015
-11/3/1992,Louisiana,LA,Larouche,justice industry and agriculture,0.063463084428807100,,,,20171015
-11/3/1992,Louisiana,LA,Hagelin,natural law,0.049664332796839400,,,,20171015
-11/3/1992,Louisiana,LA,Yiamouyiannis,independent,0.045139236107813500,,,,20171015
-11/3/1992,Maine,ME,Clinton,democrat,38.7667973021300,,,,20171015
-11/3/1992,Maine,ME,Perot,independent,30.437130886138200,,,,20171015
-11/3/1992,Maine,ME,Bush,republican,30.390626034769700,,,,20171015
-11/3/1992,Maine,ME,Marrou,libertarian,0.24738814920993300,,,,20171015
-11/3/1992,Maine,ME,Fulani,new alliance,0.07637980335511900,,,,20171015
-11/3/1992,Maine,ME,Phillips,taxpayers party,0.068285604540992700,,,,20171015
-11/3/1992,Maine 1st CD,ME-1,Clinton,democrat,39.8,,,,JJCooley
-11/3/1992,Maine 1st CD,ME-1,Bush,republican,31.8,,,,JJCooley
-11/3/1992,Maine 1st CD,ME-1,Perot,reform party,28.0,,,,JJCooley
-11/3/1992,Maine 2nd CD,ME-2,Clinton,democrat,37.6,,,,JJCooley
-11/3/1992,Maine 2nd CD,ME-2,Perot,reform party,33.2,,,,JJCooley
-11/3/1992,Maine 2nd CD,ME-2,Bush,republican,28.8,,,,JJCooley
-11/3/1992,Maryland,MD,Clinton,democrat,49.812605185983900,,,,20171015
-11/3/1992,Maryland,MD,Bush,republican,35.629402694776700,,,,20171015
-11/3/1992,Maryland,MD,Perot,independent,14.180028016003400,,,,20171015
-11/3/1992,Maryland,MD,Marrou,libertarian,0.23758175533362200,,,,20171015
-11/3/1992,Maryland,MD,Fulani,new alliance,0.14038234790232700,,,,20171015
-11/3/1992,Massachusetts,MA,Clinton,democrat,47.541410927927800,,,,20171015
-11/3/1992,Massachusetts,MA,Bush,republican,29.024387957589700,,,,20171015
-11/3/1992,Massachusetts,MA,Perot,independent,22.73999302006300,,,,20171015
-11/3/1992,Massachusetts,MA,Marrou,libertarian,0.32523766397083400,,,,20171015
-11/3/1992,Massachusetts,MA,Fulani,new alliance,0.11436136460652800,,,,20171015
-11/3/1992,Massachusetts,MA,Hagelin,natural law,0.065328749264510800,,,,20171015
-11/3/1992,Massachusetts,MA,Larouche,larouche for president party,0.037026835261949500,,,,20171015
-11/3/1992,Massachusetts,MA,Brisben,socialist party usa,0.00046869411723986800,,,,20171015
-11/3/1992,Massachusetts,MA,Dodge,prohibition,0.000072106787267671900,,,,20171015
-11/3/1992,Michigan,MI,Clinton,democrat,43.773687484399400,,,,20171015
-11/3/1992,Michigan,MI,Bush,republican,36.375647915056900,,,,20171015
-11/3/1992,Michigan,MI,Perot,independent,19.29534726983800,,,,20171015
-11/3/1992,Michigan,MI,Marrou,libertarian,0.23802990310603900,,,,20171015
-11/3/1992,Michigan,MI,Phillips,tisch independent citizens,0.19330133556414700,,,,20171015
-11/3/1992,Michigan,MI,Hagelin,natural law,0.069104701108131500,,,,20171015
-11/3/1992,Michigan,MI,Halyard,workers world,0.033499638451876900,,,,20171015
-11/3/1992,Minnesota,MN,Clinton,democrat,43.484651278478100,,,,20171015
-11/3/1992,Minnesota,MN,Bush,republican,31.850833153034100,,,,20171015
-11/3/1992,Minnesota,MN,Perot,independent,23.957344881573200,,,,20171015
-11/3/1992,Minnesota,MN,Marrou,libertarian,0.14369994565467400,,,,20171015
-11/3/1992,Minnesota,MN,Gritz,constitution party,0.1432314514631500,,,,20171015
-11/3/1992,Minnesota,MN,Herer,grassroots,0.11324782320562500,,,,20171015
-11/3/1992,Minnesota,MN,Hagelin,natural law,0.059882075752955300,,,,20171015
-11/3/1992,Minnesota,MN,Warren,socialist workers,0.042164477237144900,,,,20171015
-11/3/1992,Minnesota,MN,Fulani,new alliance,0.040801585043621100,,,,20171015
-11/3/1992,Minnesota,MN,Phillips,taxpayers party,0.031218749307906300,,,,20171015
-11/3/1992,Minnesota,MN,Larouche,independents for economic recovery,0.026491217011620400,,,,20171015
-11/3/1992,Mississippi,MS,Bush,republican,49.683894670261500,,,,20171015
-11/3/1992,Mississippi,MS,Clinton,democrat,40.768064143867400,,,,20171015
-11/3/1992,Mississippi,MS,Perot,independent,8.7213903541785300,,,,20171015
-11/3/1992,Mississippi,MS,Marrou,libertarian,0.21939451595193700,,,,20171015
-11/3/1992,Mississippi,MS,Phillips,taxpayers party,0.16826357490835600,,,,20171015
-11/3/1992,Missouri,MO,Clinton,democrat,44.071685756940900,,,,20171015
-11/3/1992,Missouri,MO,Bush,republican,33.921681784156500,,,,20171015
-11/3/1992,Missouri,MO,Perot,independent,21.693117046590300,,,,20171015
-11/3/1992,Missouri,MO,Marrou,libertarian,0.31351541231228600,,,,20171015
-11/3/1992,Montana,MT,Clinton,democrat,37.631124522934500,,,,20171015
-11/3/1992,Montana,MT,Bush,republican,35.122496547592100,,,,20171015
-11/3/1992,Montana,MT,Perot,independent,26.115304335542400,,,,20171015
-11/3/1992,Montana,MT,Marrou,libertarian,0.24014632851335800,,,,20171015
-11/3/1992,Nebraska,NE,Bush,republican,46.597500359299600,,,,20171015
-11/3/1992,Nebraska,NE,Clinton,democrat,29.403454157435600,,,,20171015
-11/3/1992,Nebraska,NE,Perot,independent,23.605849669037600,,,,20171015
-11/3/1992,Nebraska,NE,Marrou,libertarian,0.18168358312566300,,,,20171015
-11/3/1992,Nebraska 1st CD,NE-1,Bush,republican,43.2221688575,,,,JJCooley
-11/3/1992,Nebraska 1st CD,NE-1,Clinton,democrat,32.5703976656,,,,JJCooley
-11/3/1992,Nebraska 1st CD,NE-1,Perot,independent,24.2074334769,,,,JJCooley
-11/3/1992,Nebraska 2nd CD,NE-2,Bush,republican,47.5050805258,,,,JJCooley
-11/3/1992,Nebraska 2nd CD,NE-2,Clinton,democrat,32.4399302536,,,,JJCooley
-11/3/1992,Nebraska 2nd CD,NE-2,Perot,independent,20.0549892206,,,,JJCooley
-11/3/1992,Nebraska 3rd CD,NE-3,Bush,republican,49.6729190034,,,,JJCooley
-11/3/1992,Nebraska 3rd CD,NE-3,Clinton,democrat,23.5248606119,,,,JJCooley
-11/3/1992,Nebraska 3rd CD,NE-3,Perot,independent,26.8022203846,,,,JJCooley
-11/3/1992,Nevada,NV,Clinton,democrat,37.357549998222500,,,,20171015
-11/3/1992,Nevada,NV,Bush,republican,34.7267922530900,,,,20171015
-11/3/1992,Nevada,NV,Perot,independent,26.185124763488600,,,,20171015
-11/3/1992,Nevada,NV,Gritz,populist,0.57118253745669700,,,,20171015
-11/3/1992,Nevada,NV,Marrou,libertarian,0.3624204551289900,,,,20171015
-11/3/1992,Nevada,NV,Phillips,independent american,0.13371043494404700,,,,20171015
-11/3/1992,Nevada,NV,Fulani,independent,0.095394593911336400,,,,20171015
-11/3/1992,Nevada,NV,Hagelin,natural law,0.066756465304413400,,,,20171015
-11/3/1992,New Hampshire,NH,Clinton,democrat,38.911795091350800,,,,20171015
-11/3/1992,New Hampshire,NH,Bush,republican,37.691427082266900,,,,20171015
-11/3/1992,New Hampshire,NH,Perot,independent,22.586301573857800,,,,20171015
-11/3/1992,New Hampshire,NH,Marrou,libertarian,0.66044321174948600,,,,20171015
-11/3/1992,New Hampshire,NH,Fulani,new alliance,0.095306348482451200,,,,20171015
-11/3/1992,New Hampshire,NH,Hagelin,natural law,0.054726692292657500,,,,20171015
-11/3/1992,New Jersey,NJ,Clinton,democrat,42.953959123027500,,,,20171015
-11/3/1992,New Jersey,NJ,Bush,republican,40.581033462794800,,,,20171015
-11/3/1992,New Jersey,NJ,Perot,independent,15.606829058791200,,,,20171015
-11/3/1992,New Jersey,NJ,Marrou,libertarian,0.20403194885503400,,,,20171015
-11/3/1992,New Jersey,NJ,Bradford,independent,0.14203279465150400,,,,20171015
-11/3/1992,New Jersey,NJ,Fulani,new alliance,0.10506658404100500,,,,20171015
-11/3/1992,New Jersey,NJ,Phillips,taxpayers party,0.079854192823650200,,,,20171015
-11/3/1992,New Jersey,NJ,Larouche,6 million jobs,0.062657128826047700,,,,20171015
-11/3/1992,New Jersey,NJ,Warren,socialist workers,0.060144862085528300,,,,20171015
-11/3/1992,New Jersey,NJ,Daniels,ron daniels independent,0.059696243024721300,,,,20171015
-11/3/1992,New Jersey,NJ,Gritz,america first populist,0.055838119101780900,,,,20171015
-11/3/1992,New Jersey,NJ,Haylard,workers league,0.048391042692384300,,,,20171015
-11/3/1992,New Jersey,NJ,Hagelin,natural law,0.040465439284793500,,,,20171015
-11/3/1992,New Mexico,NM,Clinton,democrat,45.898846638338500,,,,20171015
-11/3/1992,New Mexico,NM,Bush,republican,37.338460944654800,,,,20171015
-11/3/1992,New Mexico,NM,Perot,independent,16.122325811511200,,,,20171015
-11/3/1992,New Mexico,NM,Marrou,libertarian,0.28334029256858900,,,,20171015
-11/3/1992,New Mexico,NM,Phillips,taxpayers party,0.1087746014814400,,,,20171015
-11/3/1992,New Mexico,NM,Hagelin,natural law,0.098598912955756800,,,,20171015
-11/3/1992,New Mexico,NM,Fulani,new alliance,0.064738432172018300,,,,20171015
-11/3/1992,New Mexico,NM,Warren,socialist workers,0.032106051727586300,,,,20171015
-11/3/1992,New Mexico,NM,La Riva,workers world,0.031755165916355800,,,,20171015
-11/3/1992,New Mexico,NM,Dodge,prohibition,0.021053148673827100,,,,20171015
-11/3/1992,New York,NY,Clinton,democrat,48.320265369962,,,,20171015
-11/3/1992,New York,NY,Bush,republican,29.4765841413555,,,,20171015
-11/3/1992,New York,NY,Perot,independent,15.747116031936,,,,20171015
-11/3/1992,New York,NY,Bush,conservative,2.55541017148535,,,,20171015
-11/3/1992,New York,NY,Bush,right-to-life,1.84738830583669,,,,20171015
-11/3/1992,New York,NY,Clinton,liberal party,1.40844968751087,,,,20171015
-11/3/1992,New York,NY,Warren,socialist workers,0.223374611148143,,,,20171015
-11/3/1992,New York,NY,Marrou,libertarian,0.194196735687285,,,,20171015
-11/3/1992,New York,NY,Fulani,new alliance,0.163401877519046,,,,20171015
-11/3/1992,New York,NY,Hagelin,natural law,0.0638130675591256,,,,20171015
-11/3/1992,North Carolina,NC,Bush,republican,43.442808737102100,,,,20171015
-11/3/1992,North Carolina,NC,Clinton,democrat,42.653368302161300,,,,20171015
-11/3/1992,North Carolina,NC,Perot,independent,13.701552539387800,,,,20171015
-11/3/1992,North Carolina,NC,Marrou,libertarian,0.19798227310144200,,,,20171015
-11/3/1992,North Carolina,NC,Fulani,new alliance,0.0022589352374753500,,,,20171015
-11/3/1992,North Carolina,NC,Hagelin,natural law,0.0015697685548557500,,,,20171015
-11/3/1992,North Carolina,NC,Warren,socialist workers,0.00045944445507973300,,,,20171015
-11/3/1992,North Dakota,ND,Bush,republican,44.215971674569100,,,,20171015
-11/3/1992,North Dakota,ND,Clinton,democrat,32.183505174713500,,,,20171015
-11/3/1992,North Dakota,ND,Perot,independent,23.069259053720300,,,,20171015
-11/3/1992,Ohio,OH,Clinton,democrat,40.181280563210200,,,,20171015
-11/3/1992,Ohio,OH,Bush,republican,38.346612436884700,,,,20171015
-11/3/1992,Ohio,OH,Perot,independent,20.980423553436700,,,,20171015
-11/3/1992,Oklahoma,OK,Bush,republican,42.645748328309500,,,,20171015
-11/3/1992,Oklahoma,OK,Clinton,democrat,34.024737495855400,,,,20171015
-11/3/1992,Oklahoma,OK,Perot,independent,23.006863694916200,,,,20171015
-11/3/1992,Oklahoma,OK,Marrou,libertarian,0.32265048091895700,,,,20171015
-11/3/1992,Oregon,OR,Clinton,democrat,42.478855058958300,,,,20171015
-11/3/1992,Oregon,OR,Bush,republican,32.527212723815700,,,,20171015
-11/3/1992,Oregon,OR,Perot,independent,24.208983326758500,,,,20171015
-11/3/1992,Oregon,OR,Marrou,libertarian,0.29241585267218300,,,,20171015
-11/3/1992,Oregon,OR,Fulani,new alliance,0.20715923161017400,,,,20171015
-11/3/1992,Pennsylvania,PA,Clinton,democrat,45.146164873251200,,,,20171015
-11/3/1992,Pennsylvania,PA,Bush,republican,36.127210518144800,,,,20171015
-11/3/1992,Pennsylvania,PA,Perot,independent,18.199628614805800,,,,20171015
-11/3/1992,Pennsylvania,PA,Marrou,libertarian,0.43302061974148200,,,,20171015
-11/3/1992,Pennsylvania,PA,Fulani,new alliance,0.093975374056667500,,,,20171015
-11/3/1992,Rhode Island,RI,Clinton,democrat,47.047963561368900,,,,20171015
-11/3/1992,Rhode Island,RI,Bush,republican,29.027604689378300,,,,20171015
-11/3/1992,Rhode Island,RI,Perot,independent,23.170072678746700,,,,20171015
-11/3/1992,Rhode Island,RI,Fulani,new alliance,0.41423577029545700,,,,20171015
-11/3/1992,Rhode Island,RI,Marrou,libertarian,0.12594708457865100,,,,20171015
-11/3/1992,Rhode Island,RI,Larouche,independents for larouche,0.10896297685088200,,,,20171015
-11/3/1992,Rhode Island,RI,Hagelin,natural law,0.057790080839941300,,,,20171015
-11/3/1992,Rhode Island,RI,Phillips,taxpayers party,0.047423157941173200,,,,20171015
-11/3/1992,South Carolina,SC,Bush,republican,48.0244518418,,,,20171015
-11/3/1992,South Carolina,SC,Clinton,democrat,39.8755287823,,,,20171015
-11/3/1992,South Carolina,SC,Perot,independent,11.548347771,,,,20171015
-11/3/1992,South Carolina,SC,Marrou,libertarian,0.22125262020388800,,,,20171015
-11/3/1992,South Carolina,SC,Phillips,american,0.21807908133373300,,,,20171015
-11/3/1992,South Carolina,SC,Fulani,united citizens,0.1004953975549100,,,,20171015
-11/3/1992,South Dakota,SD,Bush,republican,40.659144575231800,,,,20171015
-11/3/1992,South Dakota,SD,Clinton,democrat,37.140970813730100,,,,20171015
-11/3/1992,South Dakota,SD,Perot,independent,21.797510215491900,,,,20171015
-11/3/1992,South Dakota,SD,Marrou,libertarian,0.24207890463756600,,,,20171015
-11/3/1992,Tennessee,TN,Clinton,democrat,47.084793088803900,,,,20171015
-11/3/1992,Tennessee,TN,Bush,republican,42.43336403317200,,,,20171015
-11/3/1992,Tennessee,TN,Perot,independent,10.085956185647600,,,,20171015
-11/3/1992,Texas,TX,Bush,republican,40.560021111410500,,,,20171015
-11/3/1992,Texas,TX,Clinton,democrat,37.07845833405100,,,,20171015
-11/3/1992,Texas,TX,Perot,independent,22.014576492951400,,,,20171015
-11/3/1992,Texas,TX,Marrou,libertarian,0.32009981121277200,,,,20171015
-11/3/1992,Utah,UT,Bush,republican,43.364632700625500,,,,20171015
-11/3/1992,Utah,UT,Perot,independent,27.33878316877200,,,,20171015
-11/3/1992,Utah,UT,Clinton,democrat,24.654501759413300,,,,20171015
-11/3/1992,Utah,UT,Gritz,populist,3.8443651730246600,,,,20171015
-11/3/1992,Utah,UT,Marrou,libertarian,0.25537703058341600,,,,20171015
-11/3/1992,Utah,UT,Hagelin,natural law,0.17728542281027600,,,,20171015
-11/3/1992,Utah,UT,Larouche,independents for economic recovery,0.14637136121333700,,,,20171015
-11/3/1992,Utah,UT,Fulani,new alliance,0.055645310874491600,,,,20171015
-11/3/1992,Utah,UT,Phillips,taxpayers party,0.052822722641727500,,,,20171015
-11/3/1992,Utah,UT,Warren,socialist workers,0.026881792692991100,,,,20171015
-11/3/1992,Utah,UT,Daniels,campaign for a new tomorrow,0.023790386533297100,,,,20171015
-11/3/1992,Utah,UT,Brisben,socialist workers,0.020295753483208300,,,,20171015
-11/3/1992,Vermont,VT,Clinton,democrat,46.113751764750600,,,,20171015
-11/3/1992,Vermont,VT,Bush,republican,30.418258825478700,,,,20171015
-11/3/1992,Vermont,VT,Perot,independent,22.779003179139900,,,,20171015
-11/3/1992,Vermont,VT,Marrou,libertarian,0.17293692462228300,,,,20171015
-11/3/1992,Vermont,VT,Hagelin,natural law,0.10873279691820200,,,,20171015
-11/3/1992,Vermont,VT,Phillips,taxpayers party,0.042802751802720700,,,,20171015
-11/3/1992,Vermont,VT,Fulani,new alliance,0.034518348228000600,,,,20171015
-11/3/1992,Vermont,VT,Warren,socialist workers,0.028305045546960500,,,,20171015
-11/3/1992,Vermont,VT,Larouche,freedom for larouche,0.019675458489960300,,,,20171015
-11/3/1992,Virginia,VA,Bush,republican,44.957366353943100,,,,20171015
-11/3/1992,Virginia,VA,Clinton,democrat,40.586074402658100,,,,20171015
-11/3/1992,Virginia,VA,Perot,independent,13.623346068134900,,,,20171015
-11/3/1992,Virginia,VA,Marrou,libertarian,0.22390430494125100,,,,20171015
-11/3/1992,Washington,WA,Clinton,democrat,43.410220037463400,,,,20171015
-11/3/1992,Washington,WA,Bush,republican,31.96560534891900,,,,20171015
-11/3/1992,Washington,WA,Perot,independent,23.683698605285500,,,,20171015
-11/3/1992,Washington,WA,Marrou,libertarian,0.32930211819117700,,,,20171015
-11/3/1992,Washington,WA,Gritz,populist,0.21219069184919300,,,,20171015
-11/3/1992,Washington,WA,Hagelin,natural law,0.10736306946469300,,,,20171015
-11/3/1992,Washington,WA,Phillips,taxpayers party,0.10290417977194100,,,,20171015
-11/3/1992,Washington,WA,Fulani,new alliance,0.077637138179680100,,,,20171015
-11/3/1992,Washington,WA,Warren,socialist workers,0.02251302148791400,,,,20171015
-11/3/1992,West Virginia,WV,Clinton,democrat,48.414821618980900,,,,20171015
-11/3/1992,West Virginia,WV,Bush,republican,35.393029164356900,,,,20171015
-11/3/1992,West Virginia,WV,Perot,independent,15.918189437409800,,,,20171015
-11/3/1992,West Virginia,WV,Marrou,libertarian,0.27395977925248300,,,,20171015
-11/3/1992,Wisconsin,WI,Clinton,democrat,41.131555740984800,,,,20171015
-11/3/1992,Wisconsin,WI,Bush,republican,36.777220963199700,,,,20171015
-11/3/1992,Wisconsin,WI,Perot,independent,21.511862204985700,,,,20171015
-11/3/1992,Wisconsin,WI,Marrou,libertarian,0.11366761172376500,,,,20171015
-11/3/1992,Wisconsin,WI,Daniels,labor-farm-laborista-agrario,0.072420136353723200,,,,20171015
-11/3/1992,Wisconsin,WI,Hagelin,natural law,0.042274711346690600,,,,20171015
-11/3/1992,Wisconsin,WI,Hem,third party,0.016001175790102500,,,,20171015
-11/3/1992,Wyoming,WY,Bush,republican,39.696523983910700,,,,20171015
-11/3/1992,Wyoming,WY,Clinton,democrat,34.099777871165300,,,,20171015
-11/3/1992,Wyoming,WY,Perot,independent,25.646374897440500,,,,20171015
-11/3/1992,Wyoming,WY,Marrou,libertarian,0.42224490204318500,,,,20171015
-11/3/1992,Wyoming,WY,Fulani,independent,0.13507834544035500,,,,20171015
-11/3/1992,National Popular Vote,NPV,Clinton,democrat,43.0072800464,,,,20210915
-11/3/1992,National Popular Vote,NPV,Bush,republican,37.4478844278,,,,20210915
-11/3/1992,National Popular Vote,NPV,Perot,reform party,18.9073733612,,,,20210915
-11/3/1992,National Popular Vote,NPV,Marrou,libertarian,0.2777974545,,,,20210915
+11/3/1992,Alabama,FALSE,Tester,republican,5,null,FALSE
+11/3/1992,Alaska,FALSE,Tester,republican,5,null,FALSE
+11/3/1992,Arizona,FALSE,Long,democrat,50.37,null,TRUE
+11/3/1992,Arizona,FALSE,Tester,republican,49.63,null,TRUE
+11/3/1992,Arkansas,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,California,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Colorado,FALSE,Long,democrat,1,null,TRUE
+11/3/1992,Colorado,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Connecticut,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Delaware,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,District of Columbia,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Florida,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,Florida,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Georgia,FALSE,Long,democrat,1,null,TRUE
+11/3/1992,Georgia,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Hawaii,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Idaho,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Illinois,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Indiana,FALSE,Tester,republican,5,null,FALSE
+11/3/1992,Iowa,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,Iowa,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Kansas,FALSE,Long,democrat,50.06,null,TRUE
+11/3/1992,Kansas,FALSE,Tester,republican,49.94,null,TRUE
+11/3/1992,Kentucky,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Louisiana,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Maine 1st CD,ME-1,Long,democrat,15,null,FALSE
+11/3/1992,Maine 2nd CD,ME-2,Long,democrat,5,null,FALSE
+11/3/1992,Maine,FALSE,Long,democrat,5,null,FALSE
+11/3/1992,Maryland,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Massachusetts,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Michigan,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,Michigan,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Minnesota,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Mississippi,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Missouri,FALSE,Tester,republican,5,null,FALSE
+11/3/1992,Montana,FALSE,Tester,republican,1,null,FALSE
+11/3/1992,Nebraska 1st CD,NE-1,Tester,republican,5,null,FALSE
+11/3/1992,Nebraska 2nd CD,NE-2,Long,democrat,5,null,FALSE
+11/3/1992,Nebraska 3rd CD,NE-3,Tester,republican,15,null,FALSE
+11/3/1992,Nebraska,FALSE,Tester,republican,5,null,FALSE
+11/3/1992,Nevada,FALSE,Long,democrat,1,null,TRUE
+11/3/1992,Nevada,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,New Hampshire,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,New Hampshire,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,New Jersey,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,New Mexico,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,New Mexico,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,New York,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,North Carolina,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,North Carolina,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,North Dakota,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Ohio,FALSE,Long,democrat,1,null,TRUE
+11/3/1992,Ohio,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Oklahoma,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Oregon,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Pennsylvania,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,Pennsylvania,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Rhode Island,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,South Carolina,FALSE,Long,democrat,50.11,null,TRUE
+11/3/1992,South Carolina,FALSE,Tester,republican,49.89,null,TRUE
+11/3/1992,South Dakota,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Tennessee,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Texas,FALSE,Tester,republican,5,null,FALSE
+11/3/1992,Utah,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Vermont,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,Virginia,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,Virginia,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Washington,FALSE,Long,democrat,15,null,FALSE
+11/3/1992,West Virginia,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Wisconsin,FALSE,Long,democrat,5,null,TRUE
+11/3/1992,Wisconsin,FALSE,Tester,republican,0,null,TRUE
+11/3/1992,Wyoming,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,National Popular Vote,FALSE,Long,democrat,55,undefined,TRUE
+11/3/1992,National Popular Vote,FALSE,Tester,republican,45,undefined,TRUE
 11/5/1996,Alabama,FALSE,Bob,republican,15,undefined,FALSE
 11/5/1996,Alaska,FALSE,Bob,republican,3,undefined,FALSE
 11/5/1996,Arizona,FALSE,Long,democrat,5,undefined,FALSE
