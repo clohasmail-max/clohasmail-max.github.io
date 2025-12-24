@@ -4203,9 +4203,9 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/2020,Nevada,NV,Bold,republican,1,,,,20210113
 11/3/2020,Nevada,NV,Johnson,democrat,0,,,,20210113
 11/3/2020,New Hampshire,NH,Johnson,democrat,5,,,,20210113
-11/3/2020,New Hampshire,NH,Bold,republican,0,,,,20210113
-11/3/2020,New Jersey,NJ,Bold,republican,0,,,,20210113
-11/3/2020,New Jersey,NM,Johnson,democrat,5,,,,20210113
+11/3/2020,New Hampshire,NH,Bold,republican,,,,,20210113
+11/3/2020,New Jersey,NJ,Bold,republican,45.82,,,,20210113
+11/3/2020,New Jersey,NM,Johnson,democrat,54.18,,,,20210113
 11/3/2020,New Mexico,NM,Johnson,democrat,5,,,,20210113
 11/3/2020,New Mexico,NMM,Bold,republican,0,,,,20210113
 11/3/2020,New York,NY,Johnson,democrat,15,,,,20210113
