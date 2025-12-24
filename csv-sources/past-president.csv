@@ -4182,8 +4182,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/2020,Maryland,MD,Johnson,democrat,15,,,,20210113
 11/3/2020,Massachusetts,MA,Johnson,democrat,15,,,,20210113
 11/3/2020,Massachusetts,MA,Bold,republican,0,,,,20210113
-11/3/2020,Michigan,MI,Johnson,democrat,0.1,,,,20210113
-11/3/2020,Michigan,MI,Bold,republican,0,,,,20210113
+11/3/2020,Michigan,MI,Johnson,democrat,50.21,,,,20210113
+11/3/2020,Michigan,MI,Bold,republican,49.79,,,,20210113
 11/3/2020,Minnesota,MN,Bold,republican,0,,,,20210113
 11/3/2020,Minnesota,MN,Johnson,democrat,1,,,,20210113
 11/3/2020,Mississippi,MS,Johnson,democrat,0,,,,20210113
