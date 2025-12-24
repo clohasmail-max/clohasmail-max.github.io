@@ -2941,294 +2941,71 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/7/2000,National Popular Vote,NPV,Nader,green,2.7346955846,,,,20210915
 11/7/2000,National Popular Vote,NPV,Buchanan,reform party,0.4258100367,,,,20210915
 11/7/2000,National Popular Vote,NPV,Browne,libertarian,0.3646611752,,,,20210915
-11/2/2004,Alabama,AL,Bush,republican,62.460689757700800,,,,20171015
-11/2/2004,Alabama,AL,Kerry,democrat,36.844402322377200,,,,20171015
-11/2/2004,Alaska,AK,Bush,republican,61.065329912539400,,,,20171015
-11/2/2004,Alaska,AK,Kerry,democrat,35.516861912104400,,,,20171015
-11/2/2004,Alaska,AK,Nader,populist,1.6215714751853800,,,,20171015
-11/2/2004,Alaska,AK,Peroutka,alaskan independence party,0.6692301294314100,,,,20171015
-11/2/2004,Alaska,AK,Badnarik,libertarian,0.53583196309637300,,,,20171015
-11/2/2004,Alaska,AK,Cobb,green,0.33845386086923100,,,,20171015
-11/2/2004,Arizona,AZ,Bush,republican,54.869434086013800,,,,20171015
-11/2/2004,Arizona,AZ,Kerry,democrat,44.396832928795600,,,,20171015
-11/2/2004,Arizona,AZ,Badnarik,libertarian,0.58909313147022400,,,,20171015
-11/2/2004,Arkansas,AR,Bush,republican,54.305959078435400,,,,20171015
-11/2/2004,Arkansas,AR,Kerry,democrat,44.547630445189100,,,,20171015
-11/2/2004,Arkansas,AR,Nader,populist,0.58495940546663600,,,,20171015
-11/2/2004,Arkansas,AR,Badnarik,libertarian,0.2229500116119800,,,,20171015
-11/2/2004,Arkansas,AR,Peroutka,constitution party,0.19745105195057600,,,,20171015
-11/2/2004,Arkansas,AR,Cobb,green,0.14105000734635500,,,,20171015
-11/2/2004,California,CA,Kerry,democrat,54.305557534674400,,,,20171015
-11/2/2004,California,CA,Bush,republican,44.357695977241800,,,,20171015
-11/2/2004,California,CA,Badnarik,libertarian,0.40386099646310700,,,,20171015
-11/2/2004,California,CA,Cobb,green,0.32823316429377700,,,,20171015
-11/2/2004,California,CA,Peltier,peace & freedom,0.22225437116230400,,,,20171015
-11/2/2004,California,CA,Peroutka,american independent party,0.21450964319265400,,,,20171015
-11/2/2004,Colorado,CO,Bush,republican,51.711095354592100,,,,20171015
-11/2/2004,Colorado,CO,Kerry,democrat,47.037842254288300,,,,20171015
-11/2/2004,Colorado,CO,Nader,reform party,0.59719293961861900,,,,20171015
-11/2/2004,Colorado,CO,Badnarik,libertarian,0.35987472002178800,,,,20171015
-11/2/2004,Colorado,CO,Peroutka,american constitution party,0.12030258777346300,,,,20171015
-11/2/2004,Colorado,CO,Cobb,green,0.074707813094293400,,,,20171015
-11/2/2004,Colorado,CO,Andress,unaffiliated,0.037753036912515300,,,,20171015
-11/2/2004,Colorado,CO,Amondson,concerns of people,0.017749562130510900,,,,20171015
-11/2/2004,Colorado,CO,Van Auken,socialist equality party,0.015448692965444700,,,,20171015
-11/2/2004,Colorado,CO,Calero,socialist workers,0.0113165197710400,,,,20171015
-11/2/2004,Colorado,CO,Brown,socialist,0.010142606931720500,,,,20171015
-11/2/2004,Colorado,CO,Dodge,prohibition,0.0065739119001892300,,,,20171015
-11/2/2004,Connecticut,CT,Kerry,democrat,54.313708971990200,,,,20171015
-11/2/2004,Connecticut,CT,Bush,republican,43.94727791082800,,,,20171015
-11/2/2004,Connecticut,CT,Nader,petitioning candidate,0.82146279791407100,,,,20171015
-11/2/2004,Connecticut,CT,Cobb,green,0.60578843390008300,,,,20171015
-11/2/2004,Connecticut,CT,Badnarik,libertarian,0.21326742544349400,,,,20171015
-11/2/2004,Connecticut,CT,Peroutka,concerned citizens,0.097734374059789600,,,,20171015
-11/2/2004,Connecticut,CT,Calero,socialist workers,0.00076008586436647800,,,,20171015
-11/2/2004,Delaware,DE,Kerry,democrat,53.346837602281500,,,,20171015
-11/2/2004,Delaware,DE,Bush,republican,45.752818571923600,,,,20171015
-11/2/2004,Delaware,DE,Nader,independent,0.57384258642287900,,,,20171015
-11/2/2004,Delaware,DE,Badnarik,libertarian,0.1561875316506300,,,,20171015
-11/2/2004,Delaware,DE,Peroutka,constitution party,0.077027639329406400,,,,20171015
-11/2/2004,Delaware,DE,Cobb,green,0.066632905994296200,,,,20171015
-11/2/2004,Delaware,DE,Brown,natural law,0.026653162397718500,,,,20171015
-11/2/2004,District of Columbia,DC,Kerry,democrat,89.183868955032400,,,,20171015
-11/2/2004,District of Columbia,DC,Bush,republican,9.33976606645400,,,,20171015
-11/2/2004,District of Columbia,DC,Nader,independent,0.65250059318235700,,,,20171015
-11/2/2004,District of Columbia,DC,Cobb,d.c. statehood green,0.3238336277275400,,,,20171015
-11/2/2004,District of Columbia,DC,Badnarik,libertarian,0.22057595809935600,,,,20171015
-11/2/2004,District of Columbia,DC,Calero,socialist workers,0.05712126404963400,,,,20171015
-11/2/2004,Florida,FL,Bush,republican,52.097516232336900,,,,20171015
-11/2/2004,Florida,FL,Kerry,democrat,47.091110027714200,,,,20171015
-11/2/2004,Florida,FL,Nader,reform party,0.43326968741663700,,,,20171015
-11/2/2004,Florida,FL,Badnarik,libertarian,0.15763862698280200,,,,20171015
-11/2/2004,Florida,FL,Peroutka,constitution party of florida,0.08707181913871700,,,,20171015
-11/2/2004,Florida,FL,Cobb,green,0.051473032835248200,,,,20171015
-11/2/2004,Florida,FL,Brown,socialist party of florida,0.046019545823088900,,,,20171015
-11/2/2004,Florida,FL,Calero,socialist workers,0.035901027752335500,,,,20171015
-11/2/2004,Georgia,GA,Bush,republican,57.974756766988500,,,,20171015
-11/2/2004,Georgia,GA,Kerry,democrat,41.374946053378800,,,,20171015
-11/2/2004,Georgia,GA,Badnarik,libertarian,0.55686541737649100,,,,20171015
-11/2/2004,Hawaii,HI,Kerry,democrat,54.009552158093100,,,,20171015
-11/2/2004,Hawaii,HI,Bush,republican,45.264595711551900,,,,20171015
-11/2/2004,Hawaii,HI,Cobb,green,0.40488283571826500,,,,20171015
-11/2/2004,Hawaii,HI,Badnarik,libertarian,0.32096929463675900,,,,20171015
-11/2/2004,Idaho,ID,Bush,republican,68.390944823990300,,,,20171015
-11/2/2004,Idaho,ID,Kerry,democrat,30.264917042127400,,,,20171015
-11/2/2004,Idaho,ID,Badnarik,libertarian,0.64240544406861200,,,,20171015
-11/2/2004,Idaho,ID,Peroutka,constitution party,0.51539500247336100,,,,20171015
-11/2/2004,Idaho,ID,Nader,independent,0.18633768734040100,,,,20171015
-11/2/2004,Illinois,IL,Kerry,democrat,54.823160209027800,,,,20171015
-11/2/2004,Illinois,IL,Bush,republican,44.478626826348500,,,,20171015
-11/2/2004,Illinois,IL,Badnarik,libertarian,0.61509327644387300,,,,20171015
-11/2/2004,Indiana,IN,Bush,republican,59.944765036657200,,,,20171015
-11/2/2004,Indiana,IN,Kerry,democrat,39.262974665336600,,,,20171015
-11/2/2004,Indiana,IN,Badnarik,libertarian,0.73168498242708100,,,,20171015
-11/2/2004,Iowa,IA,Bush,republican,49.900657505302200,,,,20171015
-11/2/2004,Iowa,IA,Kerry,democrat,49.23313168421700,,,,20171015
-11/2/2004,Iowa,IA,Badnarik,libertarian,0.19855226729169900,,,,20171015
-11/2/2004,Iowa,IA,Peroutka,constitution party,0.086534811680606900,,,,20171015
-11/2/2004,Iowa,IA,Cobb,green,0.07571796022053100,,,,20171015
-11/2/2004,Iowa,IA,Calero,socialist workers,0.024752672359560100,,,,20171015
-11/2/2004,Kansas,KS,Bush,republican,62.003980615547300,,,,20171015
-11/2/2004,Kansas,KS,Kerry,democrat,36.623094305564400,,,,20171015
-11/2/2004,Kansas,KS,Nader,reform party,0.78703033282930200,,,,20171015
-11/2/2004,Kansas,KS,Badnarik,libertarian,0.33786400573855200,,,,20171015
-11/2/2004,Kansas,KS,Peroutka,independent,0.24407369863844100,,,,20171015
-11/2/2004,Kentucky,KY,Bush,republican,59.549513832200600,,,,20171015
-11/2/2004,Kentucky,KY,Kerry,democrat,39.687072981409700,,,,20171015
-11/2/2004,Kentucky,KY,Nader,independent,0.49312816766357700,,,,20171015
-11/2/2004,Kentucky,KY,Badnarik,libertarian,0.1458336349492900,,,,20171015
-11/2/2004,Kentucky,KY,Peroutka,constitution party,0.12322635897013300,,,,20171015
-11/2/2004,Louisiana,LA,Bush,republican,56.7220213410900,,,,20171015
-11/2/2004,Louisiana,LA,Kerry,democrat,42.215864703212300,,,,20171015
-11/2/2004,Louisiana,LA,Nader,independent,0.36189482200147600,,,,20171015
-11/2/2004,Louisiana,LA,Peroutka,constitution party,0.26776717276360600,,,,20171015
-11/2/2004,Louisiana,LA,Badnarik,libertarian,0.14312137371816100,,,,20171015
-11/2/2004,Louisiana,LA,Brown,protecting working families,0.092377873363573600,,,,20171015
-11/2/2004,Louisiana,LA,Amondson,prohibition,0.080592618210226300,,,,20171015
-11/2/2004,Louisiana,LA,Cobb,green,0.065668059282406600,,,,20171015
-11/2/2004,Louisiana,LA,Calero,socialist,0.050692036358284100,,,,20171015
-11/2/2004,Maine,ME,Kerry,democrat,53.572855692593500,,,,20171015
-11/2/2004,Maine,ME,Bush,republican,44.576457437846900,,,,20171015
-11/2/2004,Maine,ME,Nader,independent,1.0892984426636700,,,,20171015
-11/2/2004,Maine,ME,Cobb,green,0.39635397541957400,,,,20171015
-11/2/2004,Maine,ME,Badnarik,libertarian,0.26527096788128800,,,,20171015
-11/2/2004,Maine,ME,Peroutka,constitution party,0.099223491802924600,,,,20171015
-11/2/2004,Maine 1st CD,ME-1,Bush,republican,43,,,,JJCooley
-11/2/2004,Maine 1st CD,ME-1,Kerry,democrat,55,,,,JJCooley
-11/2/2004,Maine 2nd CD,ME-2,Bush,republican,46,,,,JJCooley
-11/2/2004,Maine 2nd CD,ME-2,Kerry,democrat,52,,,,JJCooley
-11/2/2004,Maryland,MD,Kerry,democrat,55.97146761355200,,,,20171015
-11/2/2004,Maryland,MD,Bush,republican,42.978217778594300,,,,20171015
-11/2/2004,Maryland,MD,Nader,populist,0.49718190885305900,,,,20171015
-11/2/2004,Maryland,MD,Badnarik,libertarian,0.25559528872537100,,,,20171015
-11/2/2004,Maryland,MD,Cobb,green,0.15233378546940400,,,,20171015
-11/2/2004,Maryland,MD,Peroutka,constitution party,0.14348399782236500,,,,20171015
-11/2/2004,Massachusetts,MA,Kerry,democrat,61.6847831662576,,,,20171015
-11/2/2004,Massachusetts,MA,Bush,republican,36.628853760077,,,,20171015
-11/2/2004,Massachusetts,MA,Badnarik,libertarian,0.513709287461759,,,,20171015
-11/2/2004,Massachusetts,MA,Cobb,green-rainbow,0.363276112415542,,,,20171015
-11/2/2004,Massachusetts,MA,Nader,independent,0.164351406972521,,,,20171015
-11/2/2004,Michigan,MI,Kerry,democrat,51.230706729056500,,,,20171015
-11/2/2004,Michigan,MI,Bush,republican,47.812058557810200,,,,20171015
-11/2/2004,Michigan,MI,Nader,no party affiliation,0.49666766682123600,,,,20171015
-11/2/2004,Michigan,MI,Badnarik,libertarian,0.21805022759715800,,,,20171015
-11/2/2004,Michigan,MI,Cobb,green,0.11003766697828500,,,,20171015
-11/2/2004,Michigan,MI,Peroutka,u.s. taxpayers party,0.10290846601912900,,,,20171015
-11/2/2004,Michigan,MI,Brown,natural law,0.029570685717544800,,,,20171015
-11/2/2004,Minnesota,MN,Kerry,democrat,51.089684686006500,,,9,20171015
-11/2/2004,Minnesota,MN,Bush,republican,47.613533791521500,,,,20171015
-11/2/2004,Minnesota,MN,Nader,better life,0.66055317041126300,,,,20171015
-11/2/2004,Minnesota,MN,Badnarik,libertarian,0.16401574466294700,,,,20171015
-11/2/2004,Minnesota,MN,Cobb,green,0.15584854547839500,,,,20171015
-11/2/2004,Minnesota,MN,Peroutka,constitution party,0.10868385408361700,,,,20171015
-11/2/2004,Minnesota,MN,Harens,christian freedom party,0.084394391573713200,,,,20171015
-11/2/2004,Minnesota,MN,Edwards,independent,0,,,1,JJCooley
-11/2/2004,Minnesota,MN,Van Auken,socialist equality party,0.019056798097290100,,,,20171015
-11/2/2004,Minnesota,MN,Calero,socialist workers,0.014708029700320400,,,,20171015
-11/2/2004,Mississippi,MS,Bush,republican,59.014374148991400,,,,20171015
-11/2/2004,Mississippi,MS,Kerry,democrat,40.161112592821300,,,,20171015
-11/2/2004,Mississippi,MS,Nader,reform party,0.27855177641460400,,,,20171015
-11/2/2004,Mississippi,MS,Badnarik,libertarian,0.15730498743665700,,,,20171015
-11/2/2004,Mississippi,MS,Peroutka,constitution party,0.15423433793287400,,,,20171015
-11/2/2004,Mississippi,MS,Calero,independent,0.14028481590140200,,,,20171015
-11/2/2004,Mississippi,MS,Cobb,green,0.094137340501691500,,,,20171015
-11/2/2004,Missouri,MO,Bush,republican,53.296191939265500,,,,20171015
-11/2/2004,Missouri,MO,Kerry,democrat,46.100446516831900,,,,20171015
-11/2/2004,Missouri,MO,Badnarik,libertarian,0.3599300569239400,,,,20171015
-11/2/2004,Missouri,MO,Peroutka,constitution party,0.19605589002417800,,,,20171015
-11/2/2004,Missouri,MO,Nader,independent,0.047375596954488700,,,,20171015
-11/2/2004,Montana,MT,Bush,republican,59.068143168588500,,,,20171015
-11/2/2004,Montana,MT,Kerry,democrat,38.56502839483700,,,,20171015
-11/2/2004,Montana,MT,Nader,independent,1.3693460085162300,,,,20171015
-11/2/2004,Montana,MT,Peroutka,constitution party,0.39162230204647100,,,,20171015
-11/2/2004,Montana,MT,Badnarik,libertarian,0.38474005070665200,,,,20171015
-11/2/2004,Montana,MT,Cobb,green,0.2211200753051500,,,,20171015
-11/2/2004,Nebraska,NE,Bush,republican,65.898641198890800,,,,20171015
-11/2/2004,Nebraska,NE,Kerry,democrat,32.682160820163800,,,,20171015
-11/2/2004,Nebraska,NE,Nader,reform party,0.74275301791602500,,,,20171015
-11/2/2004,Nebraska,NE,Badnarik,libertarian,0.262276627952700,,,,20171015
-11/2/2004,Nebraska,NE,Cobb,green,0.12567689472696800,,,,20171015
-11/2/2004,Nebraska 1st CD,NE-1,Bush,republican,63,,,,JJCooley
-11/2/2004,Nebraska 1st CD,NE-1,Kerry,democrat,36,,,,JJCooley
-11/2/2004,Nebraska 2nd CD,NE-2,Bush,republican,60,,,,JJCooley
-11/2/2004,Nebraska 2nd CD,NE-2,Kerry,democrat,38,,,,JJCooley
-11/2/2004,Nebraska 3rd CD,NE-3,Bush,republican,75,,,,JJCooley
-11/2/2004,Nebraska 3rd CD,NE-3,Kerry,democrat,24,,,,JJCooley
-11/2/2004,Nevada,NV,Bush,republican,50.469691545311100,,,,20171015
-11/2/2004,Nevada,NV,Kerry,democrat,47.87804051895700,,,,20171015
-11/2/2004,Nevada,NV,Nader,independent,0.58318175188376900,,,,20171015
-11/2/2004,Nevada,NV,Badnarik,libertarian,0.38284110045118800,,,,20171015
-11/2/2004,Nevada,NV,Peroutka,independent american,0.13886427824929800,,,,20171015
-11/2/2004,Nevada,NV,Cobb,green,0.10282224769674500,,,,20171015
-11/2/2004,New Hampshire,NH,Kerry,democrat,50.201610822557400,,,,20171015
-11/2/2004,New Hampshire,NH,Bush,republican,48.834342984606800,,,,20171015
-11/2/2004,New Hampshire,NH,Nader,independent,0.66033994459572400,,,,20171015
-11/2/2004,New Jersey,NJ,Kerry,democrat,52.923409007027500,,,,20171015
-11/2/2004,New Jersey,NJ,Bush,republican,46.238811681287200,,,,20171015
-11/2/2004,New Mexico,NM,Bush,republican,49.838424760413800,,,,20171015
-11/2/2004,New Mexico,NM,Kerry,democrat,49.046679642048700,,,,20171015
-11/2/2004,New Mexico,NM,Nader,independent,0.53589561869301200,,,,20171015
-11/2/2004,New Mexico,NM,Badnarik,libertarian,0.31495271742579700,,,,20171015
-11/2/2004,New Mexico,NM,Cobb,green,0.16210412744081700,,,,20171015
-11/2/2004,New Mexico,NM,Peroutka,constitution party,0.10194313397787100,,,,20171015
-11/2/2004,New York,NY,Kerry,democrat,56.5652095321955,,,,20171015
-11/2/2004,New York,NY,Bush,republican,37.9783429548983,,,,20171015
-11/2/2004,New York,NY,Bush,conservative,2.104901126175,,,,20171015
-11/2/2004,New York,NY,Kerry,working families,1.80658029537402,,,,20171015
-11/2/2004,New York,NY,Nader,independence,1.13985373633683,,,,20171015
-11/2/2004,New York,NY,Nader,peace and justice,0.211418263961913,,,,20171015
-11/2/2004,New York,NY,Badnarik,libertarian,0.15704158388621,,,,20171015
-11/2/2004,New York,NY,Calero,socialist workers,0.032539416666351,,,,20171015
-11/2/2004,North Carolina,NC,Bush,republican,56.017197337794500,,,,20171015
-11/2/2004,North Carolina,NC,Kerry,democrat,43.583146220501700,,,,20171015
-11/2/2004,North Carolina,NC,Badnarik,libertarian,0.33507502270061200,,,,20171015
-11/2/2004,North Dakota,ND,Bush,republican,62.861334961465100,,,,20171015
-11/2/2004,North Dakota,ND,Kerry,democrat,35.498812465436800,,,,20171015
-11/2/2004,North Dakota,ND,Nader,independent,1.2006405973794300,,,,20171015
-11/2/2004,North Dakota,ND,Badnarik,libertarian,0.27203012469912100,,,,20171015
-11/2/2004,North Dakota,ND,Peroutka,constitution party,0.16430491668078500,,,,20171015
-11/2/2004,Ohio,OH,Bush,republican,50.814024335529600,,,,20171015
-11/2/2004,Ohio,OH,Kerry,democrat,48.706685243153600,,,,20171015
-11/2/2004,Oklahoma,OK,Bush,republican,65.570401664756100,,,,20171015
-11/2/2004,Oklahoma,OK,Kerry,democrat,34.429598335243900,,,,20171015
-11/2/2004,Oregon,OR,Kerry,democrat,51.348663042211900,,,,20171015
-11/2/2004,Oregon,OR,Bush,republican,47.192916742433200,,,,20171015
-11/2/2004,Oregon,OR,Badnarik,libertarian,0.39525648661626700,,,,20171015
-11/2/2004,Oregon,OR,Cobb,pacific green,0.28936476947182600,,,,20171015
-11/2/2004,Oregon,OR,Peroutka,constitution party,0.28620707302227500,,,,20171015
-11/2/2004,Pennsylvania,PA,Kerry,democrat,50.923809144150600,,,,20171015
-11/2/2004,Pennsylvania,PA,Bush,republican,48.423666153054200,,,,20171015
-11/2/2004,Pennsylvania,PA,Badnarik,libertarian,0.36718380335517800,,,,20171015
-11/2/2004,Pennsylvania,PA,Cobb,green,0.10952251373147800,,,,20171015
-11/2/2004,Pennsylvania,PA,Peroutka,constitution party,0.10950518147736700,,,,20171015
-11/2/2004,Pennsylvania,PA,Independent Party Candidate,independent,0.046034466920526400,,,,20171015
-11/2/2004,Rhode Island,RI,Kerry,democrat,59.42342622628300,,,,20171015
-11/2/2004,Rhode Island,RI,Bush,republican,38.671437133693600,,,,20171015
-11/2/2004,Rhode Island,RI,Nader,reform party,1.0639758060457400,,,,20171015
-11/2/2004,Rhode Island,RI,Cobb,green,0.30494081906234700,,,,20171015
-11/2/2004,Rhode Island,RI,Badnarik,libertarian,0.20748786413319500,,,,20171015
-11/2/2004,Rhode Island,RI,Peroutka,constitution party,0.077550590894325300,,,,20171015
-11/2/2004,South Carolina,SC,Bush,republican,57.981949681646800,,,,20171015
-11/2/2004,South Carolina,SC,Kerry,democrat,40.901835939914700,,,,20171015
-11/2/2004,South Carolina,SC,Nader,independence,0.34122519626630400,,,,20171015
-11/2/2004,South Carolina,SC,Peroutka,constitution party,0.32867651604129300,,,,20171015
-11/2/2004,South Carolina,SC,Badnarik,libertarian,0.22303270074797600,,,,20171015
-11/2/2004,South Carolina,SC,Brown,united citizens,0.13129752117203400,,,,20171015
-11/2/2004,South Carolina,SC,Cobb,green,0.091982444210916700,,,,20171015
-11/2/2004,South Dakota,SD,Bush,republican,59.911131718248900,,,,20171015
-11/2/2004,South Dakota,SD,Kerry,democrat,38.443645917854800,,,,20171015
-11/2/2004,South Dakota,SD,Nader,independent,1.1127854410571500,,,,20171015
-11/2/2004,South Dakota,SD,Peroutka,constitution party,0.28412091238102600,,,,20171015
-11/2/2004,South Dakota,SD,Badnarik,libertarian,0.24831601045812200,,,,20171015
-11/2/2004,Tennessee,TN,Bush,republican,56.799089491363300,,,,20171015
-11/2/2004,Tennessee,TN,Kerry,democrat,42.525291108796200,,,,20171015
-11/2/2004,Texas,TX,Bush,republican,61.085822769061500,,,,20171015
-11/2/2004,Texas,TX,Kerry,democrat,38.224260462741400,,,,20171015
-11/2/2004,Texas,TX,Badnarik,libertarian,0.52338839164570300,,,,20171015
-11/2/2004,Utah,UT,Bush,republican,71.535947853302900,,,,20171015
-11/2/2004,Utah,UT,Kerry,democrat,25.995641508701900,,,,20171015
-11/2/2004,Utah,UT,Nader,unaffiliated,1.218416026832100,,,,20171015
-11/2/2004,Utah,UT,Peroutka,constitution party,0.73730066692245700,,,,20171015
-11/2/2004,Utah,UT,Badnarik,libertarian,0.36374649186716700,,,,20171015
-11/2/2004,Utah,UT,Jay,personal choice,0.10195679446113800,,,,20171015
-11/2/2004,Utah,UT,Calero,socialist workers,0.042356258164087900,,,,20171015
-11/2/2004,Vermont,VT,Kerry,democrat,58.937462577127100,,,,20171015
-11/2/2004,Vermont,VT,Bush,republican,38.801315363950400,,,,20171015
-11/2/2004,Vermont,VT,Nader,independent,1.4389594920415400,,,,20171015
-11/2/2004,Vermont,VT,Badnarik,libertarian,0.35285566538268200,,,,20171015
-11/2/2004,Vermont,VT,Parker,liberty union party,0.08485186145772300,,,,20171015
-11/2/2004,Vermont,VT,Calero,socialist workers,0.078127751681827900,,,,20171015
-11/2/2004,Virginia,VA,Bush,republican,53.731956569021600,,,,20171015
-11/2/2004,Virginia,VA,Kerry,democrat,45.525917603816700,,,,20171015
-11/2/2004,Virginia,VA,Badnarik,libertarian,0.34524467087999500,,,,20171015
-11/2/2004,Virginia,VA,Peroutka,constitution party,0.31798686555580400,,,,20171015
-11/2/2004,Washington,WA,Kerry,democrat,52.821148311836900,,,,20171015
-11/2/2004,Washington,WA,Bush,republican,45.640281992414400,,,,20171015
-11/2/2004,Washington,WA,Nader,independent,0.81435172943502200,,,,20171015
-11/2/2004,Washington,WA,Badnarik,libertarian,0.41814091506230700,,,,20171015
-11/2/2004,Washington,WA,Peroutka,constitution party,0.13717680208066600,,,,20171015
-11/2/2004,Washington,WA,Cobb,green,0.10401932926769600,,,,20171015
-11/2/2004,Washington,WA,Parker,workers world,0.037669407404609300,,,,20171015
-11/2/2004,Washington,WA,Calero,socialist workers,0.019132001718032800,,,,20171015
-11/2/2004,Washington,WA,Van Auken,socialist equality party,0.0080795107803758100,,,,20171015
-11/2/2004,West Virginia,WV,Bush,republican,56.070717869466700,,,,20171015
-11/2/2004,West Virginia,WV,Kerry,democrat,43.205141097021400,,,,20171015
-11/2/2004,West Virginia,WV,Nader,independent,0.53758176852890700,,,,20171015
-11/2/2004,West Virginia,WV,Badnarik,libertarian,0.18589770730571400,,,,20171015
-11/2/2004,West Virginia,WV,Cobb,,0.00066155767724453300,,,,20171015
-11/2/2004,Wisconsin,WI,Kerry,democrat,49.699717084411200,,,,20171015
-11/2/2004,Wisconsin,WI,Bush,republican,49.31987145842500,,,,20171015
-11/2/2004,Wisconsin,WI,Nader,independent,0.57630829691088500,,,,20171015
-11/2/2004,Wisconsin,WI,Badnarik,libertarian,0.21568184525428200,,,,20171015
-11/2/2004,Wisconsin,WI,Cobb,wisconsin green,0.088788581408051400,,,,20171015
-11/2/2004,Wyoming,WY,Bush,republican,68.739568852748100,,,,20171015
-11/2/2004,Wyoming,WY,Kerry,democrat,29.023091023164800,,,,20171015
-11/2/2004,Wyoming,WY,Nader,independent,1.3827549300626200,,,,20171015
-11/2/2004,Wyoming,WY,Badnarik,libertarian,0.48019158455021500,,,,20171015
-11/2/2004,National Popular Vote,NPV,Bush,republican,50.7301483961,,,,20210915
-11/2/2004,National Popular Vote,NPV,Kerry,democrat,48.2671225139,,,,20210915
-11/2/2004,National Popular Vote,NPV,Nader,independent,0.3807585644,,,,20210915
-11/2/2004,National Popular Vote,NPV,Badnarik,libertarian,0.3248406552,,,,20210915
+11/2/2004,Alabama,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Alaska,FALSE,Long,democrat,50.32,,,,TRUE
+11/2/2004,Alaska,FALSE,Grump,republican,49.68,,,,TRUE
+11/2/2004,Arizona,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Arkansas,FALSE,Grump,republican,5,,,,FALSE
+11/2/2004,California,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Colorado,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Connecticut,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Delaware,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,District of Columbia,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Florida,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Georgia,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Hawaii,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Hawaii,FALSE,Independent,INDGEN,0,,,,FALSE
+11/2/2004,Hawaii,FALSE,Grump,republican,0,,,,FALSE
+11/2/2004,Idaho,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Illinois,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Indiana,FALSE,Long,democrat,50.009,,,,TRUE
+11/2/2004,Indiana,FALSE,Grump,republican,49.991,,,,TRUE
+11/2/2004,Iowa,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Kansas,FALSE,Grump,republican,1,,,,FALSE
+11/2/2004,Kentucky,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Louisiana,FALSE,Grump,republican,5,,,,FALSE
+11/2/2004,Maine 1st CD,ME-1,Long,democrat,15,,,,FALSE
+11/2/2004,Maine 2nd CD,ME-2,Long,democrat,5,,,,FALSE
+11/2/2004,Maine,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Maryland,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Massachusetts,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Michigan,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Minnesota,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Mississippi,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Mississippi,FALSE,Long,democrat,0,,,,FALSE
+11/2/2004,Missouri,FALSE,Grump,republican,5,,,,FALSE
+11/2/2004,Montana,FALSE,Grump,republican,1,,,,FALSE
+11/2/2004,Nebraska 1st CD,NE-1,Grump,republican,1,,,,FALSE
+11/2/2004,Nebraska 2nd CD,Long,democrat,15,,,,FALSE
+11/2/2004,Nebraska 3rd CD,Grump,republican,15,,,,FALSE
+11/2/2004,Nebraska,FALSE,Grump,republican,5,,,,FALSE
+11/2/2004,Nevada,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,New Hampshire,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,New Jersey,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,New Mexico,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,New York,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,North Carolina,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,North Dakota,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Ohio,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Oklahoma,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Oregon,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Pennsylvania,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Rhode Island,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,South Carolina,FALSE,Long,democrat,50.43,,,,TRUE
+11/2/2004,South Carolina,FALSE,Grump,republican,49.57,,,,TRUE
+11/2/2004,South Dakota,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Tennessee,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Texas,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Utah,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Vermont,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Virginia,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Washington,FALSE,Long,democrat,15,,,,FALSE
+11/2/2004,Washington,FALSE,Grump,republican,0,undefined,FALSE
+11/2/2004,West Virginia,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,Wisconsin,FALSE,Long,democrat,5,,,,FALSE
+11/2/2004,Wyoming,FALSE,Grump,republican,15,,,,FALSE
+11/2/2004,National Popular Vote,FALSE,Long,democrat,56,,,,TRUE
+11/2/2004,National Popular Vote,FALSE,Grump,republican,44,,,,TRUE
 11/4/2008,Alabama,AL,DaSantos,republican,15,,,,FALSE
 11/4/2008,Alaska,AK,Long,democrat,15,,,,FALSE
 11/4/2008,Arizona,FALSE,Long,democrat,15,,,,FALSE
