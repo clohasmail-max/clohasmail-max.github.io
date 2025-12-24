@@ -308,213 +308,70 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/1964,Wyoming,WY,Other,independent,0,,,,JJCooley
 11/3/1964,National Popular Vote,NPV,Johnson,democrat,61.0533697461,,,,20210915
 11/3/1964,National Popular Vote,NPV,Goldwater,republican,38.4699348071,,,,20210915
-11/5/1968,Alabama,AL,Nixon,republican,13.99377284,,,,JJCooley
-11/5/1968,Alabama,AL,Humphrey,democrat,18.72328956,,,,JJCooley
-11/5/1968,Alabama,AL,Wallace,independent,65.8552057,,,,JJCooley
-11/5/1968,Alabama,AL,Other,independent,1.427731906,,,,JJCooley
-11/5/1968,Alaska,AK,Nixon,republican,45.28210995,,,,JJCooley
-11/5/1968,Alaska,AK,Humphrey,democrat,42.64587222,,,,JJCooley
-11/5/1968,Alaska,AK,Wallace,independent,12.07201782,,,,JJCooley
-11/5/1968,Alaska,AK,Other,independent,0,,,,JJCooley
-11/5/1968,Arizona,AZ,Nixon,republican,54.77537089,,,,JJCooley
-11/5/1968,Arizona,AZ,Humphrey,democrat,35.0177436,,,,JJCooley
-11/5/1968,Arizona,AZ,Wallace,independent,9.56450129,,,,JJCooley
-11/5/1968,Arizona,AZ,Other,independent,0.6423842148,,,,JJCooley
-11/5/1968,Arkansas,AR,Nixon,republican,31.01461638,,,,JJCooley
-11/5/1968,Arkansas,AR,Humphrey,democrat,30.33202644,,,,JJCooley
-11/5/1968,Arkansas,AR,Wallace,independent,38.65335717,,,,JJCooley
-11/5/1968,Arkansas,AR,Other,independent,0,,,,JJCooley
-11/5/1968,California,CA,Nixon,republican,47.81938078,,,,JJCooley
-11/5/1968,California,CA,Humphrey,democrat,44.73942049,,,,JJCooley
-11/5/1968,California,CA,Wallace,independent,6.719494643,,,,JJCooley
-11/5/1968,California,CA,Other,independent,0.7217040904,,,,JJCooley
-11/5/1968,Colorado,CO,Nixon,republican,50.46172394,,,,JJCooley
-11/5/1968,Colorado,CO,Humphrey,democrat,41.31834482,,,,JJCooley
-11/5/1968,Colorado,CO,Wallace,independent,7.496680839,,,,JJCooley
-11/5/1968,Colorado,CO,Other,independent,0.7232503985,,,,JJCooley
-11/5/1968,Connecticut,CN,Nixon,republican,44.31673449,,,,JJCooley
-11/5/1968,Connecticut,CN,Humphrey,democrat,49.47820148,,,,JJCooley
-11/5/1968,Connecticut,CN,Wallace,independent,6.101579963,,,,JJCooley
-11/5/1968,Connecticut,CN,Other,independent,0.1034840698,,,,JJCooley
-11/5/1968,Delaware,DE,Nixon,republican,45.11608596,,,,JJCooley
-11/5/1968,Delaware,DE,Humphrey,democrat,41.60808333,,,,JJCooley
-11/5/1968,Delaware,DE,Wallace,independent,13.2758307,,,,JJCooley
-11/5/1968,Delaware,DE,Other,independent,0,,,,JJCooley
-11/5/1968,District of Columbia,DC,Nixon,republican,18.18053911,,,,JJCooley
-11/5/1968,District of Columbia,DC,Humphrey,democrat,81.81946089,,,,JJCooley
-11/5/1968,District of Columbia,DC,Wallace,independent,0,,,,JJCooley
-11/5/1968,District of Columbia,DC,Other,independent,0,,,,JJCooley
-11/5/1968,Florida,FL,Nixon,republican,40.53395984,,,,JJCooley
-11/5/1968,Florida,FL,Humphrey,democrat,30.93484109,,,,JJCooley
-11/5/1968,Florida,FL,Wallace,independent,28.53119908,,,,JJCooley
-11/5/1968,Florida,FL,Other,independent,0,,,,JJCooley
-11/5/1968,Georgia,GA,Nixon,republican,30.40241037,,,,JJCooley
-11/5/1968,Georgia,GA,Humphrey,democrat,26.7495077,,,,JJCooley
-11/5/1968,Georgia,GA,Wallace,independent,42.83488474,,,,JJCooley
-11/5/1968,Georgia,GA,Other,independent,0.01319719164,,,,JJCooley
-11/5/1968,Hawaii,HI,Nixon,republican,38.7036551,,,,JJCooley
-11/5/1968,Hawaii,HI,Humphrey,democrat,59.8277862,,,,JJCooley
-11/5/1968,Hawaii,HI,Wallace,independent,1.468558704,,,,JJCooley
-11/5/1968,Hawaii,HI,Other,independent,0,,,,JJCooley
-11/5/1968,Idaho,ID,Nixon,republican,56.79212042,,,,JJCooley
-11/5/1968,Idaho,ID,Humphrey,democrat,30.65872664,,,,JJCooley
-11/5/1968,Idaho,ID,Wallace,independent,12.54915294,,,,JJCooley
-11/5/1968,Idaho,ID,Other,independent,0,,,,JJCooley
-11/5/1968,Illinois,IL,Nixon,republican,47.07558787,,,,JJCooley
-11/5/1968,Illinois,IL,Humphrey,democrat,44.15421704,,,,JJCooley
-11/5/1968,Illinois,IL,Wallace,independent,8.462754145,,,,JJCooley
-11/5/1968,Illinois,IL,Other,independent,0.3074409454,,,,JJCooley
-11/5/1968,Indiana,IN,Nixon,republican,50.28661276,,,,JJCooley
-11/5/1968,Indiana,IN,Humphrey,democrat,37.9855029,,,,JJCooley
-11/5/1968,Indiana,IN,Wallace,independent,11.4479348,,,,JJCooley
-11/5/1968,Indiana,IN,Other,independent,0.2799495384,,,,JJCooley
-11/5/1968,Iowa,IA,Nixon,republican,53.0087822,,,,JJCooley
-11/5/1968,Iowa,IA,Humphrey,democrat,40.81568175,,,,JJCooley
-11/5/1968,Iowa,IA,Wallace,independent,5.687151039,,,,JJCooley
-11/5/1968,Iowa,IA,Other,independent,0.4883850159,,,,JJCooley
-11/5/1968,Kansas,KS,Nixon,republican,54.84456045,,,,JJCooley
-11/5/1968,Kansas,KS,Humphrey,democrat,34.7160749,,,,JJCooley
-11/5/1968,Kansas,KS,Wallace,independent,10.18821402,,,,JJCooley
-11/5/1968,Kansas,KS,Other,independent,0.2511506297,,,,JJCooley
-11/5/1968,Kentucky,KY,Nixon,republican,43.79335785,,,,JJCooley
-11/5/1968,Kentucky,KY,Humphrey,democrat,37.64974292,,,,JJCooley
-11/5/1968,Kentucky,KY,Wallace,independent,18.28764846,,,,JJCooley
-11/5/1968,Kentucky,KY,Other,independent,0.2692507669,,,,JJCooley
-11/5/1968,Louisiana,LA,Nixon,republican,23.46667274,,,,JJCooley
-11/5/1968,Louisiana,LA,Humphrey,democrat,28.21221924,,,,JJCooley
-11/5/1968,Louisiana,LA,Wallace,independent,48.32110802,,,,JJCooley
-11/5/1968,Louisiana,LA,Other,independent,0,,,,JJCooley
-11/5/1968,Maine,ME,Nixon,republican,43.0741902,,,,JJCooley
-11/5/1968,Maine,ME,Humphrey,democrat,55.30468066,,,,JJCooley
-11/5/1968,Maine,ME,Wallace,independent,1.621129141,,,,JJCooley
-11/5/1968,Maine,ME,Other,independent,0,,,,JJCooley
-11/5/1968,Maryland,MD,Nixon,republican,41.94159051,,,,JJCooley
-11/5/1968,Maryland,MD,Humphrey,democrat,43.58647784,,,,JJCooley
-11/5/1968,Maryland,MD,Wallace,independent,14.47193166,,,,JJCooley
-11/5/1968,Maryland,MD,Other,independent,0,,,,JJCooley
-11/5/1968,Massachusetts,MA,Nixon,republican,32.88703087,,,,JJCooley
-11/5/1968,Massachusetts,MA,Humphrey,democrat,63.00918794,,,,JJCooley
-11/5/1968,Massachusetts,MA,Wallace,independent,3.734874035,,,,JJCooley
-11/5/1968,Massachusetts,MA,Other,independent,0.3689071565,,,,JJCooley
-11/5/1968,Michigan,MI,Nixon,republican,41.45678639,,,,JJCooley
-11/5/1968,Michigan,MI,Humphrey,democrat,48.18395463,,,,JJCooley
-11/5/1968,Michigan,MI,Wallace,independent,10.04062004,,,,JJCooley
-11/5/1968,Michigan,MI,Other,independent,0.3186389414,,,,JJCooley
-11/5/1968,Minnesota,MN,Nixon,republican,41.46294326,,,,JJCooley
-11/5/1968,Minnesota,MN,Humphrey,democrat,53.99638655,,,,JJCooley
-11/5/1968,Minnesota,MN,Wallace,independent,4.339349453,,,,JJCooley
-11/5/1968,Minnesota,MN,Other,independent,0.2013207345,,,,JJCooley
-11/5/1968,Mississippi,MS,Nixon,republican,13.52403099,,,,JJCooley
-11/5/1968,Mississippi,MS,Humphrey,democrat,23.01633744,,,,JJCooley
-11/5/1968,Mississippi,MS,Wallace,independent,63.45963157,,,,JJCooley
-11/5/1968,Mississippi,MS,Other,independent,0,,,,JJCooley
-11/5/1968,Missouri,MO,Nixon,republican,44.87046712,,,,JJCooley
-11/5/1968,Missouri,MO,Humphrey,democrat,43.7382219,,,,JJCooley
-11/5/1968,Missouri,MO,Wallace,independent,11.39131098,,,,JJCooley
-11/5/1968,Missouri,MO,Other,independent,0,,,,JJCooley
-11/5/1968,Montana,MT,Nixon,republican,50.59510794,,,,JJCooley
-11/5/1968,Montana,MT,Humphrey,democrat,41.58722176,,,,JJCooley
-11/5/1968,Montana,MT,Wallace,independent,7.293989884,,,,JJCooley
-11/5/1968,Montana,MT,Other,independent,0.5236804128,,,,JJCooley
-11/5/1968,Nebraska,NE,Nixon,republican,59.8234892,,,,JJCooley
-11/5/1968,Nebraska,NE,Humphrey,democrat,31.8121788,,,,JJCooley
-11/5/1968,Nebraska,NE,Wallace,independent,8.364332003,,,,JJCooley
-11/5/1968,Nebraska,NE,Other,independent,0,,,,JJCooley
-11/5/1968,Nevada,NV,Nixon,republican,47.45749523,,,,JJCooley
-11/5/1968,Nevada,NV,Humphrey,democrat,39.29372706,,,,JJCooley
-11/5/1968,Nevada,NV,Wallace,independent,13.2487777,,,,JJCooley
-11/5/1968,Nevada,NV,Other,independent,0,,,,JJCooley
-11/5/1968,New Hampshire,NH,Nixon,republican,52.10343795,,,,JJCooley
-11/5/1968,New Hampshire,NH,Humphrey,democrat,43.92513934,,,,JJCooley
-11/5/1968,New Hampshire,NH,Wallace,independent,3.758169385,,,,JJCooley
-11/5/1968,New Hampshire,NH,Other,independent,0.2132533241,,,,JJCooley
-11/5/1968,New Jersey,NJ,Nixon,republican,46.09686669,,,,JJCooley
-11/5/1968,New Jersey,NJ,Humphrey,democrat,43.96634202,,,,JJCooley
-11/5/1968,New Jersey,NJ,Wallace,independent,9.118295052,,,,JJCooley
-11/5/1968,New Jersey,NJ,Other,independent,0.8184962414,,,,JJCooley
-11/5/1968,New Mexico,NM,Nixon,republican,51.84902271,,,,JJCooley
-11/5/1968,New Mexico,NM,Humphrey,democrat,39.74596753,,,,JJCooley
-11/5/1968,New Mexico,NM,Wallace,independent,7.863884552,,,,JJCooley
-11/5/1968,New Mexico,NM,Other,independent,0.5411252104,,,,JJCooley
-11/5/1968,New York,NY,Nixon,republican,44.29900976,,,,JJCooley
-11/5/1968,New York,NY,Humphrey,democrat,49.75607012,,,,JJCooley
-11/5/1968,New York,NY,Wallace,independent,5.285132722,,,,JJCooley
-11/5/1968,New York,NY,Other,independent,0.6597874012,,,,JJCooley
-11/5/1968,North Carolina,NC,Nixon,republican,39.50833169,,,12,JJCooley
-11/5/1968,North Carolina,NC,Humphrey,democrat,29.23559348,,,,JJCooley
-11/5/1968,North Carolina,NC,Wallace,independent,31.25607483,,,1,JJCooley
-11/5/1968,North Carolina,NC,Other,independent,0,,,,JJCooley
-11/5/1968,North Dakota,ND,Nixon,republican,55.9415367,,,,JJCooley
-11/5/1968,North Dakota,ND,Humphrey,democrat,38.23149724,,,,JJCooley
-11/5/1968,North Dakota,ND,Wallace,independent,5.746282505,,,,JJCooley
-11/5/1968,North Dakota,ND,Other,independent,0.08068355104,,,,JJCooley
-11/5/1968,Ohio,OH,Nixon,republican,45.2310757,,,,JJCooley
-11/5/1968,Ohio,OH,Humphrey,democrat,42.94736619,,,,JJCooley
-11/5/1968,Ohio,OH,Wallace,independent,11.80632967,,,,JJCooley
-11/5/1968,Ohio,OH,Other,independent,0.01522843409,,,,JJCooley
-11/5/1968,Oklahoma,OK,Nixon,republican,47.68356226,,,,JJCooley
-11/5/1968,Oklahoma,OK,Humphrey,democrat,31.98626636,,,,JJCooley
-11/5/1968,Oklahoma,OK,Wallace,independent,20.33017137,,,,JJCooley
-11/5/1968,Oklahoma,OK,Other,independent,0,,,,JJCooley
-11/5/1968,Oregon,OR,Nixon,republican,49.83187372,,,,JJCooley
-11/5/1968,Oregon,OR,Humphrey,democrat,43.78432985,,,,JJCooley
-11/5/1968,Oregon,OR,Wallace,independent,6.061696733,,,,JJCooley
-11/5/1968,Oregon,OR,Other,independent,0.3220996996,,,,JJCooley
-11/5/1968,Pennsylvania,PA,Nixon,republican,44.01955969,,,,JJCooley
-11/5/1968,Pennsylvania,PA,Humphrey,democrat,47.58717908,,,,JJCooley
-11/5/1968,Pennsylvania,PA,Wallace,independent,7.973625548,,,,JJCooley
-11/5/1968,Pennsylvania,PA,Other,independent,0.4196356811,,,,JJCooley
-11/5/1968,Rhode Island,RI,Nixon,republican,31.78155844,,,,JJCooley
-11/5/1968,Rhode Island,RI,Humphrey,democrat,64.03064935,,,,JJCooley
-11/5/1968,Rhode Island,RI,Wallace,independent,4.072207792,,,,JJCooley
-11/5/1968,Rhode Island,RI,Other,independent,0.1155844156,,,,JJCooley
-11/5/1968,South Carolina,SC,Nixon,republican,38.09128282,,,,JJCooley
-11/5/1968,South Carolina,SC,Humphrey,democrat,29.60889499,,,,JJCooley
-11/5/1968,South Carolina,SC,Wallace,independent,32.29922247,,,,JJCooley
-11/5/1968,South Carolina,SC,Other,independent,0.0005997163342,,,,JJCooley
-11/5/1968,South Dakota,SD,Nixon,republican,53.27414813,,,,JJCooley
-11/5/1968,South Dakota,SD,Humphrey,democrat,41.96164458,,,,JJCooley
-11/5/1968,South Dakota,SD,Wallace,independent,4.764207293,,,,JJCooley
-11/5/1968,South Dakota,SD,Other,independent,0,,,,JJCooley
-11/5/1968,Tennessee,TN,Nixon,republican,37.8492364,,,,JJCooley
-11/5/1968,Tennessee,TN,Humphrey,democrat,28.12976277,,,,JJCooley
-11/5/1968,Tennessee,TN,Wallace,independent,34.02100084,,,,JJCooley
-11/5/1968,Tennessee,TN,Other,independent,0,,,,JJCooley
-11/5/1968,Texas,TX,Nixon,republican,39.87275468,,,,JJCooley
-11/5/1968,Texas,TX,Humphrey,democrat,41.13793374,,,,JJCooley
-11/5/1968,Texas,TX,Wallace,independent,18.97343189,,,,JJCooley
-11/5/1968,Texas,TX,Other,independent,0.01587968589,,,,JJCooley
-11/5/1968,Utah,UT,Nixon,republican,56.49457602,,,,JJCooley
-11/5/1968,Utah,UT,Humphrey,democrat,37.07450635,,,,JJCooley
-11/5/1968,Utah,UT,Wallace,independent,6.367259234,,,,JJCooley
-11/5/1968,Utah,UT,Other,independent,0.06365839344,,,,JJCooley
-11/5/1968,Vermont,VT,Nixon,republican,52.75086119,,,,JJCooley
-11/5/1968,Vermont,VT,Humphrey,democrat,43.52742187,,,,JJCooley
-11/5/1968,Vermont,VT,Wallace,independent,3.162251245,,,,JJCooley
-11/5/1968,Vermont,VT,Other,independent,0.5594656886,,,,JJCooley
-11/5/1968,Virginia,VA,Nixon,republican,43.35827413,,,,JJCooley
-11/5/1968,Virginia,VA,Humphrey,democrat,32.49283322,,,,JJCooley
-11/5/1968,Virginia,VA,Wallace,independent,23.63827598,,,,JJCooley
-11/5/1968,Virginia,VA,Other,independent,0.5106166695,,,,JJCooley
-11/5/1968,Washington,WA,Nixon,republican,45.12141172,,,,JJCooley
-11/5/1968,Washington,WA,Humphrey,democrat,47.23192318,,,,JJCooley
-11/5/1968,Washington,WA,Wallace,independent,7.436280985,,,,JJCooley
-11/5/1968,Washington,WA,Other,independent,0.210384112,,,,JJCooley
-11/5/1968,West Virginia,WV,Nixon,republican,40.77864668,,,,JJCooley
-11/5/1968,West Virginia,WV,Humphrey,democrat,49.60063961,,,,JJCooley
-11/5/1968,West Virginia,WV,Wallace,independent,9.620713704,,,,JJCooley
-11/5/1968,West Virginia,WV,Other,independent,0,,,,JJCooley
-11/5/1968,Wisconsin,WI,Nixon,republican,47.88523817,,,,JJCooley
-11/5/1968,Wisconsin,WI,Humphrey,democrat,44.26764282,,,,JJCooley
-11/5/1968,Wisconsin,WI,Wallace,independent,7.557323572,,,,JJCooley
-11/5/1968,Wisconsin,WI,Other,independent,0.2897954406,,,,JJCooley
-11/5/1968,Wyoming,WY,Nixon,republican,55.75802838,,,,JJCooley
-11/5/1968,Wyoming,WY,Humphrey,democrat,35.51196887,,,,JJCooley
-11/5/1968,Wyoming,WY,Wallace,independent,8.730002751,,,,JJCooley
-11/5/1968,Wyoming,WY,Other,independent,0,,,,JJCooley
-11/5/1968,National Popular Vote,NPV,Nixon,republican,43.4204691724,,,,20210915
-11/5/1968,National Popular Vote,NPV,Humphrey,democrat,42.7210921137,,,,20210915
-11/5/1968,National Popular Vote,NPV,Wallace,independent,13.5261176711,,,,20210915
+11/5/1968,Alabama,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Alabama,FALSE,MacDonald Jr.,democrat,0,undefined,FALSE
+11/5/1968,Alaska,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Arizona,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Arkansas,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,California,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Colorado,FALSE,Stevens,republican,1,undefined,FALSE
+11/5/1968,Connecticut,FALSE,Independent,INDGEN,0,null,FALSE
+11/5/1968,Connecticut,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Connecticut,FALSE,Stevens,republican,0,undefined,FALSE
+11/5/1968,Delaware,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,District of Columbia,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Florida,FALSE,MacDonald Jr.,democrat,0.1,undefined,FALSE
+11/5/1968,Georgia,FALSE,Stevens,republican,5,undefined,FALSE
+11/5/1968,Hawaii,FALSE,MacDonald Jr.,democrat,1,undefined,FALSE
+11/5/1968,Idaho,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Illinois,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Indiana,FALSE,Stevens,republican,1,undefined,TRUE
+11/5/1968,Indiana,FALSE,MacDonald Jr.,democrat,0,undefined,TRUE
+11/5/1968,Iowa,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Kansas,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Kentucky,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Louisiana,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Maine 1st CD,ME-1,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Maine 2nd CD,ME-2,Stevens,republican,5,undefined,FALSE
+11/5/1968,Maine,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/5/1968,Maryland,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Massachusetts,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Michigan,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Minnesota,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Mississippi,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Missouri,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Montana,FALSE,Stevens,republican,5,undefined,FALSE
+11/5/1968,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1968,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1968,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1968,Nebraska,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Nevada,FALSE,Stevens,republican,5,undefined,FALSE
+11/5/1968,New Hampshire,FALSE,MacDonald Jr.,democrat,1,undefined,FALSE
+11/5/1968,New Jersey,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,New Mexico,FALSE,MacDonald Jr.,democrat,1,undefined,FALSE
+11/5/1968,New York,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,North Carolina,FALSE,Stevens,republican,1,undefined,FALSE
+11/5/1968,North Carolina,FALSE,MacDonald Jr.,democrat,0,undefined,FALSE
+11/5/1968,North Dakota,FALSE,Stevens,republican,5,undefined,FALSE
+11/5/1968,Ohio,FALSE,MacDonald Jr.,democrat,1,undefined,FALSE
+11/5/1968,Oklahoma,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Oregon,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Pennsylvania,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Rhode Island,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,South Carolina,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,South Dakota,FALSE,Stevens,republican,5,undefined,FALSE
+11/5/1968,Tennessee,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Texas,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Utah,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,Vermont,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,Virginia,FALSE,MacDonald Jr.,democrat,1,undefined,FALSE
+11/5/1968,Washington,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/5/1968,West Virginia,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,West Virginia,FALSE,MacDonald Jr.,democrat,0,undefined,FALSE
+11/5/1968,Wisconsin,FALSE,MacDonald Jr.,democrat,5,undefined,FALSE
+11/5/1968,Wyoming,FALSE,Stevens,republican,15,undefined,FALSE
+11/5/1968,National Popular Vote,FALSE,MacDonald Jr.,democrat,53,undefined,TRUE
+11/5/1968,National Popular Vote,FALSE,Stevens,republican,47,undefined,TRUE
 11/07/1972,Alabama,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Alaska,FALSE,Duchey,republican,15,null,FALSE
 11/07/1972,Arizona,FALSE,Duchey,republican,15,null,FALSE
