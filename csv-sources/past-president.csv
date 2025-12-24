@@ -998,8 +998,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1980,Connecticut,FALSE,Kingston,democrat,15,null,FALSE
 11/4/1980,Delaware,FALSE,Kingston,democrat,15,null,FALSE
 11/4/1980,District of Columbia,FALSE,Kingston,democrat,15,null,FALSE
-11/4/1980,Florida,FALSE,Kingston,democrat,0.1,null,FALSE
-11/4/1980,Florida,FALSE,Dolan,republican,0,null,FALSE
+11/4/1980,Florida,FALSE,Kingston,democrat,50.44,null,FALSE
+11/4/1980,Florida,FALSE,Dolan,republican,49.56,null,FALSE
 11/4/1980,Florida,FALSE,Thatcher,CUSTOM2,0,null,FALSE
 11/4/1980,Georgia,FALSE,Dolan,republican,5,null,FALSE
 11/4/1980,Hawaii,FALSE,Kingston,democrat,5,null,FALSE
@@ -1013,7 +1013,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1980,Kentucky,FALSE,Dolan,republican,15,null,FALSE
 11/4/1980,Louisiana,FALSE,Dolan,republican,5,null,FALSE
 11/4/1980,Maine 1st CD,ME-1,Kingston,democrat,15,null,FALSE
-11/4/1980,Maine 2nd CD,ME-2,Dolan,republican,5,null,FALSE
+11/4/1980,Maine 2nd CD,ME-2,Dolan,republican,1,null,FALSE
 11/4/1980,Maine,FALSE,Kingston,democrat,5,null,FALSE
 11/4/1980,Maryland,FALSE,Kingston,democrat,15,null,FALSE
 11/4/1980,Massachusetts,FALSE,Kingston,democrat,15,null,FALSE
@@ -1034,8 +1034,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1980,Nevada,FALSE,Kingston,democrat,0,null,FALSE
 11/4/1980,New Hampshire,FALSE,Kingston,democrat,1,null,FALSE
 11/4/1980,New Jersey,FALSE,Kingston,democrat,15,null,FALSE
-11/4/1980,New Mexico,FALSE,Thatcher,CUSTOM2,0.1,null,TRUE
-11/4/1980,New Mexico,FALSE,Kingston,democrat,0,null,TRUE
+11/4/1980,New Mexico,FALSE,Thatcher,CUSTOM2,50.14,null,TRUE
+11/4/1980,New Mexico,FALSE,Kingston,democrat,49.86,null,TRUE
 11/4/1980,New York,FALSE,Kingston,democrat,15,null,FALSE
 11/4/1980,North Carolina,FALSE,Kingston,democrat,1,null,FALSE
 11/4/1980,North Dakota,FALSE,Thatcher,CUSTOM2,1,null,TRUE
@@ -1087,7 +1087,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,Kentucky,FALSE,Dolan,republican,15,undefined,FALSE
 11/6/1984,Louisiana,FALSE,Dolan,republican,5,undefined,FALSE
 11/6/1984,Maine 1st CD,ME-1,Kingston,democrat,15,undefined,FALSE
-11/6/1984,Maine 2nd CD,Dolan,republican,5,undefined,FALSE
+11/6/1984,Maine 2nd CD,ME-2,Kingston,democrat,1,undefined,FALSE
 11/6/1984,Maine,FALSE,Kingston,democrat,5,undefined,FALSE
 11/6/1984,Maryland,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,Massachusetts,FALSE,Kingston,democrat,15,undefined,FALSE
@@ -1101,14 +1101,16 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
 11/6/1984,Nebraska,FALSE,Dolan,republican,15,undefined,TRUE
 11/6/1984,Nevada,FALSE,Dolan,republican,5,undefined,TRUE
-11/6/1984,New Hampshire,FALSE,Kingston,democrat,0.1,undefined,FALSE
+11/6/1984,New Hampshire,FALSE,Kingston,democrat,50.17,undefined,FALSE
+11/6/1984,New Hampshire,FALSE,Dolan,republican,49.83,undefined,FALSE
 11/6/1984,New Jersey,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,New Mexico,FALSE,Kingston,democrat,1,undefined,TRUE
 11/6/1984,New York,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,North Carolina,FALSE,Dolan,republican,1,undefined,TRUE
 11/6/1984,North Carolina,FALSE,Kingston,democrat,0,undefined,TRUE
 11/6/1984,North Dakota,FALSE,Dolan,republican,15,undefined,TRUE
-11/6/1984,Ohio,FALSE,Kingston,democrat,0.1,undefined,FALSE
+11/6/1984,Ohio,FALSE,Kingston,democrat,50.26,undefined,FALSE
+11/6/1984,Ohio,FALSE,Dolan,republican,49.74,undefined,FALSE
 11/6/1984,Oklahoma,FALSE,Dolan,republican,15,undefined,TRUE
 11/6/1984,Oregon,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,Pennsylvania,FALSE,Kingston,democrat,5,undefined,FALSE
