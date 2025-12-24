@@ -2252,357 +2252,67 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/1992,National Popular Vote,NPV,Bush,republican,37.4478844278,,,,20210915
 11/3/1992,National Popular Vote,NPV,Perot,reform party,18.9073733612,,,,20210915
 11/3/1992,National Popular Vote,NPV,Marrou,libertarian,0.2777974545,,,,20210915
-11/5/1996,Alabama,AL,Dole,republican,50.121843205163900,,,,20171015
-11/5/1996,Alabama,AL,Clinton,democrat,43.156087695824100,,,,20171015
-11/5/1996,Alabama,AL,Perot,independent,6.01,,,,JJCooley
-11/5/1996,Alabama,AL,Browne,libertarian,0.34477162627277100,,,,20171015
-11/5/1996,Alabama,AL,Hagelin,natural law,0.1106006521332500,,,,20171015
-11/5/1996,Alaska,AK,Dole,republican,50.801258173992200,,,,20171015
-11/5/1996,Alaska,AK,Clinton,democrat,33.267113649532300,,,,20171015
-11/5/1996,Alaska,AK,Perot,reform party,10.89851833457500,,,,20171015
-11/5/1996,Alaska,AK,Nader,green,3.144193361476700,,,,20171015
-11/5/1996,Alaska,AK,Browne,libertarian,0.94197500206936500,,,,20171015
-11/5/1996,Alaska,AK,Phillips,u.s. taxpayers party,0.38283254697458800,,,,20171015
-11/5/1996,Alaska,AK,Hagelin,natural law,0.30171343431835100,,,,20171015
-11/5/1996,Arizona,AZ,Clinton,democrat,46.517065946076800,,,,20171015
-11/5/1996,Arizona,AZ,Dole,republican,44.294416496665800,,,,20171015
-11/5/1996,Arizona,AZ,Perot,reform party,7.9800342493796300,,,,20171015
-11/5/1996,Arizona,AZ,Browne,libertarian,1.0223546626507300,,,,20171015
-11/5/1996,Arkansas,AR,Clinton,democrat,53.736449151948200,,,,20171015
-11/5/1996,Arkansas,AR,Dole,republican,36.800857664357400,,,,20171015
-11/5/1996,Arkansas,AR,Perot,reform party,7.9030875464511600,,,,20171015
-11/5/1996,Arkansas,AR,Nader,green,0.41266050107321100,,,,20171015
-11/5/1996,Arkansas,AR,Browne,libertarian,0.34786070191866200,,,,20171015
-11/5/1996,Arkansas,AR,Phillips,u.s. taxpayers party,0.23352807199676100,,,,20171015
-11/5/1996,Arkansas,AR,Forbes,america first,0.10539862619902200,,,,20171015
-11/5/1996,Arkansas,AR,Collins,unaffiliated,0.093071962834544500,,,,20171015
-11/5/1996,Arkansas,AR,Masters,looking back party,0.084703402385265900,,,,20171015
-11/5/1996,Arkansas,AR,Moorehead,workers world,0.084477225075825900,,,,20171015
-11/5/1996,Arkansas,AR,Hagelin,natural law,0.082441629290866300,,,,20171015
-11/5/1996,Arkansas,AR,Hollis,socialist,0.060841696239349900,,,,20171015
-11/5/1996,Arkansas,AR,Dodge,prohibition,0.054621820229750900,,,,20171015
-11/5/1996,California,CA,Clinton,democrat,51.098865618527300,,,,20171015
-11/5/1996,California,CA,Dole,republican,38.209420080046200,,,,20171015
-11/5/1996,California,CA,Perot,reform party,6.9649100166885100,,,,20171015
-11/5/1996,California,CA,Nader,green,2.3655545019401700,,,,20171015
-11/5/1996,California,CA,Browne,libertarian,0.73456986592802500,,,,20171015
-11/5/1996,California,CA,Feinland,peace & freedom,0.25282776961533600,,,,20171015
-11/5/1996,California,CA,Phillips,american independent party,0.2116080203451900,,,,20171015
-11/5/1996,California,CA,Hagelin,natural law,0.15373070169686600,,,,20171015
-11/5/1996,Colorado,CO,Dole,republican,45.796457540931300,,,,20171015
-11/5/1996,Colorado,CO,Clinton,democrat,44.426498409348800,,,,20171015
-11/5/1996,Colorado,CO,Perot,reform party,6.5948810552974700,,,,20171015
-11/5/1996,Colorado,CO,Nader,green,1.6594934010810900,,,,20171015
-11/5/1996,Colorado,CO,Browne,libertarian,0.82028090252081500,,,,20171015
-11/5/1996,Colorado,CO,Phillips,constitution party,0.18620482398249300,,,,20171015
-11/5/1996,Colorado,CO,Collins,independent,0.18594004641550700,,,,20171015
-11/5/1996,Colorado,CO,Hagelin,natural law,0.1684647269944700,,,,20171015
-11/5/1996,Colorado,CO,Hollis,socialist,0.044284048078310600,,,,20171015
-11/5/1996,Colorado,CO,Moorehead,workers world,0.039650440656065900,,,,20171015
-11/5/1996,Colorado,CO,Templin,american,0.03687027620271900,,,,20171015
-11/5/1996,Colorado,CO,Dodge,prohibition,0.024822896904882600,,,,20171015
-11/5/1996,Colorado,CO,Harkin,socialist workers,0.016151431586110300,,,,20171015
-11/5/1996,Connecticut,CT,Clinton,democrat,52.831581471965700,,,,20171015
-11/5/1996,Connecticut,CT,Dole,republican,34.690804487101200,,,,20171015
-11/5/1996,Connecticut,CT,Perot,reform party,10.018784817616400,,,,20171015
-11/5/1996,Connecticut,CT,Nader,green,1.7464279405492100,,,,20171015
-11/5/1996,Connecticut,CT,Browne,libertarian,0.4156212705028100,,,,20171015
-11/5/1996,Connecticut,CT,Phillips,concerned citizens,0.17413296146670900,,,,20171015
-11/5/1996,Connecticut,CT,Hagelin,natural law,0.12228801376404400,,,,20171015
-11/5/1996,Delaware,DE,Clinton,democrat,51.827849783981400,,,,20171015
-11/5/1996,Delaware,DE,Dole,republican,36.579889959750400,,,,20171015
-11/5/1996,Delaware,DE,Perot,unaffiliated,10.604852110335700,,,,20171015
-11/5/1996,Delaware,DE,Browne,libertarian,0.75772681954137600,,,,20171015
-11/5/1996,Delaware,DE,Phillips,u.s. taxpayers party,0.12850337875263100,,,,20171015
-11/5/1996,Delaware,DE,Hagelin,natural law,0.10117794763856600,,,,20171015
-11/5/1996,District of Columbia,DC,Clinton,democrat,85.190011091608100,,,,20171015
-11/5/1996,District of Columbia,DC,Dole,republican,9.3357957421147300,,,,20171015
-11/5/1996,District of Columbia,DC,Nader,green,2.5736838137902100,,,,20171015
-11/5/1996,District of Columbia,DC,Perot,reform party,1.9442619773214300,,,,20171015
-11/5/1996,District of Columbia,DC,Browne,libertarian,0.31659541475076200,,,,20171015
-11/5/1996,District of Columbia,DC,Hagelin,natural law,0.15237500403820700,,,,20171015
-11/5/1996,District of Columbia,DC,Harkin,socialist workers,0.13837588705943200,,,,20171015
-11/5/1996,Florida,FL,Clinton,democrat,48.025571197819300,,,,20171015
-11/5/1996,Florida,FL,Dole,republican,42.324548749668600,,,,20171015
-11/5/1996,Florida,FL,Perot,reform party,9.1241928859693700,,,,20171015
-11/5/1996,Florida,FL,Browne,libertarian,0.4398514544363600,,,,20171015
-11/5/1996,Georgia,GA,Dole,republican,47.015680114698400,,,,20171015
-11/5/1996,Georgia,GA,Clinton,democrat,45.841465849521900,,,,20171015
-11/5/1996,Georgia,GA,Perot,reform party,6.3655254102072300,,,,20171015
-11/5/1996,Georgia,GA,Browne,libertarian,0.77732862557250200,,,,20171015
-11/5/1996,Hawaii,HI,Clinton,democrat,56.928801510607600,,,,20171015
-11/5/1996,Hawaii,HI,Dole,republican,31.64028657114300,,,,20171015
-11/5/1996,Hawaii,HI,Perot,reform party,7.5969121403976500,,,,20171015
-11/5/1996,Hawaii,HI,Nader,green,2.8840386537820700,,,,20171015
-11/5/1996,Hawaii,HI,Browne,libertarian,0.69226924358547200,,,,20171015
-11/5/1996,Hawaii,HI,Hagelin,natural law,0.15828057314228600,,,,20171015
-11/5/1996,Hawaii,HI,Phillips,u.s. taxpayers party,0.099411307341997100,,,,20171015
-11/5/1996,Idaho,ID,Dole,republican,52.184108144824900,,,,20171015
-11/5/1996,Idaho,ID,Clinton,democrat,33.64638985094900,,,,20171015
-11/5/1996,Idaho,ID,Perot,reform party,12.714378974641600,,,,20171015
-11/5/1996,Idaho,ID,Browne,libertarian,0.67621021290961600,,,,20171015
-11/5/1996,Idaho,ID,Phillips,u.s. taxpayers party,0.45351842850780200,,,,20171015
-11/5/1996,Idaho,ID,Hagelin,natural law,0.32539438816703300,,,,20171015
-11/5/1996,Illinois,IL,Clinton,democrat,54.315277830287300,,,,20171015
-11/5/1996,Illinois,IL,Dole,republican,36.809952982691700,,,,20171015
-11/5/1996,Illinois,IL,Perot,reform party,8.0347154781368700,,,,20171015
-11/5/1996,Illinois,IL,Browne,libertarian,0.52298666486059800,,,,20171015
-11/5/1996,Illinois,IL,Phillips,u.s. taxpayers party,0.17641638162718300,,,,20171015
-11/5/1996,Illinois,IL,Hagelin,natural law,0.10683327028330300,,,,20171015
-11/5/1996,Indiana,IN,Dole,republican,47.142380156511700,,,,20171015
-11/5/1996,Indiana,IN,Clinton,democrat,41.557137645749300,,,,20171015
-11/5/1996,Indiana,IN,Perot,reform party,10.503687545980200,,,,20171015
-11/5/1996,Indiana,IN,Browne,libertarian,0.73203020842162500,,,,20171015
-11/5/1996,Iowa,IA,Clinton,democrat,50.260964690152500,,,,20171015
-11/5/1996,Iowa,IA,Dole,republican,39.920102100763700,,,,20171015
-11/5/1996,Iowa,IA,Perot,reform party,8.5212811214877500,,,,20171015
-11/5/1996,Iowa,IA,Nader,green,0.53076190669124600,,,,20171015
-11/5/1996,Iowa,IA,Hagelin,natural law,0.27137734740595200,,,,20171015
-11/5/1996,Iowa,IA,Browne,libertarian,0.18758989526568500,,,,20171015
-11/5/1996,Iowa,IA,Phillips,u.s. taxpayers party,0.18062111297935700,,,,20171015
-11/5/1996,Iowa,IA,Harkin,socialist workers,0.026821708567145400,,,,20171015
-11/5/1996,Kansas,KS,Dole,republican,54.290700921530300,,,,20171015
-11/5/1996,Kansas,KS,Clinton,democrat,36.084799404263200,,,,20171015
-11/5/1996,Kansas,KS,Perot,reform party,8.6231965000465400,,,,20171015
-11/5/1996,Kansas,KS,Browne,libertarian,0.42418318905333700,,,,20171015
-11/5/1996,Kentucky,KY,Clinton,democrat,45.842178485325900,,,,20171015
-11/5/1996,Kentucky,KY,Dole,republican,44.88222146052300,,,,20171015
-11/5/1996,Kentucky,KY,Perot,reform party,8.669641134061300,,,,20171015
-11/5/1996,Kentucky,KY,Browne,libertarian,0.28868559841233700,,,,20171015
-11/5/1996,Kentucky,KY,Phillips,u.s. taxpayers party,0.15870867021720900,,,,20171015
-11/5/1996,Kentucky,KY,Hagelin,natural law,0.10751000210267400,,,,20171015
-11/5/1996,Louisiana,LA,Clinton,democrat,52.009995745417900,,,,20171015
-11/5/1996,Louisiana,LA,Dole,republican,39.944079432318800,,,,20171015
-11/5/1996,Louisiana,LA,Perot,reform party,6.9112014345621200,,,,20171015
-11/5/1996,Louisiana,LA,Browne,libertarian,0.42035719430771700,,,,20171015
-11/5/1996,Louisiana,LA,Nader,liberty ecology community,0.26452401652728600,,,,20171015
-11/5/1996,Louisiana,LA,Phillips,u.s. taxpayers party,0.18868146633414800,,,,20171015
-11/5/1996,Louisiana,LA,Hagelin,natural law,0.16710025286455600,,,,20171015
-11/5/1996,Louisiana,LA,Moorehead,workers world,0.094060457667468800,,,,20171015
-11/5/1996,Maine,ME,Clinton,democrat,51.623955886891700,,,,20171015
-11/5/1996,Maine,ME,Dole,republican,30.760673843904200,,,,20171015
-11/5/1996,Maine,ME,Perot,reform party,14.188880288233800,,,,20171015
-11/5/1996,Maine,ME,Nader,green,2.5217157371632500,,,,20171015
-11/5/1996,Maine,ME,Browne,libertarian,0.49447348311676700,,,,20171015
-11/5/1996,Maine,ME,Phillips,u.s. taxpayers party,0.25037258808015200,,,,20171015
-11/5/1996,Maine,ME,Hagelin,natural law,0.13616175686626600,,,,20171015
-11/5/1996,Maine 1st CD,ME-1,Clinton,democrat,52.0,,,,JJCooley
-11/5/1996,Maine 1st CD,ME-1,Dole,republican,31.8,,,,JJCooley
-11/5/1996,Maine 1st CD,ME-1,Perot,reform party,12.6,,,,JJCooley
-11/5/1996,Maine 2nd CD,ME-2,Clinton,democrat,51.2,,,,JJCooley
-11/5/1996,Maine 2nd CD,ME-2,Dole,republican,29.6,,,,JJCooley
-11/5/1996,Maine 2nd CD,ME-2,Perot,reform party,16.0,,,,JJCooley
-11/5/1996,Maryland,MD,Clinton,democrat,54.254774351861700,,,,20171015
-11/5/1996,Maryland,MD,Dole,republican,38.269497492798500,,,,20171015
-11/5/1996,Maryland,MD,Perot,reform party,6.5031136467007700,,,,20171015
-11/5/1996,Maryland,MD,Browne,libertarian,0.49217517280879600,,,,20171015
-11/5/1996,Maryland,MD,Phillips,u.s. taxpayers party,0.19103022679926100,,,,20171015
-11/5/1996,Maryland,MD,Hagelin,natural law,0.14133541471303400,,,,20171015
-11/5/1996,Massachusetts,MA,Clinton,democrat,61.472098711538100,,,,20171015
-11/5/1996,Massachusetts,MA,Dole,republican,28.087992023341700,,,,20171015
-11/5/1996,Massachusetts,MA,Perot,reform party,8.8875276309927100,,,,20171015
-11/5/1996,Massachusetts,MA,Browne,libertarian,0.79891756527290300,,,,20171015
-11/5/1996,Massachusetts,MA,Hagelin,natural law,0.20274136999654600,,,,20171015
-11/5/1996,Massachusetts,MA,Moorehead,workers world,0.12814600195035400,,,,20171015
-11/5/1996,Michigan,MI,Clinton,democrat,51.694820574697200,,,,20171015
-11/5/1996,Michigan,MI,Dole,republican,38.484594335338100,,,,20171015
-11/5/1996,Michigan,MI,Perot,reform party,8.7473017872379300,,,,20171015
-11/5/1996,Michigan,MI,Browne,libertarian,0.71891716058120300,,,,20171015
-11/5/1996,Michigan,MI,Hagelin,natural law,0.11052669320970100,,,,20171015
-11/5/1996,Michigan,MI,Moorehead,workers world,0.081920701384623500,,,,20171015
-11/5/1996,Michigan,MI,White,socialist equality party,0.040375759578720300,,,,20171015
-11/5/1996,Minnesota,MN,Clinton,democrat,51.100756582008100,,,,20171015
-11/5/1996,Minnesota,MN,Dole,republican,34.955429711944200,,,,20171015
-11/5/1996,Minnesota,MN,Perot,reform party,11.753657481988500,,,,20171015
-11/5/1996,Minnesota,MN,Nader,green,1.1359676568945300,,,,20171015
-11/5/1996,Minnesota,MN,Browne,libertarian,0.37724196941197500,,,,20171015
-11/5/1996,Minnesota,MN,Peron,grassroots,0.22339876268647700,,,,20171015
-11/5/1996,Minnesota,MN,Phillips,u.s. taxpayers party,0.15575883515196400,,,,20171015
-11/5/1996,Minnesota,MN,Hagelin,natural law,0.082463242739312200,,,,20171015
-11/5/1996,Minnesota,MN,Birrenback,independent grassroots,0.035895227895928500,,,,20171015
-11/5/1996,Minnesota,MN,Harkin,socialist workers,0.03119737723102300,,,,20171015
-11/5/1996,Minnesota,MN,White,socialist equality party,0.015826739618662200,,,,20171015
-11/5/1996,Mississippi,MS,Dole,republican,49.206752310492600,,,,20171015
-11/5/1996,Mississippi,MS,Clinton,democrat,44.081100220728800,,,,20171015
-11/5/1996,Mississippi,MS,Perot,independent,5.84,,,,JJCooley
-11/5/1996,Mississippi,MS,Browne,libertarian,0.3142560834674900,,,,20171015
-11/5/1996,Mississippi,MS,Phillips,u.s. taxpayers party,0.25887809795079100,,,,20171015
-11/5/1996,Mississippi,MS,Hagelin,natural law,0.16188271725790600,,,,20171015
-11/5/1996,Missouri,MO,Clinton,democrat,47.539578279616200,,,,20171015
-11/5/1996,Missouri,MO,Dole,republican,41.241389856190600,,,,20171015
-11/5/1996,Missouri,MO,Perot,reform party,10.06401568071400,,,,20171015
-11/5/1996,Missouri,MO,Phillips,u.s. taxpayers party,0.53385787731138800,,,,20171015
-11/5/1996,Missouri,MO,Browne,libertarian,0.48756640787001300,,,,20171015
-11/5/1996,Missouri,MO,Hagelin,natural law,0.10597456517760100,,,,20171015
-11/5/1996,Montana,MT,Dole,republican,44.131540742305600,,,,20171015
-11/5/1996,Montana,MT,Clinton,democrat,41.250064483164400,,,,20171015
-11/5/1996,Montana,MT,Perot,reform party,13.567012132660900,,,,20171015
-11/5/1996,Montana,MT,Browne,libertarian,0.62051227882274600,,,,20171015
-11/5/1996,Montana,MT,Hagelin,natural law,0.43087036304635700,,,,20171015
-11/5/1996,Nebraska,NE,Dole,republican,53.654997305935100,,,,20171015
-11/5/1996,Nebraska,NE,Clinton,democrat,34.950658016134900,,,,20171015
-11/5/1996,Nebraska,NE,Perot,reform party,10.522058117992700,,,,20171015
-11/5/1996,Nebraska,NE,Browne,libertarian,0.41215503052043400,,,,20171015
-11/5/1996,Nebraska,NE,Phillips,u.s. taxpayers party,0.28461135345393900,,,,20171015
-11/5/1996,Nebraska,NE,Hagelin,natural law,0.17552017596303600,,,,20171015
-11/5/1996,Nebraska 1st CD,NE-1,Dole,republican,50,,,,JJCooley
-11/5/1996,Nebraska 1st CD,NE-1,Clinton,democrat,38,,,,JJCooley
-11/5/1996,Nebraska 2nd CD,NE-2,Dole,republican,53,,,,JJCooley
-11/5/1996,Nebraska 2nd CD,NE-2,Clinton,democrat,38,,,,JJCooley
-11/5/1996,Nebraska 3rd CD,NE-3,Dole,republican,59,,,,JJCooley
-11/5/1996,Nebraska 3rd CD,NE-3,Clinton,democrat,29,,,,JJCooley
-11/5/1996,Nevada,NV,Clinton,democrat,43.933496884416500,,,,20171015
-11/5/1996,Nevada,NV,Dole,republican,42.914712920463800,,,,20171015
-11/5/1996,Nevada,NV,Perot,reform party,9.4740447015695300,,,,20171015
-11/5/1996,Nevada,NV,Nader,green,1.0187839639527100,,,,20171015
-11/5/1996,Nevada,NV,Browne,libertarian,0.96062927679261800,,,,20171015
-11/5/1996,Nevada,NV,Phillips,independent american,0.37305154874547400,,,,20171015
-11/5/1996,Nevada,NV,Hagelin,natural law,0.11738631297129500,,,,20171015
-11/5/1996,New Hampshire,NH,Clinton,democrat,49.3241849051,,,,20171015
-11/5/1996,New Hampshire,NH,Dole,republican,39.3713627485,,,,20171015
-11/5/1996,New Hampshire,NH,Perot,reform party,9.6939950919,,,,20171015
-11/5/1996,New Hampshire,NH,Browne,libertarian,0.8488005209,,,,20171015
-11/5/1996,New Hampshire,NH,Phillips,u.s. taxpayers party,0.2696449141,,,,20171015
-11/5/1996,New Jersey,NJ,Clinton,democrat,53.720292861183500,,,,20171015
-11/5/1996,New Jersey,NJ,Dole,republican,35.863108203884400,,,,20171015
-11/5/1996,New Jersey,NJ,Perot,independent,8.52,,,,JJCooley
-11/5/1996,New Mexico,NM,Clinton,democrat,49.183202235673700,,,,20171015
-11/5/1996,New Mexico,NM,Dole,republican,41.856119868938300,,,,20171015
-11/5/1996,New Mexico,NM,Perot,reform party,5.8008466499063100,,,,20171015
-11/5/1996,New Mexico,NM,Nader,green,2.377021763290500,,,,20171015
-11/5/1996,New Mexico,NM,Browne,libertarian,0.53877721310473100,,,,20171015
-11/5/1996,New Mexico,NM,Phillips,u.s. taxpayers party,0.12822034477425700,,,,20171015
-11/5/1996,New Mexico,NM,Hagelin,natural law,0.11581192431223200,,,,20171015
-11/5/1996,New York,NY,Clinton,democrat,57.7827020315766,,,,20171015
-11/5/1996,New York,NY,Dole,republican,27.5280476380391,,,,20171015
-11/5/1996,New York,NY,Perot,independence,7.97098982620526,,,,20171015
-11/5/1996,New York,NY,Dole,conservative,2.90355057662692,,,,20171015
-11/5/1996,New York,NY,Clinton,liberal party,1.686903481547,,,,20171015
-11/5/1996,New York,NY,Nader,green,1.20257201839924,,,,20171015
-11/5/1996,New York,NY,Phillips,right-to-life,0.373329930405158,,,,20171015
-11/5/1996,New York,NY,Browne,libertarian,0.193472932550934,,,,20171015
-11/5/1996,New York,NY,Dole,freedom,0.180379469767004,,,,20171015
-11/5/1996,New York,NY,Hagelin,natural law,0.0793365683316474,,,,20171015
-11/5/1996,New York,NY,Moorehead,workers world,0.0549862106996231,,,,20171015
-11/5/1996,New York,NY,Harkin,socialist workers,0.0437293158515287,,,,20171015
-11/5/1996,North Carolina,NC,Dole,republican,48.729413663289800,,,,20171015
-11/5/1996,North Carolina,NC,Clinton,democrat,44.035532137401600,,,,20171015
-11/5/1996,North Carolina,NC,Perot,reform party,6.6801229188089500,,,,20171015
-11/5/1996,North Carolina,NC,Browne,libertarian,0.3474034375450900,,,,20171015
-11/5/1996,North Carolina,NC,Hagelin,natural law,0.11014358414616100,,,,20171015
-11/5/1996,North Dakota,ND,Dole,republican,46.938752528987200,,,,20171015
-11/5/1996,North Dakota,ND,Clinton,democrat,40.127847573861400,,,,20171015
-11/5/1996,North Dakota,ND,Perot,reform party,12.204826377289200,,,,20171015
-11/5/1996,North Dakota,ND,Browne,libertarian,0.31792981521033300,,,,20171015
-11/5/1996,North Dakota,ND,Phillips,independent nomination,0.27964310782963200,,,,20171015
-11/5/1996,North Dakota,ND,Hagelin,natural law,0.13100059682220300,,,,20171015
-11/5/1996,Ohio,OH,Clinton,democrat,47.375747447200700,,,,20171015
-11/5/1996,Ohio,OH,Dole,republican,41.016872227051900,,,,20171015
-11/5/1996,Ohio,OH,Perot,reform party,10.656390632215600,,,,20171015
-11/5/1996,Ohio,OH,Browne,libertarian,0.2834091311065500,,,,20171015
-11/5/1996,Ohio,OH,Moorehead,workers world,0.23846416112793800,,,,20171015
-11/5/1996,Ohio,OH,Hagelin,natural law,0.20112763798083700,,,,20171015
-11/5/1996,Ohio,OH,Phillips,u.s. taxpayers party,0.16233558587466500,,,,20171015
-11/5/1996,Ohio,OH,Nader,green,0.065322375405618400,,,,20171015
-11/5/1996,Oklahoma,OK,Dole,republican,48.25629623613900,,,,20171015
-11/5/1996,Oklahoma,OK,Clinton,democrat,40.449137450247100,,,,20171015
-11/5/1996,Oklahoma,OK,Perot,reform party,10.838368360993900,,,,20171015
-11/5/1996,Oklahoma,OK,Browne,libertarian,0.45619795262005100,,,,20171015
-11/5/1996,Oregon,OR,Clinton,democrat,47.151971315758900,,,,20171015
-11/5/1996,Oregon,OR,Dole,republican,39.059923353849700,,,,20171015
-11/5/1996,Oregon,OR,Perot,reform party,8.7984119149924500,,,,20171015
-11/5/1996,Oregon,OR,Nader,green,3.5866188595981900,,,,20171015
-11/5/1996,Oregon,OR,Browne,libertarian,0.64619382185576600,,,,20171015
-11/5/1996,Oregon,OR,Phillips,u.s. taxpayers party,0.24525316455696200,,,,20171015
-11/5/1996,Oregon,OR,Hagelin,natural law,0.20308326559052400,,,,20171015
-11/5/1996,Oregon,OR,Hollis,socialist,0.13950180002322600,,,,20171015
-11/5/1996,Pennsylvania,PA,Clinton,democrat,49.226124767761900,,,,20171015
-11/5/1996,Pennsylvania,PA,Dole,republican,40.014355830428800,,,,20171015
-11/5/1996,Pennsylvania,PA,Perot,reform party,9.5746413208430400,,,,20171015
-11/5/1996,Pennsylvania,PA,Browne,libertarian,0.62204155370873400,,,,20171015
-11/5/1996,Pennsylvania,PA,Phillips,constitution party,0.43436273064689900,,,,20171015
-11/5/1996,Pennsylvania,PA,Hagelin,natural law,0.12847379661062900,,,,20171015
-11/5/1996,Rhode Island,RI,Clinton,democrat,59.718588483703900,,,,20171015
-11/5/1996,Rhode Island,RI,Dole,republican,26.824805828103700,,,,20171015
-11/5/1996,Rhode Island,RI,Perot,reform party,11.203929818807100,,,,20171015
-11/5/1996,Rhode Island,RI,Nader,green,1.5477377148318900,,,,20171015
-11/5/1996,Rhode Island,RI,Browne,libertarian,0.28417899432923300,,,,20171015
-11/5/1996,Rhode Island,RI,Phillips,u.s. taxpayers party,0.26162917331843700,,,,20171015
-11/5/1996,Rhode Island,RI,Hagelin,natural law,0.1114678652238200,,,,20171015
-11/5/1996,Rhode Island,RI,Moorehead,workers world,0.047662121681909100,,,,20171015
-11/5/1996,South Carolina,SC,Dole,republican,49.847676280797300,,,,20171015
-11/5/1996,South Carolina,SC,Clinton,democrat,44.006252923450400,,,,20171015
-11/5/1996,South Carolina,SC,Perot,reform party,5.5971141958,,,,JJCooley
-11/5/1996,South Carolina,SC,Browne,libertarian,0.37133253693763200,,,,20171015
-11/5/1996,South Carolina,SC,Phillips,u.s. taxpayers party,0.17762406297438100,,,,20171015
-11/5/1996,South Dakota,SD,Dole,republican,46.488855125900900,,,,20171015
-11/5/1996,South Dakota,SD,Clinton,democrat,43.027119502448800,,,,20171015
-11/5/1996,South Dakota,SD,Perot,reform party,10.02946027,,,,JJCooley
-11/5/1996,South Dakota,SD,Browne,libertarian,0.45456510595196200,,,,20171015
-11/5/1996,Tennessee,TN,Clinton,democrat,47.998711792640900,,,,20171015
-11/5/1996,Tennessee,TN,Dole,republican,45.59039757563600,,,,20171015
-11/5/1996,Tennessee,TN,Perot,independent,5.59,,,,JJCooley
-11/5/1996,Texas,TX,Dole,republican,48.758741645050900,,,,20171015
-11/5/1996,Texas,TX,Clinton,democrat,43.831771937065100,,,,20171015
-11/5/1996,Texas,TX,Perot,independent,6.7455633322427400,,,,20171015
-11/5/1996,Texas,TX,Browne,libertarian,0.36096373896847300,,,,20171015
-11/5/1996,Texas,TX,Phillips,u.s. taxpayers party,0.13315171097810200,,,,20171015
-11/5/1996,Texas,TX,Hagelin,natural law,0.078800437091162600,,,,20171015
-11/5/1996,Utah,UT,Dole,republican,54.37127889560100,,,,20171015
-11/5/1996,Utah,UT,Clinton,democrat,33.296776432517200,,,,20171015
-11/5/1996,Utah,UT,Perot,reform party,9.9846911718089200,,,,20171015
-11/5/1996,Utah,UT,Nader,green,0.69332916684819900,,,,20171015
-11/5/1996,Utah,UT,Browne,libertarian,0.62031552110860600,,,,20171015
-11/5/1996,Utah,UT,Phillips,u.s. taxpayers party,0.39075821516189900,,,,20171015
-11/5/1996,Utah,UT,Templin,independent american,0.19380165227176100,,,,20171015
-11/5/1996,Utah,UT,Crane,independent,0.16540745670636300,,,,20171015
-11/5/1996,Utah,UT,Hagelin,natural law,0.16300371528283800,,,,20171015
-11/5/1996,Utah,UT,Moorehead,workers world,0.044769684013166500,,,,20171015
-11/5/1996,Utah,UT,Harkin,socialist workers,0.03530495215803400,,,,20171015
-11/5/1996,Utah,UT,Dodge,prohibition,0.016675956125709700,,,,20171015
-11/5/1996,Vermont,VT,Clinton,democrat,53.354433563294900,,,,20171015
-11/5/1996,Vermont,VT,Dole,republican,31.090079667555300,,,,20171015
-11/5/1996,Vermont,VT,Perot,reform party,12.003915666146900,,,,20171015
-11/5/1996,Vermont,VT,Nader,green,2.1609679279084100,,,,20171015
-11/5/1996,Vermont,VT,Browne,libertarian,0.45773053871363400,,,,20171015
-11/5/1996,Vermont,VT,Hagelin,natural law,0.19268791908655100,,,,20171015
-11/5/1996,Vermont,VT,Peron,grassroots,0.18572329550510900,,,,20171015
-11/5/1996,Vermont,VT,Phillips,u.s. taxpayers party,0.14780478933948300,,,,20171015
-11/5/1996,Vermont,VT,Hollis,liberty union party,0.11298167143227500,,,,20171015
-11/5/1996,Vermont,VT,Harkin,socialist workers,0.076997782928159900,,,,20171015
-11/5/1996,Virginia,VA,Dole,republican,47.104618723004900,,,,20171015
-11/5/1996,Virginia,VA,Clinton,democrat,45.147771163457400,,,,20171015
-11/5/1996,Virginia,VA,Perot,reform party,6.615005449710800,,,,20171015
-11/5/1996,Virginia,VA,Phillips,u.s. taxpayers party,0.56636440151251200,,,,20171015
-11/5/1996,Virginia,VA,Browne,libertarian,0.37961766782171300,,,,20171015
-11/5/1996,Virginia,VA,Hagelin,natural law,0.18662259449268900,,,,20171015
-11/5/1996,Washington,WA,Clinton,democrat,49.840472048333600,,,,20171015
-11/5/1996,Washington,WA,Dole,republican,37.301366514082400,,,,20171015
-11/5/1996,Washington,WA,Perot,reform party,8.91825806391500,,,,20171015
-11/5/1996,Washington,WA,Browne,libertarian,0.55558587422249300,,,,20171015
-11/5/1996,Washington,WA,Hagelin,natural law,0.26958471264780900,,,,20171015
-11/5/1996,Washington,WA,Phillips,u.s. taxpayers party,0.20312027888440900,,,,20171015
-11/5/1996,Washington,WA,Moorehead,workers world,0.097123261353860100,,,,20171015
-11/5/1996,Washington,WA,Harkin,socialist workers,0.032744160291982100,,,,20171015
-11/5/1996,West Virginia,WV,Clinton,democrat,51.505595804285900,,,,20171015
-11/5/1996,West Virginia,WV,Dole,republican,36.75743449303100,,,,20171015
-11/5/1996,West Virginia,WV,Perot,reform party,11.255870370283100,,,,20171015
-11/5/1996,West Virginia,WV,Browne,libertarian,0.48109933240004500,,,,20171015
-11/5/1996,Wisconsin,WI,Clinton,democrat,48.810952162606800,,,,20171015
-11/5/1996,Wisconsin,WI,Dole,republican,38.477412257435600,,,,20171015
-11/5/1996,Wisconsin,WI,Perot,reform party,10.351616838230600,,,,20171015
-11/5/1996,Wisconsin,WI,Phillips,u.s. taxpayers party,0.4011986327099600,,,,20171015
-11/5/1996,Wisconsin,WI,Browne,libertarian,0.36103778898618500,,,,20171015
-11/5/1996,Wyoming,WY,Dole,republican,49.812119808480400,,,,20171015
-11/5/1996,Wyoming,WY,Clinton,democrat,36.835861247524500,,,,20171015
-11/5/1996,Wyoming,WY,Perot,independent,12.254987687348500,,,,20171015
-11/5/1996,Wyoming,WY,Browne,libertarian,0.82194629698777200,,,,20171015
-11/5/1996,Wyoming,WY,Hagelin,natural law,0.27508495965893200,,,,20171015
-11/5/1996,National Popular Vote,NPV,Clinton,democrat,49.2338490578,,,,20210915
-11/5/1996,National Popular Vote,NPV,Dole,republican,40.7129541634,,,,20210915
-11/5/1996,National Popular Vote,NPV,Perot,reform party,8.3978943645,,,,20210915
-11/5/1996,National Popular Vote,NPV,Nader,green,0.7117925229,,,,20210915
-11/5/1996,National Popular Vote,NPV,Browne,libertarian,0.5045398187,,,,20210915
+11/5/1996,Alabama,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Alaska,FALSE,Bob,republican,3,undefined,FALSE
+11/5/1996,Arizona,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,Arkansas,FALSE,Bob,republican,5,undefined,FALSE
+11/5/1996,California,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Colorado,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,Connecticut,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Delaware,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,District of Columbia,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Florida,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,Georgia,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,Hawaii,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Idaho,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Illinois,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Indiana,FALSE,Bob,republican,5,undefined,FALSE
+11/5/1996,Iowa,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,Kansas,FALSE,Long,democrat,1,undefined,FALSE
+11/5/1996,Kentucky,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Louisiana,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Maine 1st CD,ME-1,Long,democrat,15,undefined,FALSE
+11/5/1996,Maine 2nd CD,ME-2,Long,democrat,5,undefined,FALSE
+11/5/1996,Maine,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Maryland,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Massachusetts,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Michigan,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Minnesota,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Mississippi,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Missouri,FALSE,Bob,republican,1,undefined,FALSE
+11/5/1996,Missouri,FALSE,Long,democrat,0,undefined,FALSE
+11/5/1996,Montana,FALSE,Long,democrat,1,undefined,TRUE
+11/5/1996,Montana,FALSE,Bob,republican,0,undefined,TRUE
+11/5/1996,Nebraska 1st CD,NE-1,Bob,republican,1,undefined,FALSE
+11/5/1996,Nebraska 2nd CD,NE-2,Long,democrat,15,undefined,FALSE
+11/5/1996,Nebraska 3rd CD,NE-3,Bob,republican,15,undefined,FALSE
+11/5/1996,Nebraska,FALSE,Bob,republican,5,undefined,FALSE
+11/5/1996,Nevada,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,New Hampshire,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,New Jersey,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,New Mexico,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,New York,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,North Carolina,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,North Dakota,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Ohio,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,Oklahoma,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Oregon,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Pennsylvania,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Rhode Island,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,South Carolina,FALSE,Long,democrat,5,undefined,FALSE
+11/5/1996,South Dakota,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Tennessee,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Texas,FALSE,Long,democrat,1,undefined,TRUE
+11/5/1996,Texas,FALSE,Bob,republican,0,undefined,TRUE
+11/5/1996,Utah,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Vermont,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Virginia,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Washington,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,West Virginia,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,Wisconsin,FALSE,Long,democrat,15,undefined,FALSE
+11/5/1996,Wyoming,FALSE,Bob,republican,15,undefined,FALSE
+11/5/1996,National Popular Vote,FALSE,Independent,INDGEN,0,null,FALSE
+11/5/1996,National Popular Vote,FALSE,Long,democrat,57,undefined,FALSE
 11/07/2000,Alabama,FALSE,Tully,republican,15,null,FALSE
 11/07/2000,Alaska,FALSE,Tully,republican,1,null,FALSE
 11/07/2000,Arizona,FALSE,Long,democrat,5,null,FALSE
