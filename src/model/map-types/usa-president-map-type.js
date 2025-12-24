@@ -1390,7 +1390,7 @@ var USAPresidentMapType = new MapType(
         partyID: "majorParty",
         candidateVotes: "voteNum"
       }, // columnMap
-      2024, // cycleYear
+      24, // cycleYear
       partyCandiateFullNames, // candidateNameToPartyIDMap
       partyIDToCandidateLastNames, // shortCandidateNameOverride
       regionNameToIDHistorical, // regionNameToIDMap
@@ -1517,7 +1517,7 @@ var USAPresidentMapType = new MapType(
         voteshare: "median",
         winprob: "winprob"
       }, // columnMap
-      2024, // cycleYear
+      2037, // cycleYear
       partyCandiateLastNames, // candidateNameToPartyIDMap
       partyIDToCandidateLastNames, // shortCandidateNameOverride
       regionIDToIDFiveThirtyEight, // regionNameToIDMap
