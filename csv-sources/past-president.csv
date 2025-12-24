@@ -1650,267 +1650,77 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,National Popular Vote,NPV,Reagan,republican,58.7734180846,,,,20210915
 11/6/1984,National Popular Vote,NPV,Mondale,democrat,40.5569787295,,,,20210915
 11/6/1984,National Popular Vote,NPV,Bergland,libertarian,0.2461986405,,,,20210915
-11/8/1988,Alabama,AL,Bush,republican,59.165048938102700,,,,20171015
-11/8/1988,Alabama,AL,Dukakis,democrat,39.863298309147200,,,,20171015
-11/8/1988,Alabama,AL,Paul,libertarian,0.61372123997806300,,,,20171015
-11/8/1988,Alabama,AL,Winn,independent,0.32122430858426300,,,,20171015
-11/8/1988,Alaska,AK,Bush,republican,59.590937256391300,,,,20171015
-11/8/1988,Alaska,AK,Dukakis,democrat,36.270962841551900,,,,20171015
-11/8/1988,Alaska,AK,Paul,libertarian,2.7404105618741100,,,,20171015
-11/8/1988,Alaska,AK,Fulani,new alliance,0.51170321213696100,,,,20171015
-11/8/1988,Alaska,AK,Larouche,national economic recovery,0.4077634971716400,,,,20171015
-11/8/1988,Arizona,AZ,Bush,republican,59.950267648456800,,,,20171015
-11/8/1988,Arizona,AZ,Dukakis,democrat,38.743874122878500,,,,20171015
-11/8/1988,Arizona,AZ,Paul,libertarian,1.1392872777169500,,,,20171015
-11/8/1988,Arizona,AZ,Fulani,new alliance,0.14182424204670600,,,,20171015
-11/8/1988,Arkansas,AR,Bush,republican,56.367836199377100,,,,20171015
-11/8/1988,Arkansas,AR,Dukakis,democrat,42.191732166458500,,,,20171015
-11/8/1988,Arkansas,AR,Dodge,populist,0.62169430423636500,,,,20171015
-11/8/1988,Arkansas,AR,Paul,libertarian,0.39831444249267300,,,,20171015
-11/8/1988,Arkansas,AR,Fulani,new alliance,0.26107294820341700,,,,20171015
-11/8/1988,Arkansas,AR,Dodge,prohibition,0.15934993923197900,,,,20171015
-11/8/1988,California,CA,Bush,republican,51.126567894516700,,,,20171015
-11/8/1988,California,CA,Dukakis,democrat,47.559442564603300,,,,20171015
-11/8/1988,California,CA,Paul,libertarian,0.70905774362765900,,,,20171015
-11/8/1988,California,CA,Fulani,independent,0.59672916077723800,,,,20171015
-11/8/1988,Colorado,CO,Bush,republican,53.058888336731300,,,,20171015
-11/8/1988,Colorado,CO,Dukakis,democrat,45.282404324122700,,,,20171015
-11/8/1988,Colorado,CO,Paul,libertarian,1.1281016967430600,,,,20171015
-11/8/1988,Colorado,CO,Dodge,prohibition,0.33547217490021100,,,,20171015
-11/8/1988,Colorado,CO,Fulani,new alliance,0.18500518072798300,,,,20171015
-11/8/1988,Connecticut,CT,Bush,republican,51.977561220290500,,,,20171015
-11/8/1988,Connecticut,CT,Dukakis,democrat,46.874519362003700,,,,20171015
-11/8/1988,Connecticut,CT,Paul,libertarian,0.97485509846930200,,,,20171015
-11/8/1988,Connecticut,CT,Fulani,new alliance,0.1725793511681500,,,,20171015
-11/8/1988,Delaware,DE,Bush,republican,55.879963664157600,,,,20171015
-11/8/1988,Delaware,DE,Dukakis,democrat,43.477756301747600,,,,20171015
-11/8/1988,Delaware,DE,Paul,libertarian,0.46500274119516100,,,,20171015
-11/8/1988,Delaware,DE,Fulani,new alliance,0.17727729289970400,,,,20171015
-11/8/1988,District of Columbia,DC,Dukakis,democrat,82.646971904374300,,,,20171015
-11/8/1988,District of Columbia,DC,Bush,republican,14.304453097051500,,,,20171015
-11/8/1988,District of Columbia,DC,Paul,libertarian,0.28722968523981600,,,,20171015
-11/8/1988,District of Columbia,DC,Winn,workers league,0.10784074824888400,,,,20171015
-11/8/1988,District of Columbia,DC,Kenoyer,socialist,0.073622049285295800,,,,20171015
-11/8/1988,District of Columbia,DC,Warren,socialist workers,0.063771211704868900,,,,20171015
-11/8/1988,Florida,FL,Bush,republican,60.87155908926200,,,,20171015
-11/8/1988,Florida,FL,Dukakis,democrat,38.507216931915500,,,,20171015
-11/8/1988,Florida,FL,Paul,libertarian,0.4601245887967700,,,,20171015
-11/8/1988,Florida,FL,Fulani,new alliance,0.15468423613065800,,,,20171015
-11/8/1988,Georgia,GA,Bush,republican,59.752872343717500,,,,20171015
-11/8/1988,Georgia,GA,Dukakis,democrat,39.498428444491600,,,,20171015
-11/8/1988,Georgia,GA,Paul,libertarian,0.4661065651676100,,,,20171015
-11/8/1988,Georgia,GA,Fulani,new alliance,0.28176376713570200,,,,20171015
-11/8/1988,Hawaii,HI,Dukakis,democrat,54.269440079444600,,,,20171015
-11/8/1988,Hawaii,HI,Bush,republican,44.751044543687500,,,,20171015
-11/8/1988,Hawaii,HI,Paul,libertarian,0.56395484975780100,,,,20171015
-11/8/1988,Hawaii,HI,Fulani,no party affiliation,0.28296483957332400,,,,20171015
-11/8/1988,Hawaii,HI,Larouche,national economic recovery,0.13259568753685200,,,,20171015
-11/8/1988,Idaho,ID,Bush,republican,62.078451125760500,,,,20171015
-11/8/1988,Idaho,ID,Dukakis,democrat,36.010641419377600,,,,20171015
-11/8/1988,Idaho,ID,Paul,libertarian,1.2991236478159700,,,,20171015
-11/8/1988,Idaho,ID,Fulani,independent,0.61178380704602800,,,,20171015
-11/8/1988,Illinois,IL,Bush,republican,50.688268788713600,,,,20171015
-11/8/1988,Illinois,IL,Dukakis,democrat,48.604555265051200,,,,20171015
-11/8/1988,Illinois,IL,Paul,libertarian,0.32778255452806700,,,,20171015
-11/8/1988,Illinois,IL,Fulani,solidarity,0.22539437435294500,,,,20171015
-11/8/1988,Illinois,IL,Winn,independent,0.15399901735422600,,,,20171015
-11/8/1988,Indiana,IN,Bush,republican,59.842775662506300,,,,20171015
-11/8/1988,Indiana,IN,Dukakis,democrat,39.686187674102600,,,,20171015
-11/8/1988,Indiana,IN,Fulani,new alliance,0.4710366633911600,,,,20171015
-11/8/1988,Iowa,IA,Dukakis,democrat,54.711923982591600,,,,20171015
-11/8/1988,Iowa,IA,Bush,republican,44.49647278833300,,,,20171015
-11/8/1988,Iowa,IA,Larouche,nominated by petition,0.28769253614922800,,,,20171015
-11/8/1988,Iowa,IA,Paul,libertarian,0.20348984264213700,,,,20171015
-11/8/1988,Iowa,IA,Duke,patriotic party,0.061601776742106400,,,,20171015
-11/8/1988,Iowa,IA,Fulani,new alliance,0.044059548928129100,,,,20171015
-11/8/1988,Iowa,IA,Kenoyer,socialist,0.027251646929620600,,,,20171015
-11/8/1988,Iowa,IA,Winn,workers league,0.019174062959463600,,,,20171015
-11/8/1988,Iowa,IA,Warren,socialist workers,0.016726310241234200,,,,20171015
-11/8/1988,Kansas,KS,Bush,republican,55.792996080737600,,,,20171015
-11/8/1988,Kansas,KS,Dukakis,democrat,42.559644889853800,,,,20171015
-11/8/1988,Kentucky,KY,Bush,republican,55.52147911898300,,,,20171015
-11/8/1988,Kentucky,KY,Dukakis,democrat,43.883594691032300,,,,20171015
-11/8/1988,Kentucky,KY,Duke,populist,0.33980659605887900,,,,20171015
-11/8/1988,Kentucky,KY,Paul,libertarian,0.16014917010518600,,,,20171015
-11/8/1988,Kentucky,KY,Fulani,new alliance,0.09497042382063900,,,,20171015
-11/8/1988,Louisiana,LA,Bush,republican,54.27471529945300,,,,20171015
-11/8/1988,Louisiana,LA,Dukakis,democrat,44.064557100408900,,,,20171015
-11/8/1988,Louisiana,LA,Duke,populist,1.1431014087932600,,,,20171015
-11/8/1988,Louisiana,LA,Paul,libertarian,0.25273276902988700,,,,20171015
-11/8/1988,Louisiana,LA,Fulani,new alliance,0.14463807316291200,,,,20171015
-11/8/1988,Louisiana,LA,Larouche,national economic recovery,0.12025534915200900,,,,20171015
-11/8/1988,Maine,ME,Bush,republican,55.335429297251500,,,,20171015
-11/8/1988,Maine,ME,Dukakis,democrat,43.883538875926700,,,,20171015
-11/8/1988,Maine,ME,Paul,libertarian,0.4864558090931200,,,,20171015
-11/8/1988,Maine,ME,Fulani,new alliance,0.25313718954660500,,,,20171015
-11/8/1988,Maine 1st CD,ME-1,Bush,republican,55.9,,,,JJCooley
-11/8/1988,Maine 1st CD,ME-1,Dukakis,democrat,43.3,,,,JJCooley
-11/8/1988,Maine 2nd CD,ME-2,Bush,republican,54.7,,,,JJCooley
-11/8/1988,Maine 2nd CD,ME-2,Dukakis,democrat,44.5,,,,JJCooley
-11/8/1988,Maryland,MD,Bush,republican,51.107586630097100,,,,20171015
-11/8/1988,Maryland,MD,Dukakis,democrat,48.199034274054800,,,,20171015
-11/8/1988,Maryland,MD,Paul,libertarian,0.39361673582763900,,,,20171015
-11/8/1988,Maryland,MD,Fulani,new alliance,0.2983624190513300,,,,20171015
-11/8/1988,Massachusetts,MA,Dukakis,democrat,53.229051493067600,,,,20171015
-11/8/1988,Massachusetts,MA,Bush,republican,45.375058730226900,,,,20171015
-11/8/1988,Massachusetts,MA,Paul,libertarian,0.92111025481986700,,,,20171015
-11/8/1988,Massachusetts,MA,Fulani,new alliance,0.36314936069987800,,,,20171015
-11/8/1988,Michigan,MI,Bush,republican,53.567693776482500,,,,20171015
-11/8/1988,Michigan,MI,Dukakis,democrat,45.672078345933400,,,,20171015
-11/8/1988,Michigan,MI,Paul,libertarian,0.49973250030047700,,,,20171015
-11/8/1988,Michigan,MI,Winn,workers league,0.053363669043866400,,,,20171015
-11/8/1988,Minnesota,MN,Dukakis,democrat,52.912833426332600,,,,20171015
-11/8/1988,Minnesota,MN,Bush,republican,45.895726324524600,,,,20171015
-11/8/1988,Minnesota,MN,McCarthy,progressive,0.25767959595381500,,,,20171015
-11/8/1988,Minnesota,MN,Paul,libertarian,0.24365816319230800,,,,20171015
-11/8/1988,Minnesota,MN,Warren,socialist workers,0.10277614830288200,,,,20171015
-11/8/1988,Minnesota,MN,Herer,grassroots,0.092951606980193500,,,,20171015
-11/8/1988,Minnesota,MN,Fulani,new alliance,0.082697838123989500,,,,20171015
-11/8/1988,Minnesota,MN,Larouche,national economic recovery,0.08117169578260100,,,,20171015
-11/8/1988,Minnesota,MN,Duke,populist,0.072920988749469400,,,,20171015
-11/8/1988,Minnesota,MN,Dennis,american,0.061904148722571200,,,,20171015
-11/8/1988,Minnesota,MN,Winn,workers league,0.023321362654343100,,,,20171015
-11/8/1988,Mississippi,MS,Bush,republican,59.88983679485400,,,,20171015
-11/8/1988,Mississippi,MS,Dukakis,democrat,39.067144591622100,,,,20171015
-11/8/1988,Mississippi,MS,Paul,libertarian,0.35737021041794800,,,,20171015
-11/8/1988,Missouri,MO,Bush,republican,51.831573053675900,,,,20171015
-11/8/1988,Missouri,MO,Dukakis,democrat,47.850449162728600,,,,20171015
-11/8/1988,Missouri,MO,Fulani,new alliance,0.3179777835954800,,,,20171015
-11/8/1988,Montana,MT,Bush,republican,52.071517253072400,,,,20171015
-11/8/1988,Montana,MT,Dukakis,democrat,46.19852655644100,,,,20171015
-11/8/1988,Montana,MT,Paul,libertarian,1.3801910991757700,,,,20171015
-11/8/1988,Montana,MT,Fulani,new alliance,0.3497650913108400,,,,20171015
-11/8/1988,Nebraska,NE,Bush,republican,60.162820406219500,,,,20171015
-11/8/1988,Nebraska,NE,Dukakis,democrat,39.191038074576900,,,,20171015
-11/8/1988,Nebraska,NE,Paul,libertarian,0.38308905233081100,,,,20171015
-11/8/1988,Nebraska,NE,Fulani,new alliance,0.26305246687277500,,,,20171015
-11/8/1988,Nevada,NV,Bush,republican,60.046687436067100,,,,20171015
-11/8/1988,Nevada,NV,Dukakis,democrat,38.684125397440600,,,,20171015
-11/8/1988,Nevada,NV,Paul,libertarian,1.0258412918605900,,,,20171015
-11/8/1988,Nevada,NV,Fulani,new alliance,0.24334587463170300,,,,20171015
-11/8/1988,New Hampshire,NH,Bush,republican,62.490871760723600,,,,20171015
-11/8/1988,New Hampshire,NH,Dukakis,democrat,36.33449864047500,,,,20171015
-11/8/1988,New Hampshire,NH,Paul,libertarian,0.99927861938849100,,,,20171015
-11/8/1988,New Hampshire,NH,Fulani,new alliance,0.17535097941290700,,,,20171015
-11/8/1988,New Jersey,NJ,Bush,republican,56.240109460944900,,,,20171015
-11/8/1988,New Jersey,NJ,Dukakis,democrat,42.598142377304100,,,,20171015
-11/8/1988,New Jersey,NJ,Herberg G.,peace & freedom,0.32111081823733900,,,,20171015
-11/8/1988,New Jersey,NJ,Paul,libertarian,0.27168433641883200,,,,20171015
-11/8/1988,New Jersey,NJ,Fulani,new alliance,0.16579810056482300,,,,20171015
-11/8/1988,New Jersey,NJ,McCarthy,consumer,0.11143542310778400,,,,20171015
-11/8/1988,New Jersey,NJ,Kenoyer,socialist,0.083463647822766700,,,,20171015
-11/8/1988,New Jersey,NJ,Duke,populist,0.078914604783334900,,,,20171015
-11/8/1988,New Jersey,NJ,Warren,socialist workers,0.074139722727761100,,,,20171015
-11/8/1988,New Jersey,NJ,Holmes,workers world,0.032907970923549300,,,,20171015
-11/8/1988,New Jersey,NJ,Winn,workers league,0.022293537164875100,,,,20171015
-11/8/1988,New Mexico,NM,Bush,republican,51.850353000746100,,,,20171015
-11/8/1988,New Mexico,NM,Dukakis,democrat,46.893574254824200,,,,20171015
-11/8/1988,New Mexico,NM,Paul,libertarian,0.64596930878598800,,,,20171015
-11/8/1988,New Mexico,NM,Fulani,new alliance,0.42904790491515900,,,,20171015
-11/8/1988,New Mexico,NM,Warren,socialist workers,0.065977862892630600,,,,20171015
-11/8/1988,New Mexico,NM,Holmes,workers world,0.04948339716947300,,,,20171015
-11/8/1988,New Mexico,NM,Dodge,prohibition,0.047757232151933200,,,,20171015
-11/8/1988,New York,NY,Dukakis,democrat,50.194975610124600,,,,20171015
-11/8/1988,New York,NY,Bush,republican,43.764303620759800,,,,20171015
-11/8/1988,New York,NY,Bush,conservative,3.7537603980953100,,,,20171015
-11/8/1988,New York,NY,Dukakis,liberal party,1.424599382979400,,,,20171015
-11/8/1988,New York,NY,Marra,right-to-life,0.31603456413148800,,,,20171015
-11/8/1988,New York,NY,Fulani,new alliance,0.24430734588785800,,,,20171015
-11/8/1988,New York,NY,Paul,libertarian,0.18670354379022200,,,,20171015
-11/8/1988,New York,NY,Holmes,workers world,0.064434231521953800,,,,20171015
-11/8/1988,New York,NY,Warren,socialist workers,0.050680861213845900,,,,20171015
-11/8/1988,North Carolina,NC,Bush,republican,57.96829977932600,,,,20171015
-11/8/1988,North Carolina,NC,Dukakis,democrat,41.706311464272800,,,,20171015
-11/8/1988,North Carolina,NC,Fulani,new alliance,0.26621438644658600,,,,20171015
-11/8/1988,North Carolina,NC,Paul,,0.059174369954600200,,,,20171015
-11/8/1988,North Dakota,ND,Bush,republican,56.031231813120500,,,,20171015
-11/8/1988,North Dakota,ND,Dukakis,democrat,42.972001036126500,,,,20171015
-11/8/1988,North Dakota,ND,Paul,libertarian,0.44237219144119100,,,,20171015
-11/8/1988,North Dakota,ND,Larouche,national economic recovery,0.30444626102986900,,,,20171015
-11/8/1988,North Dakota,ND,Fulani,new alliance,0.13321626449483800,,,,20171015
-11/8/1988,North Dakota,ND,Warren,socialist workers,0.11673243378714300,,,,20171015
-11/8/1988,Ohio,OH,Bush,republican,55.001758245259900,,,,20171015
-11/8/1988,Ohio,OH,Dukakis,democrat,44.146841360756600,,,,20171015
-11/8/1988,Ohio,OH,Fulani,new alliance,0.2735124050177700,,,,20171015
-11/8/1988,Ohio,OH,Paul,libertarian,0.27144120348189500,,,,20171015
-11/8/1988,Ohio,OH,Winn,workers league,0.12292922522268300,,,,20171015
-11/8/1988,Oklahoma,OK,Bush,republican,57.928791258338800,,,,20171015
-11/8/1988,Oklahoma,OK,Dukakis,democrat,41.281651460757800,,,,20171015
-11/8/1988,Oklahoma,OK,Paul,libertarian,0.53465478431064500,,,,20171015
-11/8/1988,Oklahoma,OK,Fulani,new alliance,0.25490249659276100,,,,20171015
-11/8/1988,Oregon,OR,Dukakis,democrat,51.278112397998200,,,,20171015
-11/8/1988,Oregon,OR,Bush,republican,46.611366953650400,,,,20171015
-11/8/1988,Oregon,OR,Paul,libertarian,1.2325101065662300,,,,20171015
-11/8/1988,Oregon,OR,Fulani,independent,0.53982128561846900,,,,20171015
-11/8/1988,Pennsylvania,PA,Bush,republican,50.704579618720400,,,,20171015
-11/8/1988,Pennsylvania,PA,Dukakis,democrat,48.386740504438600,,,,20171015
-11/8/1988,Pennsylvania,PA,McCarthy,consumer,0.42233112762058400,,,,20171015
-11/8/1988,Pennsylvania,PA,Paul,libertarian,0.26565990285810900,,,,20171015
-11/8/1988,Pennsylvania,PA,Fulani,new alliance,0.096533459017148700,,,,20171015
-11/8/1988,Pennsylvania,PA,Duke,populist,0.075921724789920100,,,,20171015
-11/8/1988,Pennsylvania,PA,Winn,workers league,0.048233662555268700,,,,20171015
-11/8/1988,Rhode Island,RI,Dukakis,democrat,55.637854590210100,,,,20171015
-11/8/1988,Rhode Island,RI,Bush,republican,43.932608706397600,,,,20171015
-11/8/1988,Rhode Island,RI,Paul,libertarian,0.20389400477482700,,,,20171015
-11/8/1988,Rhode Island,RI,Fulani,new alliance,0.069200389499335200,,,,20171015
-11/8/1988,Rhode Island,RI,Herberg G.,peace & freedom,0.048193128401322700,,,,20171015
-11/8/1988,Rhode Island,RI,Duke,populist,0.039295935465693900,,,,20171015
-11/8/1988,Rhode Island,RI,Warren,socialist workers,0.032128752267548500,,,,20171015
-11/8/1988,Rhode Island,RI,Kenoyer,socialist,0.023725847828343500,,,,20171015
-11/8/1988,South Carolina,SC,Bush,republican,61.504813850583500,,,,20171015
-11/8/1988,South Carolina,SC,Dukakis,democrat,37.581198548897600,,,,20171015
-11/8/1988,South Carolina,SC,Paul,libertarian,0.50050253090996100,,,,20171015
-11/8/1988,South Carolina,SC,Fulani,united citizens,0.41348506960889800,,,,20171015
-11/8/1988,South Dakota,SD,Bush,republican,52.849762453233500,,,,20171015
-11/8/1988,South Dakota,SD,Dukakis,democrat,46.506129569220800,,,,20171015
-11/8/1988,Tennessee,TN,Bush,republican,57.890481283422500,,,,20171015
-11/8/1988,Tennessee,TN,Dukakis,democrat,41.545851795263600,,,,20171015
-11/8/1988,Texas,TX,Bush,republican,55.953557958584300,,,,20171015
-11/8/1988,Texas,TX,Dukakis,democrat,43.349369220309500,,,,20171015
-11/8/1988,Texas,TX,Paul,libertarian,0.55929071140746700,,,,20171015
-11/8/1988,Texas,TX,Fulani,new alliance,0.13280736115384700,,,,20171015
-11/8/1988,Utah,UT,Bush,republican,66.218964835056100,,,,20171015
-11/8/1988,Utah,UT,Dukakis,democrat,32.046435283644100,,,,20171015
-11/8/1988,Utah,UT,Paul,libertarian,1.1550089025174300,,,,20171015
-11/8/1988,Utah,UT,Dennis,american,0.3335352885899400,,,,20171015
-11/8/1988,Utah,UT,Fulani,new alliance,0.070323705425589800,,,,20171015
-11/8/1988,Utah,UT,Larouche,national economic recovery,0.06599609278401500,,,,20171015
-11/8/1988,Utah,UT,Youngkeit,independent,0.057495425095207500,,,,20171015
-11/8/1988,Utah,UT,Warren,socialist workers,0.032302537217468700,,,,20171015
-11/8/1988,Utah,UT,Kenoyer,socialist,0.019937929670112300,,,,20171015
-11/8/1988,Vermont,VT,Bush,republican,51.096051420305100,,,,20171015
-11/8/1988,Vermont,VT,Dukakis,democrat,47.579809968437700,,,,20171015
-11/8/1988,Vermont,VT,Paul,libertarian,0.4109679116254600,,,,20171015
-11/8/1988,Vermont,VT,Larouche,independent,0.11301617569700200,,,,20171015
-11/8/1988,Vermont,VT,Fulani,new alliance,0.084248421883219400,,,,20171015
-11/8/1988,Vermont,VT,Duke,populist,0.07767293529721200,,,,20171015
-11/8/1988,Vermont,VT,Herberg G.,peace & freedom,0.067398737506575500,,,,20171015
-11/8/1988,Vermont,VT,Kenoyer,liberty union party,0.058357443450815400,,,,20171015
-11/8/1988,Vermont,VT,Warren,socialist workers,0.04643937401367700,,,,20171015
-11/8/1988,Virginia,VA,Bush,republican,59.735199116265700,,,,20171015
-11/8/1988,Virginia,VA,Dukakis,democrat,39.231404871945700,,,,20171015
-11/8/1988,Virginia,VA,Fulani,independent,0.6530361939561300,,,,20171015
-11/8/1988,Virginia,VA,Paul,libertarian,0.38035981783246900,,,,20171015
-11/8/1988,Washington,WA,Dukakis,democrat,50.047687900783400,,,,20171015
-11/8/1988,Washington,WA,Bush,republican,48.456429235068900,,,,20171015
-11/8/1988,Washington,WA,Paul,libertarian,0.92427139910778900,,,,20171015
-11/8/1988,Washington,WA,Larouche,independent,0.23653627684823500,,,,20171015
-11/8/1988,Washington,WA,Fulani,new alliance,0.18871434598952500,,,,20171015
-11/8/1988,Washington,WA,Holmes,workers world,0.077201323359351300,,,,20171015
-11/8/1988,Washington,WA,Warren,socialist workers,0.069159518842752200,,,,20171015
-11/8/1988,West Virginia,WV,Dukakis,democrat,52.198110853789400,,,5,20171015
-11/8/1988,West Virginia,WV,Bush,republican,47.460550947404800,,,,20171015
-11/8/1988,West Virginia,WV,Fulani,new alliance,0.34133819880577600,,,,20171015
-11/8/1988,West Virginia,WV,Bentsen,independent,0,,,1,JJCooley
-11/8/1988,Wisconsin,WI,Dukakis,democrat,51.414030246284900,,,,20171015
-11/8/1988,Wisconsin,WI,Bush,republican,47.795910582549400,,,,20171015
-11/8/1988,Wyoming,WY,Bush,republican,60.530384987907200,,,,20171015
-11/8/1988,Wyoming,WY,Dukakis,democrat,38.01337857049800,,,,20171015
-11/8/1988,Wyoming,WY,Paul,libertarian,1.1475437692224900,,,,20171015
-11/8/1988,Wyoming,WY,Fulani,new alliance,0.30869267237228900,,,,20171015
-11/8/1988,National Popular Vote,NPV,Bush,republican,53.3727436983,,,,20210915
-11/8/1988,National Popular Vote,NPV,Dukakis,democrat,45.6461808276,,,,20210915
-11/8/1988,National Popular Vote,NPV,Paul,libertarian,0.4713701404,,,,20210915
+11/8/1988,Alabama,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Alaska,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Arizona,FALSE,Tester,republican,5,undefined,FALSE
+11/8/1988,Arkansas,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,California,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,Colorado,FALSE,Tester,republican,5,undefined,FALSE
+11/8/1988,Connecticut,FALSE,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,Delaware,FALSE,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,District of Columbia,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,Florida,FALSE,Tester,republican,1,null,TRUE
+11/8/1988,Florida,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Georgia,FALSE,Tester,republican,5,undefined,FALSE
+11/8/1988,Hawaii,FALSE,Pritzker,democrat,1,null,FALSE
+11/8/1988,Idaho,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Illinois,FALSE,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,Illinois,FALSE,Tester,republican,0,undefined,FALSE
+11/8/1988,Indiana,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Iowa,FALSE,Tester,republican,1,null,TRUE
+11/8/1988,Iowa,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Kansas,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Kentucky,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Louisiana,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Maine 1st CD,ME-1,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,Maine 2nd CD,ME-2,Pritzker,democrat,1,null,FALSE
+11/8/1988,Maine,FALSE,Pritzker,democrat,1,null,FALSE
+11/8/1988,Maine,FALSE,Independent,INDGEN,0,null,FALSE
+11/8/1988,Maine,FALSE,Tester,republican,0,null,FALSE
+11/8/1988,Maryland,FALSE,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,Massachusetts,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,Michigan,FALSE,Tester,republican,0.1,null,TRUE
+11/8/1988,Michigan,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Minnesota,FALSE,Pritzker,democrat,1,undefined,FALSE
+11/8/1988,Mississippi,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Missouri,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Montana,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Nebraska 1st CD,NE-1,Tester,republican,15,undefined,FALSE
+11/8/1988,Nebraska 2nd CD,Pritzker,democrat,1,null,TRUE
+11/8/1988,Nebraska 3rd CD,Tester,republican,15,undefined,FALSE
+11/8/1988,Nebraska,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Nevada,FALSE,Tester,republican,5,undefined,FALSE
+11/8/1988,New Hampshire,FALSE,Tester,republican,1,null,TRUE
+11/8/1988,New Hampshire,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,New Jersey,FALSE,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,New Mexico,FALSE,Tester,republican,1,null,TRUE
+11/8/1988,New Mexico,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,New York,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,North Carolina,FALSE,Tester,republican,5,undefined,FALSE
+11/8/1988,North Dakota,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Ohio,FALSE,Tester,republican,5,undefined,TRUE
+11/8/1988,Ohio,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Oklahoma,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Oregon,FALSE,Pritzker,democrat,5,undefined,FALSE
+11/8/1988,Pennsylvania,FALSE,Tester,republican,0.1,null,TRUE
+11/8/1988,Pennsylvania,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Rhode Island,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,South Carolina,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,South Dakota,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Tennessee,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Texas,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Utah,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Vermont,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,Virginia,FALSE,Tester,republican,1,null,TRUE
+11/8/1988,Virginia,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Washington,FALSE,Pritzker,democrat,15,undefined,FALSE
+11/8/1988,West Virginia,FALSE,Tester,republican,15,undefined,FALSE
+11/8/1988,Wisconsin,FALSE,Tester,republican,0.1,null,TRUE
+11/8/1988,Wisconsin,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Wyoming,FALSE,Tester,republican,15,undefined,TRUE
+11/8/1988,Wyoming,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,National Popular Vote,FALSE,Tester,republican,52,undefined,FALSE
+11/8/1988,National Popular Vote,FALSE,Pritzker,democrat,48,undefined,FALSE
 11/3/1992,Alabama,FALSE,Tester,republican,5,null,FALSE
 11/3/1992,Alaska,FALSE,Tester,republican,5,null,FALSE
 11/3/1992,Arizona,FALSE,Long,democrat,50.37,null,TRUE
