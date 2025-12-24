@@ -3574,12 +3574,13 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/2012,Maryland,MD,Davies,democrat,15,,,,FALSE
 11/6/2012,Massachusetts,MA,Davies,democrat,15,,,,FALSE
 11/6/2012,Michigan,MI,Bold,republican,1,,,,TRUE
-11/6/2012,Minnesota,MN,Bold,republican,0.1,,,,TRUE
+11/6/2012,Minnesota,MN,Bold,republican,50.07,,,,TRUE
+11/6/2012,Minnesota,MN,Davies,democrat,49.93,,,,TRUE
 11/6/2012,Mississippi,MS,Bold,republican,15,,,,FALSE
 11/6/2012,Missouri,MO,Bold,republican,15,,,,TRUE
 11/6/2012,Montana,MT,Bold,republican,15,,,,TRUE
 11/6/2012,Nebraska 1st CD,NE-1,Bold,republican,15,,,,TRUE
-11/6/2012,Nebraska 2nd CD.NE-2,Davies,democrat,5,,,,FALSE
+11/6/2012,Nebraska 2nd CD,NE-2,Davies,democrat,5,,,,FALSE
 11/6/2012,Nebraska 3rd CD,NE-3,Bold,republican,15,,,,FALSE
 11/6/2012,Nebraska,NE,Bold,republican,15,,,,TRUE
 11/6/2012,Nevada,NV,Bold,republican,1,,,,TRUE
@@ -3587,12 +3588,14 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/2012,New Jersey,NJ,Davies,democrat,5,,,,FALSE
 11/6/2012,New Mexico,NM,Davies,democrat,5,,,,FALSE
 11/6/2012,New York,NY,Davies,democrat,15,,,,FALSE
-11/6/2012,North Carolina,NC,Davies,democrat,0.1,,,,FALSE
+11/6/2012,North Carolina,NC,Davies,democrat,50.18,,,,FALSE
+11/6/2012,North Carolina,NC,Bold,republican,49.82,,,,FALSE
 11/6/2012,North Dakota,ND,Bold,republican,15,,,,FALSE
 11/6/2012,Ohio,FALSE,OH,republican,5,,,,TRUE
 11/6/2012,Oklahoma,OK,Bold,republican,15,,,,FALSE
 11/6/2012,Oregon,OR,Davies,democrat,15,,,,FALSE
-11/6/2012,Pennsylvania,PA,Bold,republican,0.1,,,,TRUE
+11/6/2012,Pennsylvania,PA,Bold,republican,50.37,,,,TRUE
+11/6/2012,Pennsylvania,PA,Davies,democrat,49.63,,,,TRUE
 11/6/2012,Rhode Island,RI,Davies,democrat,15,,,,FALSE
 11/6/2012,South Carolina,SC,Bold,republican,5,,,,TRUE
 11/6/2012,South Dakota,SD,Bold,republican,15,,,,FALSE
