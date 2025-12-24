@@ -1679,8 +1679,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Maine,FALSE,Tester,republican,0,null,FALSE
 11/8/1988,Maryland,FALSE,Pritzker,democrat,5,undefined,FALSE
 11/8/1988,Massachusetts,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/8/1988,Michigan,FALSE,Tester,republican,0.1,null,TRUE
-11/8/1988,Michigan,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Michigan,FALSE,Tester,republican,50.22,null,TRUE
+11/8/1988,Michigan,FALSE,Pritzker,democrat,49.78,null,TRUE
 11/8/1988,Minnesota,FALSE,Pritzker,democrat,1,undefined,FALSE
 11/8/1988,Mississippi,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Missouri,FALSE,Tester,republican,15,undefined,FALSE
@@ -1702,8 +1702,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Ohio,FALSE,Pritzker,democrat,0,undefined,TRUE
 11/8/1988,Oklahoma,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,Oregon,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/8/1988,Pennsylvania,FALSE,Tester,republican,0.1,null,TRUE
-11/8/1988,Pennsylvania,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Pennsylvania,FALSE,Tester,republican,50.33,null,TRUE
+11/8/1988,Pennsylvania,FALSE,Pritzker,democrat,49.67,undefined,TRUE
 11/8/1988,Rhode Island,FALSE,Pritzker,democrat,15,undefined,FALSE
 11/8/1988,South Carolina,FALSE,Tester,republican,15,undefined,FALSE
 11/8/1988,South Dakota,FALSE,Tester,republican,15,undefined,FALSE
@@ -1715,8 +1715,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Virginia,FALSE,Pritzker,democrat,0,undefined,TRUE
 11/8/1988,Washington,FALSE,Pritzker,democrat,15,undefined,FALSE
 11/8/1988,West Virginia,FALSE,Tester,republican,15,undefined,FALSE
-11/8/1988,Wisconsin,FALSE,Tester,republican,0.1,null,TRUE
-11/8/1988,Wisconsin,FALSE,Pritzker,democrat,0,undefined,TRUE
+11/8/1988,Wisconsin,FALSE,Tester,republican,50.36,null,TRUE
+11/8/1988,Wisconsin,FALSE,Pritzker,democrat,49.64,undefined,TRUE
 11/8/1988,Wyoming,FALSE,Tester,republican,15,undefined,TRUE
 11/8/1988,Wyoming,FALSE,Pritzker,democrat,0,undefined,TRUE
 11/8/1988,National Popular Vote,FALSE,Tester,republican,52,undefined,FALSE
