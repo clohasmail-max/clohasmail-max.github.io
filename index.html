@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Cache-control" content="no-cache, no-store, must-revalidate">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./assets/discord-invite.css">
+    <script src="./src/console-capture.js"></script>
+    <script src="./lib/jquery-3.5.1.min.js"></script>
+    <script src="./lib/papaparse-5.0.2.min.js"></script>
+    <script src="./lib/chart.js-4.4.4.js"></script>
+    <script src="./lib/chartjs-plugin-datalabels-2.0.0.js"></script>
+    <script src="./lib/jscolor.min.js"></script>
+    <script src="./lib/bowser-2.9.0.min.js"></script>
+    <script src="./lib/discord-invite.js"></script>
+    <script src="./lib/svg-pan-zoom-3.6.1.min.js"></script>
+    <script src="./lib/progressbar-1.0.1.min.js"></script>
+    <script src="./src/constants.js"></script>
+    <script src="./src/misc-lib.js"></script>
+    <script src="./src/model/files-database.js"></script>
+    <script src="./src/model/map-country.js"></script>
+    <script src="./src/model/map-type.js"></script>
+    <script src="./src/model/political-party.js"></script>
+    <script src="./src/model/map-source.js"></script>
+    <script src="./src/model/map-types/usa-president-map-type.js"></script>
+    <script src="./src/model/map-types/usa-senate-map-type.js"></script>
+    <script src="./src/model/map-types/usa-governor-map-type.js"></script>
+    <script src="./src/model/map-types/usa-house-map-type.js"></script>
+    <script src="./src/model/map-types/jju-house-map-type.js"></script>
+    <script src="./src/model/map-types/jju-president-map-type.js"></script>
+    <script src="./src/model/map-types/jju-governor-map-type.js"></script>
+    <script src="./src/display/dropdowns/map-country-dropdown.js"></script>
+    <script src="./src/display/dropdowns/map-type-dropdown.js"></script>
+    <script src="./src/display/dropdowns/map-cycle-dropdown.js"></script>
+    <script src="./src/display/dropdowns/map-source-dropdown.js"></script>
+    <script src="./src/display/dropdowns/party-dropdowns.js"></script>
+    <script src="./src/display/dropdowns/margins-dropdown.js"></script>
+    <script src="./src/display/dropdowns/shift-dropdown.js"></script>
+    <script src="./src/display/dropdowns/settings-dropdown.js"></script>
+    <script src="./src/display/dropdowns/compare-dropdown.js"></script>
+    <script src="./src/display/dropdowns/copy-dropdown.js"></script>
+    <script src="./src/display/dropdowns/countdown-dropdown.js"></script>
+    <script src="./src/display/totals-pie-chart.js"></script>
+    <script src="./src/display/map-display.js"></script>
+    <script src="./src/display/region-box.js"></script>
+    <script src="./src/display/control-events.js"></script>
+    <script src="./src/display/file-loader.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107565763-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-107565763-1');
+    </script>
+    <title>JJ Election Map</title>
+    <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="JJ" />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Interactive map for US election results and projections. President, senate, house, and governor races included.">
+    <meta name="darkreader-lock">
+    <meta property="og:title" content="JacksonJude's Election Map" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Interactive map for US election results and projections. President, senate, house, and governor races included.">
+    <meta property="og:image" content="https://map.jacksonjude.com/assets/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body style="background-color: black; margin: 0; display: flex; flex-direction: column; height: 100vh;" onresize="updateSVGViewbox()">
+    <div class="topnav">
+      <div style="display: flex; justify-content: space-between; gap: 4px;">
+        <a href="https://jacksonjude.com" target="_blank" class="topnavbutton" style="display: flex; align-items: center; padding: 0;">
+          <img src="./assets/favicon.ico" style="position: relative; width: 43px; height: 43px; padding: 3px;" />
+        </a>
+        <a id="toggleHelpBoxButton" onclick="toggleHelpBox(this)">Help</a>
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="cycleMapCountryButton" class="topnavbutton" onclick="cycleMapCountry(this)" style="padding: 0;">
+            <img src="./assets/usa-flag.png" style="width: 43px; height: 43px; padding: 3px;"/>
+          </a>
+          <div id="mapCountryDropdownContent" class="dropdown-content" style="min-width: 43px;">
+            <div id="mapCountryDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+          </div>
+        </div>
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="cycleMapTypeButton" class="topnavbutton" onclick="cycleMapType(this)" style="padding: 0;">
+            <img src="./assets/usa-pres.png" style="width: 43px; height: 43px; padding: 3px;"/>
+          </a>
+          <div id="mapTypesDropdownContent" class="dropdown-content" style="min-width: 43px;">
+            <div id="mapTypesDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+          </div>
+        </div>
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="cycleMapCycleButton" class="topnavbutton" onclick="cycleMapCycle()" style="min-width: 43px; font-size: 24px; padding: 0 3px;">
+            <span>'24</span>
+          </a>
+          <div id="mapCyclesDropdownContent" class="dropdown-content">
+            <div id="mapCyclesDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+          </div>
+        </div>
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="sourceToggleButton" class="topnavbutton topnav-iconbutton" style="min-width: 230px; padding: 0;"><span class='topnav-text'>Select Source</span><span class='topnav-icon' src="./assets/github.png" >🗺️</span></a>
+          <div id="mapSourcesDropdownContent" class="dropdown-content" style="min-width: 230px;">
+            <div id="mapSourcesDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="credits-container" style="display: flex;">
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="homepageButton" class="topnavbutton" href="https://jacksonjude.com" target="_blank" style="min-width: 190px; font-family: 'Bree-Regular';">map.jacksonjude.com</a>
+          <div id="homepageDropdownContent" class="dropdown-content" style="min-width: 390px">
+            <div id="homepageDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+              <p style="margin: 0; text-align: left;">
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://www.yapms.com" target="_blank"><img src="./assets/yapms.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://www.yapms.com/" target="_blank" style="color: white;">YAPms</a>: <a class="not-dropdown-item" href="https://www.yapms.com/app/?t=USA_2020_presidential" target="_blank" style="color: white;">pres</a>, <a class="not-dropdown-item" href="https://www.yapms.com/app/?t=USA_2022_senate" target="_blank" style="color: white;">senate</a>, <a class="not-dropdown-item" href="https://www.yapms.com/app/?t=USA_2022_governors" target="_blank" style="color: white;">governor</a> map outlines<br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://cdmaps.polisci.ucla.edu" target="_blank"><img src="./assets/usdistrictshapefiles.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://cdmaps.polisci.ucla.edu" target="_blank" style="color: white;">U.S. District Shapefiles</a>: <a class="not-dropdown-item" href="https://cdmaps.polisci.ucla.edu" target="_blank" style="color: white;">house map outlines</a><br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://fivethirtyeight.com" target="_blank"><img src="./assets/fivethirtyeight.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://fivethirtyeight.com" target="_blank" style="color: white;">FiveThirtyEight</a>: <a class="not-dropdown-item" href="https://projects.fivethirtyeight.com/2020-election-forecast/" target="_blank" style="color: white;">2020</a>, <a class="not-dropdown-item" href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" style="color: white;">2022</a>, <a class="not-dropdown-item" href="https://projects.fivethirtyeight.com/2024-election-forecast/" target="_blank" style="color: white;">2024</a> projections<br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://polymarket.com" target="_blank"><img src="./assets/polymarket.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://polymarket.com" target="_blank" style="color: white;">Polymarket</a>: <a class="not-dropdown-item" href="https://polymarket.com/elections" target="_blank" style="color: white;">2024 pres, senate, gov</a> markets<br>
+                </div>
+                <!-- <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://cookpolitical.com" target="_blank"><img src="./assets/cookpolitical.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://cookpolitical.com/" target="_blank" style="color: white;">Cook Political</a>: pres, senate, and governor data<br>
+                </div> -->
+                <!-- <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://www.youtube.com/channel/UCZ0H9_lidl67AqiC9-RxfvA" target="_blank"><img src="./assets/lte.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://www.youtube.com/channel/UCZ0H9_lidl67AqiC9-RxfvA" target="_blank" style="color: white;">Let's Talk Elections</a>: <a class="not-dropdown-item" href="https://www.youtube.com/playlist?list=PLYs1aUsYMVipo2uDLV3mVDqXj3Xc9a9am" target="_blank" style="color: white;">2022 senate projections</a><br>
+                </div> -->
+                <!-- <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://www.youtube.com/channel/UC4bC-T3iypwMjLd-teG-sgQ" target="_blank"><img src="./assets/pa.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://www.youtube.com/channel/UC4bC-T3iypwMjLd-teG-sgQ" target="_blank" style="color: white;">Political Analysis</a>: <a class="not-dropdown-item" href="https://youtube.com/playlist?list=PLsvuE1oEoI9ROWu7--ar8nWIrFc62XI0c" target="_blank" style="color: white;">2022 senate projections</a><br>
+                </div> -->
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://electionlab.mit.edu/data" target="_blank"><img src="./assets/mit.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://electionlab.mit.edu/data" target="_blank" style="color: white;">MIT Election Lab</a>: past <a class="not-dropdown-item" href="https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/42MVDX/MFU99O&version=5.0" target="_blank" style="color: white;">pres</a>, <a class="not-dropdown-item" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU" target="_blank" style="color: white;">senate</a>, <a class="not-dropdown-item" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2" target="_blank" style="color: white;">house</a> data<br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://uselectionatlas.org" target="_blank"><img src="./assets/daveleip.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://uselectionatlas.org" target="_blank" style="color: white;">Dave Leip's Atlas</a>: past <a class="not-dropdown-item" href="https://uselectionatlas.org/RESULTS" target="_blank" style="color: white;">presidential results</a><br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://www.cnn.com/election/2024/" target="_blank"><img src="./assets/cnn.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://www.cnn.com/election/2024/" target="_blank" style="color: white;">CNN</a>: 2024 <a class="not-dropdown-item" href="https://www.cnn.com/election/2024/results/president" target="_blank" style="color: white;">pres</a>, <a class="not-dropdown-item" href="https://www.cnn.com/election/2024/results/senate" target="_blank" style="color: white;">senate</a>, <a class="not-dropdown-item" href="https://www.cnn.com/election/2024/results/governor" target="_blank" style="color: white;">gov</a>, <a class="not-dropdown-item" href="https://www.cnn.com/election/2024/results/house" target="_blank" style="color: white;">house</a> results<br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item">
+                  <a class="not-dropdown-item" href="https://github.com/jacksonjude/USA-Election-Map" target="_blank"><img src="./assets/github.png" class="credits-icon" /></a>&nbsp; <a class="not-dropdown-item" href="https://github.com/jacksonjude/USA-Election-Map" target="_blank" style="color: white;">Source code and update notes on GitHub page</a><br>
+                </div>
+                <div class='dropdown-separator'></div>
+                <div class="dropdown-item" style="display: flex; text-align: center">
+                  <div class="dropdown-button" style="background-color: #e02e2e; margin-right: 5rem" onclick="clearDatabases(); location.reload()">Clear Cache</div>
+                  <div class="dropdown-button" style="background-color: #4279bd; margin-left: 5rem" onclick="downloadConsoleBlob()">Download Logs</div><br>
+                </div>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-between;">
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="marginEditButton" class="topnavbutton topnav-iconbutton" style="margin-right: 4px;"><span class='topnav-text'>Margins</span><span class='topnav-icon'>📊</span></a>
+          <div id="marginsDropdownContent" class="dropdown-content" style="min-width: 120px;">
+            <div id="marginsDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+          </div>
+        </div>
+        <div class="dropdown" id="shiftContainer" style="display: none;" onmouseenter="deselectDropdownButton(); updateShiftDropdownText()">
+          <a id="shiftButton" class="topnavbutton topnav-iconbutton" style="margin-right: 4px;"><span class='topnav-text'>Shift</span><span class='topnav-icon'>↕️</span></a>
+          <div id="shiftDropdownContent" class="dropdown-content" style="min-width: 240px;">
+            <div id="shiftDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+              <div class='dropdown-separator'></div>
+              <a class="partyShiftConstantButton" onclick="addConstantMarginToMap(1)" style="display:flex; justify-content:center;">
+                Shift All by&nbsp;<span class="partyShiftText">+1</span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a class="partyShiftConstantButton" onclick="addConstantMarginToMap(5)" style="display:flex; justify-content:center;">
+                Shift All by&nbsp;<span class="partyShiftText">+5</span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a class="partyShiftConstantButton" onclick="addConstantMarginToMap(15)" style="display:flex; justify-content:center;">
+                Shift All by&nbsp;<span class="partyShiftText">+15</span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="shift-other" class="partyShiftConstantButton" onclick="toggleEnteringShiftAmount()" style="text-align:center; padding-top: 14rem; min-height: 25rem;">
+                Shift All by other
+              </a>
+              <div class='dropdown-separator'></div>
+              <a onclick="addConstantMarginToMap(...getTippingPointShift())" style="display:flex; justify-content:center;">
+                Shift by tipping point&nbsp;<span id="shiftTextTippingPoint">(+xx)</span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a onclick="addConstantMarginToMap(...(getNPVShift() ?? []))" style="display:flex; justify-content:center;">
+                Shift by NPV margin&nbsp;<span id="shiftTextNPV">(+xx)</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="settingsButton" class="topnavbutton topnav-iconbutton"><span class='topnav-text'>Settings</span><span class='topnav-icon'>⚙️</span></a>
+          <div id="settingsDropdownContent" class="dropdown-content" style="min-width: 280px">
+            <div id="settingsDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-between; gap: 4px;">
+        <div class="dropdown" onmouseenter="hoveredCompareDropdownButton()">
+          <a id="compareButton" class="topnavbutton topnav-iconbutton" onclick="applyCompareToCustomMap(true)"><span class='topnav-text'>Compare</span><span class='topnav-icon'>↔️</span></a>
+          <div id="compareDropdownContent" class="dropdown-content" style="min-width: 290px">
+            <div id="compareArrayDropdownContainer" class="dropdown-container" style="overflow: hidden; display: none;">
+              <div class='dropdown-separator'></div>
+              <a onclick="loadCompareItemMapSource(0)" style="display:flex; justify-content:center;">
+                <img id="compareItemImage-0" src="" class="compareitemimage" style="width: 22px; height: 22px; display: none; padding-right: 10px;" />
+                <span id="compareItem-0" class="compareitemtext">
+                  &lt;Empty&gt;
+                </span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a onclick="loadCompareItemMapSource(1)" style="display:flex; justify-content:center;">
+                <img id="compareItemImage-1" src="" class="compareitemimage" style="width: 22px; height: 22px; display: none; padding-right: 10px;" />
+                <span id="compareItem-1" class="compareitemtext">
+                  &lt;Empty&gt;
+                </span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="clearCompareButton" onclick="clearMap()" style="text-align: center;">
+                <span style="margin-right: 8px;">❌</span>Clear Maps
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="swapCompareButton" onclick="swapCompareMapSources(); updateCompareMapSources([true, true], true, true)" style="text-align: center;">
+                <span style="margin-right: 8px;">🔀</span>Swap Maps
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="compareSortModeButton" onclick="toggleCompareSortMode(this); applyCompareToCustomMap(true)" style="text-align: center;">
+                <span style="margin-right: 8px;">🔼</span>Sort by: voteshare
+              </a>
+            </div>
+            <div id="comparePresetsDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+            </div>
+            <div id="compareCustomDropdownContainer" class="dropdown-container" style="overflow: hidden; display: none;">
+              <div class='dropdown-separator'></div>
+              <a onclick="listCustomCompareMapSources(0)" style="display:flex; justify-content:center;">
+                <img id="compareCustomItemImage-0" src="" class="compareitemimage" style="width: 22px; height: 22px; display: none; padding-right: 10px;" />
+                <span id="compareCustomItem-0" class="compareitemtext" style="display: flex; align-items: center; gap: 8px;">
+                  Select Map
+                </span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a onclick="listCustomCompareMapSources(1)" style="display:flex; justify-content:center;">
+                <img id="compareCustomItemImage-1" src="" class="compareitemimage" style="width: 22px; height: 22px; display: none; padding-right: 10px;" />
+                <span id="compareCustomItem-1" class="compareitemtext" style="display: flex; align-items: center; gap: 8px;">
+                  Select Map
+                </span>
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="applyCustomCompareButton" onclick="hideCustomCompareSelection(false)" style="text-align: center;">
+                <span style="margin-right: 8px;">✅</span>Apply Maps
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="clearCustomCompareButton" onclick="hideCustomCompareSelection(true)" style="text-align: center;">
+                <span style="margin-right: 8px;">❌</span>Clear Maps
+              </a>
+            </div>
+            <div id="compareCustomListDropdownContainer" class="dropdown-container" style="overflow: hidden; display: none;">
+            </div>
+          </div>
+        </div>
+        <div class="dropdown" onmouseenter="deselectDropdownButton()">
+          <a id="editDoneButton" class="topnavbutton topnav-iconbutton" onclick="toggleEditing()" style="min-width: 37px"><span class='topnav-text'>Copy</span><span class='topnav-icon'>📝</span></a>
+          <div id="copyDropdownContent" class="dropdown-content" style="min-width: 160px">
+            <div id="copyDropdownContainer" class="dropdown-container" style="overflow: hidden;">
+              <div class='dropdown-separator'></div>
+              <a id="editMarginButton" onclick="selectEditMode(EditingMode.margin)" style="text-align: center;">
+                Edit by margin
+              </a>
+              <div class='dropdown-separator'></div>
+              <a id="editVoteshareButton" onclick="selectEditMode(EditingMode.voteshare)" style="text-align: center;">
+                Edit by voteshare
+              </a>
+            </div>
+          </div>
+        </div>
+        <a id="clearMapButton" class="topnav-iconbutton"><span class='topnav-text'>Clear</span><span class='topnav-icon'>❌</span></a>
+      </div>
+      <div style="display: flex; min-width: 48px; min-height: 48px;">
+        <div class="loader" id="loader"></div>
+        <div class="progress-loader" id="loader-circle-container" style="display: none;"></div>
+      </div>
+      <div id="countdownsContainer" style="display: flex;">
+        <div id="countdownsDropdownContent" class="dropdown" style="min-width: 319px;">
+          <a class="topnavbutton" href="https://en.wikipedia.org/wiki/Timeline_of_the_2020_United_States_presidential_election#December_2020" target="_blank" id="countdownDisplay" style="font-size: 25rem; font-family: 'Bree5erif-Mono';"></a>
+          <div class="dropdown-content" style="width: 100%; min-width: 230px;">
+            <div id="countdownsDropdownContainer" class="dropdown-container" style="overflow: hidden">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <input type='file' id='uploadFileInput' style='display: none'>
+    <div id='maincontent'>
+      <div id='maptextcontainer'>
+        <div style="display: flex; height: 0; flex-grow: 1; margin-top: 15rem; margin-bottom: 15rem; gap: 10rem;">
+          <div id="mapRoundControls" style="display: none; width: 55rem; flex-direction: column; margin-top: 15rem; margin-bottom: 15rem;"></div>
+          <div id="mapcontainer" style="overflow: hidden; display: flex; flex-grow: 1;" oncontextmenu="return false"></div>
+          <div id="mapZoomControls" style="display: none; width: 55rem; flex-direction: column; justify-content: space-between; margin-top: 15rem; margin-bottom: 15rem;">
+            <a id="mapCloseButton" onclick="zoomOutMap()" style="display: block; cursor: pointer; user-select: none; -webkit-user-select: none;"><img id="mapCloseButtonImage" src="./assets/close-icon.png" style="width: 100%; aspect-ratio: 1/1; text-decoration: none;" /></a>
+            <div style="display: flex; flex-direction: column">
+              <a id="mapZoomInButton" onclick="svgPanZoomController.zoomIn()" style="display: block; cursor: pointer; user-select: none; -webkit-user-select: none; margin-bottom: 5rem;"><img id="mapZoomInButtonImage" src="./assets/zoom-in-icon.png" style="width: 100%; aspect-ratio: 1/1; text-decoration: none;" /></a>
+              <a id="mapResetZoomButton" onclick="svgPanZoomController.reset()" style="display: block; cursor: pointer; user-select: none; -webkit-user-select: none; margin-bottom: 5rem;"><img id="mapResetZoomButtonImage" src="./assets/reset-icon.png" style="width: 100%; aspect-ratio: 1/1; text-decoration: none;" /></a>
+              <a id="mapZoomOutButton" onclick="svgPanZoomController.zoomOut()" style="display: block; cursor: pointer; user-select: none; -webkit-user-select: none; margin-bottom: 5rem;"><img id="mapZoomOutButtonImage" src="./assets/zoom-out-icon.png" style="width: 100%; aspect-ratio: 1/1; text-decoration: none;" /></a>
+            </div>
+          </div>
+        </div>
+        <div id="sliderDateDisplayContainer">
+          <span class="slidecontainer" id="dataMapDateSliderContainer" style="user-select: none; -webkit-user-select: none;">
+            <input type="range" min="1" max="1" value="1" class="slider" id="dataMapDateSlider" oninput="addToDisplayMapQueue(this.value)" onmousedown="this.style.opacity = '1'" onmouseup="this.style.opacity = null">
+            <span id="dataMapSliderStepList" class="ticks"></span>
+          </span>
+          <h3 id="dateDisplay" class="date-display"></h3>
+        </div>
+        <div id="firstCompareSliderDateDisplayContainer" style="display: flex; justify-content: center; align-items: center; position: relative; margin-bottom: 10rem; display: none;">
+          <span class="slidecontainer" id="firstCompareDataMapDateSliderContainer" style="user-select: none; -webkit-user-select: none;">
+            <input type="range" min="1" max="1" value="1" class="slider" id="firstCompareDataMapDateSlider" oninput="addToCompareMapQueue(0, this.value)" onmousedown="this.style.opacity = '1'" onmouseup="this.style.opacity = null">
+            <span id="firstCompareDataMapSliderStepList" class="ticks">
+            </span>
+          </span>
+          <h3 id="firstCompareDateDisplay" class="date-display"></h3>
+        </div>
+        <div id="secondCompareSliderDateDisplayContainer" style="display: flex; justify-content: center; align-items: center; position: relative; display: none;">
+          <span class="slidecontainer" id="secondCompareDataMapDateSliderContainer" style="user-select: none; -webkit-user-select: none;">
+            <input type="range" min="1" max="1" value="1" class="slider" id="secondCompareDataMapDateSlider" oninput="addToCompareMapQueue(1, this.value)" onmousedown="this.style.opacity = '1'" onmouseup="this.style.opacity = null">
+            <span id="secondCompareDataMapSliderStepList" class="ticks">
+            </span>
+          </span>
+          <h3 id="secondCompareDateDisplay" class="date-display"></h3>
+        </div>
+      </div>
+      <div id='infosidebar'>
+        <div id="totalsPieChartContainer">
+          <canvas id="totalsPieChart"></canvas>
+          <div id="totalsPieChartOverlay" style="position: absolute; top: 0; left: 0; width: 100%; aspect-ratio: 1/1; display: flex; justify-content: center; align-items: center; pointer-events: none;">
+            <span id="totalsPieChartOverlayText" class="chart-overlay-text"></span>
+          </div>
+        </div>
+        <div id="secondarySidebarContainer">
+          <div id="partyDropdownsBoxContainer" class="boxcontainer textbox" style="display: inline-block; margin-top: 10rem; width: 100%; height: 50%;">
+            <div id="partyDropdownsContainer" class="box topnav" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; height: 100%; padding: 0;">
+            </div>
+          </div>
+          <div id="discordInviteContainer">
+            <div id="discordInviteBox" style="background-color: transparent; width: 100%; height: 100%; container-name: discord-invite-box; container-type: inline-size;"></div>
+            <script>
+            discordInvite.init({
+              inviteCode: '44HMc8AY3G',
+              title: 'jacksonjude.com',
+              introText: "Join the Discord Server",
+              width: 466
+            })
+            discordInvite.render()
+            </script>
+          </div>
+        </div>
+        <div id="helpboxcontainer" class="boxcontainer textbox" style="display: none; vertical-align: top; margin-top: 40rem; user-select: none; -webkit-user-select: none;">
+          <div id="helpbox" class="box" style='min-height: 740rem; display: flex; flex-direction: column; justify-content: space-between'>
+            <div>
+              <h2 style='margin: 0rem; margin-top: 5rem;'>Help: <span id="helpboxSubtitle"></span></h2>
+              <h4 id="helpboxBody" style='margin: 0rem; margin-top: 8rem; margin-bottom: 10rem; text-align: left;'></h4>
+            </div>
+            <div style='display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 10rem'>
+              <a id="helpboxLeftButton" style='width: 50rem; height: 50rem; cursor: pointer' onclick="updateHelpBoxPage(-1)"><img src='assets/arrow-left-icon.png' style='width: 100%; height: 100%;'/></a>
+              <h3 id="helpboxPage" style='margin: 0;'></h3>
+              <a id="helpboxRightButton" style='width: 50rem; height: 50rem; cursor: pointer' onclick="updateHelpBoxPage(1)"><img src='assets/arrow-right-icon.png' style='width: 100%; height: 100%;'/></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="regionboxcontainer" class="boxcontainer" style="display: none; opacity: 0; position: fixed; font-family: 'Bree5erif-Mono'; user-select: none; -webkit-user-select: none; pointer-events: none; transition: opacity 0.1s linear">
+      <div id="regionbox" class="boxfixed">
+      </div>
+    </div>
+    <div id="charttooltipcontainer" class="boxcontainer" style="display: none; opacity: 0; position: fixed; user-select: none; -webkit-user-select: none; pointer-events: none; transition: opacity 0.1s linear, top 0.15s linear, left 0.15s linear">
+      <div id="charttooltip" class="boxfixed">
+      </div>
+    </div>
+    <div id="mapcontainertmp" style="visibility: hidden; position: absolute; top: 0; left: 0; z-index: -1" oncontextmenu="return false">
+    </div>
+  </body>
+</html>
