@@ -1335,9 +1335,9 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/2020,National Popular Vote,NPV,Bold,republican,50.5,,,,20210915
 11/5/2024,Alaska,AK,Harkin,democratic,56.27,140026,338177,,JJCooley
 11/5/2024,Alaska,AK,Rodgers,republican,43.73,338177,,JJCooley
-11/5/2024,Alabama,AL,Harkin,democratic,34.10072005968858,772412,2265090,,JJCooley
+11/5/2024,Alabama,AL,Harkin,democratic,31.25,772412,2265090,,JJCooley
 11/5/2024,Alabama,AL,Rodgers,republican,68.75,1462616,2265090,,JJCooley
-11/5/2024,Arkansas,AR,Harkin,democratic,31.25,396905,1182676,,JJCooley
+11/5/2024,Arkansas,AR,Harkin,democratic,35.98,396905,1182676,,JJCooley
 11/5/2024,Arkansas,AR,Rodgers,republican,64.02,759241,1182676,,JJCooley
 11/5/2024,Arizona,AZ,Harkin,democratic,50.315,1582860,3390161,,JJCooley
 11/5/2024,Arizona,AZ,Rodgers,republican,49.685,1770242,3390161,,JJCooley
@@ -1371,8 +1371,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/2024,Kentucky,KY,Rodgers,republican,61.98,1337494,2074530,,JJCooley
 11/5/2024,Louisiana,LA,Harkin,democratic,40.70,766870,2006975,,JJCooley
 11/5/2024,Louisiana,LA,Rodgers,republican,59.30,1208505,2006975,,JJCooley
-11/5/2024,Massachusetts,MA,Harkin,democratic,65.16,2126518,3473668,,JJCooley
-11/5/2024,Massachusetts,MA,Rodgers,republican,34.84,1251303,3473668,,JJCooley
+11/5/2024,Massachusetts,MA,Harkin,democratic,66.16,2126518,3473668,,JJCooley
+11/5/2024,Massachusetts,MA,Rodgers,republican,33.84,1251303,3473668,,JJCooley
 11/5/2024,Maryland,MD,Harkin,democratic,64.1,1902577,3038342,,JJCooley
 11/5/2024,Maryland,MD,Rodgers,republican,35.9,1035550,3038342,,JJCooley
 11/5/2024,Maine,ME-AL,Harkin,democratic,58.36,435652,831375,,JJCooley
@@ -1401,8 +1401,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/5/2024,Nebraska 1st CD,NE-D1,Rodgers,republican,57.04,177266,317605,,JJCooley
 11/5/2024,Nebraska 2nd CD,NE-D2,Harkin,democratic,55.12,163214,315939,,JJCooley
 11/5/2024,Nebraska 2nd CD,NE-D2,Rodgers,republican,44.88,148495,315939,,JJCooley
-11/5/2024,Nebraska 3rd CD,NE-D3,Harkin,democratic,26.00,70282,312061,,JJCooley
-11/5/2024,Nebraska 3rd CD,NE-D3,Rodgers,republican,74.00,238160,312061,,JJCooley
+11/5/2024,Nebraska 3rd CD,NE-D3,Harkin,democratic,26.50,70282,312061,,JJCooley
+11/5/2024,Nebraska 3rd CD,NE-D3,Rodgers,republican,73.50,238160,312061,,JJCooley
 11/5/2024,New Hampshire,NH,Harkin,democratic,55.03,418488,826189,,JJCooley
 11/5/2024,New Hampshire,NH,Rodgers,republican,44.97,395523,826189,,JJCooley
 11/5/2024,New Jersey,NJ,Harkin,democratic,58.86,2220713,4287739,,JJCooley
