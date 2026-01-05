@@ -218,7 +218,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/1964,Kansas,FALSE,Johnson,republican,15,null,FALSE
 11/3/1964,Kentucky,FALSE,Johnson,republican,15,null,FALSE
 11/3/1964,Louisiana,FALSE,MacDonald Jr.,democrat,5,null,FALSE
-11/3/1964,Maine 1st CD,ME-1LSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Maine 1st CD,ME-1,MacDonald Jr.,democrat,15,null,FALSE
 11/3/1964,Maine 2nd CD,ME-2,Johnson,republican,15,null,FALSE
 11/3/1964,Maine,FALSE,Johnson,republican,1,null,FALSE
 11/3/1964,Maryland,FALSE,MacDonald Jr.,democrat,5,null,FALSE
