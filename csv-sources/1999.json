@@ -1,0 +1,72 @@
+11/6/1956,Alabama,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Alaska,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
+11/6/1956,Alaska,FALSE,MacDonald Jr.,democrat,0,null,FALSE
+11/6/1956,Arizona,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Arkansas,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,California,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Colorado,FALSE,Barrett,republican,1,null,FALSE
+11/6/1956,Connecticut,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Delaware,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,District of Columbia,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Florida,FALSE,MacDonald Jra.,democrat,1,null,TRUE
+11/6/1956,Florida,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Georgia,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Hawaii,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Idaho,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Illinois,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Indiana,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,Indiana,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Iowa,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Kansas,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Kentucky,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Louisiana,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Maine 1st CD,ME-1,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Maine 2nd CD,ME-2,Barrett,republican,15,null,FALSE
+11/6/1956,Maine,FALSE,MacDonald Jr.,democrat,1,null,TRUE
+11/6/1956,Maine,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Maryland,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,Maryland,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Massachusetts,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Michigan,FALSE,MacDonald Jr.,democrat,15,null,TRUE
+11/6/1956,Michigan,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Minnesota,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Mississippi,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Missouri,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Montana,FALSE,Barrett,republican,1,null,FALSE
+11/6/1956,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1956,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1956,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1956,Nebraska,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Nevada,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,New Hampshire,FALSE,MacDonald Jr.,democrat,1,null,TRUE
+11/6/1956,New Hampshire,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,New Jersey,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,New Mexico,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,New Mexico,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,New York,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,North Carolina,FALSE,MacDonald Jr.,democrat,0.1,null,TRUE
+11/6/1956,North Carolina,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,North Dakota,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Ohio,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,Ohio,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Oklahoma,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Oregon,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/6/1956,Pennsylvania,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Pennsylvania,FALSE,Barrett,republican,0,undefined,FALSE
+11/6/1956,Rhode Island,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,South Carolina,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,South Dakota,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Tennessee,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Texas,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Utah,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Vermont,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Virginia,FALSE,MacDonald Jr.,democrat,1,null,TRUE
+11/6/1956,Virginia,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Washington,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,West Virginia,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Wisconsin,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Wyoming,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,National Popular Vote,FALSE,MacDonald Jr.,democrat,55,null,TRUE
+11/6/1956,National Popular Vote,FALSE,Barrett,republican,45,null,TRUE
+11/6/1956,National Popular Vote,FALSE,Independent,INDGEN,0,null,TRUE","marginValues":{"safe":15,"likely":5,"lean":1,"tilt":5e-324},"iconURL":"none","partyIDs":["democrat","republican"],"customParties":[]}

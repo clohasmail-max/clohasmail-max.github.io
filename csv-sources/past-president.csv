@@ -1,313 +1,265 @@
 date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,version
-11/8/1960,Alabama,AL,Nixon,republican,42.1598553,,,,JJCooley
-11/8/1960,Alabama,AL,Kennedy,democrat,56.38941101,,,5,JJCooley
-11/8/1960,Alabama,AL,Byrd,southern democrat ,0,,,6,JJCooley
-11/8/1960,Alabama,AL,Other,independent,1.450733693,,,,JJCooley
-11/8/1960,Alaska,AK,Nixon,republican,50.94137783,,,,JJCooley
-11/8/1960,Alaska,AK,Kennedy,democrat,49.05862217,,,,JJCooley
-11/8/1960,Alaska,AK,Other,independent,0,,,,JJCooley
-11/8/1960,Arizona,AZ,Nixon,republican,55.51969806,,,,JJCooley
-11/8/1960,Arizona,AZ,Kennedy,democrat,44.36260794,,,,JJCooley
-11/8/1960,Arizona,AZ,Other,independent,0.1176940006,,,,JJCooley
-11/8/1960,Arkansas,AR,Nixon,republican,43.0581388,,,,JJCooley
-11/8/1960,Arkansas,AR,Kennedy,democrat,50.18541034,,,,JJCooley
-11/8/1960,Arkansas,AR,Other,independent,6.756450856,,,,JJCooley
-11/8/1960,California,CA,Nixon,republican,50.09886918,,,,JJCooley
-11/8/1960,California,CA,Kennedy,democrat,49.55137708,,,,JJCooley
-11/8/1960,California,CA,Other,independent,0.3497537415,,,,JJCooley
-11/8/1960,Colorado,CO,Nixon,republican,54.63418477,,,,JJCooley
-11/8/1960,Colorado,CO,Kennedy,democrat,44.90740867,,,,JJCooley
-11/8/1960,Colorado,CO,Other,independent,0.4584065652,,,,JJCooley
-11/8/1960,Connecticut,CT,Nixon,republican,46.26877633,,,,JJCooley
-11/8/1960,Connecticut,CT,Kennedy,democrat,53.72999706,,,,JJCooley
-11/8/1960,Connecticut,CT,Other,independent,0.001226609578,,,,JJCooley
-11/8/1960,Delaware,DE,Nixon,republican,48.99915092,,,,JJCooley
-11/8/1960,Delaware,DE,Kennedy,democrat,50.63477779,,,,JJCooley
-11/8/1960,Delaware,DE,Other,independent,0.3660712924,,,,JJCooley
-11/8/1960,Florida,FL,Nixon,republican,51.51459419,,,,JJCooley
-11/8/1960,Florida,FL,Kennedy,democrat,48.48540581,,,,JJCooley
-11/8/1960,Florida,FL,Other,independent,0,,,,JJCooley
-11/8/1960,Georgia,GA,Nixon,republican,37.42720042,,,,JJCooley
-11/8/1960,Georgia,GA,Kennedy,democrat,62.54020937,,,,JJCooley
-11/8/1960,Georgia,GA,Other,independent,0.03259021285,,,,JJCooley
-11/8/1960,Hawaii,HI,Nixon,republican,49.96886928,,,,JJCooley
-11/8/1960,Hawaii,HI,Kennedy,democrat,50.03113072,,,,JJCooley
-11/8/1960,Hawaii,HI,Other,independent,0,,,,JJCooley
-11/8/1960,Idaho,ID,Nixon,republican,53.78498918,,,,JJCooley
-11/8/1960,Idaho,ID,Kennedy,democrat,46.21501082,,,,JJCooley
-11/8/1960,Idaho,ID,Other,independent,0,,,,JJCooley
-11/8/1960,Illinois,IL,Nixon,republican,49.79576068,,,,JJCooley
-11/8/1960,Illinois,IL,Kennedy,democrat,49.98195446,,,,JJCooley
-11/8/1960,Illinois,IL,Other,independent,0.2222848614,,,,JJCooley
-11/8/1960,Indiana,IN,Nixon,republican,55.0314701,,,,JJCooley
-11/8/1960,Indiana,IN,Kennedy,democrat,44.59941181,,,,JJCooley
-11/8/1960,Indiana,IN,Other,independent,0.3691180878,,,,JJCooley
-11/8/1960,Iowa,IA,Nixon,republican,56.71026291,,,,JJCooley
-11/8/1960,Iowa,IA,Kennedy,democrat,43.22190908,,,,JJCooley
-11/8/1960,Iowa,IA,Other,independent,0.06782801203,,,,JJCooley
-11/8/1960,Kansas,KS,Nixon,republican,60.44992329,,,,JJCooley
-11/8/1960,Kansas,KS,Kennedy,democrat,39.1045676,,,,JJCooley
-11/8/1960,Kansas,KS,Other,independent,0.445509111,,,,JJCooley
-11/8/1960,Kentucky,KY,Nixon,republican,53.59069493,,,,JJCooley
-11/8/1960,Kentucky,KY,Kennedy,democrat,46.40930507,,,,JJCooley
-11/8/1960,Kentucky,KY,Other,independent,0,,,,JJCooley
-11/8/1960,Louisiana,LA,Nixon,republican,28.59049055,,,,JJCooley
-11/8/1960,Louisiana,LA,Kennedy,democrat,50.42004429,,,,JJCooley
-11/8/1960,Louisiana,LA,Other,independent,20.98946516,,,,JJCooley
-11/8/1960,Maine,ME,Nixon,republican,57.04680006,,,,JJCooley
-11/8/1960,Maine,ME,Kennedy,democrat,42.95177738,,,,JJCooley
-11/8/1960,Maine,ME,Other,independent,0.001422566167,,,,JJCooley
-11/8/1960,Maryland,MD,Nixon,republican,46.38636129,,,,JJCooley
-11/8/1960,Maryland,MD,Kennedy,democrat,53.61335444,,,,JJCooley
-11/8/1960,Maryland,MD,Other,independent,0.0002842661527,,,,JJCooley
-11/8/1960,Massachusetts,MA,Nixon,republican,39.55286133,,,,JJCooley
-11/8/1960,Massachusetts,MA,Kennedy,democrat,60.22215203,,,,JJCooley
-11/8/1960,Massachusetts,MA,Other,independent,0.2249866369,,,,JJCooley
-11/8/1960,Michigan,MI,Nixon,republican,48.83606477,,,,JJCooley
-11/8/1960,Michigan,MI,Kennedy,democrat,50.85050256,,,,JJCooley
-11/8/1960,Michigan,MI,Other,independent,0.3134326694,,,,JJCooley
-11/8/1960,Minnesota,MN,Nixon,republican,49.15502887,,,,JJCooley
-11/8/1960,Minnesota,MN,Kennedy,democrat,50.58301938,,,,JJCooley
-11/8/1960,Minnesota,MN,Other,independent,0.2619517513,,,,JJCooley
-11/8/1960,Mississippi,MS,Nixon,republican,24.67074263,,,,JJCooley
-11/8/1960,Mississippi,MS,Kennedy,democrat,36.34223315,,,,JJCooley
-11/8/1960,Mississippi,MS,Byrd,independent,38.98702422,,,,JJCooley
-11/8/1960,Missouri,MO,Nixon,republican,49.74204181,,,,JJCooley
-11/8/1960,Missouri,MO,Kennedy,democrat,50.25795819,,,,JJCooley
-11/8/1960,Missouri,MO,Other,independent,0,,,,JJCooley
-11/8/1960,Montana,MT,Nixon,republican,51.09932668,,,,JJCooley
-11/8/1960,Montana,MT,Kennedy,democrat,48.59553496,,,,JJCooley
-11/8/1960,Montana,MT,Other,independent,0.305138357,,,,JJCooley
-11/8/1960,Nebraska,NE,Nixon,republican,62.07080469,,,,JJCooley
-11/8/1960,Nebraska,NE,Kennedy,democrat,37.92919531,,,,JJCooley
-11/8/1960,Nebraska,NE,Other,independent,0,,,,JJCooley
-11/8/1960,Nevada,NV,Nixon,republican,48.83794643,,,,JJCooley
-11/8/1960,Nevada,NV,Kennedy,democrat,51.16205357,,,,JJCooley
-11/8/1960,Nevada,NV,Other,independent,0,,,,JJCooley
-11/8/1960,New Hampshire,NH,Nixon,republican,53.41779342,,,,JJCooley
-11/8/1960,New Hampshire,NH,Kennedy,democrat,46.58220658,,,,JJCooley
-11/8/1960,New Hampshire,NH,Other,independent,0,,,,JJCooley
-11/8/1960,New Jersey,NJ,Nixon,republican,49.16225856,,,,JJCooley
-11/8/1960,New Jersey,NJ,Kennedy,democrat,49.9588729,,,,JJCooley
-11/8/1960,New Jersey,NJ,Other,independent,0.8788685343,,,,JJCooley
-11/8/1960,New Mexico,NM,Nixon,republican,49.41483155,,,,JJCooley
-11/8/1960,New Mexico,NM,Kennedy,democrat,50.15219844,,,,JJCooley
-11/8/1960,New Mexico,NM,Other,independent,0.4329700071,,,,JJCooley
-11/8/1960,New York,NY,Nixon,republican,47.26898447,,,,JJCooley
-11/8/1960,New York,NY,Kennedy,democrat,52.53111371,,,,JJCooley
-11/8/1960,New York,NY,Other,independent,0.1999018252,,,,JJCooley
-11/8/1960,North Carolina,NC,Nixon,republican,47.8913541,,,,JJCooley
-11/8/1960,North Carolina,NC,Kennedy,democrat,52.1086459,,,,JJCooley
-11/8/1960,North Carolina,NC,Other,independent,0,,,,JJCooley
-11/8/1960,North Dakota,ND,Nixon,republican,55.42127134,,,,JJCooley
-11/8/1960,North Dakota,ND,Kennedy,democrat,44.52198211,,,,JJCooley
-11/8/1960,North Dakota,ND,Other,independent,0.0567465548,,,,JJCooley
-11/8/1960,Ohio,OH,Nixon,republican,53.28414538,,,,JJCooley
-11/8/1960,Ohio,OH,Kennedy,democrat,46.71585462,,,,JJCooley
-11/8/1960,Ohio,OH,Other,independent,0,,,,JJCooley
-11/8/1960,Oklahoma,OK,Nixon,republican,59.01998561,,,7,JJCooley
-11/8/1960,Oklahoma,OK,Kennedy,democrat,40.98001439,,,,JJCooley
-11/8/1960,Oklahoma,OK,Other,independent,0,,,,JJCooley
-11/8/1960,Oklahoma,OK,Byrd,southern democrat,0,,,1,JJCooley
-11/8/1960,Oregon,OR,Nixon,republican,52.55653827,,,,JJCooley
-11/8/1960,Oregon,OR,Kennedy,democrat,47.31994627,,,,JJCooley
-11/8/1960,Oregon,OR,Other,independent,0.1235154639,,,,JJCooley
-11/8/1960,Pennsylvania,PA,Nixon,republican,48.7353644,,,,JJCooley
-11/8/1960,Pennsylvania,PA,Kennedy,democrat,51.05884482,,,,JJCooley
-11/8/1960,Pennsylvania,PA,Other,independent,0.2057907845,,,,JJCooley
-11/8/1960,Rhode Island,RI,Nixon,republican,36.37219969,,,,JJCooley
-11/8/1960,Rhode Island,RI,Kennedy,democrat,63.62755373,,,,JJCooley
-11/8/1960,Rhode Island,RI,Other,independent,0.0002465878408,,,,JJCooley
-11/8/1960,South Carolina,SC,Nixon,republican,48.76230967,,,,JJCooley
-11/8/1960,South Carolina,SC,Kennedy,democrat,51.23743173,,,,JJCooley
-11/8/1960,South Carolina,SC,Other,independent,0.0002586064217,,,,JJCooley
-11/8/1960,South Dakota,SD,Nixon,republican,58.21356208,,,,JJCooley
-11/8/1960,South Dakota,SD,Kennedy,democrat,41.78643792,,,,JJCooley
-11/8/1960,South Dakota,SD,Other,independent,0,,,,JJCooley
-11/8/1960,Tennessee,TN,Nixon,republican,52.91702162,,,,JJCooley
-11/8/1960,Tennessee,TN,Kennedy,democrat,45.77454478,,,,JJCooley
-11/8/1960,Tennessee,TN,Other,independent,1.308433607,,,,JJCooley
-11/8/1960,Texas,TX,Nixon,republican,48.51879032,,,,JJCooley
-11/8/1960,Texas,TX,Kennedy,democrat,50.5203186,,,,JJCooley
-11/8/1960,Texas,TX,Other,independent,0.9608910797,,,,JJCooley
-11/8/1960,Utah,UT,Nixon,republican,54.80546237,,,,JJCooley
-11/8/1960,Utah,UT,Kennedy,democrat,45.16785025,,,,JJCooley
-11/8/1960,Utah,UT,Other,independent,0.02668737607,,,,JJCooley
-11/8/1960,Vermont,VT,Nixon,republican,58.64729507,,,,JJCooley
-11/8/1960,Vermont,VT,Kennedy,democrat,41.34852143,,,,JJCooley
-11/8/1960,Vermont,VT,Other,independent,0.004183500275,,,,JJCooley
-11/8/1960,Virginia,VA,Nixon,republican,52.43651881,,,,JJCooley
-11/8/1960,Virginia,VA,Kennedy,democrat,46.96707106,,,,JJCooley
-11/8/1960,Virginia,VA,Other,independent,0.5964101321,,,,JJCooley
-11/8/1960,Washington,WA,Nixon,republican,50.68356889,,,,JJCooley
-11/8/1960,Washington,WA,Kennedy,democrat,48.26929087,,,,JJCooley
-11/8/1960,Washington,WA,Other,independent,1.047140238,,,,JJCooley
-11/8/1960,West Virginia,WV,Nixon,republican,47.2671259,,,,JJCooley
-11/8/1960,West Virginia,WV,Kennedy,democrat,52.7328741,,,,JJCooley
-11/8/1960,West Virginia,WV,Other,independent,0,,,,JJCooley
-11/8/1960,Wisconsin,WI,Nixon,republican,51.77169157,,,,JJCooley
-11/8/1960,Wisconsin,WI,Kennedy,democrat,48.04890688,,,,JJCooley
-11/8/1960,Wisconsin,WI,Other,independent,0.1794015553,,,,JJCooley
-11/8/1960,Wyoming,WY,Nixon,republican,55.01484565,,,,JJCooley
-11/8/1960,Wyoming,WY,Kennedy,democrat,44.98515435,,,,JJCooley
-11/8/1960,Wyoming,WY,Other,independent,0,,,,JJCooley
-11/8/1960,National Popular Vote,NPV,Kennedy,democrat,49.7163294255,,,,20210915
-11/8/1960,National Popular Vote,NPV,Nixon,republican,49.5524140833,,,,20210915
-11/3/1964,Alabama,AL,Goldwater,republican,69.45102832,,,,JJCooley
-11/3/1964,Alabama,AL,Johnson,democrat,0,,,,JJCooley
-11/3/1964,Alabama,AL,Other,independent,30.54897168,,,,JJCooley
-11/3/1964,Alaska,AK,Goldwater,republican,34.09209176,,,,JJCooley
-11/3/1964,Alaska,AK,Johnson,democrat,65.90790824,,,,JJCooley
-11/3/1964,Alaska,AK,Other,independent,0,,,,JJCooley
-11/3/1964,Arizona,AZ,Goldwater,republican,50.44719928,,,,JJCooley
-11/3/1964,Arizona,AZ,Johnson,democrat,49.45254488,,,,JJCooley
-11/3/1964,Arizona,AZ,Other,independent,0.1002558396,,,,JJCooley
-11/3/1964,Arkansas,AR,Goldwater,republican,43.40697969,,,,JJCooley
-11/3/1964,Arkansas,AR,Johnson,democrat,56.06395849,,,,JJCooley
-11/3/1964,Arkansas,AR,Other,independent,0.5290618208,,,,JJCooley
-11/3/1964,California,CA,Goldwater,republican,40.79451529,,,,JJCooley
-11/3/1964,California,CA,Johnson,democrat,59.11195414,,,,JJCooley
-11/3/1964,California,CA,Other,independent,0.09353056413,,,,JJCooley
-11/3/1964,Colorado,CO,Goldwater,republican,38.19463929,,,,JJCooley
-11/3/1964,Colorado,CO,Johnson,democrat,61.26545395,,,,JJCooley
-11/3/1964,Colorado,CO,Other,independent,0.5399067679,,,,JJCooley
-11/3/1964,Connecticut,CT,Goldwater,republican,32.08625135,,,,JJCooley
-11/3/1964,Connecticut,CT,Johnson,democrat,67.80600011,,,,JJCooley
-11/3/1964,Connecticut,CT,Other,independent,0.1077485397,,,,JJCooley
-11/3/1964,Delaware,DE,Goldwater,republican,38.78303199,,,,JJCooley
-11/3/1964,Delaware,DE,Johnson,democrat,60.94973177,,,,JJCooley
-11/3/1964,Delaware,DE,Other,independent,0.2672362408,,,,JJCooley
-11/3/1964,District of Columbia,DC,Goldwater,republican,14.50223317,,,,JJCooley
-11/3/1964,District of Columbia,DC,Johnson,democrat,85.49776683,,,,JJCooley
-11/3/1964,District of Columbia,DC,Other,independent,0,,,,JJCooley
-11/3/1964,Florida,FL,Goldwater,republican,48.85145763,,,,JJCooley
-11/3/1964,Florida,FL,Johnson,democrat,51.14854237,,,,JJCooley
-11/3/1964,Florida,FL,Other,independent,0,,,,JJCooley
-11/3/1964,Georgia,GA,Goldwater,republican,54.11783706,,,,JJCooley
-11/3/1964,Georgia,GA,Johnson,democrat,45.86504771,,,,JJCooley
-11/3/1964,Georgia,GA,Other,independent,0.01711523203,,,,JJCooley
-11/3/1964,Hawaii,HI,Goldwater,republican,21.2388612,,,,JJCooley
-11/3/1964,Hawaii,HI,Johnson,democrat,78.7611388,,,,JJCooley
-11/3/1964,Hawaii,HI,Other,independent,0,,,,JJCooley
-11/3/1964,Idaho,ID,Goldwater,republican,49.08317577,,,,JJCooley
-11/3/1964,Idaho,ID,Johnson,democrat,50.91682423,,,,JJCooley
-11/3/1964,Idaho,ID,Other,independent,0,,,,JJCooley
-11/3/1964,Illinois,IL,Goldwater,republican,40.52754495,,,,JJCooley
-11/3/1964,Illinois,IL,Johnson,democrat,59.4711367,,,,JJCooley
-11/3/1964,Illinois,IL,Other,independent,0.001318352034,,,,JJCooley
-11/3/1964,Indiana,IN,Goldwater,republican,43.56068973,,,,JJCooley
-11/3/1964,Indiana,IN,Johnson,democrat,55.97842041,,,,JJCooley
-11/3/1964,Indiana,IN,Other,independent,0.4608898617,,,,JJCooley
-11/3/1964,Iowa,IA,Goldwater,republican,37.91753585,,,,JJCooley
-11/3/1964,Iowa,IA,Johnson,democrat,61.8831461,,,,JJCooley
-11/3/1964,Iowa,IA,Other,independent,0.1993180469,,,,JJCooley
-11/3/1964,Kansas,KS,Goldwater,republican,45.06102686,,,,JJCooley
-11/3/1964,Kansas,KS,Johnson,democrat,54.08875849,,,,JJCooley
-11/3/1964,Kansas,KS,Other,independent,0.8502146518,,,,JJCooley
-11/3/1964,Kentucky,KY,Goldwater,republican,35.65387796,,,,JJCooley
-11/3/1964,Kentucky,KY,Johnson,democrat,64.01451097,,,,JJCooley
-11/3/1964,Kentucky,KY,Other,independent,0.3316110715,,,,JJCooley
-11/3/1964,Louisiana,LA,Goldwater,republican,56.81456845,,,,JJCooley
-11/3/1964,Louisiana,LA,Johnson,democrat,43.18543155,,,,JJCooley
-11/3/1964,Louisiana,LA,Other,independent,0,,,,JJCooley
-11/3/1964,Maine,ME,Goldwater,republican,31.13705698,,,,JJCooley
-11/3/1964,Maine,ME,Johnson,democrat,68.79579037,,,,JJCooley
-11/3/1964,Maine,ME,Other,independent,0.06715264899,,,,JJCooley
-11/3/1964,Maryland,MD,Goldwater,republican,34.5284234,,,,JJCooley
-11/3/1964,Maryland,MD,Johnson,democrat,65.46709815,,,,JJCooley
-11/3/1964,Maryland,MD,Other,independent,0.00447845282,,,,JJCooley
-11/3/1964,Massachusetts,MA,Goldwater,republican,23.44453552,,,,JJCooley
-11/3/1964,Massachusetts,MA,Johnson,democrat,76.18660541,,,,JJCooley
-11/3/1964,Massachusetts,MA,Other,independent,0.3688590659,,,,JJCooley
-11/3/1964,Michigan,MI,Goldwater,republican,33.09766595,,,,JJCooley
-11/3/1964,Michigan,MI,Johnson,democrat,66.70455702,,,,JJCooley
-11/3/1964,Michigan,MI,Other,independent,0.1977770299,,,,JJCooley
-11/3/1964,Minnesota,MN,Goldwater,republican,36.00113737,,,,JJCooley
-11/3/1964,Minnesota,MN,Johnson,democrat,63.75948721,,,,JJCooley
-11/3/1964,Minnesota,MN,Other,independent,0.2393754238,,,,JJCooley
-11/3/1964,Mississippi,MS,Goldwater,republican,87.1395541,,,,JJCooley
-11/3/1964,Mississippi,MS,Johnson,democrat,12.8604459,,,,JJCooley
-11/3/1964,Mississippi,MS,Other,independent,0,,,,JJCooley
-11/3/1964,Missouri,MO,Goldwater,republican,35.95041254,,,,JJCooley
-11/3/1964,Missouri,MO,Johnson,democrat,64.04958746,,,,JJCooley
-11/3/1964,Missouri,MO,Other,independent,0,,,,JJCooley
-11/3/1964,Montana,MT,Goldwater,republican,40.56735145,,,,JJCooley
-11/3/1964,Montana,MT,Johnson,democrat,58.94813156,,,,JJCooley
-11/3/1964,Montana,MT,Other,independent,0.4845169904,,,,JJCooley
-11/3/1964,Nebraska,NE,Goldwater,republican,47.3928108,,,,JJCooley
-11/3/1964,Nebraska,NE,Johnson,democrat,52.6071892,,,,JJCooley
-11/3/1964,Nebraska,NE,Other,independent,0,,,,JJCooley
-11/3/1964,Nevada,NV,Goldwater,republican,41.41826586,,,,JJCooley
-11/3/1964,Nevada,NV,Johnson,democrat,58.58173414,,,,JJCooley
-11/3/1964,Nevada,NV,Other,independent,0,,,,JJCooley
-11/3/1964,New Hampshire,NH,Goldwater,republican,36.10952019,,,,JJCooley
-11/3/1964,New Hampshire,NH,Johnson,democrat,63.89047981,,,,JJCooley
-11/3/1964,New Hampshire,NH,Other,independent,0,,,,JJCooley
-11/3/1964,New Jersey,NJ,Goldwater,republican,33.85742438,,,,JJCooley
-11/3/1964,New Jersey,NJ,Johnson,democrat,65.60667002,,,,JJCooley
-11/3/1964,New Jersey,NJ,Other,independent,0.5359056053,,,,JJCooley
-11/3/1964,New Mexico,NM,Goldwater,republican,40.24174717,,,,JJCooley
-11/3/1964,New Mexico,NM,Johnson,democrat,59.22103689,,,,JJCooley
-11/3/1964,New Mexico,NM,Other,independent,0.5372159394,,,,JJCooley
-11/3/1964,New York,NY,Goldwater,republican,31.30832129,,,,JJCooley
-11/3/1964,New York,NY,Johnson,democrat,68.56189947,,,,JJCooley
-11/3/1964,New York,NY,Other,independent,0.1297792427,,,,JJCooley
-11/3/1964,North Carolina,NC,Goldwater,republican,43.84922487,,,,JJCooley
-11/3/1964,North Carolina,NC,Johnson,democrat,56.15077513,,,,JJCooley
-11/3/1964,North Carolina,NC,Other,independent,0,,,,JJCooley
-11/3/1964,North Dakota,ND,Goldwater,republican,41.87755671,,,,JJCooley
-11/3/1964,North Dakota,ND,Johnson,democrat,57.96841197,,,,JJCooley
-11/3/1964,North Dakota,ND,Other,independent,0.1540313249,,,,JJCooley
-11/3/1964,Ohio,OH,Goldwater,republican,37.05700096,,,,JJCooley
-11/3/1964,Ohio,OH,Johnson,democrat,62.94299904,,,,JJCooley
-11/3/1964,Ohio,OH,Other,independent,0,,,,JJCooley
-11/3/1964,Oklahoma,OK,Goldwater,republican,44.25366676,,,,JJCooley
-11/3/1964,Oklahoma,OK,Johnson,democrat,55.74633324,,,,JJCooley
-11/3/1964,Oklahoma,OK,Other,independent,0,,,,JJCooley
-11/3/1964,Oregon,OR,Goldwater,republican,35.9630169,,,,JJCooley
-11/3/1964,Oregon,OR,Johnson,democrat,63.71789573,,,,JJCooley
-11/3/1964,Oregon,OR,Other,independent,0.319087377,,,,JJCooley
-11/3/1964,Pennsylvania,PA,Goldwater,republican,34.70380638,,,,JJCooley
-11/3/1964,Pennsylvania,PA,Johnson,democrat,64.92131984,,,,JJCooley
-11/3/1964,Pennsylvania,PA,Other,independent,0.3748737738,,,,JJCooley
-11/3/1964,Rhode Island,RI,Goldwater,republican,19.12758818,,,,JJCooley
-11/3/1964,Rhode Island,RI,Johnson,democrat,80.86907927,,,,JJCooley
-11/3/1964,Rhode Island,RI,Other,independent,0.003332555737,,,,JJCooley
-11/3/1964,South Carolina,SC,Goldwater,republican,58.89365724,,,,JJCooley
-11/3/1964,South Carolina,SC,Johnson,democrat,41.10481824,,,,JJCooley
-11/3/1964,South Carolina,SC,Other,independent,0.001524518062,,,,JJCooley
-11/3/1964,South Dakota,SD,Goldwater,republican,44.38758452,,,,JJCooley
-11/3/1964,South Dakota,SD,Johnson,democrat,55.61241548,,,,JJCooley
-11/3/1964,South Dakota,SD,Other,independent,0,,,,JJCooley
-11/3/1964,Tennessee,TN,Goldwater,republican,44.4920477,,,,JJCooley
-11/3/1964,Tennessee,TN,Johnson,democrat,55.50498013,,,,JJCooley
-11/3/1964,Tennessee,TN,Other,independent,0.002972168267,,,,JJCooley
-11/3/1964,Texas,TX,Goldwater,republican,36.49162425,,,,JJCooley
-11/3/1964,Texas,TX,Johnson,democrat,63.31574674,,,,JJCooley
-11/3/1964,Texas,TX,Other,independent,0.1926290091,,,,JJCooley
-11/3/1964,Utah,UT,Goldwater,republican,45.13551997,,,,JJCooley
-11/3/1964,Utah,UT,Johnson,democrat,54.86448003,,,,JJCooley
-11/3/1964,Utah,UT,Other,independent,0,,,,JJCooley
-11/3/1964,Vermont,VT,Goldwater,republican,33.68835421,,,,JJCooley
-11/3/1964,Vermont,VT,Johnson,democrat,66.29938255,,,,JJCooley
-11/3/1964,Vermont,VT,Other,independent,0.01226324277,,,,JJCooley
-11/3/1964,Virginia,VA,Goldwater,republican,46.18144871,,,,JJCooley
-11/3/1964,Virginia,VA,Johnson,democrat,53.54079137,,,,JJCooley
-11/3/1964,Virginia,VA,Other,independent,0.2777599214,,,,JJCooley
-11/3/1964,Washington,WA,Goldwater,republican,37.3734661,,,,JJCooley
-11/3/1964,Washington,WA,Johnson,democrat,61.96633284,,,,JJCooley
-11/3/1964,Washington,WA,Other,independent,0.6602010558,,,,JJCooley
-11/3/1964,West Virginia,WV,Goldwater,republican,32.06315338,,,,JJCooley
-11/3/1964,West Virginia,WV,Johnson,democrat,67.93684662,,,,JJCooley
-11/3/1964,West Virginia,WV,Other,independent,0,,,,JJCooley
-11/3/1964,Wisconsin,WI,Goldwater,republican,37.74023756,,,,JJCooley
-11/3/1964,Wisconsin,WI,Johnson,democrat,62.08858534,,,,JJCooley
-11/3/1964,Wisconsin,WI,Other,independent,0.1711771086,,,,JJCooley
-11/3/1964,Wyoming,WY,Goldwater,republican,43.44152022,,,,JJCooley
-11/3/1964,Wyoming,WY,Johnson,democrat,56.55847978,,,,JJCooley
-11/3/1964,Wyoming,WY,Other,independent,0,,,,JJCooley
-11/3/1964,National Popular Vote,NPV,Johnson,democrat,61.0533697461,,,,20210915
-11/3/1964,National Popular Vote,NPV,Goldwater,republican,38.4699348071,,,,20210915
+11/4/1952,Alabama,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
+11/4/1952,Alaska,FALSE,Daschle,democrat,0,undefined,FALSE
+11/4/1952,Alaska,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,Arizona,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,Arkansas,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,California,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,Colorado,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,Connecticut,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Delaware,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Delaware,FALSE,Barrett,republican,0,undefined,FALSE
+11/4/1952,District of Columbia,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Florida,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,Georgia,FALSE,Independent,INDGEN,0,null,TRUE
+11/4/1952,Georgia,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Hawaii,FALSE,Daschle,democrat,1,undefined,FALSE
+11/4/1952,Idaho,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,Illinois,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Indiana,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,Iowa,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,Kansas,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Kentucky,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Louisiana,FALSE,Daschle,democrat,0.1,undefined,FALSE
+11/4/1952,Maine 1st CD,ME-1,Daschle,democrat,5,undefined,FALSE
+11/4/1952,Maine 2nd CD,ME-2,Barrett,republican,15,undefined,TRUE
+11/4/1952,Maine,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,Maryland,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,Massachusetts,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Michigan,FALSE,Barrett,republican,0.1,undefined,TRUE
+11/4/1952,Minnesota,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Mississippi,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Missouri,FALSE,Daschle,democrat,1,undefined,FALSE
+11/4/1952,Montana,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/4/1952,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/4/1952,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/4/1952,Nebraska,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Nevada,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,New Hampshire,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,New Jersey,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,New Mexico,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,New York,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,North Carolina,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,North Dakota,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,Ohio,FALSE,Barrett,republican,1,undefined,TRUE
+11/4/1952,Oklahoma,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Oregon,FALSE,Daschle,democrat,0.1,undefined,FALSE
+11/4/1952,Pennsylvania,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,Pennsylvania,FALSE,Barrett,republican,0,undefined,FALSE
+11/4/1952,Rhode Island,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,South Carolina,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,South Dakota,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,Tennessee,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Texas,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Utah,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,Vermont,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,Virginia,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,Washington,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,West Virginia,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,Wisconsin,FALSE,Daschle,democrat,5,undefined,FALSE
+11/4/1952,Wyoming,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,National Popular Vote,FALSE,Independent,INDGEN,0,null,TRUE
+11/4/1952,National Popular Vote,FALSE,Barrett,republican,51,undefined,TRUE
+11/4/1952,National Popular Vote,FALSE,Daschle,democrat,49,undefined,TRUE
+11/6/1956,Alabama,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Alaska,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
+11/6/1956,Alaska,FALSE,MacDonald Jr.,democrat,0,null,FALSE
+11/6/1956,Arizona,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Arkansas,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,California,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Colorado,FALSE,Barrett,republican,1,null,FALSE
+11/6/1956,Connecticut,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Delaware,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,District of Columbia,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Florida,FALSE,MacDonald Jra.,democrat,1,null,TRUE
+11/6/1956,Florida,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Georgia,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Hawaii,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Idaho,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Illinois,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Indiana,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,Indiana,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Iowa,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Kansas,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Kentucky,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Louisiana,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Maine 1st CD,ME-1,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Maine 2nd CD,ME-2,Barrett,republican,15,null,FALSE
+11/6/1956,Maine,FALSE,MacDonald Jr.,democrat,1,null,TRUE
+11/6/1956,Maine,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Maryland,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,Maryland,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Massachusetts,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Michigan,FALSE,MacDonald Jr.,democrat,15,null,TRUE
+11/6/1956,Michigan,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Minnesota,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Mississippi,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Missouri,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/6/1956,Montana,FALSE,Barrett,republican,1,null,FALSE
+11/6/1956,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1956,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1956,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1956,Nebraska,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Nevada,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,New Hampshire,FALSE,MacDonald Jr.,democrat,1,null,TRUE
+11/6/1956,New Hampshire,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,New Jersey,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,New Mexico,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,New Mexico,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,New York,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,North Carolina,FALSE,MacDonald Jr.,democrat,0.1,null,TRUE
+11/6/1956,North Carolina,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,North Dakota,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Ohio,FALSE,MacDonald Jr.,democrat,5,null,TRUE
+11/6/1956,Ohio,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Oklahoma,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Oregon,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/6/1956,Pennsylvania,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Pennsylvania,FALSE,Barrett,republican,0,undefined,FALSE
+11/6/1956,Rhode Island,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,South Carolina,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,South Dakota,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Tennessee,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Texas,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Utah,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,Vermont,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Virginia,FALSE,MacDonald Jr.,democrat,1,null,TRUE
+11/6/1956,Virginia,FALSE,Barrett,republican,0,null,TRUE
+11/6/1956,Washington,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,West Virginia,FALSE,Barrett,republican,5,null,FALSE
+11/6/1956,Wisconsin,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/6/1956,Wyoming,FALSE,Barrett,republican,15,null,FALSE
+11/6/1956,National Popular Vote,FALSE,MacDonald Jr.,democrat,55,null,TRUE
+11/6/1956,National Popular Vote,FALSE,Barrett,republican,45,null,TRUE
+11/6/1956,National Popular Vote,FALSE,Independent,INDGEN,0,null,TRUE",
+11/8/1960,Alabama,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Alaska,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
+11/8/1960,Alaska,FALSE,MacDonald Jr.,democrat,0,null,FALSE
+11/8/1960,Arizona,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Arkansas,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,California,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Colorado,FALSE,Johnson,republican,1,null,FALSE
+11/8/1960,Connecticut,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Delaware,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,District of Columbia,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Florida,FALSE,MacDonald Jr.,democrat,0.1,null,FALSE
+11/8/1960,Georgia,FALSE,Johnson,republican,5,null,FALSE
+11/8/1960,Hawaii,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,Idaho,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Illinois,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Indiana,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,Iowa,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/8/1960,Kansas,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Kentucky,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Louisiana,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/8/1960,Maine 1st CD,ME-1,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Maine 2nd CD,ME-2,Johnson,republican,15,null,FALSE
+11/8/1960,Maine,FALSE,Johnson,republican,1,null,TRUE
+11/8/1960,Maryland,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/8/1960,Massachusetts,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Michigan,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/8/1960,Minnesota,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Mississippi,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Missouri,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/8/1960,Montana,FALSE,Johnson,republican,5,null,FALSE
+11/8/1960,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/8/1960,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/8/1960,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/8/1960,Nebraska,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Nevada,FALSE,Johnson,republican,5,null,FALSE
+11/8/1960,New Hampshire,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,New Jersey,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,New Mexico,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,New York,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,North Carolina,FALSE,Johnson,republican,1,null,TRUE
+11/8/1960,North Dakota,FALSE,Johnson,republican,5,null,FALSE
+11/8/1960,Ohio,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,Oklahoma,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Oregon,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,Pennsylvania,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Rhode Island,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,South Carolina,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,South Dakota,FALSE,Johnson,republican,5,null,FALSE
+11/8/1960,Tennessee,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Texas,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Texas,FALSE,MacDonald Jr.,democrat,0,null,FALSE
+11/8/1960,Utah,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Vermont,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Virginia,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/8/1960,Washington,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,West Virginia,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,Wisconsin,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/8/1960,Wyoming,FALSE,Johnson,republican,15,null,FALSE
+11/8/1960,National Popular Vote,FALSE,Independent,INDGEN,0,null,TRUE
+11/8/1960,National Popular Vote,FALSE,MacDonald Jr.,democrat,54,undefined,TRUE
+11/8/1960,National Popular Vote,FALSE,Johnson,republican,46,undefined,TRUE
+11/3/1964,Alabama,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Alaska,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
+11/3/1964,Alaska,FALSE,MacDonald Jr.,democrat,0,null,FALSE
+11/3/1964,Arizona,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Arkansas,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,California,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Colorado,FALSE,Johnson,republican,1,null,FALSE
+11/3/1964,Connecticut,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Delaware,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,District of Columbia,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Florida,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/3/1964,Georgia,FALSE,Johnson,republican,5,null,FALSE
+11/3/1964,Hawaii,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/3/1964,Idaho,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Illinois,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Indiana,FALSE,MacDonald Jr.,democrat,0.1,null,FALSE
+11/3/1964,Iowa,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Kansas,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Kentucky,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Louisiana,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Maine 1st CD,ME-1LSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Maine 2nd CD,ME-2,Johnson,republican,15,null,FALSE
+11/3/1964,Maine,FALSE,Johnson,republican,1,null,FALSE
+11/3/1964,Maryland,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Massachusetts,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Michigan,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Michigan,FALSE,Stevens,republican,0,null,FALSE
+11/3/1964,Minnesota,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Mississippi,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Missouri,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Montana,FALSE,Johnson,republican,5,null,FALSE
+11/3/1964,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/3/1964,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/3/1964,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/3/1964,Nebraska,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Nevada,FALSE,Johnson,republican,5,null,FALSE
+11/3/1964,New Hampshire,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/3/1964,New Jersey,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,New Mexico,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/3/1964,New York,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,North Carolina,FALSE,Johnson,republican,1,null,FALSE
+11/3/1964,North Dakota,FALSE,Johnson,republican,5,null,FALSE
+11/3/1964,Ohio,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/3/1964,Oklahoma,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Oregon,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Pennsylvania,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Rhode Island,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,South Carolina,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,South Dakota,FALSE,Johnson,republican,5,null,FALSE
+11/3/1964,Tennessee,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Texas,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Texas,FALSE,MacDonald Jr.,democrat,0,null,FALSE
+11/3/1964,Utah,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Vermont,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,Virginia,FALSE,MacDonald Jr.,democrat,1,null,FALSE
+11/3/1964,Washington,FALSE,MacDonald Jr.,democrat,15,null,FALSE
+11/3/1964,West Virginia,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,Wisconsin,FALSE,MacDonald Jr.,democrat,5,null,FALSE
+11/3/1964,Wyoming,FALSE,Johnson,republican,15,null,FALSE
+11/3/1964,National Popular Vote,FALSE,MacDonald Jr.,democrat,54,null,TRUE
+11/3/1964,National Popular Vote,FALSE,Johnson,republican,46,null,TRUE
+11/3/1964,National Popular Vote,FALSE,Independent,INDGEN,0,null,TRUE
 11/5/1968,Alabama,FALSE,Stevens,republican,15,undefined,FALSE
 11/5/1968,Alabama,FALSE,MacDonald Jr.,democrat,0,undefined,FALSE
 11/5/1968,Alaska,FALSE,Stevens,republican,15,undefined,FALSE
