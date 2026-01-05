@@ -21,13 +21,15 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1952,Iowa,FALSE,Daschle,democrat,5,undefined,FALSE
 11/4/1952,Kansas,FALSE,Barrett,republican,15,undefined,TRUE
 11/4/1952,Kentucky,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,Louisiana,FALSE,Daschle,democrat,0.1,undefined,FALSE
+11/4/1952,Louisiana,FALSE,Daschle,democrat,50.315,undefined,FALSE
+11/4/1952,Louisiana,FALSE,Barrett,republican,49.685,undefined,FALSE
 11/4/1952,Maine 1st CD,ME-1,Daschle,democrat,5,undefined,FALSE
 11/4/1952,Maine 2nd CD,ME-2,Barrett,republican,15,undefined,TRUE
 11/4/1952,Maine,FALSE,Barrett,republican,1,undefined,TRUE
 11/4/1952,Maryland,FALSE,Barrett,republican,1,undefined,TRUE
 11/4/1952,Massachusetts,FALSE,Daschle,democrat,15,undefined,FALSE
-11/4/1952,Michigan,FALSE,Barrett,republican,0.1,undefined,TRUE
+11/4/1952,Michigan,FALSE,Barrett,republican,50.06,undefined,TRUE
+11/4/1952,Michigan,FALSE,Daschle,democrat,49.94,undefined,TRUE
 11/4/1952,Minnesota,FALSE,Daschle,democrat,15,undefined,FALSE
 11/4/1952,Mississippi,FALSE,Barrett,republican,15,undefined,TRUE
 11/4/1952,Missouri,FALSE,Daschle,democrat,1,undefined,FALSE
@@ -45,7 +47,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1952,North Dakota,FALSE,Barrett,republican,5,undefined,TRUE
 11/4/1952,Ohio,FALSE,Barrett,republican,1,undefined,TRUE
 11/4/1952,Oklahoma,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,Oregon,FALSE,Daschle,democrat,0.1,undefined,FALSE
+11/4/1952,Oregon,FALSE,Daschle,democrat,50.12,undefined,FALSE
+11/4/1952,Oregon,FALSE,Barrett,republican,49.88,undefined,FALSE
 11/4/1952,Pennsylvania,FALSE,Daschle,democrat,5,undefined,FALSE
 11/4/1952,Pennsylvania,FALSE,Barrett,republican,0,undefined,FALSE
 11/4/1952,Rhode Island,FALSE,Daschle,democrat,15,undefined,FALSE
@@ -110,7 +113,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1956,New Mexico,FALSE,MacDonald Jr.,democrat,5,null,TRUE
 11/6/1956,New Mexico,FALSE,Barrett,republican,0,null,TRUE
 11/6/1956,New York,FALSE,MacDonald Jr.,democrat,15,null,FALSE
-11/6/1956,North Carolina,FALSE,MacDonald Jr.,democrat,0.1,null,TRUE
+11/6/1956,North Carolina,FALSE,MacDonald Jr.,democrat,50.17,null,TRUE
+11/6/1956,North Carolina,FALSE,Barrett,republican,49.83,null,TRUE
 11/6/1956,North Carolina,FALSE,Barrett,republican,0,null,TRUE
 11/6/1956,North Dakota,FALSE,Barrett,republican,5,null,FALSE
 11/6/1956,Ohio,FALSE,MacDonald Jr.,democrat,5,null,TRUE
@@ -146,7 +150,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1960,Connecticut,FALSE,MacDonald Jr.,democrat,15,null,FALSE
 11/8/1960,Delaware,FALSE,MacDonald Jr.,democrat,15,null,FALSE
 11/8/1960,District of Columbia,FALSE,MacDonald Jr.,democrat,15,null,FALSE
-11/8/1960,Florida,FALSE,MacDonald Jr.,democrat,0.1,null,FALSE
+11/8/1960,Florida,FALSE,MacDonald Jr.,democrat,50.6,null,FALSE
+11/8/1960,Florida,FALSE,Johnson,republican,49.4,null,FALSE
 11/8/1960,Georgia,FALSE,Johnson,republican,5,null,FALSE
 11/8/1960,Hawaii,FALSE,MacDonald Jr.,democrat,1,null,FALSE
 11/8/1960,Idaho,FALSE,Johnson,republican,15,null,FALSE
@@ -213,7 +218,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/3/1964,Hawaii,FALSE,MacDonald Jr.,democrat,1,null,FALSE
 11/3/1964,Idaho,FALSE,Johnson,republican,15,null,FALSE
 11/3/1964,Illinois,FALSE,MacDonald Jr.,democrat,15,null,FALSE
-11/3/1964,Indiana,FALSE,MacDonald Jr.,democrat,0.1,null,FALSE
+11/3/1964,Indiana,FALSE,MacDonald Jr.,democrat,50.42,null,FALSE
+11/3/1964,Indiana,FALSE,Johnson,republican,49.58,null,FALSE
 11/3/1964,Iowa,FALSE,MacDonald Jr.,democrat,5,null,FALSE
 11/3/1964,Kansas,FALSE,Johnson,republican,15,null,FALSE
 11/3/1964,Kentucky,FALSE,Johnson,republican,15,null,FALSE
