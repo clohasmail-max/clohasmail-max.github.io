@@ -568,7 +568,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/06/1984,Kentucky,FALSE,Dolan,republican,15,undefined,FALSE
 11/06/1984,Louisiana,FALSE,Dolan,republican,5,undefined,FALSE
 11/06/1984,Maine 1st CD,ME-1,Kingston,democrat,15,undefined,FALSE
-11/06/1984,Maine 2nd CD,ME-2,Kingston,democrat,2,undefined,FALSE
+11/06/1984,Maine 2nd CD,ME-2,Kingston,democrat,1,undefined,FALSE
 11/06/1984,Maine,FALSE,Kingston,democrat,5,undefined,FALSE
 11/06/1984,Maryland,FALSE,Kingston,democrat,15,undefined,FALSE
 11/06/1984,Massachusetts,FALSE,Kingston,democrat,15,undefined,FALSE
@@ -645,7 +645,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/08/1988,Missouri,FALSE,Tester,republican,15,undefined,FALSE
 11/08/1988,Montana,FALSE,Tester,republican,15,undefined,FALSE
 11/08/1988,Nebraska 1st CD,NE-1,Tester,republican,15,undefined,FALSE
-11/08/1988,Nebraska 2nd CD,NE-2,Pritzker,democrat,2,null,TRUE
+11/08/1988,Nebraska 2nd CD,NE-2,Pritzker,democrat,1,null,TRUE
 11/08/1988,Nebraska 3rd CD,NE-3,Tester,republican,15,undefined,FALSE
 11/08/1988,Nebraska,FALSE,Tester,republican,15,undefined,FALSE
 11/08/1988,Nevada,FALSE,Tester,republican,5,undefined,FALSE
