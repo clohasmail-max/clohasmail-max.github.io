@@ -572,11 +572,11 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,Maine,FALSE,Kingston,democrat,5,undefined,FALSE
 11/6/1984,Maryland,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,Massachusetts,FALSE,Kingston,democrat,15,undefined,FALSE
-11/6/1984,Michigan,FALSE,Kingston,democrat,1,undefined,FALSE
+11/6/1984,Michigan,FALSE,Kingston,democrat,5,undefined,FALSE
 11/6/1984,Minnesota,FALSE,Kingston,democrat,5,undefined,FALSE
 11/6/1984,Mississippi,FALSE,Dolan,republican,15,undefined,FALSE
 11/6/1984,Missouri,FALSE,Dolan,republican,5,undefined,FALSE
-11/6/1984,Montana,FALSE,Dolan,republican,15,undefined,TRUE
+11/6/1984,Montana,FALSE,Dolan,republican,10,undefined,TRUE
 11/6/1984,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
 11/6/1984,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
 11/6/1984,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
@@ -590,8 +590,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,North Carolina,FALSE,Dolan,republican,1,undefined,TRUE
 11/6/1984,North Carolina,FALSE,Kingston,democrat,0,undefined,TRUE
 11/6/1984,North Dakota,FALSE,Dolan,republican,15,undefined,TRUE
-11/6/1984,Ohio,FALSE,Kingston,democrat,50.26,undefined,FALSE
-11/6/1984,Ohio,FALSE,Dolan,republican,49.74,undefined,FALSE
+11/6/1984,Ohio,FALSE,Kingston,democrat,1,undefined,FALSE
 11/6/1984,Oklahoma,FALSE,Dolan,republican,15,undefined,TRUE
 11/6/1984,Oregon,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,Pennsylvania,FALSE,Kingston,democrat,5,undefined,FALSE
@@ -606,7 +605,7 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,Washington,FALSE,Kingston,democrat,15,undefined,FALSE
 11/6/1984,West Virginia,FALSE,Dolan,republican,15,undefined,FALSE
 11/6/1984,Wisconsin,FALSE,Kingston,democrat,1,undefined,FALSE
-11/6/1984,Wyoming,FALSE,Thatcher,CUSTOM2,1,undefined,FALSE
+11/6/1984,Wyoming,FALSE,Kingston,republican,10,undefined,FALSE
 11/6/1984,National Popular Vote,FALSE,Thatcher,CUSTOM2,9,undefined,FALSE
 11/6/1984,National Popular Vote,FALSE,Kingston,democrat,47,undefined,FALSE
 11/6/1984,National Popular Vote,FALSE,Dolan,republican,44,undefined,FALSE
