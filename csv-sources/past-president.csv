@@ -1,4 +1,60 @@
 date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,version
+11/02/1948,Alabama,FALSE,Mindy,republican,1,undefined,FALSE
+11/02/1948,Alaska,FALSE,Mindy,republican,50.105,undefined,FALSE
+11/02/1948,Alaska,FALSE,MacDonald Jr.,democrat,49.895,undefined,TRUE
+11/02/1948,Arizona,FALSE,Mindy,republican,50.495,undefined,FALSE
+11/02/1948,Arizona,FALSE,MacDonald Jr.,democrat,49.505,undefined,TRUE
+11/02/1948,Arkansas,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,California,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/02/1948,Colorado,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/02/1948,Connecticut,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Delaware,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,District of Columbia,TRUE,Independent,INDGEN,0,null,FALSE
+11/02/1948,Florida,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Georgia,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Hawaii,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/02/1948,Idaho,FALSE,Mindy,republican,1,undefined,FALSE
+11/02/1948,Illinois,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Indiana,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Iowa,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Kansas,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Kentucky,FALSE,MacDonald Jr.,democrat,1,undefined,TRUE
+11/02/1948,Louisiana,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Maine,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Maryland,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Massachusetts,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Michigan,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Minnesota,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Mississippi,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Missouri,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Montana,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Nebraska,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Nevada,FALSE,MacDonald Jr.,democrat,1,undefined,TRUE
+11/02/1948,New Hampshire,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,New Hampshire,FALSE,Mindy,republican,0,undefined,TRUE
+11/02/1948,New Jersey,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,New Mexico,FALSE,MacDonald Jr.,democrat,15,undefined,FALSE
+11/02/1948,New York,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,North Carolina,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,North Dakota,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Ohio,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Oklahoma,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Oregon,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Pennsylvania,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Rhode Island,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,South Carolina,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,South Dakota,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Tennessee,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Texas,FALSE,MacDonald Jr.,democrat,5,undefined,TRUE
+11/02/1948,Utah,FALSE,Mindy,republican,1,undefined,FALSE
+11/02/1948,Vermont,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Virginia,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Washington,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,West Virginia,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Wisconsin,FALSE,MacDonald Jr.,democrat,15,undefined,TRUE
+11/02/1948,Wyoming,FALSE,Mindy,republican,5,undefined,FALSE
+11/02/1948,National Popular Vote,FALSE,MacDonald Jr.,democrat,64,undefined,FALSE
+11/02/1948,National Popular Vote,FALSE,Mindy,republican,36,undefined,FALSE
 11/4/1952,Alabama,FALSE,Barrett,republican,15,undefined,FALSE
 11/4/1952,Alaska,FALSE,Independent,INDGEN,0,null,FALSE
 11/4/1952,Alaska,FALSE,Daschle,democrat,0,undefined,FALSE
