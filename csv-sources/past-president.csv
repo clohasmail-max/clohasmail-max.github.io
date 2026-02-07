@@ -748,77 +748,120 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/06/1984,National Popular Vote,FALSE,Thatcher,CUSTOM2,9,undefined,FALSE
 11/06/1984,National Popular Vote,FALSE,Kingston,democrat,47,undefined,FALSE
 11/06/1984,National Popular Vote,FALSE,Dolan,republican,44,undefined,FALSE
-11/08/1988,Alabama,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Alaska,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Arizona,FALSE,Tester,republican,5,undefined,FALSE
-11/08/1988,Arkansas,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,California,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,Colorado,FALSE,Tester,republican,5,undefined,FALSE
-11/08/1988,Connecticut,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,Delaware,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,District of Columbia,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,Florida,FALSE,Tester,republican,1,null,TRUE
-11/08/1988,Florida,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,Georgia,FALSE,Tester,republican,5,undefined,FALSE
-11/08/1988,Hawaii,FALSE,Pritzker,democrat,1,null,FALSE
-11/08/1988,Idaho,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Illinois,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,Illinois,FALSE,Tester,republican,0,undefined,FALSE
-11/08/1988,Indiana,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Iowa,FALSE,Tester,republican,1,null,TRUE
-11/08/1988,Iowa,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,Kansas,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Kentucky,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Louisiana,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Maine 1st CD,ME-1,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,Maine 2nd CD,ME-2,Pritzker,democrat,1,null,FALSE
-11/08/1988,Maine,FALSE,Pritzker,democrat,1,null,FALSE
-11/08/1988,Maine,FALSE,Independent,INDGEN,0,null,FALSE
-11/08/1988,Maine,FALSE,Tester,republican,0,null,FALSE
-11/08/1988,Maryland,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,Massachusetts,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,Michigan,FALSE,Tester,republican,50.22,null,TRUE
-11/08/1988,Michigan,FALSE,Pritzker,democrat,49.78,null,TRUE
-11/08/1988,Minnesota,FALSE,Pritzker,democrat,1,undefined,FALSE
-11/08/1988,Mississippi,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Missouri,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Montana,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Nebraska 1st CD,NE-1,Tester,republican,15,undefined,FALSE
-11/08/1988,Nebraska 2nd CD,NE-2,Pritzker,democrat,1,null,TRUE
-11/08/1988,Nebraska 3rd CD,NE-3,Tester,republican,15,undefined,FALSE
-11/08/1988,Nebraska,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Nevada,FALSE,Tester,republican,5,undefined,FALSE
-11/08/1988,New Hampshire,FALSE,Tester,republican,1,null,TRUE
-11/08/1988,New Hampshire,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,New Jersey,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,New Mexico,FALSE,Tester,republican,1,null,TRUE
-11/08/1988,New Mexico,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,New York,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,North Carolina,FALSE,Tester,republican,5,undefined,FALSE
-11/08/1988,North Dakota,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Ohio,FALSE,Tester,republican,5,undefined,TRUE
-11/08/1988,Ohio,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,Oklahoma,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Oregon,FALSE,Pritzker,democrat,5,undefined,FALSE
-11/08/1988,Pennsylvania,FALSE,Tester,republican,50.33,null,TRUE
-11/08/1988,Pennsylvania,FALSE,Pritzker,democrat,49.67,undefined,TRUE
-11/08/1988,Rhode Island,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,South Carolina,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,South Dakota,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Tennessee,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Texas,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Utah,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Vermont,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,Virginia,FALSE,Tester,republican,1,null,TRUE
-11/08/1988,Virginia,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,Washington,FALSE,Pritzker,democrat,15,undefined,FALSE
-11/08/1988,West Virginia,FALSE,Tester,republican,15,undefined,FALSE
-11/08/1988,Wisconsin,FALSE,Tester,republican,50.36,null,TRUE
-11/08/1988,Wisconsin,FALSE,Pritzker,democrat,49.64,undefined,TRUE
-11/08/1988,Wyoming,FALSE,Tester,republican,15,undefined,TRUE
-11/08/1988,Wyoming,FALSE,Pritzker,democrat,0,undefined,TRUE
-11/08/1988,National Popular Vote,FALSE,Tester,republican,52,undefined,FALSE
-11/08/1988,National Popular Vote,FALSE,Pritzker,democrat,48,undefined,FALSE
+11/8/1988,Alabama,FALSE,Tester,REP,74.99,null,FALSE
+11/8/1988,Alabama,FALSE,Pritzker,DEM,25.01,null,FALSE
+11/8/1988,Alaska,FALSE,Tester,REP,61.48,null,FALSE
+11/8/1988,Alaska,FALSE,Pritzker,DEM,38.52,null,FALSE
+11/8/1988,Arizona,FALSE,Tester,REP,57.02,null,FALSE
+11/8/1988,Arizona,FALSE,Pritzker,DEM,42.98,null,FALSE
+11/8/1988,Arkansas,FALSE,Tester,REP,61.71,null,FALSE
+11/8/1988,Arkansas,FALSE,Pritzker,DEM,38.29,null,FALSE
+11/8/1988,California,FALSE,Pritzker,DEM,58.12,null,FALSE
+11/8/1988,California,FALSE,Tester,REP,41.88,null,FALSE
+11/8/1988,Colorado,FALSE,Tester,REP,52.92,null,FALSE
+11/8/1988,Colorado,FALSE,Pritzker,DEM,47.08,null,FALSE
+11/8/1988,Connecticut,FALSE,Pritzker,DEM,56.06,null,FALSE
+11/8/1988,Connecticut,FALSE,Tester,REP,43.94,null,FALSE
+11/8/1988,Delaware,FALSE,Pritzker,DEM,55.71,null,FALSE
+11/8/1988,Delaware,FALSE,Tester,REP,44.29,null,FALSE
+11/8/1988,District of Columbia,FALSE,Pritzker,DEM,90.66,null,FALSE
+11/8/1988,District of Columbia,FALSE,Tester,REP,9.34,null,FALSE
+11/8/1988,Florida,FALSE,Tester,REP,52.06,null,TRUE
+11/8/1988,Florida,FALSE,Pritzker,DEM,47.94,null,TRUE
+11/8/1988,Georgia,FALSE,Tester,REP,54.74,null,FALSE
+11/8/1988,Georgia,FALSE,Pritzker,DEM,45.26,null,FALSE
+11/8/1988,Hawaii,FALSE,Pritzker,DEM,51.22,null,FALSE
+11/8/1988,Hawaii,FALSE,Tester,REP,48.78,null,FALSE
+11/8/1988,Idaho,FALSE,Tester,REP,68.3,null,FALSE
+11/8/1988,Idaho,FALSE,Pritzker,DEM,31.7,null,FALSE
+11/8/1988,Illinois,FALSE,Pritzker,DEM,57.18,null,FALSE
+11/8/1988,Illinois,FALSE,Tester,REP,42.82,undefined,FALSE
+11/8/1988,Indiana,FALSE,Tester,REP,59.72,null,FALSE
+11/8/1988,Indiana,FALSE,Pritzker,DEM,40.28,null,FALSE
+11/8/1988,Iowa,FALSE,Tester,REP,52.43,null,TRUE
+11/8/1988,Iowa,FALSE,Pritzker,DEM,47.57,null,TRUE
+11/8/1988,Kansas,FALSE,Tester,REP,59.17,null,FALSE
+11/8/1988,Kansas,FALSE,Pritzker,DEM,40.83,null,FALSE
+11/8/1988,Kentucky,FALSE,Tester,REP,65.16,null,FALSE
+11/8/1988,Kentucky,FALSE,Pritzker,DEM,34.84,null,FALSE
+11/8/1988,Louisiana,FALSE,Tester,REP,60.37,null,FALSE
+11/8/1988,Louisiana,FALSE,Pritzker,DEM,39.63,null,FALSE
+11/8/1988,ME-1,FALSE,Pritzker,DEM,54.44,null,FALSE
+11/8/1988,ME-1,FALSE,Tester,REP,45.56,null,FALSE
+11/8/1988,ME-2,FALSE,Pritzker,DEM,50.71,null,FALSE
+11/8/1988,ME-2,FALSE,Tester,REP,49.29,null,FALSE
+11/8/1988,Maine,FALSE,Pritzker,DEM,52.48,null,FALSE
+11/8/1988,Maine,FALSE,Tester,REP,47.52,null,FALSE
+11/8/1988,Maryland,FALSE,Pritzker,DEM,56.51,null,FALSE
+11/8/1988,Maryland,FALSE,Tester,REP,43.49,null,FALSE
+11/8/1988,Massachusetts,FALSE,Pritzker,DEM,62,null,FALSE
+11/8/1988,Massachusetts,FALSE,Tester,REP,38,null,FALSE
+11/8/1988,Michigan,FALSE,Tester,REP,50.22,null,TRUE
+11/8/1988,Michigan,FALSE,Pritzker,DEM,49.78,null,TRUE
+11/8/1988,Minnesota,FALSE,Pritzker,DEM,50.73,null,FALSE
+11/8/1988,Minnesota,FALSE,Tester,REP,49.3667,null,FALSE
+11/8/1988,Mississippi,FALSE,Tester,REP,64.87,null,FALSE
+11/8/1988,Mississippi,FALSE,Pritzker,DEM,35.13,null,FALSE
+11/8/1988,Missouri,FALSE,Tester,REP,58.09,null,FALSE
+11/8/1988,Missouri,FALSE,Pritzker,DEM,41.91,null,FALSE
+11/8/1988,Montana,FALSE,Tester,REP,60.54,null,FALSE
+11/8/1988,Montana,FALSE,Pritzker,DEM,39.46,null,FALSE
+11/8/1988,NE-1,FALSE,Tester,REP,61.14,null,FALSE
+11/8/1988,NE-1,FALSE,Pritzker,DEM,38.86,null,FALSE
+11/8/1988,NE-2,FALSE,Pritzker,DEM,51.08,null,FALSE
+11/8/1988,NE-2,FALSE,Tester,REP,48.92,null,FALSE
+11/8/1988,NE-3,FALSE,Tester,REP,76.96,null,FALSE
+11/8/1988,NE-3,FALSE,Pritzker,DEM,23.04,null,FALSE
+11/8/1988,Nebraska,FALSE,Tester,REP,62.33,null,FALSE
+11/8/1988,Nebraska,FALSE,Pritzker,DEM,37.67,null,FALSE
+11/8/1988,Nevada,FALSE,Tester,REP,53.82,null,FALSE
+11/8/1988,Nevada,FALSE,Pritzker,DEM,46.18,null,FALSE
+11/8/1988,New Hampshire,FALSE,Tester,REP,51.17,null,TRUE
+11/8/1988,New Hampshire,FALSE,Pritzker,DEM,48.83,null,TRUE
+11/8/1988,New Jersey,FALSE,Pritzker,DEM,54.87,null,FALSE
+11/8/1988,New Jersey,FALSE,Tester,REP,45.13,null,FALSE
+11/8/1988,New Mexico,FALSE,Tester,REP,52.01,null,TRUE
+11/8/1988,New Mexico,FALSE,Pritzker,DEM,47.99,null,TRUE
+11/8/1988,New York,FALSE,Pritzker,DEM,58.97,null,FALSE
+11/8/1988,New York,FALSE,Tester,REP,41.03,null,FALSE
+11/8/1988,North Carolina,FALSE,Tester,REP,52.81,null,FALSE
+11/8/1988,North Carolina,FALSE,Pritzker,DEM,47.19,null,FALSE
+11/8/1988,North Dakota,FALSE,Tester,REP,66.31,null,FALSE
+11/8/1988,North Dakota,FALSE,Pritzker,DEM,33.39,null,FALSE
+11/8/1988,Ohio,FALSE,Tester,REP,54.15,null,TRUE
+11/8/1988,Ohio,FALSE,Pritzker,DEM,45.85,null,TRUE
+11/8/1988,Oklahoma,FALSE,Tester,REP,68.03,null,FALSE
+11/8/1988,Oklahoma,FALSE,Pritzker,DEM,31.97,null,FALSE
+11/8/1988,Oregon,FALSE,Pritzker,DEM,55.48,null,FALSE
+11/8/1988,Oregon,FALSE,Tester,REP,44.52,null,FALSE
+11/8/1988,Pennsylvania,FALSE,Tester,REP,50.33,null,TRUE
+11/8/1988,Pennsylvania,FALSE,Pritzker,DEM,49.67,null,TRUE
+11/8/1988,Rhode Island,FALSE,Pritzker,DEM,57.88,null,FALSE
+11/8/1988,Rhode Island,FALSE,Tester,REP,42.12,null,FALSE
+11/8/1988,South Carolina,FALSE,Tester,REP,58.43,null,FALSE
+11/8/1988,South Carolina,FALSE,Pritzker,DEM,41.57,null,FALSE
+11/8/1988,South Dakota,FALSE,Tester,REP,64.11,null,FALSE
+11/8/1988,South Dakota,FALSE,Pritzker,DEM,35.89,null,FALSE
+11/8/1988,Tennessee,FALSE,Tester,REP,64.43,null,FALSE
+11/8/1988,Tennessee,FALSE,Pritzker,DEM,35.57,null,FALSE
+11/8/1988,Texas,FALSE,Tester,REP,62.05,null,FALSE
+11/8/1988,Texas,FALSE,Pritzker,DEM,37.95,null,FALSE
+11/8/1988,Utah,FALSE,Tester,REP,63.6,null,FALSE
+11/8/1988,Utah,FALSE,Pritzker,DEM,36.4,null,FALSE
+11/8/1988,Vermont,FALSE,Pritzker,DEM,63.19,null,FALSE
+11/8/1988,Vermont,FALSE,Tester,REP,36.81,null,FALSE
+11/8/1988,Virginia,FALSE,Tester,REP,50.62,null,TRUE
+11/8/1988,Virginia,FALSE,Pritzker,DEM,49.38,null,TRUE
+11/8/1988,Washington,FALSE,Pritzker,DEM,57.63,null,FALSE
+11/8/1988,Washington,FALSE,Tester,REP,42.37,null,FALSE
+11/8/1988,West Virginia,FALSE,Tester,REP,70.93,null,FALSE
+11/8/1988,West Virginia,FALSE,Pritzker,DEM,29.07,null,FALSE
+11/8/1988,Wisconsin,FALSE,Tester,REP,50.36,null,TRUE
+11/8/1988,Wisconsin,FALSE,Pritzker,DEM,49.64,null,TRUE
+11/8/1988,Wyoming,FALSE,Tester,REP,72.64,null,FALSE
+11/8/1988,Wyoming,FALSE,Pritzker,DEM,27.36,null,FALSE
+11/8/1988,National Popular Vote,FALSE,Tester,REP,52,null,TRUE
+11/8/1988,National Popular Vote,FALSE,Pritzker,DEM,48,null,TRUE
 11/3/1992,Alabama,FALSE,Tester,republican,5,null,FALSE
 11/3/1992,Alaska,FALSE,Tester,republican,5,null,FALSE
 11/3/1992,Arizona,FALSE,Long,democrat,50.37,null,TRUE
