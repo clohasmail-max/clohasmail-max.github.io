@@ -786,10 +786,10 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Kentucky,FALSE,Pritzker,DEM,34.84,null,FALSE
 11/8/1988,Louisiana,FALSE,Tester,REP,60.37,null,FALSE
 11/8/1988,Louisiana,FALSE,Pritzker,DEM,39.63,null,FALSE
-11/8/1988,ME-1,FALSE,Pritzker,DEM,54.44,null,FALSE
-11/8/1988,ME-1,FALSE,Tester,REP,45.56,null,FALSE
-11/8/1988,ME-2,FALSE,Pritzker,DEM,50.71,null,FALSE
-11/8/1988,ME-2,FALSE,Tester,REP,49.29,null,FALSE
+11/8/1988,Maine 1st CD,ME-1,Pritzker,DEM,54.44,null,FALSE
+11/8/1988,Maine 1st CD,ME-1,Tester,REP,45.56,null,FALSE
+11/8/1988,Maine 2nd CD,ME-2,Pritzker,DEM,50.71,null,FALSE
+11/8/1988,Maine 2nd CD,ME-2,Tester,REP,49.29,null,FALSE
 11/8/1988,Maine,FALSE,Pritzker,DEM,52.48,null,FALSE
 11/8/1988,Maine,FALSE,Tester,REP,47.52,null,FALSE
 11/8/1988,Maryland,FALSE,Pritzker,DEM,56.51,null,FALSE
@@ -806,12 +806,12 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Missouri,FALSE,Pritzker,DEM,41.91,null,FALSE
 11/8/1988,Montana,FALSE,Tester,REP,60.54,null,FALSE
 11/8/1988,Montana,FALSE,Pritzker,DEM,39.46,null,FALSE
-11/8/1988,NE-1,FALSE,Tester,REP,61.14,null,FALSE
-11/8/1988,NE-1,FALSE,Pritzker,DEM,38.86,null,FALSE
-11/8/1988,NE-2,FALSE,Pritzker,DEM,51.08,null,FALSE
-11/8/1988,NE-2,FALSE,Tester,REP,48.92,null,FALSE
-11/8/1988,NE-3,FALSE,Tester,REP,76.96,null,FALSE
-11/8/1988,NE-3,FALSE,Pritzker,DEM,23.04,null,FALSE
+11/8/1988,Nebraska 1st CD,NE-1,Tester,REP,61.14,null,FALSE
+11/8/1988,Nebraska 1st CD,NE-1,Pritzker,DEM,38.86,null,FALSE
+11/8/1988,Nebraska 2nd CD,NE-2,Pritzker,DEM,51.08,null,FALSE
+11/8/1988,Nebraska 2nd CD,NE-2,Tester,REP,48.92,null,FALSE
+11/8/1988,Nebraska 3rd CD,NE-3,Tester,REP,76.96,null,FALSE
+11/8/1988,Nebraska 3rd CD,NE-3,Pritzker,DEM,23.04,null,FALSE
 11/8/1988,Nebraska,FALSE,Tester,REP,62.33,null,FALSE
 11/8/1988,Nebraska,FALSE,Pritzker,DEM,37.67,null,FALSE
 11/8/1988,Nevada,FALSE,Tester,REP,53.82,null,FALSE
