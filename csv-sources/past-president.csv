@@ -862,7 +862,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Wyoming,FALSE,Pritzker,DEM,27.36,null,FALSE
 11/8/1988,National Popular Vote,FALSE,Tester,REP,52,null,TRUE
 11/8/1988,National Popular Vote,FALSE,Pritzker,DEM,48,null,TRUE
-11/3/1992,Alaska,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Alabama,FALSE,Tester,republican,15,null,FALSE
+11/3/1992,Alaska,FALSE,Tester,republican,5,null,FALSE
 11/3/1992,Arizona,FALSE,Long,democrat,50.37,null,TRUE
 11/3/1992,Arizona,FALSE,Tester,republican,49.63,null,TRUE
 11/3/1992,Arkansas,FALSE,Tester,republican,15,null,FALSE
