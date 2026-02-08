@@ -745,9 +745,6 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,Montana,FALSE,Dolan,REP,42.83,null,TRUE
 11/6/1984,Montana,FALSE,Kingston,DEM,33,null,TRUE
 11/6/1984,Montana,FALSE,Independent,INDGEN,24.17,null,TRUE
-11/6/1984,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
-11/6/1984,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
-11/6/1984,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
 11/6/1984,Nebraska,FALSE,Dolan,REP,54.82,null,TRUE
 11/6/1984,Nebraska,FALSE,Kingston,DEM,32.76,null,TRUE
 11/6/1984,Nebraska,FALSE,Independent,INDGEN,12.42,null,TRUE
