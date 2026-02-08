@@ -724,10 +724,10 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/6/1984,Kentucky,FALSE,Kingston,DEM,37.44,null,FALSE
 11/6/1984,Louisiana,FALSE,Dolan,REP,55.62,null,FALSE
 11/6/1984,Louisiana,FALSE,Kingston,DEM,44.38,null,FALSE
-11/6/1984,ME-1,FALSE,Kingston,DEM,60.6,null,FALSE
-11/6/1984,ME-1,FALSE,Dolan,REP,39.4,null,FALSE
-11/6/1984,ME-2,FALSE,Kingston,DEM,51.78,null,TRUE
-11/6/1984,ME-2,FALSE,Dolan,REP,48.22,null,TRUE
+11/6/1984,Maine 1st CD,ME-1,Kingston,DEM,60.6,null,FALSE
+11/6/1984,Maine 1st CD,ME-1,Dolan,REP,39.4,null,FALSE
+11/6/1984,Maine 2nd CD,ME-2,Kingston,DEM,51.78,null,TRUE
+11/6/1984,Maine 2nd CD,ME-2,Dolan,REP,48.22,null,TRUE
 11/6/1984,Maine,FALSE,Kingston,DEM,56.42,null,FALSE
 11/6/1984,Maine,FALSE,Dolan,REP,43.58,null,FALSE
 11/6/1984,Maryland,FALSE,Kingston,DEM,61.07,null,FALSE
