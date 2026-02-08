@@ -1,114 +1,121 @@
-11/8/1988,Alabama,FALSE,Tester,REP,74.99,null,FALSE
-11/8/1988,Alabama,FALSE,Pritzker,DEM,25.01,null,FALSE
-11/8/1988,Alaska,FALSE,Tester,REP,61.48,null,FALSE
-11/8/1988,Alaska,FALSE,Pritzker,DEM,38.52,null,FALSE
-11/8/1988,Arizona,FALSE,Tester,REP,57.02,null,FALSE
-11/8/1988,Arizona,FALSE,Pritzker,DEM,42.98,null,FALSE
-11/8/1988,Arkansas,FALSE,Tester,REP,61.71,null,FALSE
-11/8/1988,Arkansas,FALSE,Pritzker,DEM,38.29,null,FALSE
-11/8/1988,California,FALSE,Pritzker,DEM,58.12,null,FALSE
-11/8/1988,California,FALSE,Tester,REP,41.88,null,FALSE
-11/8/1988,Colorado,FALSE,Tester,REP,52.92,null,FALSE
-11/8/1988,Colorado,FALSE,Pritzker,DEM,47.08,null,FALSE
-11/8/1988,Connecticut,FALSE,Pritzker,DEM,56.06,null,FALSE
-11/8/1988,Connecticut,FALSE,Tester,REP,43.94,null,FALSE
-11/8/1988,Delaware,FALSE,Pritzker,DEM,55.71,null,FALSE
-11/8/1988,Delaware,FALSE,Tester,REP,44.29,null,FALSE
-11/8/1988,District of Columbia,FALSE,Pritzker,DEM,90.66,null,FALSE
-11/8/1988,District of Columbia,FALSE,Tester,REP,9.34,null,FALSE
-11/8/1988,Florida,FALSE,Tester,REP,52.06,null,TRUE
-11/8/1988,Florida,FALSE,Pritzker,DEM,47.94,null,TRUE
-11/8/1988,Georgia,FALSE,Tester,REP,54.74,null,FALSE
-11/8/1988,Georgia,FALSE,Pritzker,DEM,45.26,null,FALSE
-11/8/1988,Hawaii,FALSE,Pritzker,DEM,51.22,null,FALSE
-11/8/1988,Hawaii,FALSE,Tester,REP,48.78,null,FALSE
-11/8/1988,Idaho,FALSE,Tester,REP,68.3,null,FALSE
-11/8/1988,Idaho,FALSE,Pritzker,DEM,31.7,null,FALSE
-11/8/1988,Illinois,FALSE,Pritzker,DEM,57.18,null,FALSE
-11/8/1988,Illinois,FALSE,Tester,REP,42.82,undefined,FALSE
-11/8/1988,Indiana,FALSE,Tester,REP,59.72,null,FALSE
-11/8/1988,Indiana,FALSE,Pritzker,DEM,40.28,null,FALSE
-11/8/1988,Iowa,FALSE,Tester,REP,52.43,null,TRUE
-11/8/1988,Iowa,FALSE,Pritzker,DEM,47.57,null,TRUE
-11/8/1988,Kansas,FALSE,Tester,REP,59.17,null,FALSE
-11/8/1988,Kansas,FALSE,Pritzker,DEM,40.83,null,FALSE
-11/8/1988,Kentucky,FALSE,Tester,REP,65.16,null,FALSE
-11/8/1988,Kentucky,FALSE,Pritzker,DEM,34.84,null,FALSE
-11/8/1988,Louisiana,FALSE,Tester,REP,60.37,null,FALSE
-11/8/1988,Louisiana,FALSE,Pritzker,DEM,39.63,null,FALSE
-11/8/1988,ME-1,FALSE,Pritzker,DEM,54.44,null,FALSE
-11/8/1988,ME-1,FALSE,Tester,REP,45.56,null,FALSE
-11/8/1988,ME-2,FALSE,Pritzker,DEM,50.71,null,FALSE
-11/8/1988,ME-2,FALSE,Tester,REP,49.29,null,FALSE
-11/8/1988,Maine,FALSE,Pritzker,DEM,52.48,null,FALSE
-11/8/1988,Maine,FALSE,Tester,REP,47.52,null,FALSE
-11/8/1988,Maryland,FALSE,Pritzker,DEM,56.51,null,FALSE
-11/8/1988,Maryland,FALSE,Tester,REP,43.49,null,FALSE
-11/8/1988,Massachusetts,FALSE,Pritzker,DEM,62,null,FALSE
-11/8/1988,Massachusetts,FALSE,Tester,REP,38,null,FALSE
-11/8/1988,Michigan,FALSE,Tester,REP,50.22,null,TRUE
-11/8/1988,Michigan,FALSE,Pritzker,DEM,49.78,null,TRUE
-11/8/1988,Minnesota,FALSE,Pritzker,DEM,50.73,null,FALSE
-11/8/1988,Minnesota,FALSE,Tester,REP,49.3667,null,FALSE
-11/8/1988,Mississippi,FALSE,Tester,REP,64.87,null,FALSE
-11/8/1988,Mississippi,FALSE,Pritzker,DEM,35.13,null,FALSE
-11/8/1988,Missouri,FALSE,Tester,REP,58.09,null,FALSE
-11/8/1988,Missouri,FALSE,Pritzker,DEM,41.91,null,FALSE
-11/8/1988,Montana,FALSE,Tester,REP,60.54,null,FALSE
-11/8/1988,Montana,FALSE,Pritzker,DEM,39.46,null,FALSE
-11/8/1988,NE-1,FALSE,Tester,REP,61.14,null,FALSE
-11/8/1988,NE-1,FALSE,Pritzker,DEM,38.86,null,FALSE
-11/8/1988,NE-2,FALSE,Pritzker,DEM,51.08,null,FALSE
-11/8/1988,NE-2,FALSE,Tester,REP,48.92,null,FALSE
-11/8/1988,NE-3,FALSE,Tester,REP,76.96,null,FALSE
-11/8/1988,NE-3,FALSE,Pritzker,DEM,23.04,null,FALSE
-11/8/1988,Nebraska,FALSE,Tester,REP,62.33,null,FALSE
-11/8/1988,Nebraska,FALSE,Pritzker,DEM,37.67,null,FALSE
-11/8/1988,Nevada,FALSE,Tester,REP,53.82,null,FALSE
-11/8/1988,Nevada,FALSE,Pritzker,DEM,46.18,null,FALSE
-11/8/1988,New Hampshire,FALSE,Tester,REP,51.17,null,TRUE
-11/8/1988,New Hampshire,FALSE,Pritzker,DEM,48.83,null,TRUE
-11/8/1988,New Jersey,FALSE,Pritzker,DEM,54.87,null,FALSE
-11/8/1988,New Jersey,FALSE,Tester,REP,45.13,null,FALSE
-11/8/1988,New Mexico,FALSE,Tester,REP,52.01,null,TRUE
-11/8/1988,New Mexico,FALSE,Pritzker,DEM,47.99,null,TRUE
-11/8/1988,New York,FALSE,Pritzker,DEM,58.97,null,FALSE
-11/8/1988,New York,FALSE,Tester,REP,41.03,null,FALSE
-11/8/1988,North Carolina,FALSE,Tester,REP,52.81,null,FALSE
-11/8/1988,North Carolina,FALSE,Pritzker,DEM,47.19,null,FALSE
-11/8/1988,North Dakota,FALSE,Tester,REP,66.31,null,FALSE
-11/8/1988,North Dakota,FALSE,Pritzker,DEM,33.39,null,FALSE
-11/8/1988,Ohio,FALSE,Tester,REP,54.15,null,TRUE
-11/8/1988,Ohio,FALSE,Pritzker,DEM,45.85,null,TRUE
-11/8/1988,Oklahoma,FALSE,Tester,REP,68.03,null,FALSE
-11/8/1988,Oklahoma,FALSE,Pritzker,DEM,31.97,null,FALSE
-11/8/1988,Oregon,FALSE,Pritzker,DEM,55.48,null,FALSE
-11/8/1988,Oregon,FALSE,Tester,REP,44.52,null,FALSE
-11/8/1988,Pennsylvania,FALSE,Tester,REP,50.33,null,TRUE
-11/8/1988,Pennsylvania,FALSE,Pritzker,DEM,49.67,null,TRUE
-11/8/1988,Rhode Island,FALSE,Pritzker,DEM,57.88,null,FALSE
-11/8/1988,Rhode Island,FALSE,Tester,REP,42.12,null,FALSE
-11/8/1988,South Carolina,FALSE,Tester,REP,58.43,null,FALSE
-11/8/1988,South Carolina,FALSE,Pritzker,DEM,41.57,null,FALSE
-11/8/1988,South Dakota,FALSE,Tester,REP,64.11,null,FALSE
-11/8/1988,South Dakota,FALSE,Pritzker,DEM,35.89,null,FALSE
-11/8/1988,Tennessee,FALSE,Tester,REP,64.43,null,FALSE
-11/8/1988,Tennessee,FALSE,Pritzker,DEM,35.57,null,FALSE
-11/8/1988,Texas,FALSE,Tester,REP,62.05,null,FALSE
-11/8/1988,Texas,FALSE,Pritzker,DEM,37.95,null,FALSE
-11/8/1988,Utah,FALSE,Tester,REP,63.6,null,FALSE
-11/8/1988,Utah,FALSE,Pritzker,DEM,36.4,null,FALSE
-11/8/1988,Vermont,FALSE,Pritzker,DEM,63.19,null,FALSE
-11/8/1988,Vermont,FALSE,Tester,REP,36.81,null,FALSE
-11/8/1988,Virginia,FALSE,Tester,REP,50.62,null,TRUE
-11/8/1988,Virginia,FALSE,Pritzker,DEM,49.38,null,TRUE
-11/8/1988,Washington,FALSE,Pritzker,DEM,57.63,null,FALSE
-11/8/1988,Washington,FALSE,Tester,REP,42.37,null,FALSE
-11/8/1988,West Virginia,FALSE,Tester,REP,70.93,null,FALSE
-11/8/1988,West Virginia,FALSE,Pritzker,DEM,29.07,null,FALSE
-11/8/1988,Wisconsin,FALSE,Tester,REP,50.36,null,TRUE
-11/8/1988,Wisconsin,FALSE,Pritzker,DEM,49.64,null,TRUE
-11/8/1988,Wyoming,FALSE,Tester,REP,72.64,null,FALSE
-11/8/1988,Wyoming,FALSE,Pritzker,DEM,27.36,null,FALSE
-11/8/1988,National Popular Vote,FALSE,Tester,REP,52,null,TRUE
-11/8/1988,National Popular Vote,FALSE,Pritzker,DEM,48,null,TRUE
+11/6/1984,Alabama,FALSE,Dolan,REP,73.89,null,FALSE
+11/6/1984,Alabama,FALSE,Kingston,DEM,26.11,null,FALSE
+11/6/1984,Alaska,FALSE,Dolan,REP,62.29,null,FALSE
+11/6/1984,Alaska,FALSE,Kingston,DEM,37.71,null,FALSE
+11/6/1984,Arizona,FALSE,Dolan,REP,59.73,null,TRUE
+11/6/1984,Arizona,FALSE,Kingston,DEM,40.27,null,TRUE
+11/6/1984,Arkansas,FALSE,Dolan,REP,54.09,null,FALSE
+11/6/1984,Arkansas,FALSE,Kingston,DEM,45.91,null,FALSE
+11/6/1984,California,FALSE,Kingston,DEM,62.05,null,FALSE
+11/6/1984,California,FALSE,Dolan,REP,37.95,null,FALSE
+11/6/1984,Colorado,FALSE,Dolan,REP,53.42,null,TRUE
+11/6/1984,Colorado,FALSE,Kingston,DEM,46.58,null,TRUE
+11/6/1984,Connecticut,FALSE,Kingston,DEM,60.01,null,FALSE
+11/6/1984,Connecticut,FALSE,Dolan,REP,39.99,null,FALSE
+11/6/1984,Delaware,FALSE,Kingston,DEM,59.91,null,FALSE
+11/6/1984,Delaware,FALSE,Dolan,REP,40.09,undefined,FALSE
+11/6/1984,District of Columbia,FALSE,Kingston,DEM,92.98,null,FALSE
+11/6/1984,District of Columbia,FALSE,Dolan,REP,7.02,null,FALSE
+11/6/1984,Florida,FALSE,Kingston,DEM,51.41,null,FALSE
+11/6/1984,Florida,FALSE,Dolan,REP,48.59,null,FALSE
+11/6/1984,Georgia,FALSE,Dolan,REP,54.91,null,FALSE
+11/6/1984,Georgia,FALSE,Kingston,DEM,45.09,null,FALSE
+11/6/1984,Hawaii,FALSE,Kingston,DEM,54.63,null,FALSE
+11/6/1984,Hawaii,FALSE,Dolan,REP,45.37,null,FALSE
+11/6/1984,Idaho,FALSE,Dolan,REP,58.3,null,TRUE
+11/6/1984,Idaho,FALSE,Kingston,DEM,26.18,null,TRUE
+11/6/1984,Idaho,FALSE,Independent,INDGEN,15.52,null,TRUE
+11/6/1984,Illinois,FALSE,Kingston,DEM,60.58,null,FALSE
+11/6/1984,Illinois,FALSE,Dolan,REP,39.42,null,FALSE
+11/6/1984,Indiana,FALSE,Dolan,REP,53.97,null,FALSE
+11/6/1984,Indiana,FALSE,Kingston,DEM,46.03,null,FALSE
+11/6/1984,Iowa,FALSE,Kingston,DEM,52.09,null,FALSE
+11/6/1984,Iowa,FALSE,Dolan,REP,47.92,null,FALSE
+11/6/1984,Kansas,FALSE,Dolan,REP,53.95,null,TRUE
+11/6/1984,Kansas,FALSE,Kingston,DEM,34.75,null,TRUE
+11/6/1984,Kansas,FALSE,Independent,INDGEN,11.3,null,TRUE
+11/6/1984,Kentucky,FALSE,Dolan,REP,62.56,null,FALSE
+11/6/1984,Kentucky,FALSE,Kingston,DEM,37.44,null,FALSE
+11/6/1984,Louisiana,FALSE,Dolan,REP,55.62,null,FALSE
+11/6/1984,Louisiana,FALSE,Kingston,DEM,44.38,null,FALSE
+11/6/1984,ME-1,FALSE,Kingston,DEM,60.6,null,FALSE
+11/6/1984,ME-1,FALSE,Dolan,REP,39.4,null,FALSE
+11/6/1984,ME-2,FALSE,Kingston,DEM,51.78,null,TRUE
+11/6/1984,ME-2,FALSE,Dolan,REP,48.22,null,TRUE
+11/6/1984,Maine,FALSE,Kingston,DEM,56.42,null,FALSE
+11/6/1984,Maine,FALSE,Dolan,REP,43.58,null,FALSE
+11/6/1984,Maryland,FALSE,Kingston,DEM,61.07,null,FALSE
+11/6/1984,Maryland,FALSE,Dolan,REP,38.93,null,FALSE
+11/6/1984,Massachusetts,FALSE,Kingston,DEM,65.23,null,FALSE
+11/6/1984,Massachusetts,FALSE,Dolan,REP,34.77,null,FALSE
+11/6/1984,Michigan,FALSE,Kingston,DEM,52.61,null,FALSE
+11/6/1984,Michigan,FALSE,Dolan,REP,47.39,null,FALSE
+11/6/1984,Minnesota,FALSE,Kingston,DEM,55.74,null,FALSE
+11/6/1984,Minnesota,FALSE,Dolan,REP,44.26,null,FALSE
+11/6/1984,Mississippi,FALSE,Dolan,REP,61.35,null,FALSE
+11/6/1984,Mississippi,FALSE,Kingston,DEM,38.65,null,FALSE
+11/6/1984,Missouri,FALSE,Dolan,REP,52.9,null,FALSE
+11/6/1984,Missouri,FALSE,Kingston,DEM,47.1,null,FALSE
+11/6/1984,Montana,FALSE,Dolan,REP,42.83,null,TRUE
+11/6/1984,Montana,FALSE,Kingston,DEM,33,null,TRUE
+11/6/1984,Montana,FALSE,Independent,INDGEN,24.17,null,TRUE
+11/6/1984,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1984,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1984,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/6/1984,Nebraska,FALSE,Dolan,REP,54.82,null,TRUE
+11/6/1984,Nebraska,FALSE,Kingston,DEM,32.76,null,TRUE
+11/6/1984,Nebraska,FALSE,Independent,INDGEN,12.42,null,TRUE
+11/6/1984,Nevada,FALSE,Dolan,REP,54.11,null,FALSE
+11/6/1984,Nevada,FALSE,Kingston,DEM,45.89,null,FALSE
+11/6/1984,New Hampshire,FALSE,Kingston,DEM,50.17,null,FALSE
+11/6/1984,New Hampshire,FALSE,Dolan,REP,49.83,null,FALSE
+11/6/1984,New Jersey,FALSE,Kingston,DEM,58.92,null,FALSE
+11/6/1984,New Jersey,FALSE,Dolan,REP,41.08,null,FALSE
+11/6/1984,New Mexico,FALSE,Kingston,DEM,51.88,null,TRUE
+11/6/1984,New Mexico,FALSE,Dolan,REP,48.12,null,TRUE
+11/6/1984,New York,FALSE,Kingston,DEM,63.16,null,FALSE
+11/6/1984,New York,FALSE,Dolan,REP,36.84,null,FALSE
+11/6/1984,North Carolina,FALSE,Dolan,REP,50.63,null,TRUE
+11/6/1984,North Carolina,FALSE,Kingston,DEM,49.37,null,TRUE
+11/6/1984,North Dakota,FALSE,Dolan,REP,49.345,null,TRUE
+11/6/1984,North Dakota,FALSE,Kingston,DEM,31.445,null,TRUE
+11/6/1984,North Dakota,FALSE,Independent,INDGEN,19.21,null,TRUE
+11/6/1984,Ohio,FALSE,Kingston,DEM,51.5,null,FALSE
+11/6/1984,Ohio,FALSE,Dolan,REP,48.5,null,FALSE
+11/6/1984,Oklahoma,FALSE,Dolan,REP,59.04,null,TRUE
+11/6/1984,Oklahoma,FALSE,Kingston,DEM,32.64,null,TRUE
+11/6/1984,Oklahoma,FALSE,Independent,INDGEN,8.32,null,TRUE
+11/6/1984,Oregon,FALSE,Kingston,DEM,58.41,null,FALSE
+11/6/1984,Oregon,FALSE,Dolan,REP,41.59,null,FALSE
+11/6/1984,Pennsylvania,FALSE,Kingston,DEM,54.06,null,FALSE
+11/6/1984,Pennsylvania,FALSE,Dolan,REP,45.94,null,FALSE
+11/6/1984,Rhode Island,FALSE,Kingston,DEM,62.75,null,FALSE
+11/6/1984,Rhode Island,FALSE,Dolan,REP,37.25,null,FALSE
+11/6/1984,South Carolina,FALSE,Dolan,REP,59,null,FALSE
+11/6/1984,South Carolina,FALSE,Kingston,DEM,41,null,FALSE
+11/6/1984,South Dakota,FALSE,Dolan,REP,48.755,null,TRUE
+11/6/1984,South Dakota,FALSE,Kingston,DEM,32.515,null,TRUE
+11/6/1984,South Dakota,FALSE,Independent,INDGEN,18.73,null,TRUE
+11/6/1984,Tennessee,FALSE,Dolan,REP,61.16,null,FALSE
+11/6/1984,Tennessee,FALSE,Kingston,DEM,38.84,null,FALSE
+11/6/1984,Texas,FALSE,Dolan,REP,60.17,null,FALSE
+11/6/1984,Texas,FALSE,Kingston,DEM,39.83,null,FALSE
+11/6/1984,Utah,FALSE,Dolan,REP,59.99,null,TRUE
+11/6/1984,Utah,FALSE,Kingston,DEM,35.1,null,TRUE
+11/6/1984,Utah,FALSE,Independent,INDGEN,4.91,null,TRUE
+11/6/1984,Vermont,FALSE,Kingston,DEM,65.66,null,FALSE
+11/6/1984,Vermont,FALSE,Dolan,REP,34.34,null,FALSE
+11/6/1984,Virginia,FALSE,Kingston,DEM,51.97,null,FALSE
+11/6/1984,Virginia,FALSE,Dolan,REP,48.03,null,FALSE
+11/6/1984,Washington,FALSE,Kingston,DEM,59.18,null,FALSE
+11/6/1984,Washington,FALSE,Dolan,REP,40.82,null,FALSE
+11/6/1984,West Virginia,FALSE,Dolan,REP,63.44,null,FALSE
+11/6/1984,West Virginia,FALSE,Kingston,DEM,36.56,null,FALSE
+11/6/1984,Wisconsin,FALSE,Kingston,DEM,52.41,null,FALSE
+11/6/1984,Wisconsin,FALSE,Dolan,REP,47.59,null,FALSE
+11/6/1984,Wyoming,FALSE,Dolan,REP,41.1,null,TRUE
+11/6/1984,Wyoming,FALSE,Independent,INDGEN,31.11,null,TRUE
+11/6/1984,Wyoming,FALSE,Kingston,DEM,27.79,null,TRUE
+11/6/1984,National Popular Vote,FALSE,Kingston,DEM,50.5,null,FALSE
+11/6/1984,National Popular Vote,FALSE,Dolan,REP,45.5,null,FALSE
+11/6/1984,National Popular Vote,FALSE,Thatcher,INDGEN,4,null,FALSE
