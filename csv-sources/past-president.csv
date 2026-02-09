@@ -908,8 +908,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/8/1988,Virginia,FALSE,Pritzker,DEM,49.38,null,TRUE
 11/8/1988,Washington,FALSE,Pritzker,DEM,57.63,null,FALSE
 11/8/1988,Washington,FALSE,Tester,REP,42.37,null,FALSE
-11/8/1988,West Virginia,FALSE,Tester,REP,70.93,null,FALSE
-11/8/1988,West Virginia,FALSE,Pritzker,DEM,29.07,null,FALSE
+11/8/1988,West Virginia,FALSE,Tester,REP,70.97,null,FALSE
+11/8/1988,West Virginia,FALSE,Pritzker,DEM,29.03,null,FALSE
 11/8/1988,Wisconsin,FALSE,Tester,REP,50.36,null,TRUE
 11/8/1988,Wisconsin,FALSE,Pritzker,DEM,49.64,null,TRUE
 11/8/1988,Wyoming,FALSE,Tester,REP,72.64,null,FALSE
