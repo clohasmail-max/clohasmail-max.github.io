@@ -21936,8 +21936,8 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/8/2016,WI,7,Democrat,DEM,0,null,FALSE
 11/8/2016,WI,8,Democrat,DEM,0,null,FALSE
 11/8/2016,WY,0,Democrat,DEM,0,null,FALSE
-11/8/2016,NPV,undefined,Republican,REP,62,null,FALSE
-11/8/2016,NPV,undefined,Democrat,DEM,36,null,FALSE
+11/8/2016,NPV,undefined,Republican,REP,38,null,FALSE
+11/8/2016,NPV,undefined,Democrat,DEM,62,null,FALSE
 11/6/2018,AL,1,Democrat,DEM,0,null,FALSE
 11/6/2018,AL,2,Democrat,DEM,0,null,TRUE
 11/6/2018,AL,3,Democrat,DEM,0,null,FALSE
@@ -22373,8 +22373,8 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/6/2018,WI,7,Democrat,DEM,0,null,FALSE
 11/6/2018,WI,8,Democrat,DEM,0,null,TRUE
 11/6/2018,WY,0,Democrat,DEM,0,null,FALSE
-11/6/2018,NPV,undefined,Democrat,DEM,51,null,FALSE
-11/6/2018,NPV,undefined,Republican,REP,47,null,FALSE
+11/6/2018,NPV,undefined,Democrat,DEM,47,null,FALSE
+11/6/2018,NPV,undefined,Republican,REP,51,null,FALSE
 11/3/2020,AL,1,Democrat,DEM,0,null,FALSE
 11/3/2020,AL,2,Democrat,DEM,0,null,FALSE
 11/3/2020,AL,3,Democrat,DEM,0,null,FALSE
@@ -23247,8 +23247,10 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/8/2022,WI,7,Democrat,DEM,0,null,FALSE
 11/8/2022,WI,8,Democrat,DEM,0,null,FALSE
 11/8/2022,WY,0,Democrat,DEM,0,null,FALSE
-11/8/2022,NPV,undefined,Republican,REP,52,null,FALSE
-11/8/2022,NPV,undefined,Democrat,DEM,46,null,FALSE
+11/8/2022,NPV,undefined,Republican,REP,46,null,FALSE
+11/8/2022,NPV,undefined,Democrat,DEM,52,null,FALSE
+11/4/2014,NPV,undefined,Republican,REP,43,null,FALSE
+11/4/2014,NPV,undefined,Democrat,DEM,56,null,FALSE
 11/5/2024,AL,1,Democrat,DEM,0,null,FALSE
 11/5/2024,AL,2,Democrat,DEM,0,null,FALSE
 11/5/2024,AL,3,Democrat,DEM,0,null,FALSE
