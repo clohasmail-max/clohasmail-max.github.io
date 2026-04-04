@@ -22810,8 +22810,8 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/2020,WI,7,Democrat,DEM,0,null,FALSE
 11/3/2020,WI,8,Democrat,DEM,0,null,FALSE
 11/3/2020,WY,0,Democrat,DEM,0,null,FALSE
-11/3/2020,NPV,undefined,Democrat,DEM,52,null,FALSE
-11/3/2020,NPV,undefined,Republican,REP,47,null,FALSE
+11/3/2020,NPV,undefined,Democrat,DEM,47,null,FALSE
+11/3/2020,NPV,undefined,Republican,REP,52,null,FALSE
 11/8/2022,AL,1,Democrat,DEM,0,null,FALSE
 11/8/2022,AL,2,Democrat,DEM,0,null,FALSE
 11/8/2022,AL,3,Democrat,DEM,0,null,FALSE
