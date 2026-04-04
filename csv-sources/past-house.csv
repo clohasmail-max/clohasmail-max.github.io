@@ -21074,5 +21074,6 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/5/2024,WI,7,Republican,REP,15,null,FALSE
 11/5/2024,WI,8,Democratic,DEM,0.1,null,TRUE
 11/5/2024,WY,0,Republican,REP,15,null,FALSE
+11/5/2024,WY,0,Republican,DEM,0,null,FALSE
 11/5/2024,NPV,undefined,Democratic,DEM,54,null,FALSE
 11/5/2024,NPV,undefined,Republican,REP,44,null,FALSE
