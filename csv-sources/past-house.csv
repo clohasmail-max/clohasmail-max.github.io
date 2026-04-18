@@ -13077,7 +13077,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/7/1978,WI,8,Republican,REP,0,null,FALSE
 11/7/1978,WI,9,Democrat,DEM,0,null,FALSE
 11/7/1978,WY,0,Republican,REP,0,null,FALSE
-11/7/1978,NPV,undefined,Republican,Rep,43,undefined,FALSE
+11/7/1978,NPV,undefined,Republican,REP,43,undefined,FALSE
 11/7/1978,NPV,undefined,Democratic,DEM,56,undefined,FALSE
 11/4/1980,AL,1,Democratic,DEM,15,null,FALSE
 11/4/1980,AL,2,Democratic,DEM,15,null,FALSE
@@ -22670,7 +22670,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/7/2000,WI,8,Democrat,DEM,0,null,FALSE
 11/7/2000,WI,9,Republican,REP,0,null,TRUE
 11/7/2000,WY,0,Democrat,DEM,0,null,FALSE
-11/7/2000,NPV,undefined,Independent,INDGEN,0,null,FALSE
+11/7/2000,NPV,undefined,Republican,REP,0,null,FALSE
 11/7/2000,NPV,undefined,Democratic,DEM,51,undefined,FALSE
 11/5/2002,AL,1,Republican,REP,15,null,FALSE
 11/5/2002,AL,2,Republican,REP,15,null,FALSE
