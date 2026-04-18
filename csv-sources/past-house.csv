@@ -14077,7 +14077,6 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/5/1996,WY,PV,libertarian,libertarian,3.931270626669780,,
 11/5/1996,NPV,0,Democratic,democrat,48.2166843927,,
 11/5/1996,NPV,0,Republican,republican,48.150606914,,
-
 11/3/1998,AL,1,Republican,REP,15,null,FALSE
 11/3/1998,AL,2,Republican,REP,15,null,FALSE
 11/3/1998,AL,3,Republican,REP,15,null,FALSE
@@ -14136,7 +14135,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,CA,39,Republican,REP,15,null,FALSE
 11/3/1998,CA,40,Republican,REP,15,null,FALSE
 11/3/1998,CA,41,Democratic,DEM,15,null,FALSE
-11/3/1998,CA,42,Republican,REP,0.1,null,FALSE
+11/3/1998,CA,42,Republican,REP,50.49,null,FALSE
 11/3/1998,CA,43,Republican,REP,15,null,FALSE
 11/3/1998,CA,44,Democratic,DEM,15,null,FALSE
 11/3/1998,CA,45,Republican,REP,15,null,FALSE
@@ -14305,7 +14304,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,MO,7,Republican,REP,5,null,TRUE
 11/3/1998,MO,8,Republican,REP,5,null,TRUE
 11/3/1998,MO,9,Republican,REP,15,null,FALSE
-11/3/1998,MT,1,Republican,REP,0.1,null,TRUE
+11/3/1998,MT,1,Republican,REP,50.49,null,TRUE
 11/3/1998,MT,2,Republican,REP,15,null,FALSE
 11/3/1998,NE,1,Republican,REP,15,null,FALSE
 11/3/1998,NE,2,Democratic,DEM,1,null,FALSE
@@ -14332,7 +14331,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,NM,2,Republican,REP,5,null,FALSE
 11/3/1998,NM,3,Democratic,DEM,1,null,FALSE
 11/3/1998,NY,1,Republican,REP,5,null,TRUE
-11/3/1998,NY,2,Republican,REP,0.1,null,TRUE
+11/3/1998,NY,2,Republican,REP,50.49,null,TRUE
 11/3/1998,NY,3,Democratic,DEM,5,null,FALSE
 11/3/1998,NY,4,Democratic,DEM,5,null,FALSE
 11/3/1998,NY,5,Democratic,DEM,15,null,FALSE
@@ -14407,7 +14406,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,OR,1,Democratic,DEM,5,null,FALSE
 11/3/1998,OR,2,Republican,REP,15,null,FALSE
 11/3/1998,OR,3,Democratic,DEM,15,null,FALSE
-11/3/1998,OR,4,Democratic,DEM,0.1,null,FALSE
+11/3/1998,OR,4,Democratic,DEM,50.49,null,FALSE
 11/3/1998,OR,5,Republican,REP,5,null,FALSE
 11/3/1998,PA,1,Democratic,DEM,15,null,FALSE
 11/3/1998,PA,2,Democratic,DEM,15,null,FALSE
@@ -14416,7 +14415,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,PA,5,Democratic,DEM,1,null,FALSE
 11/3/1998,PA,6,Republican,REP,15,null,FALSE
 11/3/1998,PA,7,Democratic,DEM,15,null,FALSE
-11/3/1998,PA,8,Democratic,DEM,0.1,null,FALSE
+11/3/1998,PA,8,Democratic,DEM,50.49,null,FALSE
 11/3/1998,PA,9,Republican,REP,15,null,FALSE
 11/3/1998,PA,10,Republican,REP,15,null,FALSE
 11/3/1998,PA,11,Republican,REP,5,null,TRUE
@@ -14433,7 +14432,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,PA,22,Republican,REP,5,null,TRUE
 11/3/1998,PA,23,Republican,REP,15,null,FALSE
 11/3/1998,RI,1,Democratic,DEM,15,null,FALSE
-11/3/1998,RI,2,Republican,REP,0.1,null,TRUE
+11/3/1998,RI,2,Republican,REP,50.49,null,TRUE
 11/3/1998,SC,1,Republican,REP,15,null,FALSE
 11/3/1998,SC,2,Republican,REP,15,null,FALSE
 11/3/1998,SC,3,Republican,REP,15,null,FALSE
@@ -14570,7 +14569,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,CA,39,Democrat,DEM,0,null,FALSE
 11/3/1998,CA,40,Democrat,DEM,0,null,FALSE
 11/3/1998,CA,41,Republican,REP,0,null,FALSE
-11/3/1998,CA,42,Democrat,DEM,0.01,null,FALSE
+11/3/1998,CA,42,Democrat,DEM,49.51,null,FALSE
 11/3/1998,CA,43,Democrat,DEM,0,null,FALSE
 11/3/1998,CA,44,Republican,REP,0,null,FALSE
 11/3/1998,CA,45,Democrat,DEM,0,null,FALSE
@@ -14739,7 +14738,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,MO,7,Democrat,DEM,0,null,TRUE
 11/3/1998,MO,8,Democrat,DEM,0,null,TRUE
 11/3/1998,MO,9,Democrat,DEM,0,null,FALSE
-11/3/1998,MT,1,Democrat,DEM,0.01,null,TRUE
+11/3/1998,MT,1,Democrat,DEM,49.51,null,TRUE
 11/3/1998,MT,2,Democrat,DEM,0,null,FALSE
 11/3/1998,NE,1,Democrat,DEM,0,null,FALSE
 11/3/1998,NE,2,Republican,REP,0,null,FALSE
@@ -14766,7 +14765,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,NM,2,Democrat,DEM,0,null,FALSE
 11/3/1998,NM,3,Republican,REP,0,null,FALSE
 11/3/1998,NY,1,Democrat,DEM,0,null,TRUE
-11/3/1998,NY,2,Democrat,DEM,0.01,null,TRUE
+11/3/1998,NY,2,Democrat,DEM,49.51,null,TRUE
 11/3/1998,NY,3,Republican,REP,0,null,FALSE
 11/3/1998,NY,4,Republican,REP,0,null,FALSE
 11/3/1998,NY,5,Republican,REP,0,null,FALSE
@@ -14841,7 +14840,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,OR,1,Republican,REP,0,null,FALSE
 11/3/1998,OR,2,Democrat,DEM,0,null,FALSE
 11/3/1998,OR,3,Republican,REP,0,null,FALSE
-11/3/1998,OR,4,Republican,REP,0.01,null,FALSE
+11/3/1998,OR,4,Republican,REP,49.51,null,FALSE
 11/3/1998,OR,5,Democrat,DEM,0,null,FALSE
 11/3/1998,PA,1,Republican,REP,0,null,FALSE
 11/3/1998,PA,2,Republican,REP,0,null,FALSE
@@ -14850,7 +14849,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,PA,5,Republican,REP,0,null,FALSE
 11/3/1998,PA,6,Democrat,DEM,0,null,FALSE
 11/3/1998,PA,7,Republican,REP,0,null,FALSE
-11/3/1998,PA,8,Republican,REP,0.01,null,FALSE
+11/3/1998,PA,8,Republican,REP,49.51,null,FALSE
 11/3/1998,PA,9,Democrat,DEM,0,null,FALSE
 11/3/1998,PA,10,Democrat,DEM,0,null,FALSE
 11/3/1998,PA,11,Democrat,DEM,0,null,TRUE
@@ -14867,7 +14866,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,PA,22,Democrat,DEM,0,null,TRUE
 11/3/1998,PA,23,Democrat,DEM,0,null,FALSE
 11/3/1998,RI,1,Republican,REP,0,null,FALSE
-11/3/1998,RI,2,Democrat,DEM,0.01,null,TRUE
+11/3/1998,RI,2,Democrat,DEM,49.51,null,TRUE
 11/3/1998,SC,1,Democrat,DEM,0,null,FALSE
 11/3/1998,SC,2,Democrat,DEM,0,null,FALSE
 11/3/1998,SC,3,Democrat,DEM,0,null,FALSE
@@ -14947,6 +14946,8 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/3/1998,WI,8,Democrat,DEM,0,null,FALSE
 11/3/1998,WI,9,Democrat,DEM,0,null,FALSE
 11/3/1998,WY,0,Democrat,DEM,0,null,FALSE
+11/3/1998,WY,15,Republican,REP,0,null,FALSE
+
 11/3/1998,NPV,undefined,Republican,REP,51,null,FALSE
 11/3/1998,NPV,undefined,Democratic,DEM,46,null,FALSE
 11/7/2000,AL,1,Republican,REP,15,null,FALSE
