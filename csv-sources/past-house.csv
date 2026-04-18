@@ -22670,7 +22670,7 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/7/2000,WI,8,Democrat,DEM,0,null,FALSE
 11/7/2000,WI,9,Republican,REP,0,null,TRUE
 11/7/2000,WY,0,Democrat,DEM,0,null,FALSE
-11/7/2000,NPV,undefined,Republican,REP,0,null,FALSE
+11/7/2000,NPV,undefined,Republican,REP,48,undefined,FALSE
 11/7/2000,NPV,undefined,Democratic,DEM,51,undefined,FALSE
 11/5/2002,AL,1,Republican,REP,15,null,FALSE
 11/5/2002,AL,2,Republican,REP,15,null,FALSE
