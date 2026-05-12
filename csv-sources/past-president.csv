@@ -1,67 +1,67 @@
 date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,version
-11/5,1940,Alabama,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Alaska,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Arizona,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Arizona,FALSE,Independent,INDGEN,0,null,FALSE
-11/5,1940,Arizona,FALSE,Myron,DEM,0,null,FALSE
-11/5,1940,Arkansas,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,California,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Colorado,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Connecticut,FALSE,Mindy,REP,1,null,FALSE
-11/5,1940,Delaware,FALSE,Mindy,REP,1,null,FALSE
-11/5,1940,District of Columbia,TRUE,Independent,INDGEN,0,null,FALSE
-11/5,1940,Florida,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,Georgia,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Hawaii,FALSE,Mindy,REP,1,null,FALSE
-11/5,1940,Idaho,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Illinois,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Indiana,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Iowa,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Kansas,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,Kentucky,FALSE,Mindy,REP,50.35,null,FALSE
-11/5,1940,Kentucky,FALSE,Myron,DEM,49.65,null,FALSE
-11/5,1940,Louisiana,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,ME-1,TRUE,Independent,INDGEN,0,null,FALSE
-11/5,1940,ME-2,TRUE,Independent,INDGEN,0,null,FALSE
-11/5,1940,Maine,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,Maryland,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Massachusetts,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Michigan,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Minnesota,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Mississippi,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Missouri,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Montana,FALSE,Myron,DEM,1,null,TRUE
-11/5,1940,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
-11/5,1940,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
-11/5,1940,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
-11/5,1940,Nebraska,FALSE,Mindy,REP,1,null,FALSE
-11/5,1940,Nevada,FALSE,Myron,DEM,5,null,TRUE
-11/5,1940,Nevada,FALSE,Mindy,REP,0,null,TRUE
-11/5,1940,New Hampshire,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,New Jersey,FALSE,Myron,DEM,1,null,TRUE
-11/5,1940,New Mexico,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,New York,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,North Carolina,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,North Dakota,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Ohio,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Oklahoma,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Oregon,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Pennsylvania,FALSE,Myron,DEM,50.00016,null,TRUE
-11/5,1940,Pennsylvania,FALSE,Mindy,REP,49.99984,null,TRUE
-11/5,1940,Rhode Island,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,South Carolina,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,South Dakota,FALSE,Mindy,REP,5,null,FALSE
-11/5,1940,Tennessee,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,Texas,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Utah,FALSE,Myron,DEM,15,null,FALSE
-11/5,1940,Vermont,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Virginia,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,Washington,FALSE,Mindy,REP,1,null,FALSE
-11/5,1940,West Virginia,FALSE,Myron,DEM,5,null,TRUE
-11/5,1940,Wisconsin,FALSE,Mindy,REP,15,null,FALSE
-11/5,1940,Wyoming,FALSE,Myron,DEM,5,null,FALSE
-11/5,1940,National Popular Vote,FALSE,Mindy,REP,51,undefined,FALSE
-11/5,1940,National Popular Vote,FALSE,Myron,DEM,49,undefined,FALSE
+11/5/1940,Alabama,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Alaska,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Arizona,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Arizona,FALSE,Independent,INDGEN,0,null,FALSE
+11/5/1940,Arizona,FALSE,Myron,DEM,0,null,FALSE
+11/5/1940,Arkansas,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,California,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Colorado,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Connecticut,FALSE,Mindy,REP,1,null,FALSE
+11/5/1940,Delaware,FALSE,Mindy,REP,1,null,FALSE
+11/5/1940,District of Columbia,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1940,Florida,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,Georgia,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Hawaii,FALSE,Mindy,REP,1,null,FALSE
+11/5/1940,Idaho,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Illinois,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Indiana,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Iowa,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Kansas,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,Kentucky,FALSE,Mindy,REP,50.35,null,FALSE
+11/5/1940,Kentucky,FALSE,Myron,DEM,49.65,null,FALSE
+11/5/1940,Louisiana,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,ME-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1940,ME-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1940,Maine,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,Maryland,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Massachusetts,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Michigan,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Minnesota,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Mississippi,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Missouri,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Montana,FALSE,Myron,DEM,1,null,TRUE
+11/5/1940,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1940,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1940,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
+11/5/1940,Nebraska,FALSE,Mindy,REP,1,null,FALSE
+11/5/1940,Nevada,FALSE,Myron,DEM,5,null,TRUE
+11/5/1940,Nevada,FALSE,Mindy,REP,0,null,TRUE
+11/5/1940,New Hampshire,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,New Jersey,FALSE,Myron,DEM,1,null,TRUE
+11/5/1940,New Mexico,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,New York,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,North Carolina,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,North Dakota,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Ohio,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Oklahoma,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Oregon,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Pennsylvania,FALSE,Myron,DEM,50.00016,null,TRUE
+11/5/1940,Pennsylvania,FALSE,Mindy,REP,49.99984,null,TRUE
+11/5/1940,Rhode Island,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,South Carolina,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,South Dakota,FALSE,Mindy,REP,5,null,FALSE
+11/5/1940,Tennessee,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,Texas,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Utah,FALSE,Myron,DEM,15,null,FALSE
+11/5/1940,Vermont,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Virginia,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,Washington,FALSE,Mindy,REP,1,null,FALSE
+11/5/1940,West Virginia,FALSE,Myron,DEM,5,null,TRUE
+11/5/1940,Wisconsin,FALSE,Mindy,REP,15,null,FALSE
+11/5/1940,Wyoming,FALSE,Myron,DEM,5,null,FALSE
+11/5/1940,National Popular Vote,FALSE,Mindy,REP,51,undefined,FALSE
+11/5/1940,National Popular Vote,FALSE,Myron,DEM,49,undefined,FALSE
 11/07/1944,Alabama,FALSE,Mindy,REP,1,null,TRUE
 11/07/1944,Alabama,FALSE,Myron,DEM,0,null,TRUE
 11/07/1944,Alaska,FALSE,Mindy,REP,15,null,FALSE
