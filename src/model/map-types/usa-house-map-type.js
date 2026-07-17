@@ -829,7 +829,7 @@ var USAHouseMapType = new MapType(
         partyID: "majorParty",
         candidateVotes: "voteNum"
       }, // columnMap
-      2022, // cycleYear
+      2026, // cycleYear
       null, // candidateNameToPartyIDMap
       null, // shortCandidateNameOverride
       regionNameToIDHistorical, // regionNameToIDMap
@@ -1188,10 +1188,10 @@ var USAHouseMapType = new MapType(
     houseMapSources[CNNHouseResults2024MapSource.getID()] = CNNHouseResults2024MapSource
     houseMapSources[CustomMapSource.getID()] = CustomMapSource
 
-    const houseMapCycles = [2022, 2024]
+    const houseMapCycles = [2022, 2024,2026]
     const houseMapSourceIDs = {
       2024: [FiveThirtyEightHouseProjection2024MapSource.getID()],
-      2022: [FiveThirtyEightHouseProjection2022MapSource.getID()],
+      2026: [FiveThirtyEightHouseProjection2022MapSource.getID()],
       [allYearsCycle]: [PastElectionResultMapSource.getID(), CustomMapSource.getID()]
     }
     
