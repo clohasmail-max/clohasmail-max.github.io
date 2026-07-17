@@ -661,7 +661,7 @@ var USAHouseMapType = new MapType(
       {
         var dateYear = (new Date(dateTime)).getFullYear()
         
-        const svgYears = [2024, 2022, 2020, 2018, 2016, 2014, 2010, 2006, 1998, 1976, 1950,]
+        const svgYears = [2026, 2024, 2022, 2020, 2018, 2016, 2014, 2010, 2006, 1998, 1976, 1950,]
         
         for (const year of svgYears)
         {
@@ -946,7 +946,7 @@ var USAHouseMapType = new MapType(
         region: "district",
         pollType: "expression"
       }, // columnMap
-      2022, // cycleYear
+      2026, // cycleYear
       null, // candidateNameToPartyIDMap
       null, // shortCandidateNameOverride
       regionNameToIDHistorical, // regionNameToIDMap
@@ -1188,10 +1188,10 @@ var USAHouseMapType = new MapType(
     houseMapSources[CNNHouseResults2024MapSource.getID()] = CNNHouseResults2024MapSource
     houseMapSources[CustomMapSource.getID()] = CustomMapSource
 
-    const houseMapCycles = [2024, 2022]
+    const houseMapCycles = [2022, 2024, 2026]
     const houseMapSourceIDs = {
       2024: [FiveThirtyEightHouseProjection2024MapSource.getID()],
-      2022: [FiveThirtyEightHouseProjection2022MapSource.getID()],
+      2026: [FiveThirtyEightHouseProjection2022MapSource.getID()],
       [allYearsCycle]: [PastElectionResultMapSource.getID(), CustomMapSource.getID()]
     }
     
