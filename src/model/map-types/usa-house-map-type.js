@@ -1191,7 +1191,7 @@ var USAHouseMapType = new MapType(
     const houseMapCycles = [2022, 2024]
     const houseMapSourceIDs = {
       2024: [FiveThirtyEightHouseProjection2024MapSource.getID()],
-      2026: [FiveThirtyEightHouseProjection2022MapSource.getID()],
+      2022: [FiveThirtyEightHouseProjection2022MapSource.getID()],
       [allYearsCycle]: [PastElectionResultMapSource.getID(), CustomMapSource.getID()]
     }
     
