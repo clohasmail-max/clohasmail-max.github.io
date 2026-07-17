@@ -946,7 +946,7 @@ var USAHouseMapType = new MapType(
         region: "district",
         pollType: "expression"
       }, // columnMap
-      2022, // cycleYear
+      2026, // cycleYear
       null, // candidateNameToPartyIDMap
       null, // shortCandidateNameOverride
       regionNameToIDHistorical, // regionNameToIDMap
