@@ -661,7 +661,7 @@ var USAHouseMapType = new MapType(
       {
         var dateYear = (new Date(dateTime)).getFullYear()
         
-        const svgYears = [2026, 2024, 2022, 2012, 2004, 1996, 1948,]
+        const svgYears = [2022, 2012, 2004, 1996, 1948,]
         
         for (const year of svgYears)
         {
