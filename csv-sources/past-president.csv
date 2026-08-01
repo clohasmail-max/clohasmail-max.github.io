@@ -257,7 +257,8 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1952,South Carolina,FALSE,Barrett,republican,15,undefined,TRUE
 11/4/1952,South Dakota,FALSE,Barrett,republican,5,undefined,TRUE
 11/4/1952,Tennessee,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,Texas,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,Texas,FALSE,Barrett,republican,63.86,undefined,TRUE
+11/4/1952,Texas,FALSE,Daschle,democrat,36.14,undefined,TRUE
 11/4/1952,Utah,FALSE,Barrett,republican,74.55,undefined,FALSE
 11/4/1952,Utah,FALSE,Daschle,democrat,25.45,undefined,FALSE
 11/4/1952,Vermont,FALSE,Daschle,democrat,55.42,undefined,FALSE
