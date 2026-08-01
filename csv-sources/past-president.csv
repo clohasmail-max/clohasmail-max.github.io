@@ -260,11 +260,16 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1952,Texas,FALSE,Barrett,republican,15,undefined,TRUE
 11/4/1952,Utah,FALSE,Barrett,republican,15,undefined,FALSE
 11/4/1952,Vermont,FALSE,Daschle,democrat,5,undefined,FALSE
-11/4/1952,Virginia,FALSE,Barrett,republican,5,undefined,TRUE
-11/4/1952,Washington,FALSE,Daschle,democrat,5,undefined,FALSE
-11/4/1952,West Virginia,FALSE,Barrett,republican,5,undefined,TRUE
-11/4/1952,Wisconsin,FALSE,Daschle,democrat,5,undefined,FALSE
-11/4/1952,Wyoming,FALSE,Barrett,republican,15,undefined,FALSE
+11/4/1952,Virginia,FALSE,Barrett,republican,55.07,undefined,TRUE
+11/4/1952,Virginia,FALSE,Daschle,democrat,44.93,undefined,TRUE
+11/4/1952,Washington,FALSE,Daschle,democrat,52.57,undefined,FALSE
+11/4/1952,Washington,FALSE,Barrett,republican,47.43,undefined,FALSE
+11/4/1952,West Virginia,FALSE,Daschle,democrat,44.09,undefined,FALSE
+11/4/1952,West Virginia,FALSE,Barrett,republican,55.91,undefined,TRUE
+11/4/1952,Wisconsin,FALSE,Daschle,democrat,53.16,undefined,FALSE
+11/4/1952,Wisconsin,FALSE,Barrett,republican,46.84,undefined,FALSE
+11/4/1952,Wyoming,FALSE,Barrett,republican,66.10,undefined,FALSE
+11/4/1952,Wyoming,FALSE,Daschle,democrat,33.90,undefined,FALSE
 11/4/1952,National Popular Vote,FALSE,Independent,INDGEN,0,null,TRUE
 11/4/1952,National Popular Vote,FALSE,Barrett,republican,51,undefined,TRUE
 11/4/1952,National Popular Vote,FALSE,Daschle,democrat,49,undefined,TRUE
