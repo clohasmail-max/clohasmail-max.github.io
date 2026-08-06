@@ -234,28 +234,42 @@ date,region,state_po,candidate,party,voteshare,candidatevotes,totalvotes,ev,vers
 11/4/1952,Michigan,FALSE,Daschle,democrat,49.94,undefined,TRUE
 11/4/1952,Minnesota,FALSE,Daschle,democrat,15,undefined,FALSE
 11/4/1952,Mississippi,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,Missouri,FALSE,Daschle,democrat,1,undefined,FALSE
-11/4/1952,Montana,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,Missouri,FALSE,Daschle,democrat,51.40,undefined,FALSE
+11/4/1952,Missouri,FALSE,Barrett,republican,48.60,undefined,FALSE
+11/4/1952,Montana,FALSE,Barrett,republican,53.76,undefined,TRUE
+11/4/1952,Montana,FALSE,Daschle,democrat,46.24,undefined,TRUE
 11/4/1952,NE-1,TRUE,Independent,INDGEN,0,null,FALSE
 11/4/1952,NE-2,TRUE,Independent,INDGEN,0,null,FALSE
 11/4/1952,NE-3,TRUE,Independent,INDGEN,0,null,FALSE
-11/4/1952,Nebraska,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,Nevada,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,New Hampshire,FALSE,Barrett,republican,1,undefined,TRUE
-11/4/1952,New Jersey,FALSE,Daschle,democrat,5,undefined,FALSE
-11/4/1952,New Mexico,FALSE,Barrett,republican,1,undefined,TRUE
-11/4/1952,New York,FALSE,Daschle,democrat,15,undefined,FALSE
+11/4/1952,Nebraska,FALSE,Daschle,democrat,38.34,undefined,TRUE
+11/4/1952,Nebraska,FALSE,Barrett,republican,61.66,undefined,TRUE
+11/4/1952,Nevada,FALSE,Barrett,republican,65.05,undefined,TRUE
+11/4/1952,Nevada,FALSE,Daschle,democrat,34.95,undefined,TRUE
+11/4/1952,New Hampshire,FALSE,Barrett,republican,51.53,undefined,TRUE
+11/4/1952,New Hampshire,FALSE,Daschle,democrat,48.47,undefined,TRUE
+11/4/1952,New Jersey,FALSE,Daschle,democrat,53.72,undefined,FALSE
+11/4/1952,New Jersey,FALSE,Barrett,republican,46.28,undefined,FALSE
+11/4/1952,New Mexico,FALSE,Daschle,democrat,47.94,undefined,TRUE
+11/4/1952,New Mexico,FALSE,Barrett,republican,52.06,undefined,TRUE
+11/4/1952,New York,FALSE,Barrett,republican,40.89,undefined,FALSE
+11/4/1952,New York,FALSE,Daschle,democrat,59.11,undefined,FALSE
 11/4/1952,North Carolina,FALSE,Barrett,republican,5,undefined,TRUE
-11/4/1952,North Dakota,FALSE,Barrett,republican,5,undefined,TRUE
-11/4/1952,Ohio,FALSE,Barrett,republican,1,undefined,TRUE
-11/4/1952,Oklahoma,FALSE,Barrett,republican,15,undefined,TRUE
+11/4/1952,North Dakota,FALSE,Barrett,republican,55.41,undefined,TRUE
+11/4/1952,North Dakota,FALSE,Daschle,democrat,44.59,undefined,TRUE
+11/4/1952,Ohio,FALSE,Barrett,republican,52.02,undefined,TRUE
+11/4/1952,Ohio,FALSE,Daschle,democrat,47.98,undefined,TRUE
+11/4/1952,Oklahoma,FALSE,Barrett,republican,60.57,undefined,TRUE
+11/4/1952,Oklahoma,FALSE,Daschle,democrat,39.43,undefined,TRUE
 11/4/1952,Oregon,FALSE,Daschle,democrat,50.12,undefined,FALSE
 11/4/1952,Oregon,FALSE,Barrett,republican,49.88,undefined,FALSE
-11/4/1952,Pennsylvania,FALSE,Daschle,democrat,5,undefined,FALSE
-11/4/1952,Pennsylvania,FALSE,Barrett,republican,0,undefined,FALSE
-11/4/1952,Rhode Island,FALSE,Daschle,democrat,15,undefined,FALSE
-11/4/1952,South Carolina,FALSE,Barrett,republican,15,undefined,TRUE
-11/4/1952,South Dakota,FALSE,Barrett,republican,5,undefined,TRUE
+11/4/1952,Pennsylvania,FALSE,Daschle,democrat,52.41,undefined,FALSE
+11/4/1952,Pennsylvania,FALSE,Barrett,republican,47.59,undefined,FALSE
+11/4/1952,Rhode Island,FALSE,Daschle,democrat,60.42,undefined,FALSE
+11/4/1952,Rhode Island,FALSE,Barrett,republican,39.58,undefined,FALSE
+11/4/1952,South Carolina,FALSE,Barrett,republican,61.01,undefined,TRUE
+11/4/1952,South Carolina,FALSE,Daschle,democrat,38.99,undefined,TRUE
+11/4/1952,South Dakota,FALSE,Barrett,republican,55.74,undefined,TRUE
+11/4/1952,South Dakota,FALSE,Daschle,democrat,44.28,undefined,TRUE
 11/4/1952,Tennessee,FALSE,Barrett,republican,58.04,undefined,TRUE
 11/4/1952,Tennessee,FALSE,Daschle,democrat,41.96,undefined,TRUE
 11/4/1952,Texas,FALSE,Barrett,republican,63.86,undefined,TRUE
