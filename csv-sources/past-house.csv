@@ -30410,8 +30410,8 @@ date,region,district,candidate,party,voteshare,candidatevotes,totalvotes
 11/5/2024,OH,12,Republican,REP,15,null,FALSE
 11/5/2024,OH,13,Democratic,DEM,15,null,FALSE
 11/5/2024,OH,14,Democratic,DEM,15,null,FALSE
-11/5/2024,OH,15,Republican,REP,49.51,null,FALSE
-11/5/2024,OH,15,Democratic,DEM,50.49,FALSE
+11/5/2024,OH,15,Republican,REP,50.49,null,FALSE
+11/5/2024,OH,15,Democratic,DEM,49.51,FALSE
 11/5/2024,OK,1,Republican,REP,5,null,FALSE
 11/5/2024,OK,2,Republican,REP,15,null,FALSE
 11/5/2024,OK,3,Republican,REP,15,null,FALSE
