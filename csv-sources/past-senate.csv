@@ -4,7 +4,7 @@ date,region,state_po,class,special,runoff,offyear,candidate,party,writein,votesh
 11/05/2024,Alaska,AK,3,FALSE,FALSE,FALSE,Tyler,democratic,FALSE,0.15,5,5,JJCooley
 11/05/2024,Alaska,AK,1,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
 11/05/2024,Arizona,1,1,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Arizona,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.99,5,5,JJCooley
+11/05/2024,Arizona,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,0.99,5,5,JJCooley
 11/05/2024,Arkansas,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
 11/05/2024,Arkansas,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,5,5,JJCooley
 11/05/2024,California,1,1,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
