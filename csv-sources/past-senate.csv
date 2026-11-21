@@ -1,6 +1,6 @@
 date,region,state_po,class,special,runoff,offyear,candidate,party,writein,voteshare,candidatevotes,totalvotes,version
-11/05/2024,Alabama,AL,1,FALSE,FALSETRUE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Alabama,AL,2,FALSE,FALSETRUE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Alabama,AL,1,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Alabama,AL,2,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,5,5,JJCooley
 11/05/2024,Alaska,AK,3,FALSE,FALSE,FALSE,Tyler,democratic,FALSE,0.15,5,5,JJCooley
 11/05/2024,Alaska,AK,1,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
 11/05/2024,Arizona,1,1,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
