@@ -1,3 +1,4 @@
+date,region,state_po,class,special,runoff,offyear,candidate,party,writein,voteshare,candidatevotes,totalvotes,version
 11/05/2024,Alabama,AL,FALSE,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,5,5,FALSE
 11/05/2024,Alabama,AL,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,5,5,FALSE
 11/05/2024,Alaska,AK,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,FALSE
