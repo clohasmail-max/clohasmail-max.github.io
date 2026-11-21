@@ -1,103 +1,103 @@
 date,region,state_po,class,special,runoff,offyear,candidate,party,writein,voteshare,candidatevotes,totalvotes,version
-11/05/2024,Alabama,AL,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Alabama,AL,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Alaska,AK,FALSE,FALSE,FALSE,FALSE,Tyler,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Alaska,AK,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Arizona,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Alabama,AL,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Alabama,AL,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Alaska,AK,3,FALSE,FALSE,FALSE,Tyler,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Alaska,AK,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Arizona,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
 11/05/2024,Arizona,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.99,5,5,JJCooley
-11/05/2024,Arkansas,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
+11/05/2024,Arkansas,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
 11/05/2024,Arkansas,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,California,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,California,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
 11/05/2024,California,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Colorado,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,5,5,JJCooley
+11/05/2024,Colorado,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,5,5,JJCooley
 11/05/2024,Colorado,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Connecticut,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Connecticut,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Delaware,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Delaware,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Florida,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
-11/05/2024,Florida,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Georgia,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
-11/05/2024,Georgia,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Hawaii,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Hawaii,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Idaho,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
-11/05/2024,Idaho,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Illinois,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Illinois,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Indiana,IN,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
-11/05/2024,Indiana,IN,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
-11/05/2024,Iowa,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
-11/05/2024,Iowa,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
-11/05/2024,Kansas,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,5,5,JJCooley
-11/05/2024,Kansas,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
-11/05/2024,Kentucky,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Kentucky,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Louisiana,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
-11/05/2024,Louisiana,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Maine,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Maine,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Maryland,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Maryland,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Massachusetts,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Massachusetts,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Michigan,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Michigan,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Minnesota,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,5,5,JJCooley
-11/05/2024,Minnesota,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Mississippi,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Mississippi,2,TRUE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Missouri,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
-11/05/2024,Missouri,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Montana,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,5,5,JJCooley
-11/05/2024,Montana,2,TRUE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Nebraska,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
-11/05/2024,Nebraska,2,TRUE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Nevada,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Nevada,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
-11/05/2024,New Hampshire,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,New Hampshire,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,New Jersey,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,New Jersey,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,New Mexico,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,New Mexico,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,New York,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,New York,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,North Carolina,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,North Carolina,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,North Dakota,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
-11/05/2024,North Dakota,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Ohio,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
-11/05/2024,Ohio,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1,5,5,JJCooley
-11/05/2024,Oklahoma,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
-11/05/2024,Oklahoma,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Oregon,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Oregon,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Pennsylvania,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,,TRUE
-11/05/2024,Pennsylvania,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Rhode Island,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Rhode Island,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,South Carolina,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,5,5,JJCooley
-11/05/2024,South Carolina,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
-11/05/2024,South Dakota,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
-11/05/2024,South Dakota,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Tennessee,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Tennessee,2,TRUE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
-11/05/2024,Texas,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.1,5,5,JJCooley
-11/05/2024,Texas,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Utah,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Utah,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Vermont,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Vermont,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Virginia,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Virginia,2,TRUE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Washington,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
-11/05/2024,Washington,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,West Virginia,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
-11/05/2024,West Virginia,2,TRUE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
-11/05/2024,Wisconsin,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,,TRUE
-11/05/2024,Wisconsin,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
-11/05/2024,Wyoming,1,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
-11/05/2024,Wyoming,2,TRUE,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Connecticut,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Connecticut,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Delaware,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Delaware,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Florida,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
+11/05/2024,Florida,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Georgia,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
+11/05/2024,Georgia,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Hawaii,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Hawaii,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Idaho,3,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
+11/05/2024,Idaho,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Illinois,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Illinois,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Indiana,IN,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
+11/05/2024,Indiana,IN,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
+11/05/2024,Iowa,3,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
+11/05/2024,Iowa,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
+11/05/2024,Kansas,2,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,5,5,JJCooley
+11/05/2024,Kansas,3,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
+11/05/2024,Kentucky,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Kentucky,3,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Louisiana,2,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
+11/05/2024,Louisiana,3,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Maine,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Maine,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Maryland,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Maryland,3,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Massachusetts,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Massachusetts,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Michigan,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Michigan,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Minnesota,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,5,5,JJCooley
+11/05/2024,Minnesota,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Mississippi,1,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Mississippi,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Missouri,1,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
+11/05/2024,Missouri,3,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Montana,1,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,5,5,JJCooley
+11/05/2024,Montana,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Nebraska,1,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
+11/05/2024,Nebraska,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Nevada,1,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Nevada,3,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
+11/05/2024,New Hampshire,2,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,New Hampshire,3,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,New Jersey,1,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,New Jersey,2,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,New Mexico,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,New Mexico,2,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,New York,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,New York,3,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,North Carolina,2,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,North Carolina,3,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,North Dakota,1,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
+11/05/2024,North Dakota,3,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Ohio,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
+11/05/2024,Ohio,3,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1,5,5,JJCooley
+11/05/2024,Oklahoma,2,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
+11/05/2024,Oklahoma,3,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Oregon,2,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Oregon,3,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Pennsylvania,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,,TRUE
+11/05/2024,Pennsylvania,3,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Rhode Island,1,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Rhode Island,2,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,South Carolina,2,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,5,5,JJCooley
+11/05/2024,South Carolina,3,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
+11/05/2024,South Dakota,2,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.05,5,5,JJCooley
+11/05/2024,South Dakota,3,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Tennessee,1,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Tennessee,2,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1,5,5,JJCooley
+11/05/2024,Texas,1,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.1,5,5,JJCooley
+11/05/2024,Texas,2,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Utah,1,2,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Utah,3,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Vermont,1,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Vermont,3,2,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Virginia,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Virginia,2,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Washington,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,5,5,JJCooley
+11/05/2024,Washington,3,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,West Virginia,1,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
+11/05/2024,West Virginia,2,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
+11/05/2024,Wisconsin,1,3,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.05,,TRUE
+11/05/2024,Wisconsin,3,1,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,1.01,5,5,JJCooley
+11/05/2024,Wyoming,1,3,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,5,5,JJCooley
+11/05/2024,Wyoming,2,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,1.01,5,5,JJCooley
 11/5/2024,National Popular Vote,NPV,1,FALSE,FALSE,FALSE,Democratic,democrat,FALSE,0.57,55934581,113998179,JJCooley
 11/5/2024,National Popular Vote,NPV,1,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.43,54402264,113998179,JJCooley
