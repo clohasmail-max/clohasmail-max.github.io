@@ -1,7 +1,7 @@
-11/05/2024,Alabama,2,FALSE,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,,FALSE
-11/05/2024,Alabama,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,,FALSE
-11/05/2024,Alaska,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,,FALSE
-11/05/2024,Alaska,3,3,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,,FALSE
+11/05/2024,Alabama,AL,FALSE,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,,FALSE
+11/05/2024,Alabama,AL,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,,FALSE
+11/05/2024,Alaska,AK,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,,FALSE
+11/05/2024,Alaska,AK,3,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,,FALSE
 11/05/2024,Arizona,1,FALSE,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,,FALSE
 11/05/2024,Arizona,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,0.99,,FALSE
 11/05/2024,Arkansas,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.15,,FALSE
@@ -24,8 +24,8 @@
 11/05/2024,Idaho,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1.01,,FALSE
 11/05/2024,Illinois,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.15,,FALSE
 11/05/2024,Illinois,3,3,FALSE,FALSE,TRUE,Democratic,democratic,FALSE,1.01,,FALSE
-11/05/2024,Indiana,1,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
-11/05/2024,Indiana,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1,,FALSE
+11/05/2024,Indiana,IN,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
+11/05/2024,Indiana,IN,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1,,FALSE
 11/05/2024,Iowa,2,FALSE,FALSE,FALSE,FALSE,Democratic,democratic,FALSE,0.01,,TRUE
 11/05/2024,Iowa,3,3,FALSE,FALSE,TRUE,Republican,republican,FALSE,1,,FALSE
 11/05/2024,Kansas,2,FALSE,FALSE,FALSE,FALSE,Republican,republican,FALSE,0.01,,FALSE
